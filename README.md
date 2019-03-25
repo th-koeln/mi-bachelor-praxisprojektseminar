@@ -1,2 +1,3 @@
-# mi-jekyll-boilerplate
-Boilerplate für Modulwebsites in der MI, z.B. https://th-koeln.github.io/mi-bachelor-screendesign/
+
+# mi-bachelor-praxisprojektseminar
+Infos rund um das Modul Praxisprojektseminar im Medieninformatik Bachelor an der TH Köln.
