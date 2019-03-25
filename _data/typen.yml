@@ -1,14 +1,14 @@
 training:
   name: Training
-  max-teilnehmer: 40
+  max-teilnehmer: 70
 
 workshop:
   name: Workshop
-  max-teilnehmer: 30
+  max-teilnehmer: 70
 
 ganztagesworkshop:
   name: Workshop
-  max-teilnehmer: 120
+  max-teilnehmer: 70
   
 vortrag:
   name: Vortrag
@@ -20,11 +20,11 @@ support-all:
   
 feedback:
   name: Feedback & Support 
-  max-teilnehmer: 25
+  max-teilnehmer: 70
 
 pruefung:
   name: Prüfung 
-  max-teilnehmer: 30
+  max-teilnehmer: 70
 
 other:
   name: Orga 
