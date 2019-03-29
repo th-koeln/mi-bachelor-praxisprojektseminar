@@ -14,7 +14,7 @@ info:
 
 ## Worum geht es?
 
-Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Danach tauchen wir ein in das Thema wissenschaftliches Arbeiten und befassen uns mit ausgewählten Themen aus dem Buch „Die Gestaltung wissenschaftlicher Arbeiten” von Matthias Karmasin Rainer Ribing. Wir gehen davon aus, dass Sie mit den Inhalten des Buchs vertraut sind. Zum Schluss befassen wir uns mit dem Exposé und geben Hilfestellung für die Vorbereitung des nächsten Seminartermins.
+Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Wir machen einen kleinen Rundflug über Ihre Themen. Danach tauchen wir ein in das Thema wissenschaftliches Arbeiten und befassen uns mit ausgewählten Themen aus dem Buch „Die Gestaltung wissenschaftlicher Arbeiten” von Matthias Karmasin Rainer Ribing. Wir gehen davon aus, dass Sie mit den Inhalten des Buchs vertraut sind. Zum Schluss befassen wir uns mit dem Exposé und geben Hilfestellung für die Vorbereitung des nächsten Seminartermins.
 
 ## Was sind die Ziele?
 
@@ -25,6 +25,7 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 ## Was muss vorbereitet werden?
 
 * Die Inhalte aus dem Buch „Die Gestaltung wissenschaftlicher Arbeiten” kennen
+* 90 Seconds Standup Talk (ohne Folien) zu Ihrem Thema
 
 
 ## Material und Links
@@ -35,9 +36,9 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 
 
 
-#### Aufgabe für den Workshop
+## Aufgabe für heute: Zusammenfassung „Die Gestaltung wissenschaftlicher Arbeiten”
 
-Bereiten Sie die Inhalte des Themas, welches ihnen zugewiesen wurde in ihrer Gruppe so vor, dass sie anschließend die wichtigsten Inhalte und Kernaussagen vor dem Plenum präsentieren können.
+Bereiten Sie mit Hilfe einer Karten die Inhalte des Themas, welches ihnen zugewiesen wurde, in ihrer Gruppe so vor, dass sie anschließend die wesentlichen Aussagen vor dem Plenum präsentieren und diskutieren können.
 
 Bearbeitungszeit: 20 Minuten  
 Präsentationszeit: 10 Minuten
