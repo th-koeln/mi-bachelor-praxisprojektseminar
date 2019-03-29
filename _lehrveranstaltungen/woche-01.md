@@ -14,9 +14,7 @@ info:
 
 ## Worum geht es?
 
-### Organisatorischer zur Veranstaltung
-
-In der ersten Veranstaltung erklären wir wie das Modul funktioniert und welchem Zweck dieses hat. Hier haben Sie auch die Möglichkeit Fragen zum Modul zu stellen.
+Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Danach tauchen wir ein in das Thema wissenschaftliches Arbeiten und befassen uns mit ausgewählten Themen aus dem Buch „Die Gestaltung wissenschaftlicher Arbeiten” von Matthias Karmasin Rainer Ribing. Wir gehen davon aus, dass Sie mit den Inhalten des Buchs vertraut sind.
 
 ### Exposé
 
@@ -34,17 +32,6 @@ LaTex ist plattormübergreifend verfügar und es lassen sich damit typografisch 
 
 Es ist keine Pflicht es zu benutzen, aber eine Empfehlung. Gerade bei der Erstellung von größeren und wissenschaftlichen Dokumenten, profitiert es von seinen Stärken.
 
-### Buch zum wissenschaftlichen Arbeiten
-
-Zum Schluss  befassen wir uns mit ausgewählten Themen aus dem Buch „Die Gestaltung wissenschaftlicher Arbeiten” von Matthias Karmasin Rainer Ribing. Dies machen wir in Form einer Gruppenarbeit und anschließender kurzen Präsentation.
-
-#### Aufgabe für den Workshop
-
-Bereiten Sie die Inhalte des Themas, welches ihnen zugewiesen wurde in ihrer Gruppe so vor, dass sie anschließend die wichtigsten Inhalte und Kernaussagen vor dem Plenum präsentieren können.
-
-Bearbeitungszeit: 20 Minuten  
-Präsentationszeit: 10 Minuten
-
 ## Material und Links
 
 *  [Informationen zum Exposé](https://ilias.th-koeln.de/goto.php?target=file_1239838_download&client_id=ILIAS_FH_Koeln)
@@ -61,6 +48,14 @@ Präsentationszeit: 10 Minuten
 - Verstehen wie die Veranstaltung funktioniert
 - Wissen wie man ein Exposé schreibt
 - Zusammenfassen der wichtigstens Aspekte zu Wissenschaftlichen Arbeiten aus dem Buch
+
+
+#### Aufgabe für den Workshop
+
+Bereiten Sie die Inhalte des Themas, welches ihnen zugewiesen wurde in ihrer Gruppe so vor, dass sie anschließend die wichtigsten Inhalte und Kernaussagen vor dem Plenum präsentieren können.
+
+Bearbeitungszeit: 20 Minuten  
+Präsentationszeit: 10 Minuten
 
 ## Aufgabe für den nächsten Termin
 
