@@ -23,7 +23,7 @@ url: https://th-koeln.github.io/
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/mi-bachelor-praxisprojektseminar"
-
+ilias: "https://ilias.th-koeln.de/ilias.php?ref_id=1169587&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui"
 
 permalink: /:title/
 
@@ -69,6 +69,9 @@ navigation:
 
   - url: faq/
     name: FAQ
+
+  - url: https://ilias.th-koeln.de/ilias.php?ref_id=1169587&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
+    name: Ilias
 
 
 collections:

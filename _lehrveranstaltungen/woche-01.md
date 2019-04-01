@@ -1,5 +1,5 @@
 ---
-titel: Kickoff
+titel: Kickoff - Workshop Wissenschaftliches Arbeiten
 kuerzel: kickoff
 verantwortlich: cn, vs
 typ: workshop
