@@ -29,6 +29,9 @@ Pro Peer ca. 7 + 5 Minuten
 - Erste Erfahrung mit LaTex sammeln
 - kurzen Fachdiskurs zu ausgewählten Punkten anregen
 
+## Material
+* [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
+
 ## Was muss vorbereitet werden?
 
 

@@ -30,7 +30,8 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 
 ## Material und Links
 
-* [Informationen zum Exposé](https://ilias.th-koeln.de/goto.php?target=file_1239838_download&client_id=ILIAS_FH_Koeln)
+* [Informationen zum Seminar](https://ilias.th-koeln.de/goto.php?target=file_1239838_download&client_id=ILIAS_FH_Koeln)
+* [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
 * [Tutorial zu LaTex](https://www.latex-tutorial.com)
 * [LaTex Vorlage für die Thesis](https://ilias.th-koeln.de/goto.php?target=file_1270014_download&client_id=ILIAS_FH_Koeln)
 
