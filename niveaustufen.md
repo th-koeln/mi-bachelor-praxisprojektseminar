@@ -10,6 +10,7 @@ Die Gesamtnote des Praxisprojekts setzt sich wie folgt zusammen:
 - 10% Seminarexposé, das von Christian Noss bewertet wird
 
 Die Bewertungskritieren der Projektarbeit müssen Sie mit Ihrem Fachbetreuer besprechen. Für die Bewertung des Seminarvortrags und Seminarexposés bilden die folgenden Niveaustufen die Bewertungsgrundlage.
+
 ------
 
 ## Exposé
