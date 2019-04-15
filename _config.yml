@@ -17,6 +17,7 @@ timezone: Europe/Berlin
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://th-koeln.github.io/
+repo: https://github.com/th-koeln/mi-bachelor-praxisprojektseminar
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
