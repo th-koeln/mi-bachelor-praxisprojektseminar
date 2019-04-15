@@ -14,7 +14,7 @@ info:
 
 ## Worum geht es?
 
-Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere wiederrum suchen lange nach einem geeigneten Feld. Heute wollen wir uns verschiedene Themenfelder anschauen und darüber diskutieren. Die Studierenden, die ihr Themenfeld vorstellen haben die Chance sehr breites Feedback, Anregungen und kritische Fragen zu ihrem Themenfeld und ihrer Forschungsfrage zu bekommen. Das Plenum bekommt einen guten Überblick über verschiedene, mögliche Themenfelder.
+Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere wiederrum suchen lange nach einem geeigneten Feld. Heute wollen wir uns verschiedene Themenfelder anschauen und darüber diskutieren. Die Studierenden, die ihr Themenfeld vorstellen, haben die Chance sehr breites Feedback, Anregungen und kritische Fragen zu ihrem Themenfeld und ihrer Forschungsfrage zu bekommen. Das Plenum bekommt einen guten Überblick über verschiedene, mögliche Themenfelder.
 
 Darüber hinaus werden wir heute weitere 90-Seconds-Standups hören, ggf. einige Exposés vorstellen und einen Input zur mediengestützten Präsentation erhalten.
 
@@ -23,7 +23,7 @@ Darüber hinaus werden wir heute weitere 90-Seconds-Standups hören, ggf. einige
 - jeder hat einen guten Überblick über sein Themenfeld
 - alle sind in der Lage über ein Themenfeld zu diskutieren, dieses anzugrenzen, weiter zu entwickeln oder zu schärfen
 - jeder hat eine oder mehrere Forschungsfragen zu seinem Themenfeld
-- jeder kann sein Themenfeld live am Whiteboard vorstellen und entwickln #nopowerpoint
+- jeder kann sein Themenfeld live am Whiteboard vorstellen und entwickeln #nopowerpoint
 
 ## Was muss vorbereitet werden?
 
