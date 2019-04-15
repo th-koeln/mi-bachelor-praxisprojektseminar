@@ -1,6 +1,6 @@
 ---
 layout: page-einspalter
-titel: Tipps zum Exposé
+titel: Tipps zum Seminarexposé
 ---
 
 Vorsicht, das Exposé macht Ärger und Arbeit, aber es hilft. Darum denken Sie an Aristoteles:  Der Anfang ist die Hälfte des Ganzen.
@@ -16,7 +16,7 @@ Wo soll die Reise hingehen und warum?
 Was ist die konkrete Aufgabe oder die möglichen Aufgaben. Bei mehreren Aufgaben bitte mögliche Vor- und Nachteile abwägen.
 
 ## Lösungsansätze
-Mögliche Ansätze zur Problemlösung vorstellen, oder aber Strategien aufzeigen, wie Sie zu Lösungsansätzen kommen.
+Mögliche Ansätze zur Problemlösung vorstellen oder Strategien aufzeigen, wie Sie zu Lösungsansätzen kommen.
 
 ## Chancen & Risiken
 Was kann mit dem Vorhaben erreicht werden? Welche Probleme könnten entstehen?
@@ -32,5 +32,8 @@ Kooperationspartner, Arbeitsumgebung, Prüfer, etc. vorstellen. Wen und/oder was
 
 ## Arbeitsergebnis
 Wie sieht das Ergebnis am Ende der Arbeit aus und wie ist es für die Zielgruppe nutzbar?
+
+## Außerdem
+Das Exposé darf Bilder und Grafiken enthalten. Alles was das Verständnis unterstützt ist gut.
 
 Fragen und Verbesserungsvorschläge an christian.noss@th-koeln.de
