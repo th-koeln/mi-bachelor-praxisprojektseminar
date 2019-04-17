@@ -32,7 +32,8 @@ Darüber hinaus werden wir heute weitere 90-Seconds-Standups hören, ggf. einige
 - 3-5 Fragen an das Plenum zum eigenen Thema
 
 ### Material
-- Esselborn-Krumbiegel, Helga: Von der Idee zum Text, Kapitel 5, Paderbron 2008, S. 35-49 \- [Download](../../material/von-der-idee-zur-fragestellung.pdf)
+- Esselborn-Krumbiegel, Helga: Von der Idee zum Text, Kapitel 5, Paderbron 2008, S. 35-49 \- [Download (Passwort geschützt)](../../material/von-der-idee-zur-fragestellung.pdf)  
+_Das Buch ist auch in der Bibliothek verfügbar._
 
 
 ## Was muss geliefert werden?
