@@ -18,6 +18,12 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 Darüber hinaus werden wir heute weitere 90-Seconds-Standups hören, ggf. einige Exposés vorstellen und einen Input zur mediengestützten Präsentation erhalten.
 
+## Zeitplan
+* 10:00 Uhr  
+Abschlusspräsentation von Maximilian Krusch zum Thema „Speicherung und Präsentation von UX-Artefakten”
+* im Anschluss  
+Vorstellung von Themenfeldclustern und Exposés, 90-Seconds-Standups, Input zur mediengestützten Präsentation
+
 ## Was sind die Ziele?
 
 - jeder hat einen guten Überblick über sein Themenfeld
