@@ -29,6 +29,7 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 - falls es eine rechner-gestützte Präsentation ist, bitte eigenen Rechner mitbringen 
 
 ### Material
+- [Slides von Christian Noss](../../material/mi-pps-praesentation/)
 - Moesslang, Michael: Präsentieren Sie spannend wie noch nie [Foliensatz (Passwort geschützt)](../../material/SpannendPraesentieren_Moesslang.pdf)
 - Moesslang, Michael: Präsentieren Sie spannend wie noch nie: [Video & E-Book](https://www.wiso-net.de/document/LEC__4630A)
 

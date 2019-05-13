@@ -1,8 +1,8 @@
 ---
-titel: keine Veranstaltung
-kuerzel: none
+titel: Abschlusspräsentationen
+kuerzel: pre
 verantwortlich: cn, vs
-typ: other
+typ: workshop
 pflicht: false
 termine: 2019-06-25 10:00
 empfohlene-voraussetzungen: 
