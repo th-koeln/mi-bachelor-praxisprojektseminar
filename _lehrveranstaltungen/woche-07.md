@@ -14,7 +14,7 @@ info:
 
 ## Worum geht es?
 
-Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 100 Fällen werden digitale Folien verwendet. Andere Varianten sind aber durchaus ebenfalls denkbar, z.B. Präsentation am Whiteboard. Manchmal werden auch mehrere Medien genutzt. Fakt ist jedoch: der Einsatz von Medien ist nicht explizit gefordert, aber meist hilfreich für den Rezipienten. Heute üben wir das mal am Beispiel eines kurzen Ausschnitts Ihres Themas. Bereiten Sie bitte zu einem Aspekt Ihres Themas eine 3 bis 5-minütige mediengestützte Präsentation vor und üben Sie diese. Machen Sie sich vorab klar, was will ich dem Plenum mitteilen und warum ist es im Kontext meines Themas wichtig. Im Anschluss an Ihren Kurzvortrag diskutieren und bewerten wir diesen.
+Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 100 Fällen werden digitale Folien verwendet. Andere Varianten sind aber durchaus ebenfalls denkbar, z.B. Präsentation am Whiteboard. Manchmal werden auch mehrere Medien genutzt. Fakt ist jedoch: der Einsatz von Medien ist nicht explizit gefordert, aber meist hilfreich für den Rezipienten. Heute üben wir das mal am Beispiel eines kurzen Ausschnitts Ihres Themas. Bereiten Sie bitte zu einem Aspekt Ihres Themas eine 3 bis 5-minütige mediengestützte Präsentation vor und üben Sie diese. Machen Sie sich vorab klar, was Sie dem Plenum mitteilen möchten und warum es im Kontext ihres Themas wichtig ist. Im Anschluss an Ihren Kurzvortrag diskutieren und bewerten wir diesen.
 
 ## Was sind die Ziele?
 
