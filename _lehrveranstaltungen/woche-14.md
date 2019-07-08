@@ -23,9 +23,5 @@ Im Rahmen der Exposé Reviews kamen doch so einige Defizite in Sachen wissenscha
 - alle kennen grundlegende Bau- und Stoplersteine im Bereich wissenschaftliches Schreiben 
 
 
-## Was muss vorbereitet werden?
-tbd.
-
-
 ## Material und Links
-tbd.
+[Lernmaterial vom Akademischen Schreibzentrum](https://ilias.th-koeln.de/ilias.php?ref_id=1248642&cmd=render&cmdClass=ilrepositorygui&cmdNode=u1&baseClass=ilRepositoryGUI)
