@@ -27,8 +27,8 @@ Das Thema dieses Praxisprojektes ist die Evaluierung und Integration eines Testw
 ## 11:15 Uhr: Sören Lehmann - Erhöhung der Conversion-Rate eines kleinständigen Webshops am Beispiel von conscious-christ.com
 In diesem Praxisprojekt werden fundierte Methoden analysiert, implementiert und anhand von Testergebnissen miteinander verglichen, um abschließend Thesen über die erfolgreiche Steigerung der Conversion-Rate von kleinständigen Webshops aufzustellen.
 
-## 11:45 Uhr: Jane Corleis
+## 11:45 Uhr: Jane Corleis - Optimierung der User-Experience des Vorgangs zur Anfrageerstellung für Abfallentsorgung
 Das Ziel dieses Praxisprojekts ist die Optimierung der User-Experience einer Anfrageerstellung innerhalb eines digitalen B2B-Marktplatzes zur Abfallentsorgung. Im Rahmen der der Arbeit wurde die Domäne, die den Nutzern Schwierigkeiten bereitet, genauer betrachtet, eine Nutzer- und Aufgabenmodellierung durchgeführt und es wurden neue Anforderungen ermittelt, welche für das Redesign eingehalten werden müssen. Ergebnis der Arbeit ist ein solches Redesign, welches innerhalb der Präsentation vorgestellt und begründet wird.
 
-## 12:15 Uhr: Nikita Abramockin
+## 12:15 Uhr: Nikita Abramockin -  	Automatisierte Distribution digitaler Inhalte auf sozialen Medien
 In dem Projekt werden technische und architekturelle Möglichkeiten für die automatisierte Distribution digitaler Inhalte auf sozialen Medien, unter Einbezug eines hierarchischen Aufbaus von Profilen und Leistungskennzahlen, diskutiert, sowie eine Lösungsmöglichkeit für die RTL interactive GmbH implementiert.
