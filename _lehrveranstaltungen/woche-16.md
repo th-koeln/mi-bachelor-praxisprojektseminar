@@ -11,9 +11,8 @@ dauer: 180
 raum: 3.216
 info: 
 ---
-
-## 08:30 Uhr: Robin Baljan - Suchmaschinenoptimierung im B2B-Vertrieb
-Suchmaschinenoptimierung im B2B-Vertrieb am Beispiel eines mittelständischen Unternehmens
+## 08:30 Uhr: Design Systems vs. Atomic Design
+Design Systems vs. Atomic Design - Analyse, Zusammenführung und Erstellung eines konzeptionellen Leitfadens
 
 ## 09:00 Uhr: Miriam Wiedmann - Die Rolle des Enterprise Architects
 
@@ -34,5 +33,5 @@ In dem Projekt wurde sich mit dem haptischen Rendern von Texturen innerhalb der 
 Schon vor der Entwicklung einer Anwendung muss das Entwicklungsteam die Zielgruppe und den Nutzungskontext definieren. Dabei können neben etablierten narrativen Ansätzen andere Ansätze in Betracht gezogen werden, die Vorteile bei der Bestimmung der Zielgruppe und Nutzungskontextes bieten und den Prozess der Anwendungsentwicklung und Kommunikation zwischen multikulturellen Teammitgliedern erleichtern.
 Ein solcher Ansatz ist die Visualisierung von Narration. Dabei tritt Storyboard als bildbasierte Visualisierungsinstanz und grafische Darstellung technischer Details auf. Anhand von Storyboards lassen sich die Zielgruppe und der Nutzungskontext sehr gut visuell darstellen.
 
-## 12:45 Uhr: Design Systems vs. Atomic Design
-Design Systems vs. Atomic Design - Analyse, Zusammenführung und Erstellung eines konzeptionellen Leitfadens
+## 12:45 Uhr: Robin Baljan - Suchmaschinenoptimierung im B2B-Vertrieb
+Suchmaschinenoptimierung im B2B-Vertrieb am Beispiel eines mittelständischen Unternehmens
