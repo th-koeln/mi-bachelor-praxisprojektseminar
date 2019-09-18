@@ -1,14 +1,14 @@
 ---
-titel: keine Veranstaltung
-kuerzel: none
+titel: Abschlusspräsentationen
+kuerzel: pre
 verantwortlich: cn, vs
-typ: other
+typ: pruefung
 pflicht: false
-termine: 2019-04-09 10:00
+termine: 2019-10-15 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: wird noch bekannt gegeben
 info: 
 ---
 

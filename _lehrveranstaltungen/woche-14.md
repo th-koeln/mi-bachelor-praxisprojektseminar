@@ -1,10 +1,10 @@
 ---
-titel: Schreibwerkstatt/ Schreibberatung
+titel: Postersession/ Live-Session
 kuerzel: pre
-verantwortlich: maw
+verantwortlich: cn, vs
 typ: workshop
 pflicht: false
-termine: 2019-07-02 10:00
+termine: 2020-01-07 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,16 +12,21 @@ raum: 3.216
 info: 
 ---
 
-
 ## Worum geht es?
 
-Im Rahmen der Exposé Reviews kamen doch so einige Defizite in Sachen wissenschaftliches Schreiben zutage. Um hier besser und schneller zu werden haben wir heute Unterstützung durch das Akademische Schreibzentrum der TH. Die Schreibberatung der TH Köln bietet Unterstützung in allen Fragen rund um das wissenschaftliche Schreiben: „Wir zeigen Ihnen, wie Sie systematisch und zeitschonened Fachtexte erschließen, Ihre eigenen Texte auf dieser Grundlage verfassen, dabei regelgerecht zitieren und wissenschaftlich stilsicher formulieren.” Heute werden wir wieder das Exposé verwenden, um an diesem Beispiel die eigene Schreibkompetenz zu verbessern.
+Mit Hilfe der Abschlusspräsentation soll einerseits eine Übersicht über die Arbeit gegeben werden, andererseits soll gezeigt werden, dass der Studierende das Thema durchdrungen hat. Hierzu eignet sich oftmals eine Live-Demo oder Postersession besonders. Das üben wir heute mal, denn hier gibt es auch einige Stolpersteine.
 
 ## Was sind die Ziele?
+- die Durchdringung des Themenfelds am Poster oder im Rahmen einer Live Demo vorstellen
+- Livedemo/ Postersession strukturieren und sicher durchführen können
 
-- besseres Verständnis zu wissenschaftlichem Schreiben
-- alle kennen grundlegende Bau- und Stoplersteine im Bereich wissenschaftliches Schreiben 
 
+## Was muss vorbereitet werden?
+- Postersession oder Livedemo
 
-## Material und Links
-[Lernmaterial vom Akademischen Schreibzentrum](https://ilias.th-koeln.de/ilias.php?ref_id=1248642&cmd=render&cmdClass=ilrepositorygui&cmdNode=u1&baseClass=ilRepositoryGUI)
+## Material
+nichts
+
+## Was muss geliefert werden?
+nichts
+

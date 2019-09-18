@@ -1,13 +1,13 @@
 ---
-titel: Kickoff WS 2019/2020
+titel: Abschlusspräsentationen
 kuerzel: pre
 verantwortlich: cn, vs
-typ: vortrag
+typ: pruefung
 pflicht: false
-termine: 2019-07-09 13:00
+termine: 2020-01-28 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 180
 raum: 3.216
+info: 
 ---
-
