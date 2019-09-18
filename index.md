@@ -38,7 +38,7 @@ Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderation
 Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
 
 ### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/woche-09)  
-Verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens auf bases der Exposés
+Verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
 
 ### [Mediengestützte Präsentation](lehrveranstaltungen/woche-10/)
 Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
