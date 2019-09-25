@@ -36,7 +36,6 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 * [LaTex Vorlage für die Thesis](https://ilias.th-koeln.de/goto.php?target=file_1270014_download&client_id=ILIAS_FH_Koeln)
 
 
-
 ## Aufgabe für heute: Zusammenfassung „Die Gestaltung wissenschaftlicher Arbeiten”
 
 Bereiten Sie mit Hilfe einer Karten die Inhalte des Themas, welches ihnen zugewiesen wurde, in ihrer Gruppe so vor, dass sie anschließend die wesentlichen Aussagen vor dem Plenum präsentieren und diskutieren können.
@@ -44,13 +43,4 @@ Bereiten Sie mit Hilfe einer Karten die Inhalte des Themas, welches ihnen zugewi
 Bearbeitungszeit: 20 Minuten  
 Präsentationszeit: 10 Minuten
 
-## Aufgabe für den nächsten Termin: Peer Review Exposé
-
-Machen Sie ein Peer-Review der Exposés ihrer Teampartner. Fügen Sie dazu Annotationen zu den Exposés hinzu. Kommentieren Sie, welche Passagen gut sind und welche noch verbessert werden können. Laden Sie das annotierte Exposé [hier](https://ilias.th-koeln.de/ilias.php?ref_id=1241600&ass_id=11087&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=aa:kn:aq:ap&baseClass=ilExerciseHandlerGUI) als **PDF Dokument** hoch.
-Bereiten Sie sich so vor, dass Sie beim nächsten Seminar Ihr Exposé inkl. Reviews in fünf Minuten vorstellen können.
-
-Nutzen Sie **LaTex** für die Erstellung Ihres Exposés.
-
-Achten Sie bei dem Dokument welches Sie hochladen auf folgende Nomenklatur
-`expose-[vorname_nachname].pdf`
 
