@@ -18,5 +18,6 @@ info:
 | ------- | ---------------- | ------------------------------------------------------------ | --------------------- |
 | 09:30   | Mustafa Simsek   | Entwicklung eines Skins auf Basis von Design-Prinzipien für das Lucas Cranach Archiv | Prof. Christian Noss  |
 | 10:00   | Philip Mirau     | Erforschung des Gestaltungsraums von musikalischen Ein- und Ausgaben | Prof. Matthias Böhmer |
+| 11:15   | David Jovanoski  | Entwicklung des interaktiven Systems "Betrugsprophylaxe Digital" | Prof. Christian Kohls |
 | 12:30   | Alexander Strutz | Prototyp zur Synchronisierung von analogen und digitalen Scrum-Boards | Prof. Matthias Böhmer |
 

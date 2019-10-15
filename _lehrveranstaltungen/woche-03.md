@@ -16,14 +16,6 @@ info:
 
 Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere wiederrum suchen lange nach einem geeigneten Feld. Heute wollen wir uns verschiedene Themenfelder anschauen und darüber diskutieren. Die Studierenden, die ihr Themenfeld vorstellen, haben die Chance sehr breites Feedback, Anregungen und kritische Fragen zu ihrem Themenfeld und ihrer Forschungsfrage zu bekommen. Das Plenum bekommt einen guten Überblick über verschiedene, mögliche Themenfelder.
 
-Darüber hinaus werden wir heute weitere 90-Seconds-Standups hören, ggf. einige Exposés vorstellen und einen Input zur mediengestützten Präsentation erhalten.
-
-## Zeitplan
-* 10:00 Uhr  
-Abschlusspräsentation von Maximilian Krusch zum Thema „Speicherung und Präsentation von UX-Artefakten”
-* im Anschluss  
-Vorstellung von Themenfeldclustern und Exposés, 90-Seconds-Standups, Input zur mediengestützten Präsentation
-
 ## Was sind die Ziele?
 
 - jeder hat einen guten Überblick über sein Themenfeld
