@@ -4,7 +4,7 @@ kuerzel: none
 verantwortlich: cn, vs
 typ: other
 pflicht: false
-termine: 2019-05-21 10:00
+termine: 2019-11-26 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

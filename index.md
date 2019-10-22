@@ -31,26 +31,31 @@ Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entn
 ### [Wissenschaftliches Arbeiten](lehrveranstaltungen/woche-01/)
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
 
-### [Exposé und Peer Review](lehrveranstaltungen/woche-03/)
-Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
-
-### [Themenfeldanalyse](lehrveranstaltungen/woche-05/)
+### [Themenfeldanalyse](lehrveranstaltungen/woche-03/)
 Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
 
-### [Mediengestützte Präsentation](lehrveranstaltungen/woche-07/)
+### [Exposé und Peer Review](lehrveranstaltungen/woche-05/)
+Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
+
+### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/woche-09)  
+Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
+
+### [Mediengestützte Präsentation](lehrveranstaltungen/woche-10/)
 Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
 
-### [Postersession/ Live-Session](lehrveranstaltungen/woche-09/)
+### [Postersession/ Live-Session](lehrveranstaltungen/woche-14/)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.
 
-Von diesen fünf Workshops müssen vier besucht werden. Darüber hinaus gibt es ab ca. Woche 10 mehrere Termine zur finalen Vorstellung und Diskussion Ihrer Praxisprojektarbeit. Jeder Teilnehmer muss an vier Abschlussvorstellungen aktiv im Plenum teilgenommen haben.
+Von diesen sechs Workshops müssen vier besucht werden. Darüber hinaus gibt es ab ca. Woche 10 mehrere Termine zur finalen Vorstellung und Diskussion Ihrer Praxisprojektarbeit. Jeder Teilnehmer muss an vier Abschlussvorstellungen aktiv im Plenum teilgenommen haben.
 
 ## Bewertung
 
 Die Modulnote wird zu 10% aus der Bewertung des Exposés, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Ihr Seminarvortrag und die anschließende Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer, bewertet.
 
-## Übergangsreglung
-Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails.
+Für dieses Modul muss eine Anmeldung im PSSO erfolgen. Der Anmeldezeitraum ist vom 07.10.2019 bis zum 29.11.2019.
+
+<!-- ## Übergangsreglung
+Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails. -->
 
 ## Wer macht es?
 

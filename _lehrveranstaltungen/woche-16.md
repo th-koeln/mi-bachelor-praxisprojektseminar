@@ -1,10 +1,10 @@
 ---
-titel: Silvester - keine Veranstaltung 
-kuerzel: none
+titel: Abschlusspräsentationen
+kuerzel: pre
 verantwortlich: cn, vs
-typ: other
+typ: pruefung
 pflicht: false
-termine: 2019-12-31 10:00
+termine: 2020-01-21 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

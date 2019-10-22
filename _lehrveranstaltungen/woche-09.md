@@ -1,10 +1,10 @@
 ---
-titel: Postersession/ Live-Session
+titel: Schreibwerkstatt/ Schreibberatung
 kuerzel: pre
-verantwortlich: cn, vs
+verantwortlich: maw
 typ: workshop
 pflicht: false
-termine: 2019-05-28 10:00
+termine: 2019-12-03 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -12,20 +12,18 @@ raum: 3.216
 info: 
 ---
 
+
 ## Worum geht es?
 
-Mit Hilfe der Abschlusspräsentation soll einerseits eine Übersicht über die Arbeit gegeben werden, andererseits soll gezeigt werden, dass der Studierende das Thema durchdrungen hat. Hierzu eignet sich oftmals eine Live-Demo oder Postersession besonders. Das üben wir heute mal, denn hier gibt es auch einige Stolpersteine.
+<!-- Im Rahmen der Exposé Reviews kamen doch so einige Defizite in Sachen wissenschaftliches Schreiben zutage. Um hier besser und schneller zu werden haben wir heute Unterstützung durch das Akademische Schreibzentrum der TH. Die Schreibberatung der TH Köln bietet Unterstützung in allen Fragen rund um das wissenschaftliche Schreiben: „Wir zeigen Ihnen, wie Sie systematisch und zeitschonened Fachtexte erschließen, Ihre eigenen Texte auf dieser Grundlage verfassen, dabei regelgerecht zitieren und wissenschaftlich stilsicher formulieren.” Heute werden wir wieder das Exposé verwenden, um an diesem Beispiel die eigene Schreibkompetenz zu verbessern. -->
+
+Um besser und schneller im wissenschaftlichen Schreiben zu werden haben wir heute Unterstützung durch das Akademische Schreibzentrum der TH. Die Schreibberatung der TH Köln bietet Unterstützung in allen Fragen rund um das wissenschaftliche Schreiben: „Wir zeigen Ihnen, wie Sie systematisch und zeitschonened Fachtexte erschließen, Ihre eigenen Texte auf dieser Grundlage verfassen, dabei regelgerecht zitieren und wissenschaftlich stilsicher formulieren.” Heute werden wir wieder das Exposé verwenden, um an diesem Beispiel die eigene Schreibkompetenz zu verbessern.
 
 ## Was sind die Ziele?
-- die Durchdringung des Themenfelds am Poster oder im Rahmen einer Live Demo vorstellen
-- Livedemo/ Postersession strukturieren und sicher durchführen können
+
+- besseres Verständnis zu wissenschaftlichem Schreiben
+- alle kennen grundlegende Bau- und Stoplersteine im Bereich wissenschaftliches Schreiben 
 
 
-## Was muss vorbereitet werden?
-- Postersession oder Livedemo
-
-## Material
-nichts
-
-## Was muss geliefert werden?
-nichts
+## Material und Links
+[Lernmaterial vom Akademischen Schreibzentrum](https://ilias.th-koeln.de/ilias.php?ref_id=1248642&cmd=render&cmdClass=ilrepositorygui&cmdNode=u1&baseClass=ilRepositoryGUI)
