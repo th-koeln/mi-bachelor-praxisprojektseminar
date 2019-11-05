@@ -42,7 +42,7 @@ Das Exposé darf Bilder und Grafiken enthalten. Alles was das Verständnis unter
 Jeder freut sich, wenn das Exposé und die spätere Praxisprojektarbeit, ach, was red ich: wenn alle Ausarbeitungen gut lesbar sind und einen gut gestalteten Gesamteindruck machen. Denken Sie an Gitte Lindgaard: [You have 50 milliseconds to make a good first impression!](https://www.researchgate.net/publication/220208334_Attention_web_designers_You_have_50_milliseconds_to_make_a_good_first_impression_Behaviour_and_Information_Technology_252_115-126). Nutzen Sie Latex als Satzsoftware. Besser kann man Text nicht setzen. Das Exposé ist eine gute Gelegenheit schon mal mit Latex zu üben.
 
 ### Dateinamen
-Beim Exposé ist es vielleicht noch nicht ganz so wichtig, aber spätestens bei der Praxisprojektarbeit spielen Versionen eine Rolle. Häufig werden auch verschiedenen Versionen verteilt, z.B. an die Prüfer. Machen Sie es Ihren Mitlesern leicht und verwenden Sie aussagekräftige Dateinamen. Pro Tipp: *expose.pdf* Ist kein sonderlich hilfreicher Name. Nutzen Sie [Semantic Versioning for Documents](https://semverdoc.org/) für eine verständliche Versionierung. Ein aussagekräftiger Name könnte etwa so aussehen:
+Beim Exposé ist es vielleicht noch nicht ganz so wichtig, aber spätestens bei der Praxisprojektarbeit spielen Versionen eine Rolle, denn häufig werden  verschiedene Versionen/ Stände erzeugt und verteilt, z.B. an die Prüfer. Machen Sie es Ihren Mitlesern leicht und verwenden Sie aussagekräftige Dateinamen. Pro Tipp: *expose.pdf* ist kein sonderlich hilfreicher Name. Nutzen Sie [Semantic Versioning for Documents](https://semverdoc.org/) für eine verständliche Versionierung. Ein aussagekräftiger Name könnte etwa so aussehen:
 
 > noss-christian-pp-expose-ws1920-v1.0.2.pdf
 
