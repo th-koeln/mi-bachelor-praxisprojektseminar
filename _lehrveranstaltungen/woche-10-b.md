@@ -4,10 +4,10 @@ kuerzel: pre
 verantwortlich: cn, vs
 typ: workshop
 pflicht: false
-termine: 2019-12-10 10:00
+termine: 2019-12-10 11:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 90
 raum: 3.216
 info: 
 ---
