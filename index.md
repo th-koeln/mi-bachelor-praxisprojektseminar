@@ -55,7 +55,9 @@ Von diesen sechs Workshops müssen vier besucht werden. Darüber hinaus gibt es 
 
 ## Bewertung
 
-Die Modulnote wird zu 10% aus der Bewertung des Exposés, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Ihr Seminarvortrag und die anschließende Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer, bewertet.
+Die Modulnote wird zu 10% aus der Bewertung des Exposés, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Ihr Seminarvortrag und die anschließende Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet.
+
+**Tipps zum Seminarvortrag und nach welchen Kriterien bewertet wird, können auf dieser [Mindmap](https://www.mindmeister.com/de/687253542?t=KF0iiQdLn3) nachgelesen werden.**
 
 Für dieses Modul muss eine Anmeldung im PSSO erfolgen. Der Anmeldezeitraum ist vom 07.10.2019 bis zum 29.11.2019.
 
