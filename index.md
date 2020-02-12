@@ -28,7 +28,6 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 - Sie haben erste Erfahrungen mit aktiver Fachkommunikation gesammelt
 - Die Teilnehmer gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik und können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
 
-
 ## Wie funktioniert das Seminar?
 
 Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. Dabei gibt es folgende Bausteine:
@@ -36,30 +35,33 @@ Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entn
 ### [Wissenschaftliches Arbeiten](lehrveranstaltungen/woche-01/)
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
 
-### [Themenfeldanalyse](lehrveranstaltungen/woche-03/)
+### [Themenfeldanalyse](lehrveranstaltungen/woche-04/)
 Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
 
-### [Exposé und Peer Review](lehrveranstaltungen/woche-05/)
+### [Exposé und Peer Review](lehrveranstaltungen/woche-06/)
 Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
 
-### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/woche-09)  
+### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/woche-11)
 Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
 
-### [Mediengestützte Präsentation](lehrveranstaltungen/woche-10/)
+### [Mediengestützte Präsentation](lehrveranstaltungen/woche-13/)
 Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
 
 ### [Postersession/ Live-Session](lehrveranstaltungen/woche-14/)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.
 
-Von diesen sechs Workshops müssen vier besucht werden. Darüber hinaus gibt es ab ca. Woche 10 mehrere Termine zur finalen Vorstellung und Diskussion Ihrer Praxisprojektarbeit. Jeder Teilnehmer muss an vier Abschlussvorstellungen aktiv im Plenum teilgenommen haben.
+Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin.  
+Alle weiteren Modalitäten werden wir noch rechtzeitig bekannt geben.
+<!-- Von diesen sechs Workshops müssen vier besucht werden. Darüber hinaus gibt es ab ca. Woche 10 mehrere Termine zur finalen Vorstellung und Diskussion Ihrer Praxisprojektarbeit. Jeder Teilnehmer muss an vier Abschlussvorstellungen aktiv im Plenum teilgenommen haben. -->
 
 ## Bewertung
 
-Die Modulnote wird zu 10% aus der Bewertung des Exposés, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Ihr Seminarvortrag und die anschließende Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet.
+Wie sich die Modulnote genau zusammensetzt, wird hier noch rechtzeitig bekannt gegeben.
+<!-- Die Modulnote wird zu 10% aus der Bewertung des Exposés, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Ihr Seminarvortrag und die anschließende Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet. -->
 
 **Tipps zum Seminarvortrag und nach welchen Kriterien bewertet wird, können auf dieser [Mindmap](https://www.mindmeister.com/de/687253542?t=KF0iiQdLn3) nachgelesen werden.**
 
-Für dieses Modul muss eine Anmeldung im PSSO erfolgen. Der Anmeldezeitraum ist vom 07.10.2019 bis zum 29.11.2019.
+Für dieses Modul muss eine Anmeldung im PSSO erfolgen. Der Anmeldezeitraum ist vom xx.xx.2020 bis zum xx.xx.2020.
 
 <!-- ## Übergangsreglung
 Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails. -->
