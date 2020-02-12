@@ -1,10 +1,10 @@
 ---
-titel: Weihnachten - keine Veranstaltung 
+titel: keine Veranstaltung
 kuerzel: none
 verantwortlich: cn, vs
 typ: other
 pflicht: false
-termine: 2019-12-24 10:00
+termine: 2020-06-16 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

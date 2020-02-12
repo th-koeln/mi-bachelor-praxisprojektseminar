@@ -1,10 +1,10 @@
 ---
-titel: Schreibwerkstatt/ Schreibberatung
-kuerzel: pre
-verantwortlich: maw
-typ: workshop
+titel: keine Veranstaltung
+kuerzel: none
+verantwortlich: cn, vs
+typ: other
 pflicht: false
-termine: 2019-12-03 10:00
+termine: 2020-05-26 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -13,17 +13,3 @@ info:
 ---
 
 
-## Worum geht es?
-
-<!-- Im Rahmen der Exposé Reviews kamen doch so einige Defizite in Sachen wissenschaftliches Schreiben zutage. Um hier besser und schneller zu werden haben wir heute Unterstützung durch das Akademische Schreibzentrum der TH. Die Schreibberatung der TH Köln bietet Unterstützung in allen Fragen rund um das wissenschaftliche Schreiben: „Wir zeigen Ihnen, wie Sie systematisch und zeitschonened Fachtexte erschließen, Ihre eigenen Texte auf dieser Grundlage verfassen, dabei regelgerecht zitieren und wissenschaftlich stilsicher formulieren.” Heute werden wir wieder das Exposé verwenden, um an diesem Beispiel die eigene Schreibkompetenz zu verbessern. -->
-
-Um besser und schneller im wissenschaftlichen Schreiben zu werden haben wir heute Unterstützung durch das Akademische Schreibzentrum der TH. Die Schreibberatung der TH Köln bietet Unterstützung in allen Fragen rund um das wissenschaftliche Schreiben: „Wir zeigen Ihnen, wie Sie systematisch und zeitschonened Fachtexte erschließen, Ihre eigenen Texte auf dieser Grundlage verfassen, dabei regelgerecht zitieren und wissenschaftlich stilsicher formulieren.” Heute werden wir wieder das Exposé verwenden, um an diesem Beispiel die eigene Schreibkompetenz zu verbessern.
-
-## Was sind die Ziele?
-
-- besseres Verständnis zu wissenschaftlichem Schreiben
-- alle kennen grundlegende Bau- und Stoplersteine im Bereich wissenschaftliches Schreiben 
-
-
-## Material und Links
-[Lernmaterial vom Akademischen Schreibzentrum](https://ilias.th-koeln.de/ilias.php?ref_id=1248642&cmd=render&cmdClass=ilrepositorygui&cmdNode=u1&baseClass=ilRepositoryGUI)

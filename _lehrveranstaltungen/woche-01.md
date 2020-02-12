@@ -4,7 +4,7 @@ kuerzel: kickoff
 verantwortlich: cn, vs
 typ: workshop
 pflicht: false
-termine: 2019-10-08 10:00
+termine: 2020-03-31 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -38,7 +38,7 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 
 ## Aufgabe für heute: Zusammenfassung „Die Gestaltung wissenschaftlicher Arbeiten”
 
-Bereiten Sie mit Hilfe einer Karten die Inhalte des Themas, welches ihnen zugewiesen wurde, in ihrer Gruppe so vor, dass sie anschließend die wesentlichen Aussagen vor dem Plenum präsentieren und diskutieren können.
+Bereiten Sie mit Hilfe von Karten die Inhalte des Themas, welches ihnen zugewiesen wurde, in ihrer Gruppe so vor, dass sie anschließend die wesentlichen Aussagen vor dem Plenum präsentieren und diskutieren können.
 
 Bearbeitungszeit: 20 Minuten  
 Präsentationszeit: 10 Minuten

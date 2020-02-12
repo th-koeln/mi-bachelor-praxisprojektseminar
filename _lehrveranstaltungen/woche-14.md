@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: cn, vs
 typ: workshop
 pflicht: false
-termine: 2020-01-07 10:00
+termine: 2020-06-30 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
