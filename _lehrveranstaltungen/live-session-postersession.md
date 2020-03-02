@@ -1,7 +1,7 @@
 ---
 titel: Postersession/ Live-Session
 kuerzel: pre
-verantwortlich: cn, vs
+verantwortlich: ma, vs
 typ: workshop
 pflicht: false
 termine: 2020-06-30 10:00
