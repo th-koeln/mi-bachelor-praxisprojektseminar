@@ -88,22 +88,3 @@ week-15:
     start: "13:00"
     end: "16:00"
     name: Dienstag
-week-16:
-  day-1:
-    datum: 2020-07-14
-    start: "13:00"
-    end: "16:00"
-    name: Dienstag
-week-17:
-  day-1:
-    datum: 2020-07-21
-    start: "13:00"
-    end: "18:00"
-    name: Dienstag
-week-18:
-  day-1:
-    datum: 2020-07-28
-    start: "10:00"
-    end: "12:00"
-    name: Donnerstag
-    

@@ -1,7 +1,7 @@
 ---
 titel: Vorstellung Peer reviewed Exposé
 kuerzel: pre
-verantwortlich: cn, vs
+verantwortlich: ma, vs
 typ: workshop
 pflicht: false
 termine: 2020-05-05 10:00

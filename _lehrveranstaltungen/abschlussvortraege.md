@@ -1,10 +1,10 @@
 ---
-titel: keine Veranstaltung
+titel: Abschlussvorträge
 kuerzel: none
-verantwortlich: cn, vs
-typ: other
+verantwortlich: cn
+typ: vortrag
 pflicht: false
-termine: 2020-07-28 10:00
+termine: 2020-04-07 10:00, 2020-07-07 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

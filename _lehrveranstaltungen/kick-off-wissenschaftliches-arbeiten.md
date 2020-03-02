@@ -1,7 +1,7 @@
 ---
 titel: Kickoff - Workshop Wissenschaftliches Arbeiten
 kuerzel: kickoff
-verantwortlich: cn, vs
+verantwortlich: ma, vs
 typ: workshop
 pflicht: false
 termine: 2020-03-31 10:00

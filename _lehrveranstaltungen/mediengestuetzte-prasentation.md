@@ -4,10 +4,10 @@ kuerzel: pre
 verantwortlich: cn, vs
 typ: workshop
 pflicht: false
-termine: 2020-06-23 10:00
+termine: 2020-06-16 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 180
 raum: 3.216
 info: 
 ---
