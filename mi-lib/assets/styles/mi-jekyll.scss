@@ -782,3 +782,20 @@ pre code {
   height: 100%;
   position: absolute;
 }
+
+h1.is-inverse{
+  background-color: $mi-black;
+  color: #fff;
+  display: inline-block;
+  padding: $bfs / 4;
+  margin-bottom: 0 !important;
+}
+
+
+h2.is-inverse{
+  background-color: $mi-lila;
+  color: #fff;
+  display: inline-block;
+  padding: $bfs / 4;
+
+}

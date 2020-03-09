@@ -1,0 +1,48 @@
+--- 
+layout: default-mit-teaser 
+---
+
+{% include /functions/resolve-betreuer.html betreuer=page.betreuer %}
+
+<section class="section">
+
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column is-8">
+          <h1>{{ page.titel }}</h1>
+        </div>
+        <div class="column is-4 has-text-right">
+          <a target="_blank" href="{{site.repo}}/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+
+        <div class="column is-4">
+        <dl class="overview">
+        <dt>Präsentation</dt><dd>{{ page.datum | date: '%d. %B %Y' }}, {{ page.uhrzeit | replace: "-", ":" }} Uhr, Raum {{page.raum}}</dd>
+        <dt>Betreuer</dt><dd>{{betreuer}}</dd>
+        {% assign check = page.kooperationspartner | strip_newlines %}
+        {% if check != ""  %}
+        <dt>Kooperationspartner</dt><dd>{{page.kooperationspartner}}</dd>
+        {% endif %}
+        {% assign check = page.stichworte | strip_newlines %}
+        {% if check != ""  %}
+        <dt>Stichworte</dt><dd>{{page.stichworte}}</dd>
+        {% endif %}
+        </dl>
+        </div>
+
+        <div class="column is-8">
+          {{ content }}
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

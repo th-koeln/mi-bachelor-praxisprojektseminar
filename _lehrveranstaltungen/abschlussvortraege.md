@@ -1,6 +1,6 @@
 ---
 titel: Abschlussvorträge
-kuerzel: none
+kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false

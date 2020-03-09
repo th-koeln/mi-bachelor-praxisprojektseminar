@@ -86,6 +86,8 @@ collections:
     output: false
   news:
     output: false
+  abschlussvortraege:
+    output: true
 
 defaults:
   -
@@ -94,6 +96,12 @@ defaults:
       type: lehrveranstaltungen
     values:
       layout: lehrveranstaltung
+  -
+    scope:
+      path: ""
+      type: abschlussvortraege
+    values:
+      layout: abschlussvortrag
   -
     scope:
       path: ""

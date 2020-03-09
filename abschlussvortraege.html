@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+
+<section class="section">
+  <div class="container">
+
+    <h1 class="title is-1">Abschlussvorträge</h1>
+    <!--h2 class="subtitle">Vorträge, Workshops, Trainings und Support</h2-->
+
+    <div class="content">
+    {% assign abschlussvortraege=site.lehrveranstaltungen|sort:'title' | where:"kuerzel","abschlussvortraege" %}
+    {% for abschlussvortrag in abschlussvortraege %}
+    {% assign termine=abschlussvortrag.termine | split: "," %}
+    {% for termin in termine %}
+    {% assign teile=termin | split: " " %}
+    {% assign datum=teile[0] %}
+    <table>
+      <thead>
+        <tr>
+          <th colspan="2">{{ datum | date: '%d. %B %Y' }}</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %}
+      {% for vortrag in vortraege %}
+      <tr>
+        <td>{{ vortrag.uhrzeit | replace: "-", ":" }} Uhr</td>
+        <td><a href="{{site.baseurl}}{{vortrag.url}}"><strong>{{vortrag.thema}}</strong></a><br>
+        {{vortrag.vorname}} {{vortrag.nachname}}<br>
+        {{vortrag.stichworte}}
+        </td>
+      </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% endfor %}
+    {% endfor %}
+    </div>
+
+  </div>
+</section>
