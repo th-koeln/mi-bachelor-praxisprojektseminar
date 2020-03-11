@@ -32,22 +32,22 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 
 Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. Dabei gibt es folgende Bausteine:
 
-### [Wissenschaftliches Arbeiten](lehrveranstaltungen/woche-01/)
+### [Wissenschaftliches Arbeiten](lehrveranstaltungen/themenfeldanalyse/)
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
 
-### [Themenfeldanalyse](lehrveranstaltungen/woche-04/)
+### [Themenfeldanalyse](lehrveranstaltungen/themenfeldanalyse/)
 Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
 
-### [Exposé und Peer Review](lehrveranstaltungen/woche-06/)
+### [Exposé und Peer Review](lehrveranstaltungen/peer-reviewed-expose/)
 Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
 
-### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/woche-11)
+### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/schreibwerkstatt/)
 Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
 
-### [Mediengestützte Präsentation](lehrveranstaltungen/woche-13/)
+### [Mediengestützte Präsentation](lehrveranstaltungen/mediengestuetzte-prasentation/)
 Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
 
-### [Postersession/ Live-Session](lehrveranstaltungen/woche-14/)
+### [Postersession/ Live-Session](lehrveranstaltungen/live-session-postersession/)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.
 
 Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin.  
@@ -68,4 +68,4 @@ Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gib
 
 ## Wer macht es?
 
-Verantwortlicher Dozent ist Prof. Christian Noss. Das Seminar wird federführend von Volker Schaefer betreut.
+Verantwortlicher Dozent ist Prof. Christian Noss. Das Seminar wird federführend von Volker Schaefer und Markus Alterauge betreut.
