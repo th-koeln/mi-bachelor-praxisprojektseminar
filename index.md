@@ -67,9 +67,7 @@ Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden k
 * Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.
 
 ## Bewertung
-
-Wie sich die Modulnote genau zusammensetzt, wird hier noch rechtzeitig bekannt gegeben.
-<!-- Die Modulnote wird zu 10% aus der Bewertung des Exposés, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Ihr Seminarvortrag und die anschließende Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet. -->
+Die Modulnote wird zu 10% aus der Bewertung des Abstracts, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Ihr Seminarvortrag und die anschließende Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet.
 
 **Tipps zum Seminarvortrag und nach welchen Kriterien bewertet wird, können auf dieser [Mindmap](https://www.mindmeister.com/de/687253542?t=KF0iiQdLn3) nachgelesen werden.**
 
