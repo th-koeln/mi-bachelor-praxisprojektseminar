@@ -1,6 +1,6 @@
 ---
 layout: home
-titel: Über das Modul
+titel: Über das Modul (DRAFT)
 ---
 
 {% include functions/resolve-urls.html target="lias-pruefung" %}
@@ -30,7 +30,11 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 
 ## Wie funktioniert das Seminar?
 
-Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. Dabei gibt es folgende Bausteine:
+Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. 
+
+Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. Was genau vorbereitet werden muss, steht auf der jeweiligen Seite zu dem Workshop.
+
+Es gibt folgende Bausteine:
 
 ### [Wissenschaftliches Arbeiten](lehrveranstaltungen/themenfeldanalyse/)
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
@@ -54,6 +58,13 @@ Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin.
 Alle weiteren Modalitäten werden wir noch rechtzeitig bekannt geben.
 <!-- Von diesen sechs Workshops müssen vier besucht werden. Darüber hinaus gibt es ab ca. Woche 10 mehrere Termine zur finalen Vorstellung und Diskussion Ihrer Praxisprojektarbeit. Jeder Teilnehmer muss an vier Abschlussvorstellungen aktiv im Plenum teilgenommen haben. -->
 
+## Checkliste für die Abschlusspräsentatioen
+
+* Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)
+* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom xx.xx.2020 bis zum xx.xx.2020.
+* Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird in diesem Screenmovie (Link folgt noch) erklärt.
+* Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar.
+
 ## Bewertung
 
 Wie sich die Modulnote genau zusammensetzt, wird hier noch rechtzeitig bekannt gegeben.
@@ -61,7 +72,7 @@ Wie sich die Modulnote genau zusammensetzt, wird hier noch rechtzeitig bekannt g
 
 **Tipps zum Seminarvortrag und nach welchen Kriterien bewertet wird, können auf dieser [Mindmap](https://www.mindmeister.com/de/687253542?t=KF0iiQdLn3) nachgelesen werden.**
 
-Für dieses Modul muss eine Anmeldung im PSSO erfolgen. Der Anmeldezeitraum ist vom xx.xx.2020 bis zum xx.xx.2020.
+
 
 <!-- ## Übergangsreglung
 Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails. -->
