@@ -36,7 +36,7 @@ Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. 
 
 Es gibt folgende Bausteine:
 
-### [Wissenschaftliches Arbeiten](lehrveranstaltungen/themenfeldanalyse/)
+### [Wissenschaftliches Arbeiten](lehrveranstaltungen/kick-off-wissenschaftliches-arbeiten/)
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
 
 ### [Themenfeldanalyse](lehrveranstaltungen/themenfeldanalyse/)
