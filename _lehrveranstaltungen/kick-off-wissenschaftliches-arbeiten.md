@@ -31,6 +31,7 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 ## Material und Links
 
 * [Informationen zum Seminar](https://ilias.th-koeln.de/goto.php?target=file_1456364_download&client_id=ILIAS_FH_Koeln)
+* [Ordnung zur Sicherung guter wissenschaftli- cher Praxis der Technischen Hochschule Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/endfassung_02_2020.pdf)
 
 ## Aufgabe für heute: Zusammenfassung „Die Gestaltung wissenschaftlicher Arbeiten”
 
