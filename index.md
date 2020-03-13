@@ -58,10 +58,10 @@ Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin.
 Alle weiteren Modalitäten werden wir noch rechtzeitig bekannt geben.
 <!-- Von diesen sechs Workshops müssen vier besucht werden. Darüber hinaus gibt es ab ca. Woche 10 mehrere Termine zur finalen Vorstellung und Diskussion Ihrer Praxisprojektarbeit. Jeder Teilnehmer muss an vier Abschlussvorstellungen aktiv im Plenum teilgenommen haben. -->
 
-## Checkliste für die Abschlusspräsentatioen
-
+## Checkliste für die Abschlusspräsentationen
+Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:
 * Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)
-* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom xx.xx.2020 bis zum xx.xx.2020.
+* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum wird noch bekannt gegeben.
 * Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird in diesem Screenmovie (Link folgt noch) erklärt.
 * Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar.
 
