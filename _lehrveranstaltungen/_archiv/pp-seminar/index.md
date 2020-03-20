@@ -29,14 +29,12 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 - Die Teilnehmer gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik und können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
 
 ## Wie funktioniert das Seminar?
-**Aufgrund der akutellen Lage bezüglich des Corona Virus werden vorerst keine Präzensveranstaltungen im Praxisprojekt Seminar angeboten. Die Workshops und Abschlusspräsentationen werden so umstrukturiert, dass diese online stattfinden. Detaillierte Informationen dazu können Sie auch auf den einzelnen Seiten zu den Veranstaltungen entnehmen. Bitte informieren Sie sich in regelmäßigen Abstanden, da sich die Lage auch wieder ändern kann.**
 
 Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. 
 
 Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. Was genau vorbereitet werden muss, steht auf der jeweiligen Seite zu dem Workshop.
 
-
-Folgende Bausteine enthält das Praxisprojekt Seminar:
+Es gibt folgende Bausteine:
 
 ### [Wissenschaftliches Arbeiten](lehrveranstaltungen/kick-off-wissenschaftliches-arbeiten/)
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
@@ -56,9 +54,9 @@ Vorstellung und Review einer mediengestützten Präsentation für einen Ausschni
 ### [Postersession/ Live-Session](lehrveranstaltungen/live-session-postersession/)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.
 
-Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im Ilias hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
-
-Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenom teilgenommen haben.
+Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin.  
+Alle weiteren Modalitäten werden wir noch rechtzeitig bekannt geben.
+<!-- Von diesen sechs Workshops müssen vier besucht werden. Darüber hinaus gibt es ab ca. Woche 10 mehrere Termine zur finalen Vorstellung und Diskussion Ihrer Praxisprojektarbeit. Jeder Teilnehmer muss an vier Abschlussvorstellungen aktiv im Plenum teilgenommen haben. -->
 
 ## Checkliste für die Abschlusspräsentationen
 Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:
