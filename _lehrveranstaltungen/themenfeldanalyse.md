@@ -1,5 +1,5 @@
 ---
-titel: Vorstellung Themenfeldanalyse
+titel: Vorstellung Themenfeldanalyse (DRAFT)
 kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
@@ -36,3 +36,8 @@ _Das Buch ist auch in der Bibliothek verfügbar._
 
 ## Was muss geliefert werden?
 - Themenfeldcluster als PDF im Ilias hochladen
+
+## Welches Artefakt muss abgegeben werden?
+Bitte erzeugen Sie ein Themenfeldcluster zu Ihrem Praxisprojekt Thema und laden Sie es ins [Ilias hoch](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=1470959&cmd=showOverview).
+
+Abgabefrist: -

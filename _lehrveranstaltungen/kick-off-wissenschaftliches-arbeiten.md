@@ -31,7 +31,7 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 - alle wissen was zum nächsten Termin vorzubereiten ist
 
 ## Was muss vorbereitet werden?
-* 90 Seconds Standup Talk (ohne Folien) zu Ihrem Thema
+* 90 Seconds Standup Talk (ohne Folien) zu Ihrem Praxisprojekt Thema
 
 ## Material und Links
 * [Informationen zum Seminar](https://ilias.th-koeln.de/goto.php?target=file_1456364_download&client_id=ILIAS_FH_Koeln)
