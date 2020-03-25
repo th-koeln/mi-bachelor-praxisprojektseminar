@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-04-21 10:00
+termine: 2020-04-28 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
