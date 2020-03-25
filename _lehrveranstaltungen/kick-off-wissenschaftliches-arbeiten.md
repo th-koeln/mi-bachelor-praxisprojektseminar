@@ -14,13 +14,14 @@ info:
 ## Wie läuft die Veranstaltung ab?
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Adobe Connect.
 
-Wir treffen uns in diesem Raum (Link wird noch bekanntgegeben). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
+Wir treffen uns [in diesem Raum](https://webconf.vc.dfn.de/mi-bachelor-pp-seminar/). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
 
 Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung.
 Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
-* beutzen Sie bitte ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
-* muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen
-* prüfen Sie bitte, am besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer und in Adobe Connect eingestellt sind
+* Beutzen Sie bitte ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen.
+* Muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen.
+* Prüfen Sie bitte, am besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer und in Adobe Connect eingestellt sind.
+* Nutzen Sie bitte nicht die Browserversion von Adobe Connect, da manche Features (z.B. die Bildschirmfreigabe) in manchen Browsern nicht funktionieren. Installieren Sie bitte die Adobe Connect Sofware auf ihrem Computer und verwenden Sie diese stattdessen.
 
 ## Worum geht es?
 Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Wir machen einen kleinen Rundflug über Ihre Praxisprojekt Themen. Anschließend verteilen wir die Themen für die Zusammenfassungen des Buches „Die Gestaltung wissenschaftlicher Arbeiten” und geben Hilfestellung für die Vorbereitung des nächsten Seminartermins.
