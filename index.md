@@ -29,7 +29,7 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 - Die Teilnehmer gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik und können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
 
 ## Wie funktioniert das Seminar?
-**Aufgrund der akutellen Lage bezüglich des Corona Virus werden vorerst keine Präzensveranstaltungen im Praxisprojekt Seminar angeboten. Die Workshops und Abschlusspräsentationen werden so umstrukturiert, dass diese online stattfinden. Detaillierte Informationen dazu können Sie auf den einzelnen Seiten zu den Veranstaltungen entnehmen. Bitte informieren Sie sich in regelmäßigen Abständen auf der Seite, da sich die Lage auch wieder ändern kann.**
+**Aufgrund der aktuellen Lage bezüglich des Corona Virus werden vorerst keine Präzensveranstaltungen im Praxisprojekt Seminar angeboten. Die Workshops und Abschlusspräsentationen werden so umstrukturiert, dass diese online stattfinden. Detaillierte Informationen dazu können Sie auf den einzelnen Seiten zu den Veranstaltungen entnehmen. Bitte informieren Sie sich in regelmäßigen Abständen auf der Seite, da sich die Lage auch wieder ändern kann.**
 
 Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. 
 
