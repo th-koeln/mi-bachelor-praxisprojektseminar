@@ -1,5 +1,5 @@
 ---
-titel: Kickoff - Workshop Wissenschaftliches Arbeiten (DRAFT)
+titel: Kickoff - Workshop Wissenschaftliches Arbeiten
 kuerzel: kickoff
 verantwortlich: ma, vs
 typ: workshop

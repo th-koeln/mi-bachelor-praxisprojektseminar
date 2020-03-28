@@ -1,6 +1,6 @@
 ---
 layout: home
-titel: Über das Modul (DRAFT)
+titel: Über das Modul
 ---
 
 {% include functions/resolve-urls.html target="lias-pruefung" %}
