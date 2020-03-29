@@ -18,10 +18,11 @@ Wir treffen uns [in diesem Raum](https://webconf.vc.dfn.de/mi-bachelor-pp-semina
 
 Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung.
 Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
-* Beutzen Sie bitte ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen.
-* Muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen.
-* Prüfen Sie bitte, am besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer und in Adobe Connect eingestellt sind.
+* benutzen Sie bitte ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen
+* stellen Sie bitte ihr Mikrofon stumm, wenn Sie nicht sprechen
+* prüfen Sie bitte, am besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer und in Adobe Connect eingestellt sind
 * Nutzen Sie bitte nicht die Browserversion von Adobe Connect, da manche Features (z.B. die Bildschirmfreigabe) in manchen Browsern nicht funktionieren. Installieren Sie bitte die Adobe Connect Sofware auf ihrem Computer und verwenden Sie diese stattdessen.
+* bitte geben Sie beim Beitritt in die Session Ihren vollen Namen ein
 
 ## Worum geht es?
 Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Wir machen einen kleinen Rundflug über Ihre Praxisprojekt Themen. Anschließend verteilen wir die Themen für die Zusammenfassungen des Buches „Die Gestaltung wissenschaftlicher Arbeiten” und geben Hilfestellung für die Vorbereitung des nächsten Seminartermins.
