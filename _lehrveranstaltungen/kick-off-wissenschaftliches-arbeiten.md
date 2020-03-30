@@ -8,7 +8,7 @@ termine: 2020-03-31 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: https://webconf.vc.dfn.de/mi-bachelor-pp-seminar/
 info: 
 ---
 ## Wie läuft die Veranstaltung ab?
