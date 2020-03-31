@@ -8,14 +8,13 @@ termine: 2020-03-31 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://webconf.vc.dfn.de/mi-bachelor-pp-seminar/
+raum: https://zoom.us/j/447574268
 info: 
 ---
 
-<!--
 ## Update 31.03. // Wir müssten auf ein anderes Konferenzstool wechseln
 [Praxisprojekt Seminar via Zoom](https://zoom.us/j/447574268)
--->
+
 
 ## Wie läuft die Veranstaltung ab?
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Adobe Connect.
