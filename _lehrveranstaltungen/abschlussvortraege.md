@@ -17,12 +17,7 @@ Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern onli
 
 Wir treffen uns in diesem Raum (Link wird noch bekanntgegeben). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
 
-Es werden voraussichtlich relativ viele Personen sein, die sich gleichzeitg in der Online Konferenz befinden. Das ist eine kleine Herausforderung.
-Um störende Nebengeräusche während der Veranstaltung zu vermeiden, gibt es folgende Dinge zu beachten:
-* Beutzen Sie bitte ein Headset oder sorgen Sie dafür, dass Sie in einem ruhigen Raum sitzen.
-* Muten Sie bitte ihr Mikrofon, wenn Sie nicht sprechen.
-* Prüfen Sie bitte, am besten vor der Veranstaltung, ob die korrekten Audio Ein- und Ausgabegeräte auf ihrem Computer und in Adobe Connect eingestellt sind.
-* Nutzen Sie bitte nicht die Browserversion von Adobe Connect, da manche Features (z.B. die Bildschirmfreigabe) in manchen Browsern nicht funktionieren. Installieren Sie bitte die Adobe Connect Sofware auf ihrem Computer und verwenden Sie diese stattdessen.
+Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
 
 ## Was muss ich als Vortragender beachten?
 Da es sich um eine Prüfung handelt, müssen wir zuerst ihre Identität prüfen. Dazu müssen sie sich via Webcam zeigen und ihre Multica in die Kamera halten. Anschließend können Sie die Kamera wieder ausschalten.

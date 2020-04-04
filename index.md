@@ -38,8 +38,8 @@ Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. 
 
 Folgende Bausteine enthält das Praxisprojekt Seminar:
 
-### [Wissenschaftliches Arbeiten](lehrveranstaltungen/kick-off-wissenschaftliches-arbeiten/)
-Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
+### [Wissenschaftliches Arbeiten](lehrveranstaltungen/wissenschaftliches-arbeiten/)
+Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT020256732)
 
 ### [Themenfeldanalyse](lehrveranstaltungen/themenfeldanalyse/)
 Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
@@ -63,7 +63,7 @@ Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an min
 ## Checkliste für die Abschlusspräsentationen
 Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:
 * Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)
-* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum wird noch bekannt gegeben.
+* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom 13.04.2020 bis zum 08.05.2020.
 * Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird in diesem Screenmovie (Link folgt noch) erklärt.
 * Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar.
 * Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.

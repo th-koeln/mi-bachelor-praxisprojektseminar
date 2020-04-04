@@ -1,5 +1,5 @@
 ---
-titel: Vorstellung Themenfeldanalyse (DRAFT)
+titel: Themenfeldanalyse (konkreter Termin wird noch festgelegt)
 kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
@@ -8,9 +8,17 @@ termine: 2020-04-28 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: Online (URL wird noch bekannt gegeben)
 info: 
 ---
+
+## Wie läuft die Veranstaltung ab?
+
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Adobe Connect.
+
+Die URL des Konferenzraums wird noch bekannt gegeben. Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
+
+Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
 
 ## Worum geht es?
 
@@ -21,7 +29,7 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 - jeder hat einen guten Überblick über sein Themenfeld
 - alle sind in der Lage über ein Themenfeld zu diskutieren, dieses anzugrenzen, weiter zu entwickeln oder zu schärfen
 - jeder hat eine oder mehrere Forschungsfragen zu seinem Themenfeld
-- jeder kann sein Themenfeld live am Whiteboard vorstellen und entwickeln #nopowerpoint
+- jeder kann sein Themenfeld live vorstellen #nopowerpoint
 
 ## Was muss vorbereitet werden?
 
@@ -40,4 +48,5 @@ _Das Buch ist auch in der Bibliothek verfügbar._
 ## Welches Artefakt muss abgegeben werden?
 Bitte erzeugen Sie ein Themenfeldcluster zu Ihrem Praxisprojekt Thema und laden Sie es ins [Ilias hoch](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=1470959&cmd=showOverview).
 
-Abgabefrist: -
+Abgabefrist: 19.04.2020
+
