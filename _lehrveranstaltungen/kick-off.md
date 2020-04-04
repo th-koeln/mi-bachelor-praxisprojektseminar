@@ -36,8 +36,7 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 
 ## Material und Links
 * [Informationen zum Seminar](https://ilias.th-koeln.de/goto.php?target=file_1456364_download&client_id=ILIAS_FH_Koeln)
-* [Ordnung zur Sicherung guter wissenschaftlicher Praxis der Technischen Hochschule Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/endfassung_02_2020.pdf)
+* [Ordnung zur Sicherung guter wissenschaftlicher Praxis der Technischen Hochschule Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/endfassung_02_2020.pdf)
 * [LaTex Vorlage](https://ilias.th-koeln.de/goto.php?target=file_1355498_download&client_id=ILIAS_FH_Koeln)
 * [LaTex Tutorial](https://www.latex-tutorial.com)
-* 
 
