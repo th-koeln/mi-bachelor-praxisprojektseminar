@@ -58,7 +58,7 @@ Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdri
 
 Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im Ilias hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
 
-Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenom teilgenommen haben.
+Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenum teilgenommen haben.
 
 ## Checkliste für die Abschlusspräsentationen
 Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:
