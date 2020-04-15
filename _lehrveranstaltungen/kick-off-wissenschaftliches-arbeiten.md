@@ -1,5 +1,5 @@
 ---
-titel: Kickoff - Workshop Wissenschaftliches Arbeiten (DRAFT)
+titel: Kickoff - Workshop Wissenschaftliches Arbeiten
 kuerzel: kickoff
 verantwortlich: ma, vs
 typ: workshop
@@ -8,7 +8,7 @@ termine: 2020-03-31 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: Online (wird noch bekannt gegeben)
 info: 
 ---
 ## Wie läuft die Veranstaltung ab?

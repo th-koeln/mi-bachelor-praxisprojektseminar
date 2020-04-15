@@ -31,7 +31,11 @@
           </span>
           <div class="nav-right nav-menu">
             {% for item in site.navigation %}
+            {% if item.url contains "http" %}
+            <a class="nav-item" href="{{item.url}}" class="nav-item">{{item.name}}</a>
+            {% else %}
             <a class="nav-item" href="{{ site.baseurl }}/{{item.url}}" class="nav-item">{{item.name}}</a>
+            {% endif %}
             {% endfor %}
           </div>
         </div>

@@ -8,7 +8,7 @@ termine: 2020-06-16 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: Online (wird noch bekannt gegeben)
 info: 
 ---
 

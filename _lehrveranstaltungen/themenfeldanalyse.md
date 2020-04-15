@@ -1,16 +1,24 @@
 ---
-titel: Vorstellung Themenfeldanalyse
-kuerzel: pre
+titel: Vorstellung Themenfeldanalyse & Abschlussvorträge
+kuerzel: abschlussvortraege
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-04-28 10:00
+termine: 2020-04-21 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: 3.216
+raum: Online (wird noch bekannt gegeben)
 info: 
 ---
+
+Das heutige Programm besteht aus zwei Abschlussvorträgen und der Vorstellung der Themenfeldanalyse, inkl. Diskussion.
+
+## Zeitplan
+- 10:00 - 10:30 Uhr: Fragen zum Modul & Erläuterung zum weiteren Vorgehen.
+- 10:30 - 11:00 Uhr: Sven Salzmann – Color Correction & Color Grading in Filmen und Serien
+- 11:00 - 12:30 Uhr: Julia Schüller – Storytelling in Interaction Design
+- 12:30 - 13:00 Uhr: Vorstellung Themenfeldanalyse
 
 ## Worum geht es?
 
@@ -25,7 +33,7 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 ## Was muss vorbereitet werden?
 
-- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten
+- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1470959&client_id=ILIAS_FH_Koeln) bis zum 20. April hochladen
 - Kurzvortrag zum eigenen Themenfeld
 - 3-5 Fragen an das Plenum zum eigenen Thema
 
@@ -35,4 +43,4 @@ _Das Buch ist auch in der Bibliothek verfügbar._
 
 
 ## Was muss geliefert werden?
-- Themenfeldcluster als PDF im Ilias hochladen
+- Themenfeldcluster als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1470959&client_id=ILIAS_FH_Koeln) bis zum 20. April hochladen

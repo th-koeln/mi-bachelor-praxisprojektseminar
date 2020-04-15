@@ -1,5 +1,5 @@
----
-layout: default
+--- 
+layout: default 
 ---
 
 
@@ -9,35 +9,49 @@ layout: default
     <h1 class="title is-1">Abschlussvorträge</h1>
     <!--h2 class="subtitle">Vorträge, Workshops, Trainings und Support</h2-->
 
-    <div class="content">
-    {% assign abschlussvortraege=site.lehrveranstaltungen|sort:'title' | where:"kuerzel","abschlussvortraege" %}
-    {% for abschlussvortrag in abschlussvortraege %}
-    {% assign termine=abschlussvortrag.termine | split: "," %}
-    {% for termin in termine %}
-    {% assign teile=termin | split: " " %}
-    {% assign datum=teile[0] %}
-    <table>
-      <thead>
-        <tr>
-          <th colspan="2">{{ datum | date: '%d. %B %Y' }}</th>
-        </tr>
-      </thead>
-      <tbody>
-      {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %}
-      {% for vortrag in vortraege %}
-      <tr>
-        <td>{{ vortrag.uhrzeit | replace: "-", ":" }} Uhr</td>
-        <td><a href="{{site.baseurl}}{{vortrag.url}}"><strong>{{vortrag.thema}}</strong></a><br>
-        {{vortrag.vorname}} {{vortrag.nachname}}<br>
-        {{vortrag.stichworte}}
-        </td>
-      </tr>
-      {% endfor %}
-      </tbody>
-    </table>
-    {% endfor %}
+    <div class="content has-dot-separator">
+      {% assign abschlussvortraege=site.lehrveranstaltungen|sort:'date' | where:"kuerzel","abschlussvortraege" %}
+      {% for abschlussvortrag in abschlussvortraege %}
+      {% assign termine=abschlussvortrag.termine | split: "," %}
+        {% for termin in termine %}
+        {% assign teile=termin | split: " " %}
+        {% assign datum=teile[0] %}
+      <table>
+        <thead>
+          <tr>
+            <th colspan="2">{{ datum | date: '%d. %B %Y' }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %} {% for vortrag in vortraege %}
+          <tr>
+            <td>{{ vortrag.uhrzeit | replace: "-", ":" }} Uhr</td>
+            <td><a href="{{site.baseurl}}{{vortrag.url}}"><strong>{{vortrag.thema}}</strong></a><br> {{vortrag.vorname}} {{vortrag.nachname}}<br> {{vortrag.stichworte}}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endfor %} 
     {% endfor %}
     </div>
+  </div>
+</section>
 
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <h2 id="tutorial">Sie wollen Ihren Abschlussvortrag halten?</h2>
+      <div class="columns">
+        <div class="column">
+          <div class="js-video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/0B67QUoJVFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="column">
+          Wenn Sie einen Abschlussvortrag halten, müssen Sie eine entsprechende Seite mit Informationen zu Ihrem Projekt **eine Woche vor dem Vortrag** via Pull Request hier bereit stellen. Wie das funktioniert wird im Video erklärt. Bei Fragen nutzen Sie bitte das Ilias Forum.
+        </div>
+      </div>
+    </div>
   </div>
 </section>
