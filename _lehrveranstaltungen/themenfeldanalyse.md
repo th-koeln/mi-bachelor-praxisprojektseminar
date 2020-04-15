@@ -29,7 +29,7 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 - jeder hat einen guten Überblick über sein Themenfeld
 - alle sind in der Lage über ein Themenfeld zu diskutieren, dieses anzugrenzen, weiter zu entwickeln oder zu schärfen
 - jeder hat eine oder mehrere Forschungsfragen zu seinem Themenfeld
-- jeder kann sein Themenfeld live am Whiteboard vorstellen und entwickeln #nopowerpoint
+- jeder kann sein Themenfeld live vorstellen #nopowerpoint
 
 ## Was muss vorbereitet werden?
 

@@ -29,7 +29,7 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 - Die Teilnehmer gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik und können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
 
 ## Wie funktioniert das Seminar?
-**Aufgrund der akutellen Lage bezüglich des Corona Virus werden vorerst keine Präzensveranstaltungen im Praxisprojekt Seminar angeboten. Die Workshops und Abschlusspräsentationen werden so umstrukturiert, dass diese online stattfinden. Detaillierte Informationen dazu können Sie auf den einzelnen Seiten zu den Veranstaltungen entnehmen. Bitte informieren Sie sich in regelmäßigen Abständen auf der Seite, da sich die Lage auch wieder ändern kann.**
+**Aufgrund der aktuellen Lage bezüglich des Corona Virus werden vorerst keine Präzensveranstaltungen im Praxisprojekt Seminar angeboten. Die Workshops und Abschlusspräsentationen werden so umstrukturiert, dass diese online stattfinden. Detaillierte Informationen dazu können Sie auf den einzelnen Seiten zu den Veranstaltungen entnehmen. Bitte informieren Sie sich in regelmäßigen Abständen auf der Seite, da sich die Lage auch wieder ändern kann.**
 
 Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. 
 
@@ -38,8 +38,8 @@ Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. 
 
 Folgende Bausteine enthält das Praxisprojekt Seminar:
 
-### [Wissenschaftliches Arbeiten](lehrveranstaltungen/kick-off-wissenschaftliches-arbeiten/)
-Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT019292028)
+### [Wissenschaftliches Arbeiten](lehrveranstaltungen/wissenschaftliches-arbeiten/)
+Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT020256732)
 
 ### [Themenfeldanalyse](lehrveranstaltungen/themenfeldanalyse/)
 Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
@@ -58,14 +58,14 @@ Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdri
 
 Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im Ilias hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
 
-Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenom teilgenommen haben.
+Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenum teilgenommen haben.
 
 ## Checkliste für die Abschlusspräsentationen
 Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:
 * Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)
-* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum wird noch bekannt gegeben.
-* Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird in diesem Screenmovie (Link folgt noch) erklärt.
-* Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar.Hier finden Sie ein [Tutorial zum Einbinden Ihrer Informationen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial).
+* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom 13.04.2020 bis zum 08.05.2020.
+* Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird [in diesem Screenmovie erklärt](https://th-koeln.sciebo.de/s/eXWPKs32ZCEKr1h).
+* Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar. Hier finden Sie ein [Tutorial zum Einbinden Ihrer Informationen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial).
 * Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.
 
 ## Bewertung
