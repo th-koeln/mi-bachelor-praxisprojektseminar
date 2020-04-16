@@ -1,24 +1,24 @@
 ---
-nachname: Noss
-vorname: Christian
+nachname: Salzmann
+vorname: Sven
 datum: 2020-04-21
 uhrzeit: 10-30
 raum: 3.216
-betreuer: gh
-thema: Evaluation verschiedener Wireframing Techniken
+betreuer: hk
+thema: Color Correction & Color Grading Filmen und Serien
 kooperationspartner: TH Köln
-teaserimage: noss-christian-teaserimage.jpg
-stichworte: Frondend-Development, Design, UX/UI, Methoden
+teaserimage: salzmann-sven-teaserimage.jpg
+stichworte: Color Grading, Color Correction, Filmproduktion, Postproduktion
 hinweise:
 ---
 
 ## Abstract
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. **Das Abstract wird mit bewertet.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Das Ziel des Praxisprojekt ist es die Grundlagen von Farbkorrektur und Grading in Filmproduktionen zu verstehen und richtig anzuwenden. Außerdem soll herausgefunden werden ob mit Hilfe des erlernten Wissens ganze Farbgradings von Filmen oder Serien nachgestellt werden können. Hierzu wird sich folgende Forschungsfrage gestellt: Inwieweit lässt sich eine Filmszene nach detaillierter Analyse im Bezug auf ihre Farbgebung, mit gängigen Color Correction & Grading Techniken in Davinci Resolve nachstellen?
+Zu Beginn des Praxisprojekts wird das theoretische Grundwissen und einige Abläufe in professionellen Filmproduktionen recherchiert. Daraufhin werden, mit dem neu erlerntem Wissen, einige Film und - Serienszenen betrachtet und analysiert. Auf Basis der Komplexität der Szenen und der Realisierbarkeit im Rahmen des Praxisprojekts werden zwei Szenen ausgesucht die sich zur Nachstellung gut eignen. Plan ist es diese zwei Szenen, möglichst ähnlich nach zudrehen und mit Hilfe der Ergebnisse der vorangegangenen Analyse und dem Wissen aus dem Theorieteil der Arbeit farblich identisch zu gestalten.
+Beim Nachdreh der Szene gab es einige Dinge zu beachten wie z.B. die richtige Lichtgebung, das Videoformat sowie der Codec in dem gefilmt wurde. Mit Hilfe von verschiedenen Werkzeugen in Davinci Resolve, der Software die zur Bearbeitung benutzt wurde, war es möglich den Look der ausgewählten Szenen zu identifizieren. Durch die Merkmale die bei diesem Prozess herausgefiltert wurden, war es letztendlich möglich die zwei ausgewählten Szenen ziemlich ähnlich nachzustellen. Es gab ein paar Abweichungen wie z.B. gegebene Lichtverhältnisse die nicht beeinflussbar waren oder auch die Tatsache die Umgebungen in der Szene nicht eins zu eins abbilden zu können. Jedoch sind diese für das Endergebnis nicht deutlich relevant. 
+Die einleitende Forschungsfrage kann somit beantwortet werden. Es ist möglich mit Hilfe von gewissen Grundkenntnissen und einer analytischen Vorgehensweise einen gewünschten Look eines Films oder einer Serie nachzustellen. 
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
 
 ## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-- [https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
-- [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
+- [Sciebo mit den Ergebnissen des Praxisprojekts](https://th-koeln.sciebo.de/s/2lKZXV930JDV47s)
