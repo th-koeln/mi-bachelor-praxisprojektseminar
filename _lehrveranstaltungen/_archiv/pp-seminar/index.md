@@ -63,7 +63,7 @@ Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden k
 * Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)
 * Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum wird noch bekannt gegeben.
 * Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird in diesem Screenmovie (Link folgt noch) erklärt.
-* Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar.
+* Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar.
 * Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.
 
 ## Bewertung

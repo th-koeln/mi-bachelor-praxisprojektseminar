@@ -17,7 +17,7 @@ Spielplatztreff.de ist eine Online Plattform für Eltern, die einen geeigneten S
 
 Die Finanzierung erfolgt über Werbeeinblendungen.
 
-<p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/projektbriefing/projektbriefing.pdf">Download der Briefing-Slides als PDF</a></p>
+<p><a href="/mi-bachelor-gdvk/download/projektbriefing/projektbriefing.pdf">Download der Briefing-Slides als PDF</a></p>
 
 ## Daten und Fakten
 - Anzahl der registrierten User: 3927
@@ -64,7 +64,7 @@ Machen Sie Ihr Designkonzept in einem non-funktionalen Prototypen erlebbar, der 
 Nutzen Sie nur Bilder und Texte von Spielplatztreff.de.
 
 ## Material 
-<p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/projektbriefing/designpack_spielplatztreff.zip">Download des Designpacks</a></p>
+<p><a href="/mi-bachelor-gdvk/download/projektbriefing/designpack_spielplatztreff.zip">Download des Designpacks</a></p>
 
 ## Termine
 **Zwischenpräsentation**  
@@ -90,4 +90,4 @@ Angebot und Anschreiben als PDF und hochwertiger Ausdruck
 - Gestaltungskonzept als Design Mockup / Non-funktionaler Prototyp (PDF und *.zip Archiv mit Einzelscreens)
 - Patternlab / Styleguide als PDF
 
-> <a href="https://th-koeln.github.io/mi-bachelor-gdvk/niveaustufen/">https://th-koeln.github.io/mi-bachelor-gdvk/niveaustufen/</a>
+> <a href="/mi-bachelor-gdvk/niveaustufen/">/mi-bachelor-gdvk/niveaustufen/</a>

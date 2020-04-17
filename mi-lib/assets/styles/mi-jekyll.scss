@@ -469,6 +469,17 @@ $tt-grid-height: 60px;
       display: inline-block;
       padding-right: $bfs /4;
     }
+
+    &.-is-list{
+      dt{
+        display: block;
+        float: none;
+      }
+
+      dd{
+        margin-bottom: 0.25em;
+      }
+    }
   }
 
   table {

@@ -16,7 +16,7 @@ info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungs
 In dem Workshop sprechen wir über responsives Design, die notwendigen Grundlagen und Design-Pattern.
 Im Anschluss wenden wir das Erlernte praktisch auf ihr Projekt an.
 
-<p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/workshop-layouts-fuer-verschiedene-endgeraete/layouts_fuer_verschiedene_endgeraete.pdf">Download der Workshop Slides als PDF</a></p>
+<p><a href="/mi-bachelor-gdvk/download/workshop-layouts-fuer-verschiedene-endgeraete/layouts_fuer_verschiedene_endgeraete.pdf">Download der Workshop Slides als PDF</a></p>
 
 ## Was brauchen Sie?
 - Einen eigenen Computer bzw. mindestens einen Rechner pro Team

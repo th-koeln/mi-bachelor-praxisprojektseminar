@@ -24,7 +24,7 @@ layout: default-mit-teaser
       <div class="columns">
 
         <div class="column is-4">
-        <dl class="overview">
+        <dl class="overview -is-list">
         <dt>Präsentation</dt><dd>{{ page.datum | date: '%d. %B %Y' }}, {{ page.uhrzeit | replace: "-", ":" }} Uhr, Raum {{page.raum}}</dd>
         <dt>Betreuer</dt><dd>{{betreuer}}</dd>
         {% assign check = page.kooperationspartner | strip_newlines %}
