@@ -2,7 +2,7 @@
 nachname: Schindler
 vorname: Krystian
 datum: 2020-04-21
-uhrzeit: 11-45
+uhrzeit: 11-30
 raum: online
 betreuer: hfw
 thema: Auslesen und Speichern medizinischer Sensordaten mithilfe eines Arduino
