@@ -412,7 +412,6 @@ $tt-grid-height: 60px;
   }
 
 
-
   h1 {
     font-size: $bfs * 1.6;
     font-weight: 500;
@@ -810,4 +809,34 @@ h2.is-inverse{
   display: inline-block;
   padding: $bfs / 4;
 
+}
+
+/* Timetable Talks
+############################################################################ */
+
+.content .timetable-talks{
+  width: 100%;
+  max-width: 100%;
+  margin-top: $bfs;
+  margin-bottom: $bfs;
+
+  td{
+    padding-top: $bfs;
+    padding-bottom: $bfs;
+  }
+
+  &__time{
+    width: 10%;
+    white-space: nowrap;
+    padding-left: 0;
+  }
+
+}
+
+/* Helper
+############################################################################ */
+
+.has-seperator{
+  border-bottom: solid 1px $mi-lila;
+  padding-bottom: $bfs * 3;
 }
