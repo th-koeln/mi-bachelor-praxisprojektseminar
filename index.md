@@ -68,6 +68,14 @@ Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden k
 * Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar. Hier finden Sie ein [Tutorial zum Einbinden Ihrer Informationen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial).
 * Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.
 
+### Besonderheiten bei Online Präsentationen
+Im Zuge der eingeschränkten Präsenztermine im aktuellen Sommersemester aufgrund der Covid-19 Problematik, finden die Termine des Praxisprojekt Seminars online statt. Somit sind auch die Abschlussvorträge Online Termine. Bitte berücksichtigen sie folgende Hinweise:
+- sorgen Sie für eine gute Internetverbindung
+- sorgen Sie für möglichst guten Ton, z.B. via Headset
+- sorgen Sie für eine ruhige Umgebung
+- sorgen Sie für ein Kamerabild, da wir Sie zur Identifikation sehen müssen
+- halten Sie ein Foto von Ihrer Multica bereit
+
 ## Bewertung
 Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 10% aus der Bewertung des Abstracts, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Das Abstract, der Seminarvortrag einschließlich der anschließenden Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet.
 
