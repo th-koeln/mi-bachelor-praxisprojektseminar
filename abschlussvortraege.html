@@ -9,7 +9,7 @@ layout: default
     <h1 class="title is-1">Abschlussvorträge</h1>
     <!--h2 class="subtitle">Vorträge, Workshops, Trainings und Support</h2-->
 
-    <div class="content has-dot-separator">
+    <div class="content has-seperator">
 
       {% assign abschlussvortraege=site.lehrveranstaltungen|sort:"date: %Y-%m-%d"| where:"kuerzel","abschlussvortraege" %}
       {% for abschlussvortrag in abschlussvortraege %}
@@ -17,26 +17,28 @@ layout: default
         {% for termin in termine %}
         {% assign teile=termin | split: " " %}
         {% assign datum=teile[0] %}
-      <table class="-is-large">
-        <thead>
-          <tr>
-            <th colspan="2">{{ datum | date: '%d. %B %Y' }}</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %} {% for vortrag in vortraege %}
-          <tr>
-            <td width="33%">{{ vortrag.uhrzeit | replace: "-", ":" }} Uhr</td>
-            <td><a href="{{site.baseurl}}{{vortrag.url}}"><strong>{{vortrag.thema}}</strong></a><br> {{vortrag.vorname}} {{vortrag.nachname}}<br>
-            {% assign stichworte = vortrag.stichworte|split: "," %}
-            {%for stichwort in stichworte %}
-            <span class="tag">{{stichwort}}</span>
+        {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %}
+        {% if vortraege.size > 0 %}
+        <h3>{{ datum | date: '%d. %B %Y' }}</h3>
+        <table class="timetable-talks">
+          <tbody>
+            {% for vortrag in vortraege %}
+            <tr>
+              <td class="timetable-talks__time">{{ vortrag.uhrzeit | replace: "-", ":" }} Uhr</td>
+              <td><a href="{{site.baseurl}}{{vortrag.url}}"><strong>{{vortrag.thema}}</strong></a><br> {{vortrag.vorname}} {{vortrag.nachname}}<br>
+              {% assign stichworte = vortrag.stichworte|split: "," %}
+              {%for stichwort in stichworte %}
+              <span class="tag">{{stichwort}}</span>
+              {% endfor %}
+              </td>
+            </tr>
             {% endfor %}
-            </td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
+          </tbody>
+        </table>
+        {% else %}
+        <h3>{{ datum | date: '%d. %B %Y' }}</h3>
+        <p>Bislang sind für diesen Termin noch keine Vorträge geplant.</p>
+        {% endif %}
       {% endfor %} 
     {% endfor %}
     </div>
