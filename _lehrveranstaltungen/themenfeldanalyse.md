@@ -8,7 +8,8 @@ termine: 2020-04-21 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online (wird noch bekannt gegeben)
+raum: https://zoom.us/j/99463334433 (Zugangscode ist pps)
+zugangscode: 
 info: 
 ---
 
@@ -17,8 +18,9 @@ Das heutige Programm besteht aus zwei Abschlussvorträgen und der Vorstellung de
 ## Zeitplan
 - 10:00 - 10:30 Uhr: Fragen zum Modul & Erläuterung zum weiteren Vorgehen.
 - 10:30 - 11:00 Uhr: Sven Salzmann – Color Correction & Color Grading in Filmen und Serien
-- 11:00 - 12:30 Uhr: Julia Schüller – Storytelling in Interaction Design
-- 12:30 - 13:00 Uhr: Vorstellung Themenfeldanalyse
+- 11:00 - 11:30 Uhr: Julia Schüller – Storytelling in Interaction Design
+- 11:30 - 12:00 Uhr: Krystian Schindler – Auslesen und Speichern medizinischer Sensordaten mithilfe eines Arduino
+- 12:00 - 13:00 Uhr: Vorstellung Themenfeldanalyse
 
 ## Worum geht es?
 
