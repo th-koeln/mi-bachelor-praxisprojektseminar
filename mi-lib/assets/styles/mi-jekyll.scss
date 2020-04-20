@@ -474,10 +474,11 @@ $tt-grid-height: 60px;
       dt{
         display: block;
         float: none;
+        padding: 0;
       }
 
       dd{
-        margin-bottom: 0.25em;
+        margin-bottom: 0.5em;
       }
     }
   }
