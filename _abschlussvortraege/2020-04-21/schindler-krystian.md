@@ -3,7 +3,7 @@ nachname: Schindler
 vorname: Krystian
 datum: 2020-04-21
 uhrzeit: 11-30
-raum: online
+raum: https://zoom.us/j/99463334433 (Zugangscode ist pps)
 betreuer: hfw
 thema: Auslesen und Speichern medizinischer Sensordaten mithilfe eines Arduino
 kooperationspartner: TH Köln, telexiom AG

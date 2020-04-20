@@ -3,7 +3,7 @@ nachname: Salzmann
 vorname: Sven
 datum: 2020-04-21
 uhrzeit: 10-30
-raum: 3.216
+raum: https://zoom.us/j/99463334433 (Zugangscode ist pps)
 betreuer: hk
 thema: Color Correction & Color Grading Filmen und Serien
 kooperationspartner: TH Köln
