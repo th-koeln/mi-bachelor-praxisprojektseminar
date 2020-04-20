@@ -11,7 +11,7 @@
   <meta property="og:title" content="{{page.title}}" />
   <meta property="og:description" content="{{page.excerpt | strip_html | truncate:160}}" />
   <meta property="og:url" content="{{ site.baseurl }}{{page.url}}" />
-  <meta property="og:image" content="url({{ site.baseurl }}/{{page.dir}}/{{page.teaserimage}}" />
+  <meta property="og:image" content="{{ site.baseurl }}{{page.url}}{{page.teaserimage}}" />
 
   <meta name="description" content="{{page.excerpt | strip_html | truncate:160}}">
 

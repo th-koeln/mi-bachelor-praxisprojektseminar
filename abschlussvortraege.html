@@ -11,7 +11,7 @@ layout: default
 
     <div class="content has-seperator">
 
-      {% assign abschlussvortraege=site.lehrveranstaltungen|sort:"date: %Y-%m-%d"| where:"kuerzel","abschlussvortraege" %}
+      {% assign abschlussvortraege=site.lehrveranstaltungen|sort: "datum" | where:"kuerzel","abschlussvortraege" %}
       {% for abschlussvortrag in abschlussvortraege %}
       {% assign termine=abschlussvortrag.termine | split: "," %}
         {% for termin in termine %}
