@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-05-05 10:00
+termine: 2020-05-19 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -22,13 +22,25 @@ Heute werden die reviewten Exposés in einer kurzen Session von den Reviewern vo
 - Erste Erfahrung mit LaTex sammeln
 - kurzen Fachdiskurs zu ausgewählten Punkten anregen
 
+## Wie läuft die Veranstaltung ab?
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Zoom.
+
+Wir treffen uns [in diesem Raum](#) (Link wird noch hinterlegt). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
+
+Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
+
 ## Material
 * [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
 * [LaTex Vorlage](https://ilias.th-koeln.de/goto.php?target=file_1355498_download&client_id=ILIAS_FH_Koeln)
 * [LaTex Tutorial](https://www.latex-tutorial.com)
 
 ## Was muss vorbereitet werden?
-Ein in LaTex erstelltes Exposé, dass durch zwei Kommilitonen einem Review unterzogen wurde. Beim Review gilt es die Methoden und Konzepte wissenschaftlichen Schreibens anzuwenden. Hinweise und Annotationen sind als Kommentare im PDF zu hinterlegen. Das kommentierte PDF dann bitte im Ilias hochladen. Bereiten Sie als Reviewer bitte eine kurze Vorstellung des Reviews vor dem Plenum vor.
+Ein in LaTex erstelltes Exposé, welches durch zwei Kommilitonen einem Review unterzogen werden muss. Beim Review gilt es die Methoden und Konzepte wissenschaftlichen Schreibens anzuwenden. Hinweise und Annotationen sind als Kommentare im PDF zu hinterlegen. Das kommentierte PDF dann bitte im Ilias hochladen. Bereiten Sie als Reviewer bitte eine kurze Vorstellung des Reviews vor dem Plenum vor.
 
 ## Was muss geliefert werden? 
-Exposé als PDF mit Annotationen im Ilias hochladen.
+Ein Exposé inklusive Annotationen als PDF von jedem Reviewer.
+Dieses wird vom Autor des Exposés im Ilias hochgeladen.  
+Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken.  
+Die Benamung der Datei muss wie folgt aussehen:  
+`[pp-sose-2020-nachname_autor-nachname_reviewer]`
+
