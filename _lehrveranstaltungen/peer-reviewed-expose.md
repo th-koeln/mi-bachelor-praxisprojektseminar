@@ -23,11 +23,7 @@ Heute werden die reviewten Exposés in einer kurzen Session von den Reviewern vo
 - kurzen Fachdiskurs zu ausgewählten Punkten anregen
 
 ## Wie läuft die Veranstaltung ab?
-Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Zoom.
-
-Wir treffen uns [in diesem Raum](#) (Link wird noch hinterlegt). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
-
-Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Zoom. Beachten Sie dazu bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
 
 ## Material
 * [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
@@ -38,9 +34,12 @@ Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisproj
 Ein in LaTex erstelltes Exposé, welches durch zwei Kommilitonen einem Review unterzogen werden muss. Beim Review gilt es die Methoden und Konzepte wissenschaftlichen Schreibens anzuwenden. Hinweise und Annotationen sind als Kommentare im PDF zu hinterlegen. Das kommentierte PDF dann bitte im Ilias hochladen. Bereiten Sie als Reviewer bitte eine kurze Vorstellung des Reviews vor dem Plenum vor.
 
 ## Was muss geliefert werden? 
-Ein Exposé inklusive Annotationen als PDF von jedem Reviewer.
-Dieses wird vom Autor des Exposés im Ilias hochgeladen.  
-Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken.  
-Die Benamung der Datei muss wie folgt aussehen:  
-`[pp-sose-2020-nachname_autor-nachname_reviewer]`
+Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken. Die Benamung sollte folgendem Muster entsprechen:
+> NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR-KUERZELREVIEWER.pdf
+
+Am Beispiel eines Exposés von Christian Noss(Autor) und Volker Schaefer(Reviewer) im Sommersemester 2020:
+> noss-christian-pp-ss-2020-vschaefer.pdf
+
+Am Beispiel eines Exposés von Christian Noss(Autor) und Markus Alterauge(Reviewer) im Wintersemester 2020/21:
+> noss-christian-pp-ss-2020-malterauge.pdf
 

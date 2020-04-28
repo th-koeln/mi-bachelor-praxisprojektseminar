@@ -8,7 +8,7 @@ termine: 2020-04-28 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/84926215371 (Zugangscode ist pps)
+raum: Online
 info: 
 ---
 
