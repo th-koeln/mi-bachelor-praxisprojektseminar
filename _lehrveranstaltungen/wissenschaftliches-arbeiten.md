@@ -31,7 +31,7 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 
 ## Workshopaufaufgabe
 
-### [Link zur Mindmap](https://www.mindmeister.com/1484732493?t=A079vxHNYU )
+### [Link zur Mindmap](https://mm.tt/1484732493?t=A079vxHNYU)
 
 Themen der Sessions:
 
