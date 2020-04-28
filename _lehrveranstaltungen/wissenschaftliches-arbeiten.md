@@ -29,3 +29,15 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 ## Welches Artefakt muss abgegeben werden?
 - keins
 
+## Workshopaufaufgabe
+
+### [Link zur Mindmap](https://www.mindmeister.com/1484732493?t=A079vxHNYU )
+
+Themen der Sessions:
+
+- Stil der Arbeit: Breakout 1 & 2 
+- Thema, Betreuer und Forschungsfrage: Session 3 & 4 
+- Wissenschaftliche Grundlagen: Session 5 & 6 
+- Inhaltlicher Aufbau und formale Bausteine der Arbeit: Session 7 & 8 
+- Wissenschaftliche Quellen: Session 9 
+- Zitate: Session 10
