@@ -18,13 +18,6 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 ## Was sind die Ziele?
 - alle haben ein Grundverständnis zum wissenschaftlichen Arbeiten, auf dem sie ein wissenschaftliches Exposé verfassen können
 
-## Wie läuft die Veranstaltung ab?
-Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Zoom.
-
-Wir treffen uns [in diesem Raum](#) (Link wird noch hinterlegt). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
-
-Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
-
 ## Was muss vorbereitet werden?
 * Das Buch *Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten* muss gelesen sein und Sie müssen in der Lage sein, über wesentliche Aussagen der einzelnen Kapitel kurz referieren zu können. 
 
