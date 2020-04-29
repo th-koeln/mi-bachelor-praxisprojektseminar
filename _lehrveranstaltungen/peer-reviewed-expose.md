@@ -34,12 +34,18 @@ Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern
 Ein in LaTex erstelltes Exposé, welches durch zwei Kommilitonen einem Review unterzogen werden muss. Beim Review gilt es die Methoden und Konzepte wissenschaftlichen Schreibens anzuwenden. Hinweise und Annotationen sind als Kommentare im PDF zu hinterlegen. Das kommentierte PDF dann bitte im Ilias hochladen. Bereiten Sie als Reviewer bitte eine kurze Vorstellung des Reviews vor dem Plenum vor.
 
 ## Was muss geliefert werden? 
-Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken. Die Benamung sollte folgendem Muster entsprechen:
+Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken. 
+
+[Dateiupload für die Exposés](https://ilias.th-koeln.de/ilias.php?ref_id=1470959&ass_id=14912&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=ba:md:bq:bp&baseClass=ilExerciseHandlerGUI)
+
+Die Benamung sollte folgendem Muster entsprechen:
 > NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR-KUERZELREVIEWER.pdf
 
 Am Beispiel eines Exposés von Christian Noss(Autor) und Volker Schaefer(Reviewer) im Sommersemester 2020:
 > noss-christian-pp-ss-2020-vschaefer.pdf
 
 Am Beispiel eines Exposés von Christian Noss(Autor) und Markus Alterauge(Reviewer) im Wintersemester 2020/21:
-> noss-christian-pp-ss-2020-malterauge.pdf
+> noss-christian-pp-ws-2020-2021-malterauge.pdf
+
+
 
