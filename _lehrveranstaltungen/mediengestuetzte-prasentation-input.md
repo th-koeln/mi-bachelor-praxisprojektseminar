@@ -1,7 +1,7 @@
 ---
 titel: Mediengestützte Präsentation Input // Abschlussvorträgen
 kuerzel: pre
-verantwortlich: ma, vs
+verantwortlich: cn
 typ: abschlussvortraege
 pflicht: false
 termine: 2020-06-09 10:00
