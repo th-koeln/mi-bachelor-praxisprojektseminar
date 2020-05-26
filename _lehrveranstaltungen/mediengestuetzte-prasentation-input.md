@@ -1,5 +1,5 @@
 ---
-titel: Mediengestützte Präsentation Input // Abschlussvorträge
+titel: Abschlussvorträge // Mediengestützte Präsentation Input
 kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
