@@ -16,7 +16,6 @@
   {% assign teaserPathSize = teaserPath.size|minus:1 %}
   {% assign newTeaserPath = teaserPath|slice: 0, teaserPathSize | join: "/" %}
   <meta property="og:image" content="{{site.url}}{{ site.baseurl }}{{newTeaserPath}}/{{page.teaserimage}}" />
-
   <meta name="description" content="{{page.excerpt | strip_html | truncate:160}}">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
