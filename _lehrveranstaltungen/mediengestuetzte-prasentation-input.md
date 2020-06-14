@@ -15,7 +15,7 @@ info:
 
 ## Zeitplan
 - ab 10:00 Uhr Abschlussvorträge
-- im Anschluss Fragen zum Modul & Input zur mediengestützten Präsentation
+- Input zur mediengestützten Präsentation/ Livesession
 
 ## Material
 - [Slides von Christian Noss](../../material/mi-pps-praesentation/)

@@ -6,7 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2020-06-30 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 raum: Online (wird noch bekannt gegeben)
 info: 

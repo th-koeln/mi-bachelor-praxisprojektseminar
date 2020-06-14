@@ -1,5 +1,5 @@
 ---
-titel: Mediengestützte Präsentation
+titel: Mediengestützte Präsentation & Livesession
 kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
@@ -36,3 +36,4 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 
 ## Was muss geliefert werden?
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
+- Falls Live Session: Movie von Livesession im Ilias hochladen
