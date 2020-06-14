@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: mb
 thema: Vergleich von Ansätzen zur Identifikation von Schwachstellen bei Smart Home Devices
 kooperationspartner: TH Köln
-teaserimage: hamo-iwan-teaserimage.png
+teaserimage: Hamo-iwan-teaserimage.png
 stichworte: Smart Home, Security, Network, Privcacy
 hinweise:
 ---
