@@ -19,7 +19,7 @@ layout: default
         {% assign datum=teile[0] %}
         {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %}
         {% if vortraege.size > 0 %}
-        <h3>{{ datum | date: '%d. %B %Y' }}</h3>
+        <h3>{{ datum | date: '%d. %B %Y' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
         <table class="timetable-talks">
           <tbody>
             {% for vortrag in vortraege %}

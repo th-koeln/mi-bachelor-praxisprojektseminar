@@ -1,8 +1,8 @@
 ---
-nachname: Noss
-vorname: Christian
-datum: 2020-01-01
-uhrzeit: 10-30
+nachname: Schmidt
+vorname: Kai
+datum: 2020-06-15
+uhrzeit: 10-00
 raum: 3.216
 betreuer: gh
 thema: Evaluation verschiedener Wireframing Techniken
