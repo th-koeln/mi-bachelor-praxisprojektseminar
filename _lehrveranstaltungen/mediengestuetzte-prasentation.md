@@ -8,7 +8,7 @@ termine: 2020-06-23 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online (wird noch bekannt gegeben)
+raum: https://us02web.zoom.us/j/89896269940 (Zugangscode pps)
 info: 
 ---
 

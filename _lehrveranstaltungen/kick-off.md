@@ -8,12 +8,9 @@ termine: 2020-03-31 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://zoom.us/j/447574268
+raum: Online
 info: 
 ---
-
-## Update 31.03. // Wir müssten auf ein anderes Konferenzstool wechseln
-[Praxisprojekt Seminar via Zoom](https://zoom.us/j/447574268)
 
 
 ## Wie läuft die Veranstaltung ab?
