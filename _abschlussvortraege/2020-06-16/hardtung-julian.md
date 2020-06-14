@@ -3,7 +3,7 @@ nachname: Hardtung
 vorname: Julian
 datum: 2020-06-16
 uhrzeit: 10-30
-raum: 3.216
+raum: Online Präsentation
 betreuer: me
 thema: Development of a Desktop Application for Creating Origami Diagrams
 kooperationspartner: TH Köln
@@ -19,4 +19,5 @@ Origami ist die Kunst aus Papier verschiedene Figuren, wie Menschen Tiere oder �
 Ziel des Praxisprojektes ist es nun eine Desktopapplikation zu entwickeln, mit der diese Diagramme erstellt werden können. Dabei soll die etablierte Origami Notation des Yoshizawa–Randlett Systems mit verschiedenen Symbolen, Pfeilen und Linien in dem Programm implementiert sein. Des Weiteren soll das geplante System Funktionen beinhalten, mit denen der Erstellungsprozess der Diagramme erleichtert und beschleunigt wird.
 
 ## Material & weiterführende Infos
+- Link zur Teilnahme an der [Online Präsentation](/mi-bachelor-praxisprojektseminar/lehrveranstaltungen/mediengestuetzte-prasentation-input/)
 - [Repo zum Praxisprojekt](https://github.com/JuHardtung/Hardtung_PP_WiSe1920)
