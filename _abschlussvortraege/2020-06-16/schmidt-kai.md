@@ -1,24 +1,26 @@
 ---
 nachname: Schmidt
 vorname: Kai
-datum: 2020-06-15
+datum: 2020-06-16
 uhrzeit: 10-00
-raum: 3.216
-betreuer: gh
-thema: Evaluation verschiedener Wireframing Techniken
+raum: Online Präsentation 
+betreuer: hk
+thema: Praktische Anwendung von Gestaltungsregeln der auditiven Postproduktion im Film
 kooperationspartner: TH Köln
-teaserimage: noss-christian-teaserimage.jpg
-stichworte: Frondend-Development, Design, UX/UI, Methoden
+teaserimage: schmidt-kai-teaserimage.PNG
+stichworte: Film, Filmmusik, Sounddesign
 hinweise:
 ---
 
 ## Abstract
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. **Das Abstract wird mit bewertet.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+In diesem Praxisprojekt wird die Frage geklärt „Inwiefern lassen sich Gestaltungsregeln der auditiven Postproduktion in einem praktischen Beispiel umsetzen?“ am praktischen Beispiel des Films „After Sunset“. Dieser Film wurde bereits in vergangenen Semestern in den Modulen „AVM2“ und „VEA“ erstellt, dabei wurde allerdings kein besonderer Wert auf Sound Design und Filmmusik gelegt, weshalb er in diesem Projekt noch einmal überarbeitet wird.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Im ersten Schritt dieses Projektes werden zunächst die grundlegenden Gestaltungsregeln und Kerntheorien der Filmmusik und des Sound Designs aus der Literatur herausgearbeitet. Auf diesen Grundlagen aufbauend wird zum einen ein eigenes Musikstück für den Film komponiert und erstellt. Das Musikstück wird dabei mit verschiedenen Ansätzen erstellt, beispielsweise passend zum Videoschnitt und passend zu den Takten der Musik. Die Vergleiche dieser unterschiedlichen Herangehensweisen werden am Ende noch einmal genauer analysiert. Zum anderen werden noch wichtige Szenen, in Bezug auf die Dramaturgie der Szene im Verhältnis zum Gesamtfilm, auf den Grundlagen des Sound Designs überarbeitet.
+
+In dem Musikbearbeitungsprogramm „Cubase“ wird dabei die Musik erstellt und bearbeitet. Ebenso werden die anderen Tonsequenzen aus dem Film in diesem Programm überarbeitet. In dem Videobearbeitungsprogramm „DaVinci Resolve“ wird anschließend die Musik mit dem Bildmaterial verbunden, um somit einen Vergleich mit den ursprünglichen Szenen zu ermöglichen.
+
+Der Vergleich liefert am Ende das Ergebnis auf die vorgestellte Forschungsfrage. Diese lässt sich insofern beantworten, dass es zwar Gestaltungsregeln gibt, die es zu beachten gibt, allerdings sind diese quantitativ wenig, weshalb immer noch eine grundsätzliche Freiheit für den Komponisten oder den Sound Designer vorhanden ist.
 
 ## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-- [https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
-- [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
+- [Sciebo Link zu den Ergebnissen des Projektes. Passwort: pps](https://th-koeln.sciebo.de/s/uaz8TdnQXFNmseP)
