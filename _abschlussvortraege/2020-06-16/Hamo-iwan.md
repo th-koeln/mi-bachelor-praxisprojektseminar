@@ -5,9 +5,9 @@ datum: 2020-06-16
 uhrzeit: 11-00
 raum: 3.216
 betreuer: mb
-thema: Vergleich von Ansaetzen zur Identifikation von Schwachstellen bei Smart Home Devices
+thema: Vergleich von Ansätzen zur Identifikation von Schwachstellen bei Smart Home Devices
 kooperationspartner: TH Köln
-teaserimage: Hamo-iwan-teaserimage.jpg
+teaserimage: hamo-iwan-teaserimage.png
 stichworte: Smart Home, Security, Network, Privcacy
 hinweise:
 ---
