@@ -14,7 +14,7 @@ info:
 
 
 ## Zeitplan
-- ab 10:00 Uhr Abschlussvorträge
+- ab 10:00 Uhr [Abschlussvorträge](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/abschlussvortraege/)
 - Input zur mediengestützten Präsentation/ Livesession
 
 ## Material
