@@ -1,26 +1,22 @@
 ---
-nachname: Schmidt
-vorname: Kai
-datum: 2020-06-16
-uhrzeit: 10-00
+nachname: Tanriverdi 
+vorname: Merve
+datum: 2020-07-07
+uhrzeit: 11-45
 raum: Online Präsentation 
 betreuer: hk
-thema: Praktische Anwendung von Gestaltungsregeln der auditiven Postproduktion im Film
+thema: Untersuchung der Produktionsabläufe in der Film- und Seriensynchronisation mit besonderer Betrachtung der softwarebasierten Produktionsprozesse
 kooperationspartner: TH Köln
-teaserimage: schmidt-kai-teaserimage.PNG
-stichworte: Film, Filmmusik, Sounddesign
+teaserimage: tanriverdi-merve-teaserimage.png
+stichworte: Film, Serie, Synchronisation, Software
 hinweise:
 ---
 
 ## Abstract
 
-In diesem Praxisprojekt wird die Frage geklärt „Inwiefern lassen sich Gestaltungsregeln der auditiven Postproduktion in einem praktischen Beispiel umsetzen?“ am praktischen Beispiel des Films „After Sunset“. Dieser Film wurde bereits in vergangenen Semestern in den Modulen „AVM2“ und „VEA“ erstellt, dabei wurde allerdings kein besonderer Wert auf Sound Design und Filmmusik gelegt, weshalb er in diesem Projekt noch einmal überarbeitet wird.
+In Deutschland spielt die Branche der Synchronisation eine große Rolle. In keinem an-deren europäischem Land werden Filme und Serien so oft synchronisiert wie hier. Gründe hierfür kommen aus den früheren Jahren(Ende 20er). Damals sind fremdspra-chige Werke nicht verstanden worden und das Einblenden von Untertiteln kann nicht durchgesetzt werden. Demnach sorgt das letztendlich für Desinteresse. Es ist bewie-sen, dass Menschen automatisch ihre Blicke auf diese Titel richten, wenn sie erschei-nen. Dies hat zur Folge, dass Zuschauer mehr lesen statt den Film zu schauen.
+Ziel dieser Arbeit ist es, die Synchronisationsbranche hinsichtlich der inhaltlichen, orga-nisatorischen und technischen Aspekte zu erforschen. Besondere Betrachtung liegt bei der Softwareanwendung in den verschiedenen Arbeitsbereichen (im Synchronstudio) und dessen Nützlichkeit. Dafür werden folgende Forschungsfragen beantwortet: Mit welcher Vorgehensweise werden Filme bzw. Serien synchronisiert, welche Mittel wer-den eingesetzt und welche technische Entwicklung ist durchlaufen worden? Welche Arbeitsschritte werden durch Softwarelösungen unterstützt?
+Um diese Fragen beantworten zu können, werden vorerst Erkenntnisse aus den Litera-turen gesammelt. Danach folgt eine empirische Untersuchung in Form eines Experten-interviews. Die gewonnenen Informationen der Experten im Synchronstudio sollen eva-luiert werden und Korrekturen bzw. Ergänzungen der identifizierten Thesen aufweisen. Somit können eventuell vorhandene Forschungslücken identifiziert und geschlossen werden.
+Die Antworten des Interviews weisen viele Informationen über den generellen Arbeitsab-lauf und den einzelnen Arbeitsbereichen auf. Die Benutzung und Unterstützung der Software steht besonders im Vordergrund. Es stellt sich heraus, dass es in jedem Be-reich zu finden ist. Außerdem wird deutlich, dass die Literatur in Bezug auf die inhaltli-chen und organisatorischen Aspekte reichlich Angaben besitzt. Diese decken sich auch mit der Praxis ab. Jedoch sind kaum technische Details bekannt, obwohl es derzeitig eine große Rolle spielt. Die Befragten geben an, dass die Arbeit ohne die vorhandenen Programme schwieriger, ungenauer und langsamer wird. Heute sind die deutschen Fassungen in ein paar Tagen abgeschlossen, wobei es früher(vor ca. 30 Jahren) pro Film ein halbes Jahr gedauert hat.
 
-Im ersten Schritt dieses Projektes werden zunächst die grundlegenden Gestaltungsregeln und Kerntheorien der Filmmusik und des Sound Designs aus der Literatur herausgearbeitet. Auf diesen Grundlagen aufbauend wird zum einen ein eigenes Musikstück für den Film komponiert und erstellt. Das Musikstück wird dabei mit verschiedenen Ansätzen erstellt, beispielsweise passend zum Videoschnitt und passend zu den Takten der Musik. Die Vergleiche dieser unterschiedlichen Herangehensweisen werden am Ende noch einmal genauer analysiert. Zum anderen werden noch wichtige Szenen, in Bezug auf die Dramaturgie der Szene im Verhältnis zum Gesamtfilm, auf den Grundlagen des Sound Designs überarbeitet.
 
-In dem Musikbearbeitungsprogramm „Cubase“ wird dabei die Musik erstellt und bearbeitet. Ebenso werden die anderen Tonsequenzen aus dem Film in diesem Programm überarbeitet. In dem Videobearbeitungsprogramm „DaVinci Resolve“ wird anschließend die Musik mit dem Bildmaterial verbunden, um somit einen Vergleich mit den ursprünglichen Szenen zu ermöglichen.
-
-Der Vergleich liefert am Ende das Ergebnis auf die vorgestellte Forschungsfrage. Diese lässt sich insofern beantworten, dass es zwar Gestaltungsregeln gibt, die es zu beachten gibt, allerdings sind diese quantitativ wenig, weshalb immer noch eine grundsätzliche Freiheit für den Komponisten oder den Sound Designer vorhanden ist.
-
-## Material & weiterführende Infos
-- [Sciebo Link zu den Ergebnissen des Projektes. Passwort: pps](https://th-koeln.sciebo.de/s/uaz8TdnQXFNmseP)
