@@ -1,4 +1,4 @@
-vs:
+﻿vs:
   name: Volker Schaefer
   email: volker.schaefer@th-koeln.de
 cn:
@@ -64,7 +64,10 @@ db:
   
 bn: 
   name: Prof. Dr. Boris Naujoks
-
+  
+rm:
+  name: Prof. Dr. Roman Majewski
+  
 mi:
   name: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter
   
