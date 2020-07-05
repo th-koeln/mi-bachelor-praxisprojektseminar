@@ -5,7 +5,7 @@ datum: 2020-07-07
 uhrzeit: 12-15
 raum: Online Präsentation
 betreuer: rm
-thema: Projected Phone - Anwendungsmöglichkeiten eines projizierten Bildschirms im mobilen Kontext
+thema: Virtualisierungsumgebungen von Proxmox und VMWare im praktischen Vergleich
 kooperationspartner: TH Köln, mindmaxx-IT GmbH
 teaserimage: gleisberg-paul-teaserimage.jpg
 stichworte: Virtualisierung, Netzwerk Monitoring, Proxmox, VMware
