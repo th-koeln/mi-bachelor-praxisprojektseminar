@@ -30,7 +30,7 @@ Beispielsweise gibt es Antworten zu folgenden Fragen:
 
 
 ## Was sind die Ziele?
-- alle
+- alle wissen wie das sechste Semester abläuft
 
 
 ## Material und Links
