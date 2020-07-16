@@ -8,7 +8,7 @@ termine: 2020-05-26 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/85725785844 (Zugangscode pps)
+raum: https://us02web.zoom.us/j/85725785844 Zugangscode steht im Ilias
 info: 
 ---
 

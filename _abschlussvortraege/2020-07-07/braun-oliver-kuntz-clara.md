@@ -3,7 +3,7 @@ nachname: Braun
 vorname: Clara Kuntz & Oliver
 datum: 2020-07-07
 uhrzeit: 11-00
-raum: https://us02web.zoom.us/j/89896269940 (Zugangscode pps)
+raum: https://us02web.zoom.us/j/89896269940 Zugangscode steht im Ilias
 betreuer: ck
 thema: Konzeption eines Systems, dass Blended Spaces und Gamification im Kontext Tourismus nutzt
 kooperationspartner: TH Köln
