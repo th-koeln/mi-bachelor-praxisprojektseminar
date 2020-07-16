@@ -8,7 +8,7 @@ termine: 2020-05-19 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum:  https://us02web.zoom.us/j/82823560413 Zugangscode steht im Ilias
+raum:  https://us02web.zoom.us/j/82823560413 (Zugangscode steht im Ilias)
 info: 
 ---
 
