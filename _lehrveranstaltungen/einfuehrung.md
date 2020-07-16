@@ -8,7 +8,7 @@ termine: 2020-08-04 08:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://us02web.zoom.us/j/89896269940 (Zugangscode pps)
+raum: online
 info: 
 ---
 
@@ -30,7 +30,7 @@ Beispielsweise gibt es Antworten zu folgenden Fragen:
 
 
 ## Was sind die Ziele?
-- alle
+- alle wissen wie das sechste Semester abläuft
 
 
 ## Material und Links
