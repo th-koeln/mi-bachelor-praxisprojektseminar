@@ -7,7 +7,7 @@ raum: Online Präsentation
 betreuer: me
 thema: Framework zur Analyse von Downscaling Methoden
 kooperationspartner: TH Köln
-teaserimage: struckmann-merle-teaserimage.jpg
+teaserimage: struckmann-merle-teaserimage.PNG
 stichworte: Computergrafik, Bildskalierung, Analysemethoden, Auswertung
 hinweise:
 ---
