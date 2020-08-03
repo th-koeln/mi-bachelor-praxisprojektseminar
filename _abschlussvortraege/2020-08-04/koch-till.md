@@ -3,7 +3,7 @@ nachname: Koch
 vorname: Till
 datum: 2020-04-08
 uhrzeit: 11-30
-raum: 3.216
+raum: Online-Präsentation
 betreuer: il
 thema: Analyse und Klassefiezierung von Interaktionskonzepten
 kooperationspartner: TH Köln
