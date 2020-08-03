@@ -17,9 +17,9 @@ hinweise:
 Bewegbilder sind in unterschiedlichen Bereichen einsetzbar. Sie stellen unter anderem
 im E-Learning einen wichtigen Bestandteil dar. Besonders im Bereich Sport und Bewegung
 tragen sie erheblich zum Lernerfolg bei. Meistens werden diese Tutorials aus
-einer Perspektive aufgenommen. Da dem Betrachter so viele Eindrucke und Details
+einer Perspektive aufgenommen. Da dem Betrachter so viele Eindrücke und Details
 der Bewegung nicht ersichtlich werden, soll das Tutorial durch weitere Videotechniken
-erganzt werden. Dem Lernenden soll durch eine moglichst umfangreiche Ansicht,
-aus verschiedenen Persepktiven die Bewegung so Detailreich wie moglich dargestellt
+ergänzt werden. Dem Lernenden soll durch eine möglichst umfangreiche Ansicht,
+aus verschiedenen Persepktiven die Bewegung so Detailreich wie möglich dargestellt
 werden. Vorranging werden hier die Technischen Grenzen des einen Formates und die
-moglichen Technischen Erganzungen durch andere Formate betrachtet.
+möglichen Technischen Ergänzungen durch andere Formate betrachtet.
