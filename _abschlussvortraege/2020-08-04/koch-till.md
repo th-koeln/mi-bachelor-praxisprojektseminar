@@ -5,7 +5,7 @@ datum: 2020-08-04
 uhrzeit: 11-30
 raum: Online-Präsentation
 betreuer: il
-thema: Analyse und Klassefiezierung von Interaktionskonzepten
+thema: Analyse und Klassifizierung von Interaktionskonzepten
 kooperationspartner: TH Köln
 teaserimage: koch-till-teaserimage.png
 stichworte: Live-Streaming, Analyse/Klassefizierung, Interaktion
