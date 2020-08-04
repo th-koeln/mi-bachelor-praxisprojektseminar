@@ -3,7 +3,7 @@ nachname: Noss
 vorname: Christian
 datum: 2020-01-01
 uhrzeit: 10-30
-raum: 3.216
+raum: Online Präsentation
 betreuer: gh
 thema: Evaluation verschiedener Wireframing Techniken
 kooperationspartner: TH Köln

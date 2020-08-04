@@ -7,7 +7,7 @@ pflicht: false
 termine: 2020-08-04 10:00, 2020-09-08 10:00, 2020-10-06 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 225
 raum: https://us02web.zoom.us/j/89896269940 (Zugangscode steht im Ilias)
 info: 
 ---
