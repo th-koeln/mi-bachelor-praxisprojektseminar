@@ -8,7 +8,7 @@ termine: 2020-06-23 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/89896269940 (Zugangscode pps)
+raum: https://us02web.zoom.us/j/89896269940 (Zugangscode steht im Ilias)
 info: 
 ---
 
@@ -37,3 +37,4 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 ## Was muss geliefert werden?
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
+- [Zum Dateiupload im Ilias](https://bit.ly/3frfxUv)

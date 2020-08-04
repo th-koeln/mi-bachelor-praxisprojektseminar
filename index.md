@@ -11,10 +11,15 @@ titel: Über das Modul
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Praxisprojekt Seminar. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Das Seminar zum Praxisprojekt wird in jedem Semester für alle Studierende, die an einem Praxisprojekt arbeiten, angeboten.
 
-Am **28.01.2020** findet in **Raum 3.216** die erste Veranstaltung statt, welche für das kommende Semester relevant ist.
-An diesem Tag gibt es ab 13:00 Uhr eine Kontaktbörse für alle, die noch auf der Suche nach einem Thema für das Praxisprojekt sind. Weitere Infos gibt es auf der [Medieninfomatik Website](https://www.medieninformatik.th-koeln.de/events/2020-01-28-kontaktboerse/).
+Die **Einführungsveranstaltung** für das Wintersemester 2020/2021 findet am **04. August um 08:30 Uhr** statt. Im Anschluss, ab 10:00 Uhr, gibt es Praxisprojekt Abschlusspräsentationen.
 
-Im Anschluss, um **ca. 15:30 Uhr**, findet die **Einführungsveranstaltung für das Praxisprojektseminar** des nächsten Semesters statt.
+Wir treffen uns in diesem [Zoom Raum](https://us02web.zoom.us/j/89896269940) (Zugangscode steht im Ilias).
+
+
+<!-- Am **28.01.2020** findet in **Raum 3.216** die erste Veranstaltung statt, welche für das kommende Semester relevant ist.
+An diesem Tag gibt es ab 13:00 Uhr eine Kontaktbörse für alle, die noch auf der Suche nach einem Thema für das Praxisprojekt sind. Weitere Infos gibt es auf der [Medieninfomatik Website](https://www.medieninformatik.th-koeln.de/events/2020-01-28-kontaktboerse/). -->
+
+<!-- Im Anschluss, um **ca. 15:30 Uhr**, findet die **Einführungsveranstaltung für das Praxisprojektseminar** des nächsten Semesters statt. -->
 
 ## Worum geht es?
 
