@@ -7,7 +7,7 @@ raum: https://zoom.us/j/99463334433 (Zugangscode ist pps)
 betreuer: ck
 thema: Entwicklung einer mobilen Anwendung zur Flexibilisierung des Nachhilfeangebots im Hochschulkontext
 kooperationspartner: TH Köln
-teaserimage: ruck-kay-teaserimageV4.png
+teaserimage: ruck-kay-teaserimageV5.png
 stichworte: Android, Kotlin, Entwicklung, Nachhilfe
 hinweise:
 ---
