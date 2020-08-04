@@ -1,13 +1,13 @@
 ---
 nachname: Balzer
 vorname: Marie-Christin
-datum: 2020-04-08
+datum: 2020-08-04
 uhrzeit: 10-00
 raum: Online Präsentation
-betreuer: kh
+betreuer: hk
 thema: Konzeption und Planung eines 360° Video Tutorials
 kooperationspartner: 
-teaserimage: balzer-mariechristin-teaserimage.jpg
+teaserimage: balzer-mariechristin-teaserimage.png
 stichworte: 360°, Stitching, Videoproduktion, E-Learning
 hinweise:
 ---
