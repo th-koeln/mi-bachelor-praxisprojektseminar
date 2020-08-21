@@ -19,7 +19,7 @@ layout: default
         {% assign datum=teile[0] %}
         {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %}
         {% if vortraege.size > 0 %}
-        <h3>{{ datum | date: '%d. %B %Y' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
+        <h3 class="is-inverse">{{ datum | date: '%d. %B %Y' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
         <table class="timetable-talks">
           <tbody>
             {% for vortrag in vortraege %}
@@ -36,7 +36,7 @@ layout: default
           </tbody>
         </table>
         {% else %}
-        <h3>{{ datum | date: '%d. %B %Y' }}</h3>
+        <h3 class="is-inverse">{{ datum | date: '%d. %B %Y' }}</h3>
         <p>Bislang sind für diesen Termin noch keine Vorträge geplant.</p>
         {% endif %}
       {% endfor %} 
@@ -48,17 +48,46 @@ layout: default
 <section class="section">
   <div class="container">
     <div class="content">
-      <h2 id="tutorial">Sie wollen Ihren Abschlussvortrag halten?</h2>
+      
       <div class="columns">
         <div class="column">
+        <h2 id="tutorial">Sie wollen Ihren Abschlussvortrag halten?</h2>
+          <p>Wenn Sie einen Abschlussvortrag halten, müssen Sie eine entsprechende Seite mit Informationen zu Ihrem Projekt <strong>eine Woche vor dem Vortrag</strong> via Pull Request hier bereit stellen. Wie das funktioniert wird im Video erklärt. Bei Fragen nutzen Sie bitte das Ilias Forum.</p>
           <div class="js-video">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/0B67QUoJVFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="400" height="315" src="https://www.youtube.com/embed/0B67QUoJVFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
         <div class="column">
-          Wenn Sie einen Abschlussvortrag halten, müssen Sie eine entsprechende Seite mit Informationen zu Ihrem Projekt <strong>eine Woche vor dem Vortrag</strong> via Pull Request hier bereit stellen. Wie das funktioniert wird im Video erklärt. Bei Fragen nutzen Sie bitte das Ilias Forum.
+          <h2>Checkliste für die Abschlusspräsentationen</h2>
+            <p>Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:</p>
+            <ul>
+              <li>Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)</li>
+              <li>Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom 13.04.2020 bis zum 29.06.2020.</li>
+              <li>Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird [in diesem Screenmovie erklärt](https://th-koeln.sciebo.de/s/eXWPKs32ZCEKr1h).</li>
+              <li>Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar. Hier finden Sie ein [Tutorial zum Einbinden Ihrer Informationen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial).</li>
+              <li>Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.</li>
+            <ul>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <h2>Besonderheiten bei Online Präsentationen</h2>
+          <p>Im Zuge der eingeschränkten Präsenztermine im aktuellen Sommersemester aufgrund der Covid-19 Problematik, finden die Termine des Praxisprojekt Seminars online statt. Somit sind auch die Abschlussvorträge Online Termine. Bitte berücksichtigen sie folgende Hinweise:</p>
+          <ul>
+            <li>sorgen Sie für eine gute Internetverbindung</li>
+            <li>sorgen Sie für möglichst guten Ton, z.B. via Headset
+            <li>sorgen Sie für eine ruhige Umgebung</li>
+            <li>sorgen Sie für ein Kamerabild, da wir Sie zur Identifikation sehen müssen</li>
+            <li>halten Sie ein Foto von Ihrer Multica bereit</li>
+          </ul>
+        </div>
+        <div class="column">
+
         </div>
       </div>
     </div>
   </div>
 </section>
+
+

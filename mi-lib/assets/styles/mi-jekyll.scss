@@ -773,6 +773,7 @@ pre code {
   padding-bottom: 56.5%;
   position: relative;
   overflow: hidden;
+  margin-bottom: $bfs;
 }
 
 .js-video.widescreen {
@@ -805,6 +806,14 @@ h1.is-inverse{
 
 h2.is-inverse{
   background-color: $mi-lila;
+  color: #fff;
+  display: inline-block;
+  padding: $bfs / 4;
+
+}
+
+h3.is-inverse{
+  background-color: $mi-pink;
   color: #fff;
   display: inline-block;
   padding: $bfs / 4;

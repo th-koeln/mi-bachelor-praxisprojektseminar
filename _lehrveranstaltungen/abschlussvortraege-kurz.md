@@ -4,11 +4,11 @@ kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2020-08-04 10:00, 2020-09-08 09:00, 2020-10-06 09:00
+termine: 2020-12-22 10:00, 2021-01-19 10:00, 2021-02-02 10:00, 2021-02-09 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 270
-raum: https://us02web.zoom.us/j/89896269940 (Zugangscode steht im Ilias)
+dauer: 180
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
 info: 
 ---
 

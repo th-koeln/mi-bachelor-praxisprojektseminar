@@ -3,7 +3,7 @@ nachname: Nowagk
 vorname: Christian
 datum: 2020-08-04
 uhrzeit: 10-30
-raum: Online Präsentation
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: rm
 thema: Evaluierung verschiedener Prozesse und Technologien zur Bearbeitung von Verrechnungsgeldern in der Filmindustrie
 kooperationspartner: TH Köln

@@ -3,7 +3,7 @@ nachname: Struckmann
 vorname: Merle
 datum: 2020-08-04
 uhrzeit: 11-00
-raum: Online Präsentation
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: me
 thema: Framework zur Analyse von Downscaling Methoden
 kooperationspartner: TH Köln

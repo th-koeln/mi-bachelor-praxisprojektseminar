@@ -4,11 +4,11 @@ kuerzel: kickoff
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-03-31 10:00
+termine: 2020-10-13 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: Online
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
 info: 
 ---
 

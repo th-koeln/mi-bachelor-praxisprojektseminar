@@ -1,10 +1,10 @@
 ---
-titel: Vorstellung Themenfeldanalyse & Abschlussvorträge
+titel: Vorstellung Themenfeldanalyse
 kuerzel: abschlussvortraege
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-04-21 10:00
+termine: 2020-10-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -13,14 +13,8 @@ zugangscode:
 info: 
 ---
 
-Das heutige Programm besteht aus zwei Abschlussvorträgen und der Vorstellung der Themenfeldanalyse, inkl. Diskussion.
+Das heutige Programm besteht aus der Vorstellung der Themenfeldanalyse, inkl. Diskussion.
 
-## Zeitplan
-- 10:00 - 10:30 Uhr: Fragen zum Modul & Erläuterung zum weiteren Vorgehen.
-- 10:30 - 11:00 Uhr: Sven Salzmann – Color Correction & Color Grading in Filmen und Serien
-- 11:00 - 11:30 Uhr: Julia Schüller – Storytelling in Interaction Design
-- 11:30 - 12:00 Uhr: Krystian Schindler – Auslesen und Speichern medizinischer Sensordaten mithilfe eines Arduino
-- 12:00 - 13:00 Uhr: Vorstellung Themenfeldanalyse
 
 ## Worum geht es?
 

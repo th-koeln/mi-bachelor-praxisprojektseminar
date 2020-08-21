@@ -3,7 +3,7 @@ nachname: Koch
 vorname: Till
 datum: 2020-08-04
 uhrzeit: 11-30
-raum: Online-Präsentation
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)-Präsentation
 betreuer: il
 thema: Analyse und Klassifizierung von Interaktionskonzepten
 kooperationspartner: TH Köln

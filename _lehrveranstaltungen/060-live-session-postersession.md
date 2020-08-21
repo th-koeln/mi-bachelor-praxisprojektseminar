@@ -4,11 +4,11 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-06-30 10:00
+termine: 2020-12-08 10:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 180
-raum: Online (wird noch bekannt gegeben)
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) (wird noch bekannt gegeben)
 info: 
 ---
 

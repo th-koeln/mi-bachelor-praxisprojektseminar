@@ -1,108 +1,126 @@
 week-1:
   day-1:
-    datum: 2020-03-31
+    datum: 2020-09-08
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-2:
   day-1:
-    datum: 2020-04-07
+    datum: 2020-10-06
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-3:
   day-1:
-    datum: 2020-04-14
+    datum: 2020-10-07
     start: "13:00"
     end: "16:00"
-    name: Dienstag
+    name: Mittwoch
 week-4:
   day-1:
-    datum: 2020-04-21
+    datum: 2020-10-13
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-5:
   day-1:
-    datum: 2020-04-28
+    datum: 2020-10-20
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-6:
   day-1:
-    datum: 2020-05-05
+    datum: 2020-10-27
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-7:
   day-1:
-    datum: 2020-05-12
+    datum: 2020-11-03
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-8:
   day-1:
-    datum: 2020-05-19
+    datum: 2020-11-10
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-9:
   day-1:
-    datum: 2020-05-26
+    datum: 2020-11-17
     start: "13:00"
     end: "22:00"
     name: Dienstag
 week-10:
   day-1:
-    datum: 2020-06-02
+    datum: 2020-11-24
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-11:
   day-1:
-    datum: 2020-06-09
+    datum: 2020-12-01
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-12:
   day-1:
-    datum: 2020-06-16
+    datum: 2020-12-08
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-13:
   day-1:
-    datum: 2020-06-23
+    datum: 2020-12-15
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-14:
   day-1:
-    datum: 2020-06-30
+    datum: 2020-12-22
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-15:
   day-1:
-    datum: 2020-07-07
+    datum: 2020-12-29
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-16:
   day-1:
-    datum: 2020-08-04
+    datum: 2021-01-05
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-17:
   day-1:
-    datum: 2020-09-08
+    datum: 2021-01-12
     start: "13:00"
     end: "16:00"
     name: Dienstag
 week-18:
   day-1:
-    datum: 2020-10-06
+    datum: 2021-01-19
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-19:
+  day-1:
+    datum: 2021-01-26
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-20:
+  day-1:
+    datum: 2021-02-02
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag
+week-21:
+  day-1:
+    datum: 2021-02-09
     start: "13:00"
     end: "16:00"
     name: Dienstag

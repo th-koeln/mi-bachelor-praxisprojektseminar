@@ -8,7 +8,7 @@ termine: 2020-06-16 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/89896269940 (Zugangscode steht im Ilias)
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
 info: 
 ---
 
