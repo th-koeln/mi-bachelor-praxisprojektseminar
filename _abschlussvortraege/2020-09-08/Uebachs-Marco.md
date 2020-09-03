@@ -4,7 +4,7 @@ vorname: Marco
 datum: 2020-09-08
 uhrzeit: 09-30
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
-betreuer: Martin Eisemann
+betreuer: me
 thema: Einfluss des Online-Medienkonsums durch Corona
 kooperationspartner: TH Köln
 teaserimage: Uebachs-Marco-TeaserImage.jpg
