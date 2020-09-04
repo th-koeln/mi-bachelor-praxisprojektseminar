@@ -2,7 +2,7 @@
 nachname: Honnen
 vorname: René
 datum: 2020-09-08
-uhrzeit: 13-00
+uhrzeit: 12-00
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
 betreuer: mw
 thema: Konzeption einer Webanwendung für das Verwalten automatischer Tests
