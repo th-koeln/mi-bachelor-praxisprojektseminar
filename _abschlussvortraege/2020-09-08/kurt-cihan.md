@@ -7,7 +7,7 @@ raum:  Zoom...
 betreuer: mb
 thema: Können faltbare Smartphones als Interaktionsobjekt einen Vorteil erweisen?
 kooperationspartner: TH Köln
-teaserimage: kurt-cihan.PNG
+teaserimage: kurt-cihan.png
 stichworte: 
 hinweise:
 ---
