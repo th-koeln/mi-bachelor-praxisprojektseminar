@@ -11,15 +11,22 @@ layout: default
 
     <div class="content has-seperator">
 
-      {% assign abschlussvortraege=site.lehrveranstaltungen|sort: "datum" | where:"kuerzel","abschlussvortraege" %}
+      {% assign abschlussvortraege=site.lehrveranstaltungen | where:"kuerzel","abschlussvortraege" %}
+      {% assign termine_abschlussvortraege="" | split: "," %}
       {% for abschlussvortrag in abschlussvortraege %}
-      {% assign termine=abschlussvortrag.termine | split: "," %}
+        {% assign termine=abschlussvortrag.termine | split: "," %}
         {% for termin in termine %}
-        {% assign teile=termin | split: " " %}
-        {% assign datum=teile[0] %}
-        {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", datum %}
+          {% assign teile=termin | split: " " %}
+          {% assign datum=teile[0] %}
+          {% assign termine_abschlussvortraege=termine_abschlussvortraege | push: datum %}
+        {% endfor %}
+      {% endfor %}
+      {% assign termine_abschlussvortraege=termine_abschlussvortraege | sort %}
+       
+      {% for termin_abschlussvortrag in termine_abschlussvortraege %}
+        {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", termin_abschlussvortrag %}
         {% if vortraege.size > 0 %}
-        <h3 class="is-inverse">{{ datum | date: '%d. %B %Y' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
+        <h3 class="is-inverse">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
         <table class="timetable-talks">
           <tbody>
             {% for vortrag in vortraege %}
@@ -36,10 +43,10 @@ layout: default
           </tbody>
         </table>
         {% else %}
-        <h3 class="is-inverse">{{ datum | date: '%d. %B %Y' }}</h3>
+        <h3 class="is-inverse">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober"}}</h3>
         <p>Bislang sind für diesen Termin noch keine Vorträge geplant.</p>
         {% endif %}
-      {% endfor %} 
+       
     {% endfor %}
     </div>
   </div>
@@ -61,10 +68,10 @@ layout: default
           <h2>Checkliste für die Abschlusspräsentationen</h2>
             <p>Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:</p>
             <ul>
-              <li>Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)</li>
+              <li>Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. <a href="https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui">Termin im Ilias buchen</a></li>
               <li>Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom 13.04.2020 bis zum 29.06.2020.</li>
-              <li>Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird [in diesem Screenmovie erklärt](https://th-koeln.sciebo.de/s/eXWPKs32ZCEKr1h).</li>
-              <li>Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar. Hier finden Sie ein [Tutorial zum Einbinden Ihrer Informationen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial).</li>
+              <li>Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird <a href="https://th-koeln.sciebo.de/s/eXWPKs32ZCEKr1h">in diesem Screenmovie erklärt</a>.</li>
+              <li>Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der <a href="/mi-bachelor-praxisprojektseminar/abschlussvortraege/">Übersichtsseite mit den Abschlussvorträgen</a> sichtbar. Hier finden Sie ein <a href="/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial">Tutorial zum Einbinden Ihrer Informationen</a>.</li>
               <li>Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.</li>
             <ul>
         </div>
