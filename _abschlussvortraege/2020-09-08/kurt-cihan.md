@@ -7,8 +7,13 @@ raum:  Zoom...
 betreuer: mb
 thema: Können faltbare Smartphones als Interaktionsobjekt einen Vorteil erweisen?
 kooperationspartner: TH Köln
+
 teaserimage: kurt-cihan.PNG
 stichworte: foldable Smartphone, Samsung fold, User Experience, App development
+=======
+teaserimage: kurt-cihan.png
+stichworte: 
+
 hinweise:
 ---
 
