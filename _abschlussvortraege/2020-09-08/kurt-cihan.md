@@ -3,17 +3,13 @@ nachname: Kurt
 vorname: Cihan
 datum: 2020-09-08
 uhrzeit: 10-30
-raum:  Zoom...
+raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
 betreuer: mb
 thema: Können faltbare Smartphones als Interaktionsobjekt einen Vorteil erweisen?
 kooperationspartner: TH Köln
-
 teaserimage: kurt-cihan.PNG
 stichworte: foldable Smartphone, Samsung fold, User Experience, App development
-=======
 teaserimage: kurt-cihan.png
-stichworte: 
-
 hinweise:
 ---
 
