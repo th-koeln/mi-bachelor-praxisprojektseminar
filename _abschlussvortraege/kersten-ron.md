@@ -29,7 +29,6 @@ Die Auswahl beschränkt sich dabei auf 24 Fragetypen, von denen 23 Fragetypen du
 Folglich ist davon auszugehen, dass die entwickelten Lösungsansätze und Maßnahmen nicht ausreichen, um die mit der Umfragesoftware EFS Survey erstellten Fragebögen vollständig konform zu den WCAG 2.1 zu gestalten. Jedoch stellen sie eine erste Grundlage zur Erreichung des Ziels einer barrierefreien Umfrage dar.
 
 
-
 ## Material & weiterführende Infos
 
 - [Website von Quesback](https://www.questback.com/)
