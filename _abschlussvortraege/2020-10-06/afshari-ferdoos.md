@@ -6,7 +6,7 @@ uhrzeit: 16-00
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Von der klassischen Live-TV-Produktion zur teilautomatisierten TV-Produktion	
-kooperationspartner: TH Köln
+kooperationspartner: TH Köln, CBC
 teaserimage: afshari-ferdoos.png
 stichworte: Produktion, Automation, TV, Live, Produktionsablauf, Redaktion, CBC
 hinweise:
