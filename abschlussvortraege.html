@@ -1,7 +1,7 @@
 --- 
 layout: default 
 ---
-
+{% assign psso=site.data.termine-wie-psso.psso %}
 
 <section class="section">
   <div class="container">
@@ -69,7 +69,7 @@ layout: default
             <p>Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:</p>
             <ul>
               <li>Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. <a href="https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui">Termin im Ilias buchen</a></li>
-              <li>Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom 01.11.2020 bis zum 21.01.2021.</li>
+              <li>Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom {{psso.anmeldung-ab}} bis zum {{psso.anmeldung-bis}}.</li>
               <li>Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird <a href="https://th-koeln.sciebo.de/s/eXWPKs32ZCEKr1h">in diesem Screenmovie erklärt</a>.</li>
               <li>Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der <a href="/mi-bachelor-praxisprojektseminar/abschlussvortraege/">Übersichtsseite mit den Abschlussvorträgen</a> sichtbar. Hier finden Sie ein <a href="/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial">Tutorial zum Einbinden Ihrer Informationen</a>.</li>
               <li>Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.</li>
