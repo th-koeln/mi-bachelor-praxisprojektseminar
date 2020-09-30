@@ -7,7 +7,7 @@ raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsenta
 betreuer: hk
 thema: Der Einfluss von Montagemustern im Film auf die Wahrnehmung beim Zuschauer
 kooperationspartner: TH Köln
-teaserimage: balan-oleg-teaserimage.PNG
+teaserimage: balan-oleg-teaserimage.png
 stichworte: Montagemuster, Schnitt, Film
 hinweise:
 ---
