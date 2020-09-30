@@ -2,7 +2,7 @@
 nachname: Oezmen
 vorname: Furkan
 datum: 2020-10-06
-uhrzeit: 15-30
+uhrzeit: 15-00
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
 betreuer: mb
 thema: 	Konzeption eines Fahrkartenautomaten mit Online- Bezahldiensten unter Berücksichtigung der Mensch Computer Interaktion und Mobile Payment
