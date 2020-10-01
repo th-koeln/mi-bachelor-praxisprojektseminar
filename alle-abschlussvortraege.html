@@ -22,7 +22,7 @@ layout: default-reduced
     {% else %}
     <a href="{{site.baseurl}}{{thema.url}}">
     <figure class="mi-card" data-url="{{site.baseurl}}{{thema.url}}">
-      <img src="../{{thema.id}}/../{{thema.teaserimage}}" class="mi-card__image">
+      <img src="../{{thema.id}}/../{{thema.teaserimage}}" loading="lazy" class="mi-card__image">
       <figcaption class="mi-card__info">
         <h2 class="mi-card__headline">{{thema.thema}}</h2>
         <p class="mi-card__teasertext">{{thema.vorname}} {{thema.nachname}}, {{thema.datum | date: '%Y' }}</p>

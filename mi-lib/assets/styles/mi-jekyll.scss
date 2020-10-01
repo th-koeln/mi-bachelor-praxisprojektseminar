@@ -867,7 +867,7 @@ h3.is-inverse{
   position: relative;
   overflow: hidden;
   height: calc(400px/(5/4));
-  border-bottom: solid 3px $mi-lila;
+  border-bottom: solid 0.5em $mi-lila;
 
   &__info{
     position: absolute;
