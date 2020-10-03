@@ -7,8 +7,8 @@ raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)-Präsenta
 betreuer: hk
 thema: Konzeption einer Interaktiven Anwendung zu Vermeidung von Personalisierten Werbeanzeigen
 kooperationspartner: TH Köln
-teaserimage: bild.png
-stichworte: Figma, apple, Interaktion, Prototyp
+teaserimage: ossowski-krzysztof-teaserimage2.png
+stichworte: Figma, apple, Interaktion, Prototyp,Werbung
 hinweise:
 ---
 
