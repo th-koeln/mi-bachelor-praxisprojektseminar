@@ -5,7 +5,7 @@ datum: 2020-10-06
 uhrzeit: 12-00
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: hk
-thema: Experimentelle Durchf̈uhrung eines Face Replacements auf Basis bestehender Theorien und Verfahren
+thema: Experimentelle Durchführung eines Face Replacements auf Basis bestehender Theorien und Verfahren
 kooperationspartner: TH Köln
 teaserimage: langer-moritz-teaserimage.jpg
 stichworte: visual effects, vfx, Face Replacement, Deepfake, Film
