@@ -5,7 +5,7 @@ datum: 2020-10-06
 uhrzeit: 15-30
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: hk
-thema: Untersuchung moderner Unternehmensfilme hinsichtlichtechnischer Realisierungsmöglichkeiten
+thema: Untersuchung moderner Unternehmensfilme hinsichtlich technischer Realisierungsmöglichkeiten
 kooperationspartner: TH Köln
 teaserimage: Rafiei-Samany-Danyal-Image.jpg
 stichworte: Unternehmensfilm, Imagefilm, Werbefilm, Produktionsablauf, Software, Equipment
