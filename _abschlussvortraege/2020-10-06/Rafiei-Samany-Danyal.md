@@ -13,7 +13,6 @@ hinweise:
 ---
 
 ## Abstract
-
 Die Anfänge professioneller Bewegtbild-Produktionen haben bereits vor einem Jahrhundert begonnen. 
 Die Erreichbarkeit der Zielgruppen konnte nur mit Bewegtbildern wie Kinowerbespots und TV-Werbespots gewährleisten. 
 Die Vielfalt der heutigen Kommunikation hat durch verschiedene Kommunikationsmittel wie Messen, Veranstaltungen und Social-Media-Kanälen an Reichhaltigkeit gewonnen.
