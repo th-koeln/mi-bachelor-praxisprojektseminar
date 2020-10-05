@@ -1,8 +1,8 @@
 ---
-nachname: Kamali
-nachname: Ipek
-vorname: Beyza 
-vorname: Furkan Davut
+nachname1: Kamali
+nachname2: Ipek
+vorname1: Beyza
+vorname2: Furkan Davut
 datum: 2020-10-07
 uhrzeit: 12-00
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
