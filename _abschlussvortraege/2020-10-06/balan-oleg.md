@@ -2,7 +2,7 @@
 nachname: Balan  
 vorname: Oleg
 datum: 2020-10-06
-uhrzeit: 10-00
+uhrzeit: 09-30
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Der Einfluss von Montagemustern im Film auf die Wahrnehmung beim Zuschauer
