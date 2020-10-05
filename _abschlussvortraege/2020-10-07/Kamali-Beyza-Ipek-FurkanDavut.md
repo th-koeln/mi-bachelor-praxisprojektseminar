@@ -1,6 +1,8 @@
 ---
-nachname: Kamali, Ipek
-vorname: Beyza, Furkan Davut
+nachname: Kamali
+nachname: Ipek
+vorname: Beyza 
+vorname: Furkan Davut
 datum: 2020-10-07
 uhrzeit: 12-00
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
@@ -8,7 +10,7 @@ betreuer: hk
 thema: 	Anwendung von Vorgehensmodellen und Techniken des Projektmanagements auf die Vorbereitung und Organisa-tion von Online gestreamten Live-Produktionen-am Bei-spiel der Produktion „Vorlesetag 2018“ an der TH Köln
 kooperationspartner: TH Köln
 teaserimage: Kamali-Beyza-Ipek-FurkanDavut.png
-stichworte: Live-Produktion Vorlesetag 2018 und PRojektmanagement
+stichworte: Live-Produktion, Vorlesetag 2018, Projektmanagement
 hinweise:
 ---
 
