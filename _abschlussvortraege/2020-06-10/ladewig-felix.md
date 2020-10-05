@@ -2,7 +2,7 @@
 nachname: Ladewig
 vorname: Felix
 datum: 2020-10-06
-uhrzeit: 10-30
+uhrzeit: 10-00
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Welchen Einfluss hat die Farbgebung auf die Emotion und Atmosphäre einer Filmszene?
