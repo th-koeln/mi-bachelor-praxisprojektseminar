@@ -5,8 +5,7 @@ datum: 2020-10-06
 uhrzeit: 12-30
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: hk
-thema: Die organisatorische und kreative Entwicklung des Filmdrehbuchs -
-eine Prozessbeschreibung mit Hilfe eines Erklärfilms
+thema: Die organisatorische und kreative Entwicklung des Filmdrehbuchs - eine Prozessbeschreibung mit Hilfe eines Erklärfilms
 
 kooperationspartner: TH Köln
 teaserimage: eser-merve.jpeg
