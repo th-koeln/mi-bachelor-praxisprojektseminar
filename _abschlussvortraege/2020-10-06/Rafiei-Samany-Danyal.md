@@ -7,7 +7,7 @@ raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsenta
 betreuer: hk
 thema: Untersuchung moderner Unternehmensfilme hinsichtlich technischer Realisierungsmöglichkeiten
 kooperationspartner: TH Köln
-teaserimage: Rafiei-Samany-Danyal-Image.jpg
+teaserimage: Danyal-Rafiei-Samany.jpg
 stichworte: Unternehmensfilm, Imagefilm, Werbefilm, Produktionsablauf, Software, Equipment
 hinweise:
 ---
