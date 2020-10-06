@@ -5,7 +5,7 @@ datum: 2020-10-13
 uhrzeit: 10-30
 raum: Online Präsentation
 betreuer: cn
-thema: Barrierefreiheit webbasierter Inhalte am Beispiel der Umfragesoftware EFS Survey von Questback
+thema: Barrierefreiheit im Kontext webbasierter Inhalte am Beispiel der Umfragesoftware des Unternehmens Questback
 kooperationspartner: Questback GmbH
 teaserimage: kersten-ron-teaserimage.png
 stichworte: Frondend-Development, Barrierefreiheit, Guidelines, WCAG, BITV/WCAG Selbstbewertung
@@ -27,7 +27,6 @@ Eine Überprüfung der Konformitätsstufe AAA und die Entwicklung möglicher Lö
 Des Weiteren ist anzumerken, dass nur eine Auswahl der insgesamt 40 Fragetypen, die in der Umfragesoftware EFS Survey zur Verfügung stehen, getestet werden.
 Die Auswahl beschränkt sich dabei auf 24 Fragetypen, von denen 23 Fragetypen durch die Umfragesoftware EFS Survey als konform zu den WCAG 2.0 gekennzeichnet werden.
 Folglich ist davon auszugehen, dass die entwickelten Lösungsansätze und Maßnahmen nicht ausreichen, um die mit der Umfragesoftware EFS Survey erstellten Fragebögen vollständig konform zu den WCAG 2.1 zu gestalten. Jedoch stellen sie eine erste Grundlage zur Erreichung des Ziels einer barrierefreien Umfrage dar.
-
 
 
 ## Material & weiterführende Infos
