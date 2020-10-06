@@ -1,14 +1,14 @@
 ---
 nachname: Kersten
 vorname: Ron
-datum: 2020-01-01
+datum: 2020-10-13
 uhrzeit: 10-30
-raum: 3.216
+raum: Online Präsentation
 betreuer: cn
 thema: Barrierefreiheit webbasierter Inhalte am Beispiel der Umfragesoftware EFS Survey von Questback
 kooperationspartner: Questback GmbH
 teaserimage: kersten-ron-teaserimage.png
-stichworte: Frondend-Development, Barrierefreiheit, Guidelines, WCAG
+stichworte: Frondend-Development, Barrierefreiheit, Guidelines, WCAG, BITV/WCAG Selbstbewertung
 hinweise:
 ---
 
