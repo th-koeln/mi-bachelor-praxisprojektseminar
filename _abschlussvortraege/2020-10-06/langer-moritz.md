@@ -22,3 +22,4 @@ Aus den Ergebnissen dieser Versuche lässt sich schließen, dass alle Methoden, 
 
 ## Material & weiterführende Infos
 - [Playlist der Versuchsvideos]( https://www.youtube.com/playlist?list=PLfugy9foAVwhaVi2djPS4EIt0HzR0rIki)
+- [Folien der Präsentation]( https://th-koeln.sciebo.de/s/G6N58tbT3UZo8qo)
