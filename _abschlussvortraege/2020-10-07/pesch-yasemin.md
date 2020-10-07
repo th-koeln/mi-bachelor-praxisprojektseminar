@@ -7,7 +7,7 @@ raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: ck
 thema: 	Intranet Relaunch bei den Kliniken Köln - Welches Intranet-System eignet sich anhand der erarbeiteten Anforderungen für die Kliniken Köln?
 kooperationspartner: Kliniken Köln
-teaserimage: pesch-yasemin.png
+teaserimage: pesch-yasemin.jpg
 stichworte: Intranet, Relaunch, Analyse, Konzeption, Anforderungen
 hinweise:
 ---
