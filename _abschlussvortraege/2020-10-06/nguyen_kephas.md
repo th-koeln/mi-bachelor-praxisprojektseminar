@@ -3,7 +3,7 @@ nachname: Nguyen
 vorname: Kephas
 datum: 2020-10-06
 uhrzeit: 16-30
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Einfluss von visuellen Effekten auf das Storytelling in Film
 kooperationspartner: TH Köln

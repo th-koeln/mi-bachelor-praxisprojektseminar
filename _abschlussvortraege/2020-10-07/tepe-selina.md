@@ -3,7 +3,7 @@ nachname: Tepe
 vorname: Selina
 datum: 2020-10-07
 uhrzeit: 09-00
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: sk
 thema: Konzeption einer Studie zum Vergleich von subjektivem Empfinden von Privatheit zu gemessenen Privatheitsfaktoren
 kooperationspartner: TH Köln

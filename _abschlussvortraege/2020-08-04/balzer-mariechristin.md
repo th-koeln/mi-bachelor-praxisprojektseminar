@@ -3,7 +3,7 @@ nachname: Balzer
 vorname: Marie-Christin
 datum: 2020-08-04
 uhrzeit: 10-00
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Konzeption und Planung eines 360° Video Tutorials
 kooperationspartner: 

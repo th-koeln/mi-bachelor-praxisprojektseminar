@@ -8,7 +8,7 @@ termine: 2020-12-22 10:00, 2021-01-19 10:00, 2021-02-02 10:00, 2021-02-09 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 info: 
 ---
 

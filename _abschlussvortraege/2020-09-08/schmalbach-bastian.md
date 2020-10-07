@@ -3,7 +3,7 @@ nachname: Schmalbach
 vorname: Bastian
 datum: 2020-09-08
 uhrzeit: 11-00
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: mb
 thema: Das Unterstützen eines nachhaltigen Lebensstils mit Hilfe einer mobilen Applikation
 kooperationspartner: TH Köln

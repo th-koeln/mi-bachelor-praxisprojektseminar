@@ -3,7 +3,7 @@ nachname: Aydin, Kilic
 vorname: Oya, Lorin Berfin
 datum: 2020-10-07
 uhrzeit: 11-00
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: hk
 thema: Die Wirkungszusammenhänge die zu Cybermobbing führen, begleitend durch ein Selbstexperiment
 kooperationspartner: Th Köln

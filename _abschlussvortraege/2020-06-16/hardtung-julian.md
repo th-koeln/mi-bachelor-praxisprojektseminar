@@ -3,7 +3,7 @@ nachname: Hardtung
 vorname: Julian
 datum: 2020-06-16
 uhrzeit: 10-30
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: me
 thema: Development of a Desktop Application for Creating Origami Diagrams
 kooperationspartner: TH Köln

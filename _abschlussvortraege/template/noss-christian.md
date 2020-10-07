@@ -3,7 +3,7 @@ nachname: Noss
 vorname: Christian
 datum: 2020-01-01
 uhrzeit: 10-30
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: gh
 thema: Evaluation verschiedener Wireframing Techniken
 kooperationspartner: TH Köln

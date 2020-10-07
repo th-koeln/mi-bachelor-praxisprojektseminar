@@ -5,7 +5,7 @@ vorname: Beyza
 vorname: Furkan Davut
 datum: 2020-10-07
 uhrzeit: 12-00
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: hk
 thema: 	Anwendung von Vorgehensmodellen und Techniken des Projektmanagements auf die Vorbereitung und Organisa-tion von Online gestreamten Live-Produktionen-am Bei-spiel der Produktion „Vorlesetag 2018“ an der TH Köln
 kooperationspartner: TH Köln

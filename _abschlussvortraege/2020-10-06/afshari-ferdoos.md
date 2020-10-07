@@ -3,7 +3,7 @@ nachname: Afshari
 vorname: Ferdoos
 datum: 2020-10-06
 uhrzeit: 16-00
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Von der klassischen Live-TV-Produktion zur teilautomatisierten TV-Produktion	
 kooperationspartner: TH Köln, CBC

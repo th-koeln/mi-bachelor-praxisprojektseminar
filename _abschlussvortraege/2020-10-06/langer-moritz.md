@@ -3,7 +3,7 @@ nachname: Langer
 vorname: Moritz
 datum: 2020-10-06
 uhrzeit: 11-00
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Experimentelle Durchführung eines Face Replacements auf Basis bestehender Theorien und Verfahren
 kooperationspartner: TH Köln

@@ -8,7 +8,7 @@ termine: 2020-09-08 09:00, 2020-10-06 09:00, 2020-10-07 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 info: 
 ---
 
