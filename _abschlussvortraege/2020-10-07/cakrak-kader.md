@@ -5,7 +5,7 @@ datum: 2020-10-07
 uhrzeit: 10-30
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias) Präsentation
 betreuer: lk
-thema: Social Media im Online Marketing: Eine Analyse der Anwendung und Wirkung des Werbeauftritts von Apple und Samsung im Social Network Instagram
+thema: Social Media im Online Marketing - Eine Analyse der Anwendung und Wirkung des Werbeauftritts von Apple und Samsung im Social Network Instagram
 kooperationspartner: TH Köln
 teaserimage: cakrak-kader-teaserimage.jpg
 stichworte: Social Media, Marketingsinstrumente, Online Marketing, Werbeauftritt
