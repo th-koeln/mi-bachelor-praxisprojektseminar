@@ -7,7 +7,7 @@ pflicht: false
 termine: 2020-10-13 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 60
 raum:  https://us02web.zoom.us/j/86324956433 (Passwort steht im Ilias)
 info: 
 ---
