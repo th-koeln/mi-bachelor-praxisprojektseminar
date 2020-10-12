@@ -13,16 +13,6 @@ hinweise:
 ---
 
 ## Abstract
-Die Anfänge professioneller Bewegtbild-Produktionen haben bereits vor einem Jahrhundert begonnen. 
-Die Erreichbarkeit der Zielgruppen konnte nur mit Bewegtbildern wie Kinowerbespots und TV-Werbespots gewährleisten. 
-Die Vielfalt der heutigen Kommunikation hat durch verschiedene Kommunikationsmittel wie Messen, Veranstaltungen und Social-Media-Kanälen an Reichhaltigkeit gewonnen.
-Diese Bandbreite an Kommunikationsmitteln kann heute in Unternehmensﬁlmen eingesetzt werden, um in einer persönlichen Ansprache Kunden zu erreichen. 
-Bei meiner Projektion handelt es sich um einen umfassenden Film über das Unternehmen.
-Die Filme werden auf die Anforderungen der jeweiligen Betriebe angepasst. 
-Dabei wird beachtet, dass die Identität, Werte und Ansprüche widergespiegelt werden.
-Ein Imagefilm wird nicht konzeptioniert und realisiert, um ein bestimmtes Produkt oder eine bestimmte Dienstleistung zu vermarkten, 
-sondern vielmehr, um das Unternehmen und sein Image zu präsentieren. Daher sollte man dies nicht mit einem Werbefilm verwechseln.
-
 Die Anfänge professioneller Bewegtbild-Produktionen haben bereits vor einem Jahrhundert begonnen. Die Erreichbarkeit der Zielgruppen konnte nur mit Bewegtbildern wie Kinowerbespots und TV-Werbespots gewährleisten. Die Vielfalt der heutigen Kommunikation hat durch verschiedene Kommunikationsmittel wie Messen, Veranstaltungen und Social-Media-Kanälen an Reichhaltigkeit gewonnen.
 Diese Bandbreite an Kommunikationsmitteln kann heute in Unternehmensﬁlmen eingesetzt werden, um in einer persönlichen Ansprache Kunden zu erreichen. 
 
