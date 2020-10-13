@@ -2,7 +2,7 @@
 nachname: Kersten
 vorname: Ron
 datum: 2020-10-13
-uhrzeit: 10-30
+uhrzeit: 11-00
 raum: Online Präsentation
 betreuer: cn
 thema: Barrierefreiheit im Kontext webbasierter Inhalte am Beispiel der Umfragesoftware des Unternehmens Questback
