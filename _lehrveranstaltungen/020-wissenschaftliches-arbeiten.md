@@ -33,6 +33,7 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 
 ### [Link zur Mindmap](https://mm.tt/1484732493?t=A079vxHNYU)
 
+<!--
 Themen der Sessions:
 
 - Stil der Arbeit: Breakout 1 & 2
@@ -41,3 +42,4 @@ Themen der Sessions:
 - Inhaltlicher Aufbau und formale Bausteine der Arbeit: Session 7 & 8
 - Wissenschaftliche Quellen: Session 9
 - Zitate: Session 10
+-->
