@@ -14,7 +14,7 @@ info:
 
 
 ## Wie läuft die Veranstaltung ab?
-Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Adobe Connect.
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell in einem Zoom Raum.
 
 Wir treffen uns [in diesem Raum](https://webconf.vc.dfn.de/mi-bachelor-pp-seminar/). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
 
@@ -25,7 +25,7 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 
 ## Was sind die Ziele?
 - alle verstehen wie die Veranstaltung funktioniert
-- alle haben ein Thema aus dem Buch „Die Gestaltung wissenschaftlicher Arbeiten” zugewiesen bekommen, zudem Sie die Inhalte zusammen fassen sollen
+- alle haben das Buch „Die Gestaltung wissenschaftlicher Arbeiten” gelesen
 - alle wissen was zum nächsten Termin vorzubereiten ist
 
 ## Was muss vorbereitet werden?
