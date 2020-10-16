@@ -30,10 +30,10 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 - keins
 
 ## Workshopaufaufgabe
-
-### [Link zur Mindmap](https://mm.tt/1484732493?t=A079vxHNYU)
-
 <!--
+### [Link zur Mindmap](https://mm.tt/1658041834?t=WmZ2leplr0)
+
+
 Themen der Sessions:
 
 - Stil der Arbeit: Breakout 1 & 2
