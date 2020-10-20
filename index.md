@@ -49,16 +49,16 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 ### [Themenfeldanalyse](lehrveranstaltungen/030-themenfeldanalyse/)
 Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
 
-### [Exposé und Peer Review](lehrveranstaltungen/040-peer-reviewed-expose/)
+### [Exposé und Peer Review](lehrveranstaltungen/050-peer-reviewed-expose/)
 Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
 
-### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/050-schreibwerkstatt/)
+### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/040-schreibwerkstatt/)
 Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
 
-### [Mediengestützte Präsentation](lehrveranstaltungen/060-mediengestuetzte-prasentation/)
+### [Mediengestützte Präsentation](lehrveranstaltungen/070-mediengestuetzte-prasentation/)
 Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
 
-### [Postersession/ Live-Session](lehrveranstaltungen/070-live-session-postersession/)
+### [Postersession/ Live-Session](lehrveranstaltungen/070-live-session-postersession/) (Findet dieses Semester nicht statt)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.
 
 Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im Ilias hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
