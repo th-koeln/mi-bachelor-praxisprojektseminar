@@ -30,16 +30,16 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 - keins
 
 ## Workshopaufaufgabe
-<!--
+
 ### [Link zur Mindmap](https://mm.tt/1658041834?t=WmZ2leplr0)
 
 
 Themen der Sessions:
 
-- Stil der Arbeit: Breakout 1 & 2
-- Thema, Betreuer und Forschungsfrage: Session 3 & 4
-- Wissenschaftliche Grundlagen: Session 5 & 6
-- Inhaltlicher Aufbau und formale Bausteine der Arbeit: Session 7 & 8
-- Wissenschaftliche Quellen: Session 9
-- Zitate: Session 10
--->
+- Stil der Arbeit: Session 1
+- Thema, Betreuer und Forschungsfrage: Session 2
+- Wissenschaftliche Grundlagen: Session 3
+- Inhaltlicher Aufbau und formale Bausteine der Arbeit: Session 4
+- Wissenschaftliche Quellen: Session 5
+- Zitate: Session 6
+
