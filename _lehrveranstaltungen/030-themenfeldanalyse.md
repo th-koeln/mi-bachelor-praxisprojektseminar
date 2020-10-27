@@ -8,7 +8,7 @@ termine: 2020-10-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://zoom.us/j/99463334433 (Zugangscode steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86224491085  (Zugangscode steht im Ilias)
 zugangscode: 
 info: 
 ---
