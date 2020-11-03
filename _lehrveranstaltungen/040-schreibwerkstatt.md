@@ -25,4 +25,5 @@ Um besser und schneller im wissenschaftlichen Schreiben zu werden haben wir heut
 
 
 ## Material und Links
-[Lernmaterial vom Akademischen Schreibzentrum](https://ilias.th-koeln.de/ilias.php?ref_id=1248642&cmd=render&cmdClass=ilrepositorygui&cmdNode=u1&baseClass=ilRepositoryGUI)
+- [Lernmaterial vom Akademischen Schreibzentrum](https://ilias.th-koeln.de/ilias.php?ref_id=1248642&cmd=render&cmdClass=ilrepositorygui&cmdNode=u1&baseClass=ilRepositoryGUI)
+- [Immer schön umständlich? Zum Stil wissenschaftlicher Texte // Coffee Lecture 2020/3](https://www.youtube.com/watch?v=HDda0tO6Zpw)
