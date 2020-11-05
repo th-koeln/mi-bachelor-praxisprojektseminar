@@ -36,7 +36,7 @@ Ein in LaTex erstelltes Exposé, welches durch zwei Kommilitonen einem Review un
 ## Was muss geliefert werden? 
 Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken. 
 
-[Dateiupload für die Exposés](https://ilias.th-koeln.de/ilias.php?ref_id=1470959&ass_id=14912&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=ba:md:bq:bp&baseClass=ilExerciseHandlerGUI)
+[Dateiupload für die Exposés](https://ilias.th-koeln.de/ilias.php?ref_id=1671646&ass_id=17709&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=b9:mc:bp:bo&baseClass=ilExerciseHandlerGUI)
 
 Die Benamung sollte folgendem Muster entsprechen:
 > NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR-KUERZELREVIEWER.pdf
