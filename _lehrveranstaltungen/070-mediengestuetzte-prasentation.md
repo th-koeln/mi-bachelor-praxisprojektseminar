@@ -8,7 +8,7 @@ termine: 2020-12-08 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 info: 
 ---
 
@@ -37,4 +37,4 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 ## Was muss geliefert werden?
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
-- [Zum Dateiupload im Ilias](https://bit.ly/3frfxUv)
+- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1671646&client_id=ILIAS_FH_Koeln)

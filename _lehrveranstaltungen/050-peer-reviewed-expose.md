@@ -8,7 +8,7 @@ termine: 2020-11-10 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum:  https://us02web.zoom.us/j/82823560413 (Zugangscode steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86224491085 (Zugangscode steht im Ilias)
 info: 
 ---
 
@@ -37,6 +37,7 @@ Ein in LaTex erstelltes Exposé, welches durch zwei Kommilitonen einem Review un
 Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken. 
 
 [Dateiupload für die Exposés](https://ilias.th-koeln.de/goto.php?target=exc_1671646&client_id=ILIAS_FH_Koeln)
+
 
 Die Benamung sollte folgendem Muster entsprechen:
 > NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR-KUERZELREVIEWER.pdf
