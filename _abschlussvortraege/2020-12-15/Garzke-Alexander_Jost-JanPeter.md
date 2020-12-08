@@ -4,22 +4,23 @@ name: Jost Jan Peter
 datum: 2020-12-15
 uhrzeit: 09-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: gh
-thema: Evaluation verschiedener Wireframing Techniken
-kooperationspartner: TH Köln
+betreuer: Martin Eisemann, Uwe Müsse
+thema: Entwicklung eines VR Tutorials für das Unternehmen Weltenmacher
+kooperationspartner: TH Köln, Weltenmacher 
 teaserimage: noss-christian-teaserimage.jpg
-stichworte: Frondend-Development, Design, UX/UI, Methoden
+stichworte: Virtual Reality, Weltenmacher, Spieleentwicklung, Unreal Engine 4
 quelle-bildrechte-teaser: Christian Noss
 hinweise:
 ---
 
 ## Abstract
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. **Das Abstract wird mit bewertet.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Sich in der Welt der virtuellen Realität zu bewegen ist zu Beginn nicht immer einfach.
+Es werden Tasten benutzt um Aktionen auszuführen, wie beispielsweise eine Taste wird gedrückt, um Gegenstände aufzuheben. Die User müssen erst mit den Mechaniken der virtuellen Realität vertraut gemacht werden. Das Start-up-Unternehmen Weltenmacher konzipiert und setzt VR-Anwendungen für das Wissens- und Fortbildungssegment um, welches viele verschiedene Altersgruppen umfasst. Eine Besonderheit stellt hier der sehr unterschiedliche Wissensstand auf Technik dar. Es sind sowohl sogenannte “digital natives”, als auch “digital immigrants” in der Zielgruppe.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Das Ziel dieses Projektes ist es eine Anwendung zu entwickeln, welche wesentliche Mechaniken der Anwendungen des Unternehmens Weltenmacher leicht verständlich und generationsübergreifend vermittelt. Die Software wird an den Stil der Weltenmacher Anwendungen angepasst werden und soll für alle Altersgruppen angemessen sein. Damit das Projekt auf spezifische VR-Anwendungen des Unternehmens angepasst werden kann, soll das Projekt modular umgesetzt werden.
+
+Das Projekt ist in der “Unreal Engine 4” umgesetzt . Die zu erklärenden Mechaniken sind herausgearbeitet und in einzelne Quests unterteilt.
 
 ## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-- [https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 - [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
