@@ -21,3 +21,4 @@ Die Webseite des Cranach Digital Archives präsentiert die digitalisierten Werke
 
   Das entstandene System zeigt eine Darstellungsmöglichkeit der künstlerischen Artefakte mit einem geografischen Fokus. Dabei muss beachtet werden, dass es sich um einen Prototyp handelt, der das Potenzial der Anwendung zeigt.
 
+  Weiterführend ließe sich der Prototyp zu einem vollständigen System weiterentwickeln. Dabei kann der Fokus auf die Anforderungen des Cranach Digital Archives oder die der Nutzer gelegt werden. Alternativ kann ein umfangreiches Konzept für das System ausgearbeitet werden, es jedoch noch nicht implementiert wird.
