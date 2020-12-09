@@ -3,7 +3,7 @@ nachname: Neumann
 vorname: Dennis
 datum: 2020-12-15
 uhrzeit: 13-30
-raum: Online Präsentation
+raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: wk
 thema: Foveated Rendering mit Eye-Tracking in Virtual Reality
 kooperationspartner: TH Köln
@@ -19,6 +19,9 @@ Virtual Reality ist für Nutzer nach wie vor teuer in der Anschaffung und benöt
 Forschungsfrage dieser Arbeit ist: **Wie lässt sich Foveated Rendering im VR-Kontext einsetzen ohne Wahrnehmungseinflüsse auf Nutzer?** Um diese zu beantworten ist eine Anwendung entwickelt worden. Die Performancetests zeigen keine Auswirkung auf die Performanz der Anwendung. Dagegen kann die Wahrnehmung der Foveation bei ausgeglichenen Einstellungen minimiert werden.
 
 Dies zeigt das die angewandte Technik, Variable Rate Shading, in den getesteten Szenario zwar für Foveation genutzt werden kann, jedoch nicht sinnvoll ist.  
+
+An diese Arbeit anknüpfen kann eine Nutzerstudie, welche die besten Einstellungen der Foveation ermittelt. 
+Da Variable Rate Shading in anderen Szenarien die Performance von Anwendungen verbessert ist es ebenfalls sinnvoll weiter zu ergründen, wieso in diesem Szenario keine Verbesserung gezeigt werden konnte. Dazu sollten weitere Szenarios, mit verschiedenen Systemen und Konfigurationen getestet werden. 
 
 
 ## Material & weiterführende Infos
