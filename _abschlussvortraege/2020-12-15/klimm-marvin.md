@@ -23,3 +23,4 @@ Interessante Anknüpfungen zu dieser Arbeit würden beispielsweise die Erstellun
 
 - [Repo zur wissenschaftlichen Ausarbeitung](https://github.com/netzfluencer/SCI_Vue-Components-Library-Tailwindcss)
 - [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
+- [Präsentation](https://netzfluencer.github.io/SCI_Vue-Components-Library-Tailwindcss/)
