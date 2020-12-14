@@ -1,6 +1,6 @@
 ---
-nachname: Yildirim
-vorname: Yunus, Yahya
+nachname: Yahya Yildirim
+vorname: Yunus Yildirim
 datum: 2020-12-15
 uhrzeit: 12-00
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
