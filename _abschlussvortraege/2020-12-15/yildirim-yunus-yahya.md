@@ -3,9 +3,9 @@ nachname: Yildirim
 vorname: Yunus, Yahya
 datum: 2020-12-15
 uhrzeit: 12-00
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
+raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
-thema: Entwicklung audiovisueller Medien mit Methoden und Verfahren der Mensch-Computer-Interaktion - am Beispiel der Kommunalwahlen in Köln
+thema: Entwicklung audiovisueller Medien mit Methoden und Verfahren der Mensch-Computer-Interaktion - am Beispiel der Kommunalwahlen in Köln
 kooperationspartner: TH Köln
 teaserimage: yildirim-yunus-yahya.jpg
 stichworte: Filmproduktion, Analyse, Social Interest, Kommunalwahlen, MCI
