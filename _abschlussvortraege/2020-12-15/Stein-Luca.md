@@ -4,8 +4,9 @@ vorname: Luca,
 datum: 2020-12-15
 uhrzeit: 11-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: Prof. Dr. Mario Winter
+betreuer: mw
 thema: Evaluation verschiedener Werkzeuge zur Testautomatisierung der Regressionstests von OxDrive Windows
+kooperationspartner: Open-Xchange
 teaserimage: Stein-Luca-Teaserimage.PNG
 stichworte: Open-Xchange, Testautomatisierung, OxDrive Windows, Regressionstest
 quelle-bildrechte-teaser: Open-Xchange
