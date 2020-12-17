@@ -8,7 +8,7 @@ betreuer: wk
 thema: Erweiterung der Crowd-Simulation PEDSIM mit einer graphischen Darstellung der Dichte von Agenten
 kooperationspartner: TH Köln
 teaserimage: kurtz-tim-teaserimage.jpg
-stichworte: Crowd-Simulation, Crowd-Desaster, Simulation, Methoden
+stichworte: PEDSIM, Crowd-Simulation, Crowd-Desaster, Mulit-Agenten-Simulation
 quelle-bildrechte-teaser: Tim Kurtz
 hinweise:
 ---
@@ -18,13 +18,15 @@ hinweise:
 Seit dem Unglück bei der Loveparade 2010 haben Multi-Agenten-Simulationen, speziell Crowd-Simulation,  eine besondere Relevanz. Sie können bei der vorherigen Planung helfen, um zukünftige Unglücke bei Großveranstaltungen zu verhindern.
 Ziel des Praxisprojekts ist es, die Crowd-Simulation PEDSIM zu beschreiben und eine graphische Darstellung der Agentendichte zu erreichen.
 
-
 Im ersten Schritt wurde die zu hohe Dichte von Personen als Ursache der Todesfälle ausgemacht.
 Im zweiten Schritt wurde PEDSIM beschrieben. Dafür wurde auf folgende Aspekte eingegangen: die grundlegenden Funktionen und Klassen, das Simulationsmodell Social-Force-Model und die Speicherung der Agenten durch Quadtrees.
 Im dritten Schritt wurde die Agentendichte in Relation zur Quadtreetiefe gesetzt. Je größer die Tiefe ist, desto höher ist die Dichte. Ihrer Tiefe entsprechend wurden die graphischen Quadtrees eingefärbt.
 
-
 Das Praxisprojekt konnte somit zeigen, dass eine graphische Darstellung der Agentendichte  prototypisch möglich ist.
+
+Anknüpfend daran könnte die Einfärbung der graphischen Quadtrees verfeinert werden, indem die einzufärbenden Quadranten des Quadtrees zusätzlich überprüft werden, ob sie Agenten enthalten.
+Desweiteren könnte eine Funktion für PEDSIM entwickelt werden, die die Agentendichte erfasst. Aus Basis dieser erfassten Werte könnte eine exakte graphische Darstellung der Agentendichte erreicht werden.
+
 
 ## Material & weiterführende Infos
 
