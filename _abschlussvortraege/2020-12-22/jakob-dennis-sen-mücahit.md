@@ -28,4 +28,4 @@ Als Weiterführung dieses Projekts könnte durch eine Recherche ein spezifisches
 
 ## Material & weiterführende Infos
 Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-https://th-koeln.sciebo.de/s/WPyGjBNhfsfFUtC - Link zum Image Film. Passwort: PP2021
+https://th-koeln.sciebo.de/s/WPyGjBNhfsfFUtC - Link zum Image Film. Passwort: PP2021 
