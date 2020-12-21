@@ -30,7 +30,7 @@ layout: default
 
             {% for vortrag in vortraege %}
               <article class="social-media-snippet facebook">
-                Praxisprojekt Seminarvortrag via Zoom: {{vortrag.vorname}} {{vortrag.nachname}} // {{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}, {{ vortrag.uhrzeit | replace: "-", ":" }} Uhr<br>
+                {{vortrag.vorname}} {{vortrag.nachname}} // Praxisprojekt Seminarvortrag via Zoom // {{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}, {{ vortrag.uhrzeit | replace: "-", ":" }} Uhr<br>
                 {{site.url}}{{site.baseurl}}{{vortrag.url}}<br>
                 {% assign stichworte = vortrag.stichworte|split: "," %}
                 {%for stichwort in stichworte %}
@@ -39,7 +39,7 @@ layout: default
               </article>
 
               <article class="social-media-snippet twitter">
-                Praxisprojekt Seminarvortrag via Zoom: {{vortrag.thema}} // {{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}, {{ vortrag.uhrzeit | replace: "-", ":" }} Uhr<br>
+                {{vortrag.thema}} // {{vortrag.vorname}} {{vortrag.nachname}} // Praxisprojekt Seminarvortrag via Zoom // {{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}, {{ vortrag.uhrzeit | replace: "-", ":" }} Uhr<br>
                 {{site.url}}{{site.baseurl}}{{vortrag.url}}<br>
                 {% assign stichworte = vortrag.stichworte|split: "," %}
                 {%for stichwort in stichworte %}
