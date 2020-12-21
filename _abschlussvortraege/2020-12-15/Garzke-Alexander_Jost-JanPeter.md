@@ -19,7 +19,7 @@ Sich in der Welt der virtuellen Realität zu bewegen und mit ihr zu interagieren
 
 Das Ziel dieses Projektes ist es eine Anwendung in “Unreal Engine 4” zu entwickeln, welche wesentliche Mechaniken der Anwendungen des Unternehmens Weltenmacher leicht verständlich und generationsübergreifend vermittelt. Die Software wird an den Stil der Weltenmacher Anwendungen angepasst und soll für alle Altersgruppen angemessen sein. Damit das Projekt auf spezifische VR-Anwendungen des Unternehmens angepasst werden kann, soll das Projekt modular umgesetzt werden.
 
-## Themenvorschläge
+## Vorschläge für weitere Arbeiten im Themenfeld
 
 Führt die Wissensvermittlung in VR zu einem besseren Lernerfolg?
 

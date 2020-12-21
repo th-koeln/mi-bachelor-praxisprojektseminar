@@ -21,7 +21,7 @@ Eine so große und umfassende Software wird ständig weiterentwickelt. Dies erfo
 Für OxDrive Windows wurde dies nicht umgesetzt. Hier wird tatsächlich noch jeder einzelne Testfall manuell überprüft. Da dies sehr viel Zeit in Anspruch nimmt, soll sich dies ändern. Hier muss jedoch zunächst herausgefunden werden, welche Software oder Tool sich für diesen Zweck am besten eignet.
 Dies herauszufinden war das Ziel meines Praxisprojektes. Nachdem ich verschiedene geeignete Werkzeuge recherchierte, testete ich drei davon. Anhand einer Nutzwertanalyse wählte ich das beste Werkzeug aus und stellte dem Unternehmen meine Ergebnisse vor. Letztendlich erwarben sie das von mir empfohlene Werkzeug. 
 
-## Themenvorschläge
+## Vorschläge für weitere Arbeiten im Themenfeld
 
 Konzeption und Implementierung einer Testautomatisierung für die Software OxDrive Windows
 
