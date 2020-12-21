@@ -860,6 +860,27 @@ h3.is-inverse{
   grid-gap: 2px;
 }
 
+
+/* Social Media Snippets
+############################################################################ */
+
+.social-media-snippet{
+  margin-bottom: $bfs;
+  line-height: 140%;
+  border-left: solid 3px $mi-grau;
+  padding-left: $bfs;
+
+  &.facebook{
+    border-left-color: #3b5998;
+  }
+
+  &.twitter{
+    border-left-color: #00acee;
+  }
+}
+
+
+
 /* Card
 ############################################################################ */
 
