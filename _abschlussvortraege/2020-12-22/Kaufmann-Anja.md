@@ -1,15 +1,15 @@
 ﻿---
 nachname: Kaufmann
-vorname: Anja Katrin,
+vorname: Anja Katrin
 datum: 2020-12-22
 uhrzeit: 10-00
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) 
+raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) 
 betreuer: hk
 thema: Die Auswirkungen von Environmental Storytelling im Kontext Videospiele auf die Erzählung von Geschichten
-teaserimage: Kaufmann-Anja_teaserimage.jpg
+teaserimage: kaufmann-anja-teaserimage.jpg
 stichworte: Environmental Storytelling, Level Design, Videospiele, Games, Narrative
-
-
+quelle-bildrechte-teaser:
+hinweise:
 ---
 
 ## Abstract
@@ -22,9 +22,9 @@ In diesem Praxisprojekt, welches an der Technischen Hochschule Köln unter der B
 Quelle: R. Hunicke, MDA - A formal approach to game design and game research, 2004
 
 ## Themenvorschläge
-
  - Der Einfluss von neuen Technologien auf die Narrative in Videospielen
  - Environmental Storytelling als Komponente zur Stärkung der Immersion in Videospielen
+
 ## Referenzen & Ausarbeitung
  - Josh Bycer, How Game Designers are Building Worlds,  Url: https://medium.com/@GWBycer/whatis-environmental-storytelling-7f76813d9876
  - Michael Nitsche, Video Game Spaces: Image, Play, and Structure in 3D Worlds, 2008 
