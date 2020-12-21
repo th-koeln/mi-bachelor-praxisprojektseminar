@@ -1,11 +1,12 @@
-﻿---
+---
 nachname: Kaufmann
-vorname: Anja Katrin
+vorname: Anja
 datum: 2020-12-22
 uhrzeit: 10-00
-raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) 
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Die Auswirkungen von Environmental Storytelling im Kontext Videospiele auf die Erzählung von Geschichten
+kooperationspartner: TH Köln
 teaserimage: kaufmann-anja-teaserimage.jpg
 stichworte: Environmental Storytelling, Level Design, Videospiele, Games, Narrative
 quelle-bildrechte-teaser:
@@ -37,6 +38,3 @@ Quelle: R. Hunicke, MDA - A formal approach to game design and game research, 20
  - R. Hunicke, MDA - A formal approach to game design and game research, 2004
 
 [Repository zur wissenschaftlichen Ausarbeitung](https://github.com/AnjaKatrinKaufmann93/KaufmannAnjaKatrin_PraxisprojektWiSe2021_EnvironmentalStorytelling/blob/main/KaufmannAnja_PP_EnvironmentalStorytelling_v1_3.pdf)
-
-
-
