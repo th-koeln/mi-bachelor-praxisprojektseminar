@@ -33,18 +33,14 @@ layout: default
                 {{vortrag.vorname}} {{vortrag.nachname}} // Praxisprojekt Seminarvortrag via Zoom // {{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}, {{ vortrag.uhrzeit | replace: "-", ":" }} Uhr<br>
                 {{site.url}}{{site.baseurl}}{{vortrag.url}}<br>
                 {% assign stichworte = vortrag.stichworte|split: "," %}
-                {%for stichwort in stichworte %}
-                <span class="tag">#{{stichwort}}</span>
-                {% endfor %}
+                {%for stichwort in stichworte %}#{{stichwort}} {% endfor %} #medieninformatik #micgn
               </article>
 
               <article class="social-media-snippet twitter">
                 {{vortrag.thema}} // {{vortrag.vorname}} {{vortrag.nachname}} // Praxisprojekt Seminarvortrag via Zoom // {{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}, {{ vortrag.uhrzeit | replace: "-", ":" }} Uhr<br>
                 {{site.url}}{{site.baseurl}}{{vortrag.url}}<br>
                 {% assign stichworte = vortrag.stichworte|split: "," %}
-                {%for stichwort in stichworte %}
-                <span class="tag">#{{stichwort}}</span>
-                {% endfor %}
+                {%for stichwort in stichworte %}#{{stichwort}} {% endfor %} #medieninformatik #micgn
               </article>
 
               <hr>
