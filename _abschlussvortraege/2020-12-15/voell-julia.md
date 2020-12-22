@@ -10,6 +10,7 @@ kooperationspartner: TH Köln
 teaserimage: voell-julia-teaserimage.jpeg
 stichworte: Cranach Digital Archvie, Webanwendung, Geocoding
 hinweise:
+weiterfuehrende-themen: Weiterführend ließe sich der Prototyp zu einem vollständigen System weiterentwickeln. Dabei kann der Fokus auf die Anforderungen des Cranach Digital Archives oder die der Nutzer gelegt werden. | Alternativ kann ein umfangreiches Konzept für das System ausgearbeitet werden, es jedoch noch nicht implementiert wird.
 ---
 
 ## Abstract
@@ -20,5 +21,3 @@ Die Werke sind in einer Galerie einzusehen, welche mit verschiedenen Filtereinst
 Um die Forschungsfrage zu beantworten, werden anhand der Zielsetzung Anforderungen bestimmt, die in einem Prototyp umgesetzt werden. Verschiedene Technologien werden in einer umfangreichen Recherche erläutert und gegeneinander abgewägt. So wird eine Darstellungsform für die Daten ermittelt. Mit den ausgewählten Technologien wird ein Prototyp entwickelt. Um die vorliegenden Daten des Cranach Digital Archives abzubilden, müssen diese zunächst in das GeoJSON-Format umstrukturiert und durch zusätzliche Parameter mittels Geocoding erweitert werden. Abschließend wird der implementierte Prototyp anhand der definierten Anforderungen evaluiert. 
 
 Das entstandene System zeigt eine Darstellungsmöglichkeit der künstlerischen Artefakte mit einem geografischen Fokus. Dabei muss beachtet werden, dass es sich um einen Prototyp handelt, der das Potenzial der Anwendung zeigt.
-
-Weiterführend ließe sich der Prototyp zu einem vollständigen System weiterentwickeln. Dabei kann der Fokus auf die Anforderungen des Cranach Digital Archives oder die der Nutzer gelegt werden. Alternativ kann ein umfangreiches Konzept für das System ausgearbeitet werden, es jedoch noch nicht implementiert wird.

@@ -10,14 +10,12 @@ kooperationspartner: TH Köln, AVACO GmbH
 teaserimage: klimm-marvin-teaserimage.png
 stichworte: Vue.js, Tailwind CSS, Storybook.js, Pattern Library, Utility-First CSS
 hinweise:
+weiterfuehrende-themen: Interessante Anknüpfungen zu dieser Arbeit würden beispielsweise die Erstellung eines auf Design Systems mit Tailwind CSS sein oder auch eine Untersuchung des Einsatzes von Tailwind CSS in Webcomponents.
 ---
 
 ## Abstract
 
 Diese Arbeit befasst sich mit der Erstellung einer neuen Vue-Komponenten Bibliothek und der Einführung von Tailwind CSS im Frontend der instanzierbaren Plattformlösung “My.PORTAL” der AVACO GmbH. Anhand der zu Beginn der Arbeit präsenten Problemen und Herausforderungen im Frontend von My.PORTAL wird diese neue Komponentenbibliothek erstellt und anschließend bewertet. Zu den fest definierten Zielen dieser Arbeit zählen außerdem, dass die Bibliothek es ermöglicht Komponenten isoliert  bzw.  unabhängig  vom  Hauptprojekt  entwickeln, gestalten und wiederverwenden zu können. Durch die Einführung des Utility-First Framework Tailwind CSS in die Bibliothek wird Tailwind CSS auch in das My.PORTAL Produkt  eingesetzt was zu neuen Chancen und Risiken führt. Diese neuen Auswirkungen von Tailwind CSS auf ein Vue.js v2 Projekt werden anschließend ermittelt und daraufhin ein Ausblick auf die Nutzung in Vue.js v3 geben.
-
-Interessante Anknüpfungen zu dieser Arbeit würden beispielsweise die Erstellung eines auf Design Systems mit Tailwind CSS sein oder auch eine Untersuchung des Einsatzes von Tailwind CSS in Webcomponents.
-
 
 ## Material & weiterführende Infos
 

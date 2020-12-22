@@ -35,6 +35,18 @@ layout: default-abschlussvortrag
         {% if check != ""  %}
         <dt>Stichworte</dt><dd>{{page.stichworte}}</dd>
         {% endif %}
+        {% assign check = page.weiterfuehrende-themen | strip_newlines %}
+        {% if check != ""  %}
+        <dt>Vorschläge für weitere Arbeiten im Themenfeld</dt><dd>
+          <ul>
+          {% assign topics = page.weiterfuehrende-themen | split: "|" %}
+          {% for topic in topics %}
+            <li>{{ topic | strip }}</li>
+          {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
+
         </dl>
         </div>
 

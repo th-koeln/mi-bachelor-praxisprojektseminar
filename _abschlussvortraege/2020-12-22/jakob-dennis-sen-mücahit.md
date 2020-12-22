@@ -11,6 +11,7 @@ teaserimage: jakob-dennis-sen-mücahit-teaserimage.jpg
 stichworte: Augumented Reality, Imagefilm, Filmproduktion,
 quelle-bildrechte-teaser: Microsoft
 hinweise:
+weiterfuehrende-themen: Als Weiterführung dieses Projekts könnte durch eine Recherche ein spezifisches Problem in der Domäne der AR weiter betrachtet werden oder eine AR-gestützte Software, die bei einer der alltäglichen Aufgaben hilft, entwickelt werden.
 ---
 
 ## Abstract
@@ -22,9 +23,8 @@ Jedoch sind Lösungen von Microsoft und Google zurzeit ein zu hoher Preis für N
 Mit unserem Projekt wurde folgende Frage gestellt: Wie könnte AR, insbesondere AR Brillen oder ähnliches, sich auf den Alltag auswirken beziehungsweise diesen unterstützen?
 Unter Nutzung im Alltagsbereich definieren wir die Nutzung in alltäglichen Situationen wie ein 8 Stunden Arbeitstag, unter anderem auch im Home-Office, das Einkaufen, alltägliche Beschäftigungen wie ein Arztbesuch, aber auch Freizeit und Lernen.
 Bei diesem Projekt haben wurde die momentan vorhandene Technologie in Form der Hardware und Software, die Entwicklung in der Vergangenheit und Gegenwart betrachtet sowie die theoretischen Anwendungen für AR im Alltag und inwiefern diese bereits umgesetzt wurden. Dabei werden auch die momentanen Hürden aufgezeigt, welche die Technologie zum derzeitigen Zeitpunkt nicht ganz nutzbar machen.
-Das Ergebnis der Recherchen wurden in einem Imagefilm umgesetzt, welcher den Sinn hat, ein Interesse in der AR zu erwecken und ihre Vorteile aber auch die momentanen Problembereiche dar zu stellen.
 
-Als Weiterführung dieses Projekts könnte durch eine Recherche ein spezifisches Problem in der Domäne der AR weiter betrachtet werden oder eine AR-gestützte Software, die bei einer der alltäglichen Aufgaben hilft, entwickelt werden.
+Das Ergebnis der Recherchen wurden in einem Imagefilm umgesetzt, welcher den Sinn hat, ein Interesse in der AR zu erwecken und ihre Vorteile aber auch die momentanen Problembereiche dar zu stellen.
 
 ## Material & weiterführende Infos
 Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.

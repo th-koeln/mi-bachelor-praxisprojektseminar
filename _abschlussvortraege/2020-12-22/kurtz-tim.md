@@ -11,6 +11,7 @@ teaserimage: kurtz-tim-teaserimage.jpg
 stichworte: PEDSIM, Crowd-Simulation, Crowd-Desaster, Mulit-Agenten-Simulation
 quelle-bildrechte-teaser: Tim Kurtz
 hinweise:
+weiterfuehrende-themen: Anknüpfend daran könnte die Einfärbung der graphischen Quadtrees verfeinert werden, indem die einzufärbenden Quadranten des Quadtrees zusätzlich überprüft werden, ob sie Agenten enthalten. | Desweiteren könnte eine Funktion für PEDSIM entwickelt werden, die die Agentendichte erfasst. Aus Basis dieser erfassten Werte könnte eine exakte graphische Darstellung der Agentendichte erreicht werden.
 ---
 
 ## Abstract
@@ -23,10 +24,6 @@ Im zweiten Schritt wurde PEDSIM beschrieben. Dafür wurde auf folgende Aspekte e
 Im dritten Schritt wurde die Agentendichte in Relation zur Quadtreetiefe gesetzt. Je größer die Tiefe ist, desto höher ist die Dichte. Ihrer Tiefe entsprechend wurden die graphischen Quadtrees eingefärbt.
 
 Das Praxisprojekt konnte somit zeigen, dass eine graphische Darstellung der Agentendichte  prototypisch möglich ist.
-
-Anknüpfend daran könnte die Einfärbung der graphischen Quadtrees verfeinert werden, indem die einzufärbenden Quadranten des Quadtrees zusätzlich überprüft werden, ob sie Agenten enthalten.
-Desweiteren könnte eine Funktion für PEDSIM entwickelt werden, die die Agentendichte erfasst. Aus Basis dieser erfassten Werte könnte eine exakte graphische Darstellung der Agentendichte erreicht werden.
-
 
 ## Material & weiterführende Infos
 

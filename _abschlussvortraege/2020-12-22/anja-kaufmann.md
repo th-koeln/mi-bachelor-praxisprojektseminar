@@ -11,6 +11,7 @@ teaserimage: kaufmann-anja-teaserimage.jpg
 stichworte: Environmental Storytelling, Level Design, Videospiele, Games, Narrative
 quelle-bildrechte-teaser:
 hinweise:
+weiterfuehrende-themen: Der Einfluss von neuen Technologien auf die Narrative in Videospielen | Environmental Storytelling als Komponente zur Stärkung der Immersion in Videospielen
 ---
 
 ## Abstract
@@ -21,10 +22,6 @@ Doch welche Auswirkungen hat diese Narrative auf Videospiele? Werden Geschichten
 In diesem Praxisprojekt, welches an der Technischen Hochschule Köln unter der Betreuung von Herrn Prof. Hans Hermann Kornacher absolviert wurde, wird diesen Fragestellungen nachgegangen, indem anhand diverser Videospiele Theorien anderer Autoren und Autorinnen angewandt und überprüft werden.
 
 Quelle: R. Hunicke, MDA - A formal approach to game design and game research, 2004
-
-## Themenvorschläge
- - Der Einfluss von neuen Technologien auf die Narrative in Videospielen
- - Environmental Storytelling als Komponente zur Stärkung der Immersion in Videospielen
 
 ## Referenzen & Ausarbeitung
  - Josh Bycer, How Game Designers are Building Worlds,  Url: https://medium.com/@GWBycer/whatis-environmental-storytelling-7f76813d9876
