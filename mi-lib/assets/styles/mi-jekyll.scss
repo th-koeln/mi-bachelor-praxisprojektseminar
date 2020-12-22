@@ -889,7 +889,7 @@ h3.is-inverse{
   opacity: 0.8;
   margin: $bfs * 0.5;
   background-color: rgba(0,0,0,0.5);
-  display: inline-table;
+  display: inline;
   padding: $bfs * 0.1 $bfs * 0.4;
 
   &.alert{
