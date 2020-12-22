@@ -935,3 +935,31 @@ h3.is-inverse{
     z-index: 0;
   }
 }
+
+
+/* details summary accordion
+############################################################################ */
+summary {
+  cursor: pointer;
+  &:focus{
+    outline: none;
+  }
+}
+
+summary::marker {
+  font-size: 0;
+}
+
+.talk {
+  margin-bottom: $bfs * 1.5;
+  .talk__headline {
+    margin-bottom: $bfs / 2 !important;
+    transition: background-color 0.5s;
+    width: 160px;
+
+  }
+  &:hover .talk__headline{
+    background-color: $mi-black;
+  }
+
+}
