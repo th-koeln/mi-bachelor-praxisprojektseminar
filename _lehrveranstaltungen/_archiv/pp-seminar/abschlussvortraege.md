@@ -1,5 +1,5 @@
 ---
-titel: Abschlussvorträge
+titel: 
 kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
