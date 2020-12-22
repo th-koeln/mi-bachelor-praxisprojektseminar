@@ -61,6 +61,15 @@
       </div>
     </div>
 
+    {% if page.quelle-bildrechte-teaser  %}
+    <p class="bildrechte">
+    Bildrechte: {{ page.quelle-bildrechte-teaser }} 
+    </p>
+    {% else %}
+    <div class="bildrechte alert">
+      <p>Bitte tragen Sie Angaben zu den Bildrechten in den Stammdaten ein.</p>
+    </div>
+    {% endif %}
   </section>
 
   {{ content }}
