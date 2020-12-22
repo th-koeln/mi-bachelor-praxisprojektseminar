@@ -11,6 +11,7 @@ teaserimage: engel-benedikt-teaserimage.jpg
 stichworte: Barrierefreiheit, Accessibility, WCAG, ATAG, BITV, CMS, WordPress, Joomla, Shopify
 quelle-bildrechte-teaser: https://unsplash.com/photos/4MoIpDcSlr4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 hinweise:
+weiterfuehrende-themen: Aufbauend auf diesem Praxisprojekt könnte sich in weiterführenden Arbeiten damit befasst werden die überprüften Themes/Templates auf WCAG-Konformität zu überarbeiten. | Darüber hinaus könnte auch ein Leitfaden für Redakteure und Redakteurinnen erstellt werden, welcher Hilfestllung bei der Auswahl des CMS bietet und Hinweise zur Gewährleistung der Barrierefreiheit bein editieren der Inhalte liefert.
 ---
 
 ## Abstract
@@ -22,8 +23,6 @@ Daraufhin wurde sich mit der Kernfrage befasst, in wie weit die Barrierefreiheit
 Hierfür wurden *WordPress*, *Shopify* und *Joomla*, die drei anhand des Marktanteils verbreitesten CMS überprüft. Diese Prüfung unterteilte sich in zwei Teile. Im ersten Teil wurden mit Hilfe der Browser Extension *axe* die vorinstallierten Themes, bzw. Templates auf Konformität mit den *Web Content Accessibility Guidelines (WCAG) 2.1* überprüft. Daraufhin wurden im zweiten Teil die Ausgaben der von den CMS zur Verfügung gestellten Editoren betrachtet. Um dies durchzuführen wurden alle Funktionen der Editoren genutzt und daraufhin die dadurch entstandenen Ausgaben wie im ersten Teil auf *WCAG*-Konformität überprüft. 
 
 Im Ergebnis stellte sich heraus, dass alle der vorinstallierten Themes durch kleinere Fehler nicht mit der *WCAG* konform sind. Zudem wurde festgestellt, dass in allen Editoren bei verschiedenen Funktionen zusätzliche Einstellungsmöglichkeiten fehlen, welche eine konforme Ausgabe ermöglichen würden.
-
-Aufbauend auf diesem Praxisprojekt könnte sich in weiterführenden Arbeiten damit befasst werden die überprüften Themes/Templates auf WCAG-Konformität zu überarbeiten. Darüber hinaus könnte auch ein Leitfaden für Redakteure und Redakteurinnen erstellt werden, welcher Hilfestllung bei der Auswahl des CMS bietet und Hinweise zur Gewährleistung der Barrierefreiheit bein editieren der Inhalte liefert.
 
 ## Material & weiterführende Infos
 

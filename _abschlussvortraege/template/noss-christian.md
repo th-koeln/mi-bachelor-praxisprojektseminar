@@ -11,6 +11,7 @@ teaserimage: noss-christian-teaserimage.jpg
 stichworte: Frondend-Development, Design, UX/UI, Methoden
 quelle-bildrechte-teaser: Christian Noss
 hinweise:
+weiterfuehrende-themen: Themenvorschlag 1 | Themenvorschlag 2
 ---
 
 ## Abstract
