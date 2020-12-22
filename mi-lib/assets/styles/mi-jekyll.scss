@@ -826,8 +826,8 @@ h3.is-inverse{
 .content .timetable-talks{
   width: 100%;
   max-width: 100%;
-  margin-top: $bfs;
-  margin-bottom: $bfs;
+  padding-top: $bfs;
+  padding-bottom: $bfs;
 
   td{
     padding-top: $bfs;
@@ -946,20 +946,23 @@ summary {
   }
 }
 
-summary::marker {
-  font-size: 0;
+details {
+  summary::marker,
+  summary::-webkit-details-marker {
+    font-size: 0;
+  }
 }
 
 .talk {
   margin-bottom: $bfs * 1.5;
   .talk__headline {
-    margin-bottom: $bfs / 2 !important;
-    transition: background-color 0.5s;
+    padding-bottom: $bfs / 2;
     width: 160px;
 
   }
-  &:hover .talk__headline{
+  &:hover .talk__headline--active{
     background-color: $mi-black;
+    transition: background-color 0.5s;
   }
 
 }

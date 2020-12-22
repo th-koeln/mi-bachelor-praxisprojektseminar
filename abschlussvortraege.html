@@ -27,7 +27,7 @@ layout: default
         {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", termin_abschlussvortrag %}
         {% if vortraege.size > 0 %}
         <details class="talk" data-js-accordion>
-        <summary data-js-accordion-summary><h3 class="is-inverse talk__headline" id="{{termin_abschlussvortrag}}">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3><p>{{vortraege.size}} Vorträge</p></summary>
+        <summary data-js-accordion-summary><h3 class="is-inverse talk__headline talk__headline--active" id="{{termin_abschlussvortrag}}">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3><p>{{vortraege.size}} Vorträge</p></summary>
         <table class="timetable-talks" data-js-accordion-content>
           <tbody>
             {% for vortrag in vortraege %}
@@ -45,7 +45,7 @@ layout: default
         </table>
       </details>
       {% else %}
-      <div class="talk"><h3 class="is-inverse">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober"}}</h3><p>Bislang sind für diesen Termin noch keine Vorträge geplant.</p></div>
+      <div class="talk"><h3 class="is-inverse talk__headline">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober"}}</h3><p>Bislang sind für diesen Termin noch keine Vorträge geplant.</p></div>
       {% endif %}
        
     {% endfor %}
