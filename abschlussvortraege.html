@@ -27,7 +27,7 @@ layout: default
         {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", termin_abschlussvortrag %}
         {% if vortraege.size > 0 %}
         <div class="talk">
-        <div><h3 class="is-inverse talk__headline talk__headline--active" id="{{termin_abschlussvortrag}}">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3><p>{{vortraege.size}} Vorträge</p></div>
+        <div><h3 class="is-inverse talk__headline talk__headline--active" id="{{termin_abschlussvortrag}}">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3><!--p>{{vortraege.size}} Vorträge</p--></div>
         <table class="timetable-talks">
           <tbody>
             {% for vortrag in vortraege %}
