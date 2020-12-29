@@ -60,14 +60,21 @@
         </h2>
       </div>
     </div>
-
-    {% if page.quelle-bildrechte-teaser  %}
-
-    {% else %}
+    <!-- BO Angaben zum Bild -->
+    {% if page.teaserimage-linzenz == nil and page.teaserimage-quelle == nil %}
     <div class="bildrechte alert">
-      <p>Bitte tragen Sie Angaben zu den Bildrechten in den Stammdaten ein.</p>
+      <p>Bitte tragen Sie Angaben zu den Bildrechten (Lizenz und Bildquelle) in den Stammdaten ein.</p>
     </div>
+    {% else %}
+    {% assign bildquelle = page.teaserimage-quelle | split: "|" %}
+    {% if page.teaserimage-titel != nil and page.teaserimage-autor != nil %}
+    {% assign bildtitel = ": „" | append: page.teaserimage-titel | append: "” von " |  append: page.teaserimage-autor%}
     {% endif %}
+    {% assign bildlizenz = page.teaserimage-linzenz | split: "|" %}
+    <p class="bildrechte">Bildquelle: <a class="link" href="{{bildquelle[1]}}">{{bildquelle[0]}}</a>{{bildtitel}}{{bildautor}}, Lizenz: <a class="link" href="{{bildlizenz[1]}}">{{bildlizenz[0]}}</a></p>
+
+    {% endif %}
+    <!-- EO Angaben zum Bild -->
   </section>
 
   {{ content }}

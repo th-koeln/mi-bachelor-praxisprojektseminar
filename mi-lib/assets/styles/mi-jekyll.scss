@@ -907,6 +907,13 @@ h3.is-inverse{
   }
 }
 
+.hero.is-info a:not(.button) {
+  color: $header-link-color;
+  &:hover {
+    color: $header-link-color-hover
+  }
+}
+
 
 /* Card
 ############################################################################ */
