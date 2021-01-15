@@ -9,7 +9,7 @@ thema: E-Mail-Marketing für die Generation 50+
 kooperationspartner: TH Köln
 teaserimage: moellers-laura-teaserimage.jpg
 stichworte: Online-Marketing, E-Mail-Marketing, Zielgruppe 50+
-quelle-bildrechte-teaser: Christian Noss
+quelle-bildrechte-teaser:
 hinweise:
 weiterfuehrende-themen: Social Media Marketing für die Zielgruppe 50+ | Online-Kaufverhalten der Zielgruppe
 ---
