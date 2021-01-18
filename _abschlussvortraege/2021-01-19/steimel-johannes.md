@@ -7,7 +7,7 @@ raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsent
 betreuer: ck
 thema: Grundlagen für eine iOS App zur Steigerung der Lesemotivation
 kooperationspartner: Seven Principles Mobility GmbH
-teaserimage: steimel-johannes.jpg
+teaserimage: steimel-johannes.png
 stichworte: Positive Computing, Lesemotivation, iOS-Entwicklung, SwiftUI, REST-APIs, Core Data
 quelle-bildrechte-teaser: Johannes Steimel
 hinweise:
