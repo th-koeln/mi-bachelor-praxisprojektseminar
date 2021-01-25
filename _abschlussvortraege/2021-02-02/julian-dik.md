@@ -4,7 +4,7 @@ vorname: Julian
 datum: 2021-02-02
 uhrzeit: 12-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: Prof. Dr. Christian Kohls, Alexander Dobrynin M. Sc.
+betreuer: ck
 thema: Welches Gestaltungskonzept ist am geeignetsten, um eine App mit vielen Features unter Berücksichtigung nativer Design Guidelines für iOS und Android zu entwickeln?
 kooperationspartner: TH Köln
 teaserimage: dik-julian-teaserimage.jpg
