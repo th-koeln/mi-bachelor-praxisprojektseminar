@@ -7,6 +7,8 @@ cn:
 
 moe:
   name: Prof. Dr. Monika Engelen
+  email: monika.engelen@th-koeln.de
+  anrede: Monika
 
 pb:
   name: Paul Bagiu
@@ -16,19 +18,23 @@ kf:
   
 ck:
   name: Prof. Dr. Christian Kohls
+  email: christian.kohls@th-koeln.de
+  anrede: Christian
   
 gh:
   name: Prof. Dr. Gerhard Hartmann
-  
+  anrede: Gerhard
 hk:
   name: Prof. Hans Kornacher
-  
+  anrede: Hans
+
 mw:
   name: Prof. Dr. Mario Winter
-  
+  anrede: Mario
+
 me:
   name: Prof. Dr. Martin Eisemann
-  
+  anrede: Martin
 fv:
   name: Prof. Dr. Frank Victor
   
@@ -37,6 +43,7 @@ lk:
   
 mb:
   name: Prof. Dr. Matthias Böhmer
+  anrede: Matthias
   
 ab:
   name: Prof. Dr. Arno Bitzer
@@ -49,12 +56,14 @@ hfw:
   
 sk:
   name: Prof. Dr. Stefan Karsch
+  anrede: Stefan
 
 hls:
   name: Prof. Dr. Hans L. Stahl
   
 wk:
   name: Prof. Dr. Wolfgang Konen
+  anrede: Wolfgang
   
 hg:
   name: Prof. Dr. Holger Günther
@@ -70,9 +79,11 @@ rm:
 
 il:
   name: Prof. Dr Irma Lindt
+  anrede: Irma
 
 dz:
   name: Prof. Dr Dietlind Zühlke
+  anrede: Dietlind
   
 mi:
   name: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter

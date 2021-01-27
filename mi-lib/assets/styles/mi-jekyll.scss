@@ -817,7 +817,7 @@ h3.is-inverse{
   background-color: $mi-pink;
   color: #fff;
   display: inline-block;
-  padding: $bfs / 4;
+  padding: $bfs / 4 $bfs / 2;
 
 }
 
@@ -839,6 +839,17 @@ h3.is-inverse{
     width: 10%;
     white-space: nowrap;
     padding-left: 0;
+    position: relative;
+  }
+
+  &__tags{
+    margin-top: $bfs/2;
+  }
+
+  &__mail-button{
+    position: absolute;
+    left: 0;
+    bottom: $bfs;
   }
 
 }

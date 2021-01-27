@@ -26,18 +26,22 @@ layout: default
       {% for termin_abschlussvortrag in termine_abschlussvortraege %}
         {% assign vortraege=site.abschlussvortraege |sort:'uhrzeit'| where:"datum", termin_abschlussvortrag %}
         {% if vortraege.size > 0 %}
+        {% assign vortragsdatum = termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" %}
         <div class="talk">
-        <div><h3 class="is-inverse talk__headline talk__headline--active" id="{{termin_abschlussvortrag}}">{{ termin_abschlussvortrag | date: '%d. %B %Y' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3><!--p>{{vortraege.size}} Vorträge</p--></div>
+        <div><h3 class="is-inverse talk__headline talk__headline--active" id="{{termin_abschlussvortrag}}">{{vortragsdatum}}</h3></div>
         <table class="timetable-talks">
           <tbody>
             {% for vortrag in vortraege %}
-            <tr>
+            {% include /functions/resolve-anrede.html name=vortrag.betreuer %}
+            <tr id="{{ vortrag.vorname | append: vortrag.nachname | append: vortragsdatum | slugify }}" data-js-talk data-betreuer="{{anrede}}" data-sprecher="{{vortrag.vorname}} {{vortrag.nachname}}" data-thema="{{vortrag.thema}}" data-date="{{vortragsdatum}}" data-abstract-url="{{ vortrag.url | absolute_url }}">
               <td class="timetable-talks__time">{{ vortrag.uhrzeit | replace: "-", ":" }} Uhr</td>
               <td><a href="{{site.baseurl}}{{vortrag.url}}"><strong>{{vortrag.thema}}</strong></a><br> {{vortrag.vorname}} {{vortrag.nachname}}<br>
+              <div class="timetable-talks__tags">
               {% assign stichworte = vortrag.stichworte|split: "," %}
               {%for stichwort in stichworte %}
               <span class="tag">{{stichwort}}</span>
               {% endfor %}
+              </div>
               </td>
             </tr>
             {% endfor %}
@@ -111,4 +115,23 @@ layout: default
   </div>
 </section>
 
-
+<script>
+if(window.location.origin.match("http://127.0.0.1")){
+  document.querySelectorAll("[data-js-talk]").forEach(
+    talk => {
+      let btn = document.createElement("BUTTON");
+      btn.classList.add("button");
+      btn.classList.add("is-small");
+      btn.classList.add("is-outlined");
+      btn.classList.add("timetable-talks__mail-button");
+      btn.innerHTML = "@"; 
+      btn.addEventListener("click", (ev)=>{
+        let ele = ev.target.parentElement.parentElement;
+        window.location.href = 'mailto:' + `?subject=Praxisprojekt Seminarnote // ${ele.dataset.sprecher}&body=Hallo ${ele.dataset.betreuer},`+ escape ("\n\n")+`am ${ele.dataset.date} war der Praxisprojekt Seminarvortrag von ${ele.dataset.sprecher} zum Thema «${ele.dataset.thema}». `+ escape ("\n\n")+`Mein Notenvorschlag wäre eine NOTE. Die Note setzt sich zusammen aus meiner Einschätzung zum`+ escape ("\n")+`Vortrag: NOTE`+ escape ("\n")+`Fachgespräch: NOTE`+ escape ("\n")+`Online Abstract: NOTE`+ escape ("\n\n")+`Passt das in etwa zu Deiner Einschätzung, bzw. zur Ausarbeitung?`+ escape ("\n\n")+`Dank und Grüße,`+ escape ("\n")+`Christian`;
+        console.log(ev.target.parentElement.parentElement);
+      }, false);
+      talk.querySelector(".timetable-talks__time").appendChild(btn);
+    }
+  );
+}
+</script>

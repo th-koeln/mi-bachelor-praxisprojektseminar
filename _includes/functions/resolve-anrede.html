@@ -1,0 +1,3 @@
+{% assign betreuer = include.name | replace: " ", ""  %} 
+{% assign betreuer_clean = betreuer | lstrip %}
+{% assign anrede = site.data.betreuer[betreuer_clean].anrede %}
