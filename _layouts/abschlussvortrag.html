@@ -1,5 +1,5 @@
 --- 
-layout: default-abschlussvortrag  
+layout: default-mit-teaser 
 ---
 
 {% include /functions/resolve-betreuer.html betreuer=page.betreuer %}
@@ -35,25 +35,11 @@ layout: default-abschlussvortrag
         {% if check != ""  %}
         <dt>Stichworte</dt><dd>{{page.stichworte}}</dd>
         {% endif %}
-        {% if page.quelle-bildrechte-teaser  %}
-        <dt>Bildrechte</dt><dd>{{page.quelle-bildrechte-teaser}}</dd>
-        {% endif %}
         </dl>
         </div>
 
         <div class="column is-8">
           {{ content }}
-
-        {% assign check = page.weiterfuehrende-themen | strip_newlines %}
-        {% if check != ""  %}
-        <h2>Vorschläge für weitere Arbeiten im Themenfeld</h2>
-          
-          {% assign topics = page.weiterfuehrende-themen | split: "|" %}
-          {% for topic in topics %}
-            <p>{{ topic | strip }}</p>
-          {% endfor %}
-
-        {% endif %}
         </div>
       </div>
 

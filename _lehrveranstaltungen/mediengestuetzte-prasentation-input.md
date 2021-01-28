@@ -8,7 +8,7 @@ termine: 2020-06-16 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
+raum: https://us02web.zoom.us/j/89896269940 (Zugangscode steht im Ilias)
 info: 
 ---
 
