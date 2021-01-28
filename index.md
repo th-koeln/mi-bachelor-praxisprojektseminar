@@ -11,9 +11,9 @@ titel: Über das Modul
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Praxisprojekt Seminar. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Das Seminar zum Praxisprojekt wird in jedem Semester für alle Studierende, die an einem Praxisprojekt arbeiten, angeboten.
 
-<!--Die **Einführungsveranstaltung** für das Wintersemester 2020/2021 findet am **04. August um 08:30 Uhr** statt. Im Anschluss, ab 10:00 Uhr, gibt es Praxisprojekt Abschlusspräsentationen.
+Die **Einführungsveranstaltung** für das Wintersemester 2020/2021 findet am **04. August um 08:30 Uhr** statt. Im Anschluss, ab 10:00 Uhr, gibt es Praxisprojekt Abschlusspräsentationen.
 
-Wir treffen uns in diesem [Zoom Raum](https://us02web.zoom.us/j/89896269940) (Zugangscode steht im Ilias).-->
+Wir treffen uns in diesem [Zoom Raum](https://us02web.zoom.us/j/89896269940) (Zugangscode steht im Ilias).
 
 
 <!-- Am **28.01.2020** findet in **Raum 3.216** die erste Veranstaltung statt, welche für das kommende Semester relevant ist.
@@ -30,7 +30,7 @@ Das Seminar begleitet Sie während des Praxisprojekts und bietet Ihnen zum einem
 Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 
 - Die Studierenden kennen Techniken wissenschaftlichen Arbeitens und können diese anwenden.
-- Sie erweitern ihre Erfahrungen in aktiver Fachkommunikation
+- Sie haben erste Erfahrungen mit aktiver Fachkommunikation gesammelt
 - Die Teilnehmer gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik und können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
 
 ## Wie funktioniert das Seminar?
@@ -43,27 +43,43 @@ Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. 
 
 Folgende Bausteine enthält das Praxisprojekt Seminar:
 
-### [Wissenschaftliches Arbeiten](lehrveranstaltungen/020-wissenschaftliches-arbeiten/)
+### [Wissenschaftliches Arbeiten](lehrveranstaltungen/wissenschaftliches-arbeiten/)
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT020256732)
 
-### [Themenfeldanalyse](lehrveranstaltungen/030-themenfeldanalyse/)
+### [Themenfeldanalyse](lehrveranstaltungen/themenfeldanalyse/)
 Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
 
-### [Exposé und Peer Review](lehrveranstaltungen/050-peer-reviewed-expose/)
+### [Exposé und Peer Review](lehrveranstaltungen/peer-reviewed-expose/)
 Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
 
-### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/040-schreibwerkstatt/)
+### [Schreibwerkstatt/Schreibberatung](lehrveranstaltungen/schreibwerkstatt/)
 Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
 
-### [Mediengestützte Präsentation](lehrveranstaltungen/070-mediengestuetzte-prasentation/)
+### [Mediengestützte Präsentation](lehrveranstaltungen/mediengestuetzte-prasentation/)
 Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
 
-### [Postersession/ Live-Session](lehrveranstaltungen/070-live-session-postersession/) (Findet dieses Semester nicht statt)
+### [Postersession/ Live-Session](lehrveranstaltungen/live-session-postersession/)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.
 
 Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im Ilias hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
 
 Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenum teilgenommen haben.
+
+## Checkliste für die Abschlusspräsentationen
+Damit Sie ihre Abschlusspräsentation halten können und diese bewertet werden kann, beachten Sie bitte folgende Punkte:
+* Sie haben sich einen Termin im Ilias für ihre Abschlusspräsentation gebucht. [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1304831&cmd=view&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui)
+* Zudem haben Sie sich im PSSO für dieses Modul angemeldet. Der Anmeldezeitraum ist vom 13.04.2020 bis zum 29.06.2020.
+* Zur Ihrem Abschlussvotrag haben Sie ein Markdownfile mit den vorgegebenen Metadaten und einem Abstract erstellt und ein Pull Request auf das Veranstaltungs Repository erzeugt. Wie das funktioniert, wird [in diesem Screenmovie erklärt](https://th-koeln.sciebo.de/s/eXWPKs32ZCEKr1h).
+* Das Markdownfile wurde von einem der Mentoren gemerged und ihr Thema ist auf der [Übersichtsseite mit den Abschlussvorträgen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/) sichtbar. Hier finden Sie ein [Tutorial zum Einbinden Ihrer Informationen](/mi-bachelor-praxisprojektseminar/abschlussvortraege/#tutorial).
+* Sie haben mindestens vier Abschlussvorträge von ihren Kommilitonen und Komilitoninnen gehört.
+
+### Besonderheiten bei Online Präsentationen
+Im Zuge der eingeschränkten Präsenztermine im aktuellen Sommersemester aufgrund der Covid-19 Problematik, finden die Termine des Praxisprojekt Seminars online statt. Somit sind auch die Abschlussvorträge Online Termine. Bitte berücksichtigen sie folgende Hinweise:
+- sorgen Sie für eine gute Internetverbindung
+- sorgen Sie für möglichst guten Ton, z.B. via Headset
+- sorgen Sie für eine ruhige Umgebung
+- sorgen Sie für ein Kamerabild, da wir Sie zur Identifikation sehen müssen
+- halten Sie ein Foto von Ihrer Multica bereit
 
 ## Bewertung
 Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 10% aus der Bewertung des Abstracts, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Das Abstract, der Seminarvortrag einschließlich der anschließenden Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet.

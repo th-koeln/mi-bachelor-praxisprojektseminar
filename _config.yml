@@ -68,9 +68,6 @@ navigation:
   - url: timetable/
     name: Zeitplan
 
-  - url: abschlussvortraege/
-    name: Abschlussvorträge
-
   - url: faq/
     name: FAQ
 

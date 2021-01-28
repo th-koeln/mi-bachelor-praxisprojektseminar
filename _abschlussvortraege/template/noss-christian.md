@@ -3,15 +3,13 @@ nachname: Noss
 vorname: Christian
 datum: 2020-01-01
 uhrzeit: 10-30
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
+raum: 3.216
 betreuer: gh
 thema: Evaluation verschiedener Wireframing Techniken
 kooperationspartner: TH Köln
 teaserimage: noss-christian-teaserimage.jpg
 stichworte: Frondend-Development, Design, UX/UI, Methoden
-quelle-bildrechte-teaser: Christian Noss
 hinweise:
-weiterfuehrende-themen: Themenvorschlag 1 | Themenvorschlag 2
 ---
 
 ## Abstract

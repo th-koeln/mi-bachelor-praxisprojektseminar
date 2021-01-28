@@ -773,7 +773,6 @@ pre code {
   padding-bottom: 56.5%;
   position: relative;
   overflow: hidden;
-  margin-bottom: $bfs;
 }
 
 .js-video.widescreen {
@@ -799,22 +798,13 @@ h1.is-inverse{
   background-color: $mi-black;
   color: #fff;
   display: inline-block;
-  padding: $bfs / 2  $bfs / 3;
+  padding: $bfs / 4;
   margin-bottom: 0 !important;
-  line-height: 100%;
 }
 
 
 h2.is-inverse{
   background-color: $mi-lila;
-  color: #fff;
-  display: inline-block;
-  padding: $bfs / 4;
-
-}
-
-h3.is-inverse{
-  background-color: $mi-pink;
   color: #fff;
   display: inline-block;
   padding: $bfs / 4;
@@ -827,8 +817,8 @@ h3.is-inverse{
 .content .timetable-talks{
   width: 100%;
   max-width: 100%;
-  padding-top: $bfs;
-  padding-bottom: $bfs;
+  margin-top: $bfs;
+  margin-bottom: $bfs;
 
   td{
     padding-top: $bfs;
@@ -849,146 +839,4 @@ h3.is-inverse{
 .has-seperator{
   border-bottom: solid 1px $mi-lila;
   padding-bottom: $bfs * 3;
-}
-
-
-/* Card Grid
-############################################################################ */
-
-.mi-card-grid{
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-gap: 2px;
-}
-
-
-/* Social Media Snippets
-############################################################################ */
-
-.social-media-snippet{
-  margin-bottom: $bfs;
-  line-height: 140%;
-  border-left: solid 5px $mi-grau;
-  padding-left: $bfs;
-
-  &.facebook{
-    border-left-color: #3b5998;
-  }
-
-  &.twitter{
-    border-left-color: #00acee;
-  }
-}
-
-
-/* Bildrechte
-############################################################################ */
-
-.bildrechte{
-  font-size: $bfs * 0.8;
-  opacity: 0.8;
-  margin: $bfs * 0.5;
-  background-color: rgba(0,0,0,0.5);
-  display: inline;
-  padding: $bfs * 0.1 $bfs * 0.4;
-
-  &.alert{
-    background-color: red;
-    font-size: $bfs *2;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0.9;
-  }
-}
-
-
-/* Card
-############################################################################ */
-
-.mi-card{
-  position: relative;
-  overflow: hidden;
-  height: calc(400px/(5/4));
-  border-bottom: solid 0.5em $mi-lila;
-
-  &__info{
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding: $bfs;
-    color: #fff;
-  }
-
-  &__headline{
-    font-weight: bold;
-  }
-
-  &__image{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center center;
-  }
-
-  &::before {
-    content: '';
-    top: 0;
-    bottom: 0;
-    position: absolute;
-    right: 0;
-    left: 0;
-    background-color: $mi-lila;
-    opacity: 0.8;
-    z-index: 0;
-    transition: opacity 0.5s, top 0.2s;
-  }
-
-  &:hover::before {
-    content: '';
-    top: 50%;
-    background-size: auto;
-    background-image: linear-gradient(to top,rgba(35,31,32,0.9),rgba(35,31,32,0));
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-color: transparent;
-    opacity: 1;
-    z-index: 0;
-  }
-}
-
-
-/* details summary accordion
-############################################################################ */
-summary {
-  cursor: pointer;
-  &:focus{
-    outline: none;
-  }
-}
-
-details {
-  summary::marker,
-  summary::-webkit-details-marker {
-    font-size: 0;
-  }
-}
-
-.talk {
-  margin-bottom: $bfs * 1.5;
-  .talk__headline {
-
-
-  }
-  &:hover .talk__headline--active{
-    background-color: $mi-black;
-    transition: background-color 0.5s;
-  }
-
 }

@@ -3,7 +3,7 @@ nachname: Gleisberg
 vorname: Paul
 datum: 2020-07-07
 uhrzeit: 12-15
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
+raum: Online Präsentation
 betreuer: rm
 thema: Virtualisierungsumgebungen von Proxmox und VMWare im praktischen Vergleich
 kooperationspartner: TH Köln, mindmaxx-IT GmbH

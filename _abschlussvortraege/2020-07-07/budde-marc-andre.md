@@ -3,7 +3,7 @@ nachname: Budde
 vorname: Marc-André
 datum: 2020-07-07
 uhrzeit: 10-30
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
+raum: Online Präsentation
 betreuer: mb
 thema: Projected Phone - Anwendungsmöglichkeiten eines projizierten Bildschirms im mobilen Kontext
 kooperationspartner: TH Köln
