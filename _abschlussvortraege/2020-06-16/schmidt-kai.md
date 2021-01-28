@@ -3,7 +3,7 @@ nachname: Schmidt
 vorname: Kai
 datum: 2020-06-16
 uhrzeit: 10-00
-raum: Online Präsentation 
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation 
 betreuer: hk
 thema: Praktische Anwendung von Gestaltungsregeln der auditiven Postproduktion im Film
 kooperationspartner: TH Köln

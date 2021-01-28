@@ -3,7 +3,7 @@ nachname: Hamo
 vorname: Iwan
 datum: 2020-06-16
 uhrzeit: 11-00
-raum: Online Präsentation
+raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: mb
 thema: Vergleich von Ansätzen zur Identifikation von Schwachstellen bei Smart Home Devices
 kooperationspartner: TH Köln
