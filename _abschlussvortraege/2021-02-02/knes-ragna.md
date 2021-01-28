@@ -18,10 +18,12 @@ weiterfuehrende-themen: Entwicklung einer Webanwendung für kollaborative Ad-Hoc
 
 Das Praxisprojekt befasst sich mit der Entwicklung eines Gestaltungskonzepts für eine Webanwendung zur kollaborativen Ad-Hoc-Bearbeitung von Dokumenten in Echtzeit. 
 Webanwendungen für kollaboratives Schreiben in Echtzeit, ohne notwendige Anmeldung und mit einfachem Markdown, sind im Internet nicht zu finden. Verwandte Webseiten umfassen entweder das kollaborative Schreiben, dies teilweise nicht in Echtzeit, oder nutzen Markdown. Eine Kombination hinsichtlich der beiden Eigenschaften gibt es nicht. \\
+   
 Das Ziel des Praxisprojekts ist die Entwicklung eines Gestaltungskonzepts einer Webanwendung mit minimalistischem Design, auf der Nutzer zusammen in Echtzeit an Dokumenten arbeiten können. 
 Um die Webanwendung auf jedem Gerät nutzen zu können, wird das Responsive Design angewendet. Dies dient zur Anpassung der Webanwendung an die verschiedenen Displaygrößen. \\
 Der Minimalismus ist ebenfalls ein wichtiger Aspekt bei der Entwicklung, da mit minimalistischem Design der Fokus des Nutzers auf das Schreiben gelenkt wird. \\
 Für Markdown-Unerfahrene werden die wichtigsten Einstellungen und Formatierungsmöglichkeiten in Leisten angezeigt. Jedoch können diese mit dem Fullscreen-Modus ausgeblendet werden, wenn sie nicht benötigt werden. Damit hat der Nutzer eine reine Fläche zum Schreiben ohne Ablenkung. Zusätzlich hat der Nutzer die Möglichkeiten, seinen Namen und eine eigene Farbe anzupassen, sowie einen Dark Mode zu nutzen. \\
+   
 Ergebnis der Entwicklung ist ein Gestaltungskonzept. Teil dessen ist ein Styleguide, der eine Übersicht über die verschiedenen Umsetzungen der Webseiten-Elemente darstellt, wie Farben, Typografie und Icons. \\
 Die entwickelten Wireframes halten das Layout, Abstände und die Größen der einzelnen Elemente der Webanwendung fest. \\
 Um das finale Design der Webanwendung festzuhalten, wurden Mockups verwendet, welche das aktuelle Design für verschiedene Displaygrößen zeigen. 
