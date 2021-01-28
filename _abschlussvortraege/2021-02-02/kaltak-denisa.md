@@ -1,26 +1,29 @@
 ---
-nachname: Noss
-vorname: Christian
-datum: 2020-01-01
-uhrzeit: 10-30
+nachname: Denisa
+vorname: Kaltak
+datum: 2021-02-02
+uhrzeit: 13-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: gh
-thema: Evaluation verschiedener Wireframing Techniken
+thema: Erfassung und Analyse von Aspekten der User Experience anhand eines Online User research
 kooperationspartner: TH Köln
-teaserimage: noss-christian-teaserimage.jpg
-stichworte: Frondend-Development, Design, UX/UI, Methoden
-quelle-bildrechte-teaser: Christian Noss
+teaserimage: kaltak-denisa-teaserimage.jpg
+stichworte: Analyse, User Experience, Emoticons, Social Media
+quelle-bildrechte-teaser: https://de.freepik.com/search?dates=any&format=search&page=1&query=emoticons&sort=popular&type=photo
 hinweise:
-weiterfuehrende-themen: Themenvorschlag 1 | Themenvorschlag 2
+weiterfuehrende-themen: Redesign von der Globetrotter App auf Basis eines agilen UX design. | Analyse von Social Media Platformen bezogen auf User Experience anhand eines Online User research
 ---
 
 ## Abstract
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. **Das Abstract wird mit bewertet.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Die vorliegende Arbeit beschäftigt sich mit der Analyse von ikonischen Elementen auf Basis von Nutzerbewertungen. Die Möglichkeit, Rezensionen oder Bewertungen zu einem Produkt zu schreiben, gibt es nahezu auf jeder Plattform. Die Informationen, die diese Feedbacks be-inhalten, macht es dem Entwickler leichter sich in die Lage der Nutzer zu versetzen und eine verbesserte User Experience zu schaffen. In folgender Arbeit wurde eine solche Analyse an-hand der „Globetrotter-App“ exemplarisch durchgeführt. Zur Auswertung wird sich auf die Sternbewertungen und verwendeten Emoticons bezogen.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Bei der Analyse hat sich herausgestellt, dass die Emoticons eher eine geringe Aussagekraft besitzen. Im Gegensatz dazu zeigt die Funktion der Sternebewertungen, dass die Kunden mit der App nicht zufrieden sind, da sich ein Großteil der Bewertungen im unteren Segment der 1-2 Sterne-Bewertungen befindet. Somit bieten die Rezensionen eine ausgiebige Grundlage zur Verbesserung der App, auf die bis Dato nicht eingegangen wurde. 
+Wenn eine Rezension im Play Store hilfreich für einen anderen Kunden war, kann man diese auch mit einem „Hilfreich“-Ikon kennzeichnen. Die Ergebnisse dieser Analyse deckten sich mit denen der Sterne-Rezensionen und bestätigten zusätzlich die Unzufriedenheit der Kun-den.
+
+Zusammenfassend kann man sagen, dass Emoticons eine sehr wichtige Rolle in der heutigen Gesellschaft spielen. Diese ermöglichen einem in kürzester Form Emotionen und Situation bildlich darzustellen. Dies entdeckten auch zahlreiche Plattformen und integrierten Emoticons in ihr Design und Funktionalität mit ein. User können somit per Klick Meinungen äußern. Wichtig ist es Emoticons bei der Verbesserung oder Weiterentwicklung eines Produktes zu berücksichtigen, da uns diese auch zusätzliche Informationen von den Usern mitteilen. 
 
 ## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-- [https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
-- [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
+
+
+
