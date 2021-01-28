@@ -11,7 +11,7 @@ teaserimage: sarbiewski-jaroslaw-teaserimage.jpg
 stichworte: Computergrafik, Grafik, Schulung, Szene, Graph, Szenegraph, Szene-Graph
 quelle-bildrechte-teaser: Jaroslaw Sarbiewski
 hinweise:
-weiterfuehrende-themen: Inwieweit lässt sich die Lerneffizienz optimieren, durch den Einsatz von Web-Components, für wiederverwendbare Komponenten in den einzelnen Lern-Anwendungen einer Domäne? | Was für Auswirkungen hat die künstliche Intelligenz auf den Workflow, bei der Erstellung von grafischen digitalen Medien?
+weiterfuehrende-themen: Inwieweit lässt sich die Lerneffizienz optimieren, durch den Einsatz von Web-Components, für wiederverwendbare Komponenten in den einzelnen Lern-Anwendungen einer Domäne? | Was für Auswirkungen hat die künstliche Intelligenz auf den Workflow, bei der Erstellung von grafischen digitalen Medien?  [How A.I. will change the 3D industry - Andrew Price](https://www.youtube.com/watch?v=FlgLxSLsYWQ)
 ---
 
 ## Abstract
