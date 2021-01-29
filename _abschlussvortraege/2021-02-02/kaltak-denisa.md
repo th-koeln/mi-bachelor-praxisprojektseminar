@@ -7,9 +7,9 @@ raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsent
 betreuer: gh
 thema: Erfassung und Analyse von Aspekten der User Experience anhand eines Online User research
 kooperationspartner: TH Köln
-teaserimage: kaltak-denisa-teaserimage.jpg
+teaserimage: kaltak-denisa-teaserimage.jpg 
 stichworte: Analyse, User Experience, Emoticons, Social Media
-quelle-bildrechte-teaser: https://de.freepik.com/search?dates=any&format=search&page=1&query=emoticons&sort=popular&type=photo
+quelle-bildrechte-teaser: de.freepik.com
 hinweise:
 weiterfuehrende-themen: Redesign von der Globetrotter App auf Basis eines agilen UX design. | Analyse von Social Media Platformen bezogen auf User Experience anhand eines Online User research
 ---
@@ -24,6 +24,6 @@ Wenn eine Rezension im Play Store hilfreich für einen anderen Kunden war, kann 
 Zusammenfassend kann man sagen, dass Emoticons eine sehr wichtige Rolle in der heutigen Gesellschaft spielen. Diese ermöglichen einem in kürzester Form Emotionen und Situation bildlich darzustellen. Dies entdeckten auch zahlreiche Plattformen und integrierten Emoticons in ihr Design und Funktionalität mit ein. User können somit per Klick Meinungen äußern. Wichtig ist es Emoticons bei der Verbesserung oder Weiterentwicklung eines Produktes zu berücksichtigen, da uns diese auch zusätzliche Informationen von den Usern mitteilen. 
 
 ## Material & weiterführende Infos
-
+[Bild Quelle] (https://de.freepik.com/search?dates=any&format=search&page=1&query=emoticons&sort=popular&type=photo)
 
 
