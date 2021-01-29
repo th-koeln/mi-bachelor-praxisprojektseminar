@@ -11,7 +11,7 @@ teaserimage: dik-julian-teaserimage.jpg
 stichworte: Mobile Design, UX/UI, Redesign
 quelle-bildrechte-teaser: Julian Dik
 hinweise:
-weiterfuehrende-themen: Mobile Implementierung mit Ionic Vue
+weiterfuehrende-themen: Mobile Implementierung mit Ionic Vue, Custom Styling von iOS Komponenten mit Swift UI
 ---
 
 ## Abstract
