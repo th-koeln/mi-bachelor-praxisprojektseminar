@@ -11,7 +11,7 @@ teaserimage: dik-julian-teaserimage.jpg
 stichworte: Mobile Design, UX/UI, Redesign
 quelle-bildrechte-teaser: Julian Dik
 hinweise:
-weiterfuehrende-themen: Mobile Implementierung mit Ionic Vue, Custom Styling von iOS Komponenten mit Swift UI
+weiterfuehrende-themen: Grenzen und Möglichkeiten der plattformübergreifenden mobilen Anwendungsentwicklung des Campus Planers mit Hilfe des “Ionic” Frameworks mit VueJS, Anwendung von Custom-Styling auf iOS Komponenten mit Swift UI durch nachbau des Campus Planer Designs
 ---
 
 ## Abstract
