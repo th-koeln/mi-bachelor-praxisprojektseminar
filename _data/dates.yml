@@ -124,3 +124,9 @@ week-21:
     start: "13:00"
     end: "16:00"
     name: Dienstag
+week-22:
+  day-1:
+    datum: 2021-02-15
+    start: "13:00"
+    end: "16:00"
+    name: Dienstag

@@ -4,9 +4,8 @@ kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2020-10-13 11:00
+termine: 2021-02-15 12:00
 empfohlene-voraussetzungen: 
-published: true
 dauer: 120
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 info: 
