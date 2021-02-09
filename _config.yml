@@ -24,7 +24,7 @@ repo: https://github.com/th-koeln/mi-bachelor-praxisprojektseminar
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/mi-bachelor-praxisprojektseminar"
-ilias: "https://ilias.th-koeln.de/ilias.php?ref_id=1169587&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui"
+ilias: "https://ilias.th-koeln.de/goto.php?target=crs_1169587&client_id=ILIAS_FH_Koeln"
 
 permalink: /:title/
 
