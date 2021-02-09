@@ -2,11 +2,11 @@
 nachname: Bajon
 vorname: David
 datum: 2021-02-09
-uhrzeit: 10-30
+uhrzeit: 10-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: rm
-thema: Evaluierung und Optimierung einer Kubernetes Architektur am Beispiel vom Unternehmen Ambient Innovation: GmbH
-kooperationspartner: TH Köln & Ambient Innovation: GmbH
+thema: Evaluierung und Optimierung einer Kubernetes Architektur am Beispiel vom Unternehmen Ambient Innovation GmbH
+kooperationspartner: TH Köln & Ambient Innovation GmbH
 teaserimage: bajon-david-teaserimage.jpg
 stichworte: Kubernetes, Cloud, DevOps, Ops
 quelle-bildrechte-teaser: Brett Sayles auf pexels.com
