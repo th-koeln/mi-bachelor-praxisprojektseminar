@@ -74,7 +74,7 @@ navigation:
   - url: faq/
     name: FAQ
 
-  - url: https://ilias.th-koeln.de/ilias.php?ref_id=1169587&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
+  - url: https://ilias.th-koeln.de/goto.php?target=crs_1169587&client_id=ILIAS_FH_Koeln
     name: Ilias
 
   - url: https://github.com/th-koeln/mi-bachelor-praxisprojektseminar
