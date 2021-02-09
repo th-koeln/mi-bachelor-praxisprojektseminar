@@ -10,7 +10,7 @@ kooperationspartner: TH Köln
 teaserimage: fishbeyn-karina-kurz-theresa.jpg
 stichworte: Farbe, Szenenbild, Umfrage
 quelle-bildrechte-teaser: baumit-selbermachen.de
-
+weiterfuehrende-themen: Als weiterführender Themenvorschlag wäre eine Filmanalyse eines konkreten Films denkbar. Dieser kann dann in Bezug auf die gewonnen Erkenntnisse analysiert werden. | Ein weiterer Themenvorschlag wäre eine Erweiterung des Projektes unter Betrachtung des Lichtes. 
 ---
 
 ## Abstract
