@@ -9,7 +9,7 @@ thema: Analyse der crossmedialen NRW-weiten Integrations- und Wertschätzungskam
 kooperationspartner: TH Köln
 teaserimage: engelmann-alp-teaserimage.jpg
 stichworte: Werbekampagne, Crossmedia, Zielgruppenanalyse, Videoanalyse
-quelle-bildrechte-teaser: (c) Ministerium für Kinder, Familie, Flüchtlinge und Integration | Foto: H. Severin
+quelle-bildrechte-teaser: pexels.com/de-de/foto/modellfigur-stehend-auf-karte-408503/
 hinweise:
 weiterfuehrende-themen: Auswertung der Reaktionen von Leuten ohne Migrationshintergrund auf die Kampagne | Gestaltung einer neuen effizienteren crossmedialen Integrationskampagne
 ---
