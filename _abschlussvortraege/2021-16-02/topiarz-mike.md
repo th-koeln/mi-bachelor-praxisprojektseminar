@@ -11,7 +11,7 @@ teaserimage: topiarz-mike-teaserimage.jpg
 stichworte: Irisfotografie, Makrofotografie, Digitale Nachbearbeitung
 quelle-bildrechte-teaser: https://pixabay.com/ - freie Lizenz
 hinweise:
-weiterfuehrende-themen: Digitale Nachbearbeitung zur Verbesserung der Irisfotografie über Farbwiedergabe/Kontraste und entfernen von Reflexionen  | Künstliche Intelligenz für eine Mustererkennung der Iris
+weiterfuehrende-themen: Digitale Nachbearbeitung zur Verbesserung der Irisfotografie über Farbwiedergabe/Kontraste und entfernen von Reflexionen | Künstliche Intelligenz für eine Mustererkennung der Iris
 ---
 
 ## Abstract
@@ -23,3 +23,6 @@ In diesem Projekt sollen diese Probleme aufgezeigt, und die Qualität als Grundl
 Es zeigt sich, dass neben einer geeigneten Kamerawahl zur Makrofotografie, vorallem die Belichtung einen wesentlichen Faktor der Bildqualität darstellt. Mit Vorhandensein eines aktiven Makromodus kann somit selbst ein Smartphone unter besten Bedingungen noch brauchbare Bilder liefern. Liegt ein Bild zudem in einer unbearbeiteten Form und in einem geeigneten Format vor, lässt sich Digitale Nachbearbeitung zur Hervorhebung der Strukturen als hilfreich erachten.
 
 Die Erkenntnisse dieser Ergebnisse können als Basis künftiger Aufbauten herangezogen werden, um die Fotografie der Iris zu erleichtern und dessen Problematiken zu verdeutlichen. Es wäre denkbar, die Irisfotografie weit genug zu vereinfachen, um Irisfotografien mit ausreichender Qualität auch Privatpersonen zu ermöglichen.
+
+## Material & weiterführende Infos
+- [Studie(n) der Zusammenhänge der Iris mit Persönlichkeitsmerkmalen - Mats Larsson](http://oru.diva-portal.org/smash/person.jsf?pid=authority-person:38624)
