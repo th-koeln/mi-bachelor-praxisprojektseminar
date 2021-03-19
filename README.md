@@ -7,5 +7,7 @@ Infos rund um das Modul Praxisprojektseminar im Medieninformatik Bachelor an der
 ## Server starten mit Livereload
 `jekyll serve --livereload`
 
+## Server starten über Docker Compose
+`docker-compose up`
 
 
