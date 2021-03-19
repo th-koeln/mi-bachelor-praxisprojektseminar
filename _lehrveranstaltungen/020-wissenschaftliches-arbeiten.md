@@ -8,7 +8,7 @@ termine: 2021-04-20 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
-raum:  zoom-meeting
+raum: zoom-meeting
 info: 
 ---
 
