@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-10-27 10:00
+termine: 2021-04-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
