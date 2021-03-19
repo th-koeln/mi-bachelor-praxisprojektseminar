@@ -8,7 +8,7 @@ termine: 2021-05-18 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://th-koeln.zoom.us/j/86224491085 (Zugangscode steht im Ilias)
+raum: zoom-meeting
 info: 
 ---
 

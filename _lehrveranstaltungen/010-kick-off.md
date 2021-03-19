@@ -8,14 +8,16 @@ termine: 2021-04-13 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
+raum: zoom-meeting
 info: 
 ---
 
-## Wie läuft die Veranstaltung ab?
-Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell in einem Zoom Raum.
+{% include functions/resolve-urls.html target="zoom-meeting" %}
+{% assign zoom-meeting = url %}
 
-Wir treffen uns [in diesem Raum]( https://th-koeln.zoom.us/j/86224491085/). Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
+## Wie läuft die Veranstaltung ab?
+Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell in dem angegeben Zoom Raum.
+Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen können.
 
 Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
 

@@ -8,7 +8,7 @@ termine: 2021-02-09 08:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
+raum:  zoom-meeting
 info: 
 ---
 

@@ -8,7 +8,7 @@ termine: 2021-05-25 10:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 180
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) (wird noch bekannt gegeben)
+raum:  zoom-meeting
 info: 
 ---
 
