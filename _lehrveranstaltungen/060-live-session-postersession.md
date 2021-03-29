@@ -4,11 +4,10 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2021-05-25 10:00
+termine: 2021-06-01 10:00
 empfohlene-voraussetzungen: 
 published: false
 dauer: 180
-raum:  zoom-meeting
 info: 
 ---
 

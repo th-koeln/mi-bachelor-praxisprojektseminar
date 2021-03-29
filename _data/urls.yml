@@ -18,6 +18,6 @@ ilias-pruefung:
   name: Ilias
   url: https://ilias.th-koeln.de/ilias.php?ref_id=1169587&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=u0&baseClass=ilrepositorygui
 
-zoom-meeting:
-  name: Zoom meeting
-  url: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
+raum:
+  name: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
+  url: https://th-koeln.zoom.us/j/86224491085

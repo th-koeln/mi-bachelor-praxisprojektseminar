@@ -8,7 +8,6 @@ termine: 2021-02-09 08:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum:  zoom-meeting
 info: 
 ---
 

@@ -8,7 +8,6 @@ termine:  2021-06-08 09:00, 2021-06-15 09:00, 2021-06-22 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 info: 
 ---
 

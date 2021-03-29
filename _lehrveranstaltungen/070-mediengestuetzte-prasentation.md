@@ -4,11 +4,10 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2020-12-08 10:00
+termine:
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: zoom-meeting
 info: 
 ---
 
@@ -37,4 +36,4 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 ## Was muss geliefert werden?
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
-- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1671646&client_id=ILIAS_FH_Koeln)
+- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1841500&ass_id=20938&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=b9:mc:bp:bo&baseClass=ilExerciseHandlerGUI) bis zum 26. April hochladen

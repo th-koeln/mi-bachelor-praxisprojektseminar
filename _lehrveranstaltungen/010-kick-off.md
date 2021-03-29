@@ -8,12 +8,9 @@ termine: 2021-04-13 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum: zoom-meeting
 info: 
 ---
 
-{% include functions/resolve-urls.html target="zoom-meeting" %}
-{% assign zoom-meeting = url %}
 
 ## Wie läuft die Veranstaltung ab?
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell in dem angegeben Zoom Raum.

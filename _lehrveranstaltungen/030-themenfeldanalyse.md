@@ -8,7 +8,6 @@ termine: 2021-04-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: zoom-meeting
 info: 
 ---
 
@@ -38,4 +37,4 @@ _Das Buch ist auch in der Bibliothek verfügbar._
 
 
 ## Was muss geliefert werden?
-- Themenfeldcluster als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1671646&client_id=ILIAS_FH_Koeln) bis zum 26. Oktober hochladen
+- Themenfeldcluster als PDF im [Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1841500&ass_id=20936&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=b9:mc:bp:bo&baseClass=ilExerciseHandlerGUI) bis zum 26. April hochladen
