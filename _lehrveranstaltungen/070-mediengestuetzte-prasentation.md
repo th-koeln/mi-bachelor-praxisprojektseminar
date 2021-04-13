@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine:
+termine: 2021-06-01 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

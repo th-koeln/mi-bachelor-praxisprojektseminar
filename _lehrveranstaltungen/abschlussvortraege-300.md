@@ -1,5 +1,5 @@
 ---
-titel: Abschlussvorträge
+titel: Abschlussvorträge & Forum
 kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
@@ -10,6 +10,8 @@ published: true
 dauer: 300
 info: 
 ---
+
+## 
 
 ## Wie läuft die Veranstaltung ab?
 Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.

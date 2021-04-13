@@ -26,6 +26,9 @@ Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und 
 - alle haben das Buch „Die Gestaltung wissenschaftlicher Arbeiten” gelesen
 - alle wissen was zum nächsten Termin vorzubereiten ist
 
+## Neu in diesem Semester
+Teilnehmer hosten die Abschlussvorträge. Mehr dazu heute im KickOff oder in einer der nächsten Veranstaltungen.
+
 ## Was muss vorbereitet werden?
 * 90 Seconds Standup Talk (ohne Folien) zu Ihrem Praxisprojekt Thema
 
