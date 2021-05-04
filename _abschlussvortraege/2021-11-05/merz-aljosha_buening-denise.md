@@ -5,7 +5,7 @@ datum: 2021-05-11
 uhrzeit: 08-30
 raum: Zoom
 betreuer: fv
-thema: Entwicklung einer E-Learning Plattformen der TH Köln
+thema: Entwicklung einer E-Learning Plattform der TH Köln
 kooperationspartner: TH Köln
 teaserimage: merz-aljosha_buening-denise.jpg
 stichworte: Frondend-Development, Design, UX/UI, Backend-Development, Android, iOS, Kotlin, Swift, REST, SWIFTUI, SWIFTYJSON, XCode, Android Studio, npm, nodejs, NO_SQL, ArangoDB, Framer, Figma
