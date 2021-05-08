@@ -2,7 +2,7 @@
 nachname: Kathmann
 vorname: David
 datum: 2021-05-11
-uhrzeit: 09-00
+uhrzeit: 09-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: mw
 thema: Testprozessevaluation eines Webdienstes
