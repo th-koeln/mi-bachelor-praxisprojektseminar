@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2020-06-16 10:00
+termine: 
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
