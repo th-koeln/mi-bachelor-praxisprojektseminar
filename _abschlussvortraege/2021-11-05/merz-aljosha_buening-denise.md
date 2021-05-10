@@ -7,7 +7,7 @@ raum: Zoom
 betreuer: fv
 thema: Entwicklung einer E-Learning Plattform der TH Köln
 kooperationspartner: TH Köln
-teaserimage: merz-aljosha_buening-denise.jpg
+teaserimage: merz-aljosha_buening-denise.png
 stichworte: Frondend-Development, Design, UX/UI, Backend-Development, Android, iOS, Kotlin, Swift, REST, SWIFTUI, SWIFTYJSON, XCode, Android Studio, npm, nodejs, NO_SQL, ArangoDB, Framer, Figma
 quelle-bildrechte-teaser: Denise Büning
 hinweise:
