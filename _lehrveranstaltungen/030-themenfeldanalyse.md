@@ -1,6 +1,6 @@
 ---
 titel: Vorstellung Themenfeldanalyse
-kuerzel: abschlussvortraege
+kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
