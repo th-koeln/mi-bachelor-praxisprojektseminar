@@ -11,7 +11,10 @@ teaserimage: merz-aljosha_buening-denise.jpg
 stichworte: Frondend-Development, Design, UX/UI, Backend-Development, Android, iOS, Kotlin, Swift, REST, SWIFTUI, SWIFTYJSON, XCode, Android Studio, npm, nodejs, NO_SQL, ArangoDB, Framer, Figma
 quelle-bildrechte-teaser: Denise Büning
 hinweise:
-weiterfuehrende-themen: Implementierung weiterer Aufgabentypen | Digitale Karteikarten speichern und offline abrufen | Regelmäßigge Abfrage der Module in der HOPS API
+weiterfuehrende-themen: |
+  - Implementierung weiterer Aufgabentypen
+  - Digitale Karteikarten speichern und offline abrufen
+  - Regelmäßigge Abfrage der Module in der HOPS API
 ---
 
 ## Abstract
