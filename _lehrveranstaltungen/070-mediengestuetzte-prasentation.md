@@ -36,4 +36,4 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 ## Was muss geliefert werden?
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
-- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1841500&ass_id=20938&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=b9:mc:bp:bo&baseClass=ilExerciseHandlerGUI) bis zum 26. April hochladen
+- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1841500&ass_id=20938&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=b9:mc:bp:bo&baseClass=ilExerciseHandlerGUI) bis zum 31. Mai hochladen
