@@ -19,7 +19,7 @@ weiterfuehrende-themen: Entwicklung und Evaluation eines funktionalen Prototypen
 Suchfilter sind ein wichtiger Bestandteil der Suchmechanismen verschiedenster Webseiten. Sie kommen immer dann zum Einsatz, wenn eine Vielzahl an Objekten durch den Nutzer reduziert werden soll, um ein entsprechendes Suchergebnis zu erhalten. 
 
 Im Zuge dieser Projektarbeit wurden verschiedene Umsetzungvarianten von Suchfiltern in digitalen Bildarchiven analysiert und in verschiedenen Varianten zusammengefasst. 
-Die Bezeichnung *"Digitale Bildarchive"* umfasst in diesem Projekt die Webseiten verschiedenster Museen, Archive und Galerien, auf welchen (Kunst-)Objekte digital festgehalten und den Nutzern:innen zur Verfügung gestellt werden.
+Die Bezeichnung *"Digitale Bildarchive"* umfasst in diesem Projekt die Webseiten verschiedenster Museen, Archive und Galerien, auf welchen (Kunst-)Objekte digital festgehalten und den Nutzer:innen zur Verfügung gestellt werden.
 
 Suchfilter unterstützen die Nutzer:innen bei *gezielten* und *explorativen* Suchanfragen. Gerade in digitalen Bildarchiven sind daher die Anforderungen an die Suchfilter sehr unterschiedlich.
 
