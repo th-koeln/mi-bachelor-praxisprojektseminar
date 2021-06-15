@@ -2,7 +2,7 @@
 nachname: Pelzer
 vorname: Leonard
 datum: 2021-06-22
-uhrzeit:
+uhrzeit: 10-45
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: cn
 thema: Suchfilter in digitalen Bildarchiven
