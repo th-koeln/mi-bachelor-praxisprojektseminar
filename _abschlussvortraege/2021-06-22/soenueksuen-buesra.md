@@ -8,7 +8,7 @@ betreuer: cn
 thema: Empfehlungen für die Gestaltungs kindergerechter Websites
 teaserimage: soenueksuen-buesra-teaserimage.jpg
 stichworte: Screendesign, Webdesign, Usability, Figma
-quelle-bildrechte-teaser: 
+quelle-bildrechte-teaser: Büsra Sönüksün
 hinweise:
 weiterfuehrende-themen: Entwicklung einer kindergerechten Website, Entwicklung einer kindergerechten App
 ---
@@ -21,3 +21,7 @@ Beim Gestalten einer Website geht es viel mehr darum, Farben, Formen und jeglich
 
 
 Ziel dieses Projektes war es, verschiedene Gestaltungsempfehlungen, bezogen auf den visuellen Stil einer Website, herauszuarbeiten, die für eine angenehme Zeit im Internet sorgen können. Dies umfasst die Auswahl der Farben, Formen, Schriftarten/größen, uvm.  Dabei lag der Fokus auf der Zielgruppe der Kinder im Alter von sechs bis zwölf Jahren. Neben dem Vergleich verschiedener kindergerechten Websites, fand auch ein Vergleich bezogen auf die Wahrnehmung eines Designs zwischen Kindern und Erwachsenen statt. 
+
+## Vorschläge für weitere Arbeiten im Themenfeld
+
+Entwicklung einer kindergerechten Website, Entwicklung einer kindergerechten App
