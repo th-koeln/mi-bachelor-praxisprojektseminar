@@ -9,7 +9,6 @@ thema: Empfehlungen für die Gestaltungs kindergerechter Websites
 teaserimage: soenueksuen-buesra-teaserimage.jpg
 stichworte: Screendesign, Webdesign, Usability, Figma
 quelle-bildrechte-teaser: Büsra Sönüksün
-hinweise:
 weiterfuehrende-themen: Entwicklung einer kindergerechten Website, Entwicklung einer kindergerechten App
 ---
 
