@@ -2,7 +2,7 @@
 nachname: Groß
 vorname: Niklas
 datum: 2021-06-22
-uhrzeit: 9-30
+uhrzeit: 09-30
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: hk
 thema: Das Schwarz-Weiß-Bild in der Fotografie - eine Umfrage zur Wirkung von Schwarz-Weiß-Bildern im Vergleich zu Farbbildern.
