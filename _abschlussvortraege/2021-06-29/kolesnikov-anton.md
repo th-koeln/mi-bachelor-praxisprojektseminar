@@ -2,7 +2,7 @@
 nachname: Kolesnikov  
 vorname: Anton
 datum: 2021-06-29
-uhrzeit: 10-00
+uhrzeit: 09-30
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: hk
 thema: Streamlining bei der Erstellung von Horror in Videospielen
