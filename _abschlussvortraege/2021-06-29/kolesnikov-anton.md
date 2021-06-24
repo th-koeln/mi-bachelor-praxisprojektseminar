@@ -7,7 +7,7 @@ raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: hk
 thema: Streamlining bei der Erstellung von Horror in Videospielen
 kooperationspartner: TH Köln
-teaserimage: kolesnikov-anton-teaserimage.jpeg
+teaserimage: kolesnikov-anton-teaserimage.jpg
 stichworte: Game Design, Game Development, Unity, Visual Computing, Computergrafik und Animation, Audiovisuelles Medienprojekt, Mensch-Computer Interaktion
 quelle-bildrechte-teaser: Simon Berger (https://unsplash.com/photos/rydQVdwcgUQ)
 hinweise:
