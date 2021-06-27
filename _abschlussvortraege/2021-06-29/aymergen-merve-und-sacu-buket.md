@@ -8,7 +8,7 @@ betreuer: hk
 thema: Storytelling im Kontext von Livestreaming-Events - eine Untersuchung am Beispiel der Studio-/Liveproduktion zum Vorlesetag 2018
 kooperationspartner: TH Köln
 teaserimage: sacu-aymergen-teaserimage.jpg
-stichworte: Storytelling, Maßnahmen, Vorlesetag 2018, Live-Sendung
+stichworte: Storytelling, Maßnahmen, Social Media, Marketing, Vorlesetag 2018, Live-Sendung, Studioproduktion, Streams, zwischenmenschliche Beziehungen
 quelle-bildrechte-teaser: Merve Aymergen und Buket Sacu
 
 ---
@@ -36,6 +36,12 @@ Die Wissenschaftliche Arbeit befasst sich mit dem Thema: „Storytelling im
 Kontext von Livestreaming-Events - eine Untersuchung am Beispiel der LiveStudioproduktion zum Vorlesetag 2018“. Hierbei ist die Forschungsfrage,
 welches Konzept wir entwickeln können um bei einer Studioproduktion und
 Livesendung, mehr Klicks in Social Media generieren zu können.
+
+
+## Vorschläge für weitere Arbeiten im Themenfeld
+
+- Die Wirksamkeit von Social Media auf die Menschen - Analyse der Gefühle.
+- Die Entwicklung von Studio-/Liveproduktion.
 
 ## Material & weiterführende Infos
 
