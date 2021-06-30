@@ -12,8 +12,11 @@ stichworte: Lehrmethoden, Lehrverfahren, Motivation, Ability, Prompt, Behavior, 
 quelle-bildrechte-teaser: Simon Schulte
 hinweise:
 weiterfuehrende-themen: |
+  
   - Gamification und Nudging - Wie kann die Motivation und Ability bei Lehrmethoden verbessert werden?
+  
   - Eignung der identifizierten Lehrmethoden bezüglich Online- und Präsenzlehre 
+  
   - Wie können Methoden kombiniert werden, welche Auswirkungen hat das auf die Motivation und die Ability?
 ---
 
