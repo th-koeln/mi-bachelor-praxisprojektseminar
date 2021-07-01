@@ -5,7 +5,7 @@ datum: 2021-07-06
 uhrzeit: 09-30
 betreuer: hk
 thema: Nonverbale Kommunikation in Videospiel und Film - Einfluss der nonverbalen Kommunikation auf das Storytelling in Videospiel und Film
-teaserimage: ewert-luzie-teaserimage.jpg
+teaserimage: ewert-luzie-teaserimage.png
 stichworte: Film, Videospiel, nonverbale Kommunikation, Computergrafik und Animation, Storytelling
 quelle-bildrechte-teaser: Luzie Ewert
 weiterfuehrende-themen: Nonverbale Kommunikation im Videospiel und der Bezug zur Realität | Einfluss der Kameraführung auf die nonverbale Kommunikation in Film und Spiel 
