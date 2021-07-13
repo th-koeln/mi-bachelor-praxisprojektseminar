@@ -1,6 +1,6 @@
 ---
-nachname: Barth Rogowski
-vorname: Dustin Daniel
+nachname: Daniel Rogowski
+vorname: Dustin Barth
 datum: 2021-07-13
 uhrzeit: 08-00
 raum:  Zoom
