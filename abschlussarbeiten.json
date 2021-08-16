@@ -1,0 +1,29 @@
+---
+layout: null
+permalink: pps-presentations.json
+---
+[
+  
+{% assign abschlussvortraege=site.abschlussvortraege |sort:'datum'| reverse %}
+{% for item in  abschlussvortraege %}
+{
+  "title": "{{ item.thema }}",
+  "date": "{{ item.datum }}",
+  "betreuer": "{{ item.betreuer }}",
+  "autor": "{{ item.vorname }} {{ item.nachname }}",
+  "bild": "{{site.deployurl}}{{site.baseurl}}{{item.url}}{{ item.bild }}",
+  "bildcredits": "{{ item.quelle-bildrechte-teaser }}",
+  "url": "{{site.deployurl}}{{site.baseurl}}{{item.url}}",
+  "id": "{{ item.id }}",
+  "content": {{ item.content | jsonify }},
+  "excerpt": {{ item.excerpt | jsonify }},
+  "category": "{{ item.category }}",
+  "collection": "{{ item.collection }}",
+  "teasertext": "{{ item.hinweise }}",
+  "weiterfuehrende-themen": "{{ item.weiterfuehrende-themen }}",
+  "tags": "{{ item.stichworte }}"
+}
+{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+  
