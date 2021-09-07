@@ -18,8 +18,8 @@ permalink: pps-presentations.json
   "excerpt": {{ item.excerpt | jsonify }},
   "category": "{{ item.category }}",
   "collection": "{{ item.collection }}",
-  "teasertext": "{{ item.hinweise }}",
-  "weiterfuehrende-themen": "{{ item.weiterfuehrende-themen }}",
+  "teasertext": "{{ item.hinweise  | jsonify  }}",
+  "weiterfuehrende-themen": "{{ item.weiterfuehrende-themen | jsonify }}",
   "tags": "{{ item.stichworte }}"
 }
 {% unless forloop.last %},{% endunless %}
