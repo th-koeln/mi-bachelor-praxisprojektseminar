@@ -15,7 +15,6 @@ permalink: pps-presentations.json
   "bildcredits": "{{ item.quelle-bildrechte-teaser }}",
   "url": "{{site.deployurl}}{{site.baseurl}}{{item.url}}",
   "id": "{{ item.id }}",
-  "content": {{ item.content | jsonify }},
   "excerpt": {{ item.excerpt | jsonify }},
   "category": "{{ item.category }}",
   "collection": "{{ item.collection }}",
