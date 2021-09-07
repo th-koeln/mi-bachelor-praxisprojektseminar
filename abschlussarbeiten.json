@@ -11,7 +11,7 @@ permalink: pps-presentations.json
   "date": "{{ item.datum }}",
   "betreuer": "{{ item.betreuer }}",
   "autor": "{{ item.vorname }} {{ item.nachname }}",
-  "bild": "{{site.deployurl}}{{site.baseurl}}{{item.url}}{{ item.bild }}",
+  "bild": "{{site.deployurl}}{{site.baseurl}}{{item.url}}{{item.teaserimage}}",
   "bildcredits": "{{ item.quelle-bildrechte-teaser }}",
   "url": "{{site.deployurl}}{{site.baseurl}}{{item.url}}",
   "id": "{{ item.id }}",
