@@ -7,7 +7,7 @@ permalink: pps-presentations.json
 {% assign abschlussvortraege=site.abschlussvortraege |sort:'datum'| reverse %}
 {% for item in  abschlussvortraege %}
 {
-  "title": "{{ item.thema  | smartify | cgi_escape }}",
+  "title": {{ item.thema  | smartify | jsonify }},
   "date": "{{ item.datum }}",
   "betreuer": "{{ item.betreuer }}",
   "autor": "{{ item.vorname }} {{ item.nachname }}",
@@ -15,11 +15,11 @@ permalink: pps-presentations.json
   "bildcredits": "{{ item.quelle-bildrechte-teaser }}",
   "url": "{{site.deployurl}}{{site.baseurl}}{{item.url}}",
   "id": "{{ item.id }}",
-  "excerpt": "{{ item.excerpt | smartify | cgi_escape }}",
+  "excerpt": {{ item.excerpt | smartify | jsonify }},
   "category": "{{ item.category }}",
   "collection": "{{ item.collection }}",
-  "teasertext": "{{ item.hinweise | smartify | cgi_escape  }}",
-  "weiterfuehrende-themen": "{{ item.weiterfuehrende-themen | smartify | cgi_escape }}",
+  "teasertext": {{ item.hinweise | smartify | jsonify  }},
+  "weiterfuehrende-themen": {{ item.weiterfuehrende-themen | smartify | jsonify }},
   "tags": "{{ item.stichworte }}"
 }
 {% unless forloop.last %},{% endunless %}
