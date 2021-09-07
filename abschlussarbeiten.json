@@ -8,7 +8,7 @@ permalink: pps-presentations.json
 {% for item in  abschlussvortraege %}
 {
   "title": {{ item.thema  | smartify | jsonify }},
-  "date": "{{ item.datum }}",
+  "date": "{{ item.datum | date: "%m.%Y" }}",
   "betreuer": "{{ item.betreuer }}",
   "autor": "{{ item.vorname }} {{ item.nachname }}",
   "bild": "{{site.deployurl}}{{site.baseurl}}{{item.url}}../{{item.teaserimage}}",
