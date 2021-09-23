@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2021-04-27 10:00
+termine: 2021-10-26 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -27,7 +27,7 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 ## Was muss vorbereitet werden?
 
-- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1841500&ass_id=20936&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=b9:mc:bp:bo&baseClass=ilExerciseHandlerGUI) bis zum 26. April hochladen
+- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2013078&client_id=ILIAS_FH_Koeln) bis zum 25. Oktober hochladen
 - Kurzvortrag zum eigenen Themenfeld
 - 3-5 Fragen an das Plenum zum eigenen Thema
 
@@ -37,4 +37,4 @@ _Das Buch ist auch in der Bibliothek verfügbar._
 
 
 ## Was muss geliefert werden?
-- Themenfeldcluster als PDF im [Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1841500&ass_id=20936&cmd=submissionScreen&cmdClass=ilexsubmissionfilegui&cmdNode=b9:mc:bp:bo&baseClass=ilExerciseHandlerGUI) bis zum 26. April hochladen
+- Themenfeldcluster als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2013078&client_id=ILIAS_FH_Koeln) bis zum 25. Oktober hochladen
