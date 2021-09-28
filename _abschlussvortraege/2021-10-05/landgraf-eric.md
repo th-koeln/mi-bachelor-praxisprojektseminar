@@ -3,8 +3,8 @@ nachname: Landgraf
 vorname: Eric
 datum: 2021-10-05
 uhrzeit: 10-30
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: Prof. Dr. Stefan Bente
+raum: Zoom
+betreuer: sb
 thema: Realisierung eines offlinefähigen Open Source-Sprachassistenten zur Nutzung durch vulnerable Personengruppen
 kooperationspartner: TH-Köln - Forschungsprojekt INTIA 
 teaserimage: landgraf-eric-teaserimage.png
@@ -15,7 +15,7 @@ weiterfuehrende-themen: Empirische Forschung zum Feststellen des Erreichungsgrad
 
 ## Abstract
 
-Durch die Regelung des Datenschutzes in Deutschland können herkömmliche Sprachassistenten wie Alexa, Siri oder der Google Sprachassistent nicht an Orten eingesetzte werden, in denen vulnerable Personengruppen betreut werden.
+Durch die Regelung des Datenschutzes in Deutschland können herkömmliche Sprachassistenten wie Alexa, Siri oder der Google Sprachassistent nicht an Orten eingesetzt werden, in denen vulnerable Personengruppen betreut werden.
 Der Datenschutz bei den oben genannten Sprachassistenten wird nicht eingehalten, da die Auswertung der Sprachbefehle ausgelagert wird, also nicht direkt auf den Geräten selbst stattfindet. Dies ermöglicht zwar die Einsparung von Ressourcen und eine bessere Erkennung der Befehle, aber es schließt eine Bevölkerungsgruppe von der digitalen Teilhabe mit solchen Geräten aus.
 
 In dem Projekt ging es darum die Zielgruppe genauer zu bestimmen, Stakeholder des Projektes zu identifizieren und mittels Domänen- und Zielgruppenanalyse besser zu verstehen. Hierfür wurden zwei Interviews mit "Domänen-Experten" aus den Bereichen Jugendbetreuung/-förderung (Mitarbeiterin des Jugendamts) und Alten- und Krankenbetreuung/-pflege (Mitarbeiterin einer Altentagespflege) geführt.
@@ -25,7 +25,7 @@ Darauf aufbauend wurden Anforderungen an den Sprachassistenten gebildet.
 Im Wintersemester 20/21 fand das Informatikprojekt "Open-Source-Sprachassistenten" statt, hierbei wurden existierende Open-Source Sprachassistenten Frameworks (Jasper, Rhasspy, Project Alice, Mycroft und Almond) begutachtet, getestet und Prototypen entwickelt.
 Auf den Anforderungen basierend wurde eine Analyse und eigene Tests mit den entwickelten Prototypen und ihrer Dokumentationen durchgeführt.
  
-Ergebnis der Analyse war die Wahl des Frameworks Rhasspy und damit wurde dann ein evaluierbarer, offlinefähiger Open-Source Sprachassistent in einem iterativem Prozess entwickelt. Bedienbarkeit und „Skills“ richten sich auf eine Nutzung in der Altenpflege, aber können ebenfalls in anderen Bereichen der Domäne interessant und nutzbar sein.
+Ergebnis der Analyse war die Wahl des Frameworks Rhasspy und damit wurde dann ein evaluierbarer, offlinefähiger Open-Source Sprachassistent in einem iterativen Prozess entwickelt. Bedienbarkeit und "Skills" richten sich auf eine Nutzung in der Altenpflege, aber können ebenfalls in anderen Bereichen der Domäne interessant und nutzbar sein.
 
 ## Material & weiterführende Infos
 
