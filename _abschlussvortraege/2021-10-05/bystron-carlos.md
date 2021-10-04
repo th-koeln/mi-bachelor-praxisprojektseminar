@@ -11,6 +11,7 @@ teaserimage: bystron-carlos.png
 stichworte: cross-platform, design guidelines, ux-design, flutter, app development
 quelle-bildrechte-teaser: Carlos Bystron
 weiterfuehrende-themen: Development of HIG compliant widgets in flutter - although Flutter provides so called cupertino widgets to replicate iOS components, during the project it turned out that the quality of these often does not match their material counterparts. The widgets could be improved and new ones developed and then submitted as an open source contribution. | Research on the status quo - Do users notice when an app is developed cross-platform, does it affect them? | Evaluation of cross platform technologies. Which is best suited for which purpuse. When developement should be done natively?
+---
 
 ## Abstract
 Cross-platform mobile development is a way to use one codebase to build apps for multiple platforms. In terms of mobile development, the relevant platforms are Android and iOS. Cross-platform development is promising to be time and thereby cost efficient; however, developing cross-platform instead of native apps introduces new potential pitfalls as well. One of them, which is in the focus of my work and therefore of this presentation, is bringing together different design paradigms to build an app that offers an equally strong user experience on each platform.
