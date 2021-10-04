@@ -6,7 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2022-07-13 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 180
 info: 
 ---
