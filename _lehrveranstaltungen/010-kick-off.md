@@ -33,7 +33,7 @@ Teilnehmer hosten die Abschlussvorträge. Mehr dazu heute im KickOff oder in ein
 * 90 Seconds Standup Talk (ohne Folien) zu Ihrem Praxisprojekt Thema
 
 ## Material und Links
-* [Informationen zum Seminar](https://ilias.th-koeln.de/goto.php?target=file_1456364_download&client_id=ILIAS_FH_Koeln)
+* [Informationen zum Seminar](https://ilias.th-koeln.de/goto.php?target=file_1995359_download&client_id=ILIAS_FH_Koeln)
 * [Ordnung zur Sicherung guter wissenschaftlicher Praxis der Technischen Hochschule Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/endfassung_02_2020.pdf)
 * [LaTex Vorlage](https://ilias.th-koeln.de/goto.php?target=file_1355498_download&client_id=ILIAS_FH_Koeln)
 * [LaTex Tutorial](https://www.latex-tutorial.com)
