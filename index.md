@@ -34,9 +34,8 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 - Die Teilnehmer gewinnen einen ersten Überblick über das Spektrum von aktuellen Themen in der Medieninformatik und können eigene Projektergebnisse vor einem Fachpublikum in Vortrag und Diskussion darstellen und verteidigen.
 
 ## Wie funktioniert das Seminar?
-**Aufgrund der aktuellen Lage bezüglich des Corona Virus werden vorerst keine Präzensveranstaltungen im Praxisprojekt Seminar angeboten. Die Workshops und Abschlusspräsentationen werden so umstrukturiert, dass diese online stattfinden. Detaillierte Informationen dazu können Sie auf den einzelnen Seiten zu den Veranstaltungen entnehmen. Bitte informieren Sie sich in regelmäßigen Abständen auf der Seite, da sich die Lage auch wieder ändern kann.**
 
-Das Seminar besteht aus mehreren Workshops und Veranstaltungen. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. 
+Das Seminar besteht aus mehreren Workshops und Veranstaltungen die überwiegend online statt finden. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. 
 
 Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. Was genau vorbereitet werden muss, steht auf der jeweiligen Seite zu dem Workshop.
 
@@ -58,8 +57,9 @@ Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen S
 ### [Mediengestützte Präsentation](lehrveranstaltungen/070-mediengestuetzte-prasentation/)
 Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
 
+<!--
 ### [Postersession/ Live-Session](lehrveranstaltungen/070-live-session-postersession/) (Findet dieses Semester nicht statt)
-Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.
+Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.-->
 
 Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im Ilias hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
 
@@ -70,7 +70,10 @@ Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 10% aus der Bewertu
 
 **Tipps zum Seminarvortrag und nach welchen Kriterien bewertet wird, können auf dieser [Mindmap](https://www.mindmeister.com/de/687253542?t=KF0iiQdLn3) nachgelesen werden.**
 
-
+## Projektthemen gesucht?
+PROX ist ein Webportal, auf dem Studierende der TH Köln, lokale Unternehmen und Lehrende der TH Köln zusammengebracht werden. In PROX finden Sie Bachelor- und Masterarbeiten, aber auch Projekte aus den Studiengängen der TH-Köln, wie z.B. Praxis- und Informatikprojekte.
+<br><br>
+[https://prox.archi-lab.io/home](https://prox.archi-lab.io/home)
 
 <!-- ## Übergangsreglung
 Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails. -->
