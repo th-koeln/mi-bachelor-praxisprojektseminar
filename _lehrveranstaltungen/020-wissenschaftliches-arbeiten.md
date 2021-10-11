@@ -30,9 +30,6 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 
 ## Workshopaufaufgabe
 
-### [Link zur Mindmap](https://mm.tt/1658041834?t=WmZ2leplr0)
-
-
 Themen der Sessions:
 
 - Stil der Arbeit: Session 1
