@@ -4,7 +4,7 @@ vorname: Lining
 datum: 2021-10-26
 uhrzeit: 09-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) 
-betreuer: mib
+betreuer: mbl
 thema: Die Auswirkungen der COVID-19-Pandemie auf die digitalen Spieletrends 2020/21
 kooperationspartner: TH Köln
 teaserimage: bao-lining-teaserimage.jpg
