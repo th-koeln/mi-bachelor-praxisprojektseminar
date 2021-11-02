@@ -25,6 +25,7 @@ Heute werden die reviewten Exposés in einer kurzen Session von den Reviewern vo
 Die heutige Veranstaltung wird nicht vor Ort in Gummersbach stattfinden, sondern virtuell über die Software Zoom. Beachten Sie dazu bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
 
 ## Material
+* [Maria-Anna Worth: Ein Exposé verfassen](https://ilias.th-koeln.de/goto.php?target=lm_1452264&client_id=ILIAS_FH_Koeln)
 * [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
 * [LaTex Vorlage](https://ilias.th-koeln.de/goto.php?target=file_1355498_download&client_id=ILIAS_FH_Koeln)
 * [LaTex Tutorial](https://www.latex-tutorial.com)
