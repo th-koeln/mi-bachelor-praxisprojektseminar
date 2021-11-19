@@ -37,3 +37,9 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
 - [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2013078&client_id=ILIAS_FH_Koeln) bis zum 29. November hochladen
+
+### Ein paar Gedanken zur Präsentation
+
+<div class="js-video">
+  <iframe width="400" height="315" src="https://www.youtube.com/embed/_tLghxc383c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
