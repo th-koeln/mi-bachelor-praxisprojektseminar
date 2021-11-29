@@ -8,8 +8,8 @@ betreuer: hk
 thema: Differenzierung von Film und Videospiel - eine vergleichende Untersuchung der Audiovisuellen Mittel
 kooperationspartner: TH Koeln
 teaserimage: dorrenbach-dorian-klaus-robert-teaserimage.png
-stichworte: Film, Videospiel, Sund, Sound Design, Immersion, Narration, Genre
-quelle-bildrechte-teaser: Erweitert von Smart Homepage Agentur - (https://www.smart-homepage-agentur.de/images/api/api-schnittstelle-illustration.jpg)
+stichworte: Film, Videospiel, Sound, Sound Design, Immersion, Narration, Genre
+quelle-bildrechte-teaser: https://www.istockphoto.com/de
 hinweise:
 weiterfuehrende-themen: Können die unterschiedlichen Medientypen im Bereich visuelle Elemente (Effekt, Perspektiven) voneinander lernen?, Ist der Film historisch bedingt ein besserer Lehrer, oder hat die Moderne der Videospiele den Film in Hinsicht auf visuelle-, audiovisuelle Elemente oder Narration übertroffen? 
 ---
