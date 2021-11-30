@@ -5,7 +5,7 @@ datum: 2021-12-07
 uhrzeit: 11-00
 raum: Zoom
 betreuer: gh
-thema: Designevaluierung - Schwerpunkt: User centered design
+thema: Designevaluierung - Schwerpunkt User centered design
 kooperationspartner: TH Köln, G Data Cyber Defense AG
 teaserimage: Teaser-Praxisprojekt-Praesentation-AW-LR.jpeg
 stichworte: Design, UX/UI, Methoden, Analyse
