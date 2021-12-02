@@ -27,4 +27,5 @@ Aus der Analyse hat sich ergeben, dass verschiedene auditive Mittel, je nach Gen
 ## Material
 
 [Analysen zum Film und Videospiel](https://th-koeln.sciebo.de/s/MAStIeaYwYq1t8E)
+
 [Stimmungsbilder zum Film und Videospiel](https://th-koeln.sciebo.de/s/9lixsGy0YAByFvt)
