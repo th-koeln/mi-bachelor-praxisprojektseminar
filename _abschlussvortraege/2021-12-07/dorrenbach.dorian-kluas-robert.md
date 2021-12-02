@@ -2,7 +2,7 @@
 nachname: Dorian Dorrenbach   
 vorname: Robert Klaus,
 datum: 2021-12-07
-uhrzeit: 10-00
+uhrzeit: 10:00
 raum:  Zoom
 betreuer: hk
 thema: Differenzierung von Film und Videospiel - eine vergleichende Untersuchung der audiovisuellen Mittel
