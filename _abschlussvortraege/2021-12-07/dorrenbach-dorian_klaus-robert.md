@@ -1,21 +1,17 @@
 ---
-nachname: Dorian Dorrenbach   
-vorname: Robert Klaus,
+nachname: Dorian, Dorrenbach   
+vorname: Robert, Klaus
 datum: 2021-12-07
-uhrzeit: 10:00
+uhrzeit: 10-00
 raum:  Zoom
 betreuer: hk
 thema: Differenzierung von Film und Videospiel - eine vergleichende Untersuchung der audiovisuellen Mittel
 kooperationspartner: TH Koeln
 teaserimage: dorrenbach-dorian-klaus-robert-teaserimage.png
 stichworte: Film, Videospiel, Sound, Sound Design, Immersion, Narration, Genre
-quelle-bildrechte-teaser: https://www.istockphoto.com/de
+quelle-bildrechte-teaser: www.istockphoto.com/de
 hinweise:
-weiterfuehrende-themen: 
-
-Können die unterschiedlichen Medientypen im Bereich visuelle Elemente (Effekt, Perspektiven) voneinander lernen?,
-
-Ist der Film historisch bedingt ein besserer Lehrer, oder hat die Moderne der Videospiele den Film in Hinsicht auf visuelle-, audiovisuelle Elemente oder Narration übertroffen? 
+weiterfuehrende-themen: Können die unterschiedlichen Medientypen im Bereich visuelle Elemente (Effekt, Perspektiven) voneinander lernen?, Ist der Film historisch bedingt ein besserer Lehrer, oder hat die Moderne der Videospiele den Film in Hinsicht auf visuelle-, audiovisuelle Elemente oder Narration übertroffen? 
 
 ---
 
