@@ -1,6 +1,6 @@
 ---
-nachname: Plackenhohn und Serttas
-vorname: Kimberly und Eda
+nachname: Plackenhohn, Serttas
+vorname: Kimberly, Eda
 datum: 2021-12-21
 uhrzeit: 10-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
