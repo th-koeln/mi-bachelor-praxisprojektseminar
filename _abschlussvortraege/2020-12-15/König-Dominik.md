@@ -8,7 +8,7 @@ betreuer: dz
 thema: D3.js im Vergleich mit Power BI
 kooperationspartner: TH Köln
 teaserimage: König-Dominik.jpg
-stichworte: Frondend-Development, Datenvisualisierung, Data
+stichworte: Frontend-Development, Datenvisualisierung, Data
 quelle-bildrechte-teaser: Dominik König
 hinweise:
 ---

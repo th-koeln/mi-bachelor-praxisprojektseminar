@@ -8,7 +8,7 @@ betreuer: cn
 thema: Entwicklung eines Gestaltungskonzepts für eine Webanwendung zur kollaborativen Ad-Hoc-Bearbeitung von Dokumenten in Echtzeit 
 kooperationspartner: TH Köln
 teaserimage: knes-ragna-teaserimage.png
-stichworte: Frondend-Development, Design, UX/UI, Kollaboratives Schreiben
+stichworte: Frontend-Development, Design, UX/UI, Kollaboratives Schreiben
 quelle-bildrechte-teaser: https://undraw.co/illustrations | https://icons8.com/icons/set/markdown 
 hinweise:
 weiterfuehrende-themen: Entwicklung einer Webanwendung für kollaborative Ad-Hoc-Beabeitung von Dokumenten in Echtzeit auf Basis eines gegebenen Gestaltungskonzepts | Evaluation eines bestehenden Gestaltungskonzepts einer Webanwendung für kollaborative Ad-Hoc-Beabeitung von Dokumenten in Echtzeit 

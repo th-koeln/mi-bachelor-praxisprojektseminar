@@ -8,7 +8,7 @@ betreuer: cn
 thema: Neumorphismus im Webdesign und Web-Frontend Development
 kooperationspartner: TH Köln
 teaserimage: mucha-bastian.jpg
-stichworte: Frondend-Development, Design, UX/UI, Neumorphismus, Skeuomorphismus
+stichworte: Frontend-Development, Design, UX/UI, Neumorphismus, Skeuomorphismus
 quelle-bildrechte-teaser: https://dribbble.com/shots/9890709-Neumorphism-UI-Trend-2020) designed by OTAKOYI 
 hinweise:
 weiterfuehrende-themen: Empirische Forschung über die Gebrauchstauglichkeit von GUI Elemente im neumorphischen Design | Redesign einer Website auf der Basis des Neumorphismus

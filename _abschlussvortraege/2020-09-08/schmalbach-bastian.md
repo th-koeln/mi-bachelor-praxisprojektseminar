@@ -8,7 +8,7 @@ betreuer: mb
 thema: Das Unterstützen eines nachhaltigen Lebensstils mit Hilfe einer mobilen Applikation
 kooperationspartner: TH Köln
 teaserimage: schmalbach-bastian-teaserimage.png
-stichworte: Mobile-Development, IOS, App, Frondend-Development, Design, UX/UI, Bahavior Change, Persuasion
+stichworte: Mobile-Development, IOS, App, Frontend-Development, Design, UX/UI, Bahavior Change, Persuasion
 hinweise:
 ---
 

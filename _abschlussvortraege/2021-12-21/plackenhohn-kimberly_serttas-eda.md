@@ -8,7 +8,7 @@ betreuer: mbl
 thema: Entwicklung eines Systems zur Erleichterung des Studienalltags
 kooperationspartner: TH Köln
 teaserimage: plackenhohn-kimberly_serttas-eda_teaserimage.jpg
-stichworte: Empirische-Forschung, Datenanalyse, Screendesign, Frondend-Development, Datenbanken
+stichworte: Empirische-Forschung, Datenanalyse, Screendesign, Frontend-Development, Datenbanken
 quelle-bildrechte-teaser: Photo by Marvin Meyer on Unsplash
 hinweise:
 weiterfuehrende-themen: Implementierung als Android/ iOS Applikation | Weiterentwicklung des Projekts in der Hinsicht auf die Back-End Entwicklung der bisherigen Funktionen (z.B. Forum/Chat, Login, Fortschrittsanzeige, Erinnerungen und Kalender Einstellungen)

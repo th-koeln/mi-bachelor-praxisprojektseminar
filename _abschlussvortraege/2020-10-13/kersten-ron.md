@@ -8,7 +8,7 @@ betreuer: cn
 thema: Barrierefreiheit im Kontext webbasierter Inhalte am Beispiel der Umfragesoftware des Unternehmens Questback
 kooperationspartner: Questback GmbH
 teaserimage: kersten-ron-teaserimage.png
-stichworte: Frondend-Development, Barrierefreiheit, Guidelines, WCAG, BITV/WCAG Selbstbewertung
+stichworte: Frontend-Development, Barrierefreiheit, Guidelines, WCAG, BITV/WCAG Selbstbewertung
 hinweise:
 ---
 

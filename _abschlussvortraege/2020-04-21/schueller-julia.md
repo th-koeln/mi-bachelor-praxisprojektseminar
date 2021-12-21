@@ -8,7 +8,7 @@ betreuer: gh
 thema: Storytelling in Interaction Design
 kooperationspartner: TH Köln
 teaserimage: schueller-julia-teaserimage.png
-stichworte: Frondend-Development, Design, UX/UI, Storytelling, Website
+stichworte: Frontend-Development, Design, UX/UI, Storytelling, Website
 hinweise:
 ---
 

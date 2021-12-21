@@ -8,7 +8,7 @@ betreuer: hk
 thema: Shared 3D Rendering
 kooperationspartner: SMS-Digital GmbH
 teaserimage: moujtahid-taha.jpg
-stichworte: 3D, Rendering, JavaScript, Unity3D, Frondend-Development, UX, Methoden
+stichworte: 3D, Rendering, JavaScript, Unity3D, Frontend-Development, UX, Methoden
 quelle-bildrechte-teaser: Moujtahid Taha Sirajeddin
 hinweise:
 weiterfuehrende-themen: Digital Twin | Game Streaming

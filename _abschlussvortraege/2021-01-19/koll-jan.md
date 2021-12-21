@@ -8,7 +8,7 @@ betreuer: cn
 thema: Konzeption und prototypische Entwicklung eines digitalen Guides zur Informationsanreicherung einer Ausstellung für Verhaltensbiologie
 kooperationspartner: TH Köln & Max-Planck-Institut für Verhaltensbiologie
 teaserimage: koll-jan-teaserimage.jpg
-stichworte: Frondend-Development, Backend-Development, Design, Bildung, Museum
+stichworte: Frontend-Development, Backend-Development, Design, Bildung, Museum
 quelle-bildrechte-teaser: Max-Planck-Institut für Verhaltensbiologie
 hinweise:
 weiterfuehrende-themen: Ein CMS anbinden, um Inhalte von Benutzern/Kunden betreuen zu lassen. | Eine 360° Tour um Benutzern die nicht vor Ort sind das Gelände besser zu verbildlichen und ggf. Interaktive Inhalte darin abrufbar machen.
