@@ -2,7 +2,7 @@
 nachname: Heynckes
 vorname: Henrik
 datum: 2022-01-11
-uhrzeit: 10-00
+uhrzeit: 11-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Filmkultur verschiedener Länder und Regionen - eine Untersuchung der anthropogenen Disparitäten und Korrelationen
