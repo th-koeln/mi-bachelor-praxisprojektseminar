@@ -29,7 +29,7 @@ ilias: "https://ilias.th-koeln.de/goto.php?target=crs_1169587&client_id=ILIAS_FH
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v4.0.0
 
 # be sure that you use kramdown as markdown processor
 markdown: kramdown
@@ -56,9 +56,6 @@ sass:
 excerpt_separator: "<!--aufgabe-->"
 
 # Use the following plug-ins
-plugins_dir:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', '_tools/']
