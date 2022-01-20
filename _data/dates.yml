@@ -103,6 +103,6 @@ week-17:
  week-18:
   day-1:
     datum: 2022-02-01
-    start: "09:00"
-    end: "13:00"
+    start: "13:00"
+    end: "16:00"
     name: Dienstag
