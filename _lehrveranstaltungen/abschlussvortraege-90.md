@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2021-10-05 10:30
+termine: 2021-10-05 10:30, 2022-02-01 10:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
