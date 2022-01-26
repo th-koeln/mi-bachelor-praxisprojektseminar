@@ -7,7 +7,7 @@ pflicht: false
 termine: 2021-10-05 09:00, 2022-02-01 08:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 60
+dauer: 90
 info: 
 ---
 
