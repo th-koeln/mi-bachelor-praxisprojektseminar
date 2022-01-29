@@ -2,7 +2,7 @@
 nachname: Thomas
 vorname: Sara
 datum: 2022-02-01
-uhrzeit: 11-00
+uhrzeit: 10-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Wie interaktiv ist Storytelling in Videospielen vor dem Hintergrund von Branching Storylines wirklich?
