@@ -2,7 +2,7 @@
 nachname: Heuser
 vorname: Tristan
 datum: 2022-02-01
-uhrzeit: 12-00
+uhrzeit: 11-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: mb
 thema: Entwicklung und Konzeption einer kontextsensitiven Erweiterung eines Open Source Smart Home Systems
