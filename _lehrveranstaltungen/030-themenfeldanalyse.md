@@ -27,7 +27,7 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 ## Was muss vorbereitet werden?
 
-- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2013078&client_id=ILIAS_FH_Koeln) bis zum 25. Oktober hochladen
+- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2167982&client_id=ILIAS_FH_Koeln) bis zum 25. Oktober hochladen
 - Kurzvortrag zum eigenen Themenfeld
 - 3-5 Fragen an das Plenum zum eigenen Thema
 
