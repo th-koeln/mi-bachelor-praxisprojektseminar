@@ -4,7 +4,7 @@ kuerzel: kickoff
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2021-10-12 10:00
+termine: 2021-10-12 10:00, 2022-03-29 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
