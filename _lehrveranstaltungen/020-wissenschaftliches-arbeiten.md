@@ -29,7 +29,9 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 - keins
 
 ## Workshopaufaufgabe
+folgt
 
+<!--
 Themen der Sessions:
 
 - Stil der Arbeit: Session 1
@@ -37,5 +39,5 @@ Themen der Sessions:
 - Wissenschaftliche Grundlagen: Session 3
 - Inhaltlicher Aufbau und formale Bausteine der Arbeit: Session 4
 - Wissenschaftliche Quellen: Session 5
-- Zitate: Session 6
+- Zitate: Session 6 -->
 
