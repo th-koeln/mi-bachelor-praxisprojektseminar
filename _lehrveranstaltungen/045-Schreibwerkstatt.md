@@ -1,5 +1,5 @@
 ---
-titel: Screencast Schreibwerkstatt/ Schreibberatung
+titel: Online Workshop Schreibwerkstatt/ Schreibberatung (Eigenleistung)
 kuerzel: pre
 verantwortlich: ma
 typ: workshop
@@ -16,7 +16,7 @@ info:
 
 
 Um besser und schneller im wissenschaftlichen Schreiben zu werden haben wir heute Unterstützung durch das Akademische Schreibzentrum der TH. Die Schreibberatung der TH Köln bietet Unterstützung in allen Fragen rund um das wissenschaftliche Schreiben: „Wir zeigen Ihnen, wie Sie systematisch und zeitschonened Fachtexte erschließen, Ihre eigenen Texte auf dieser Grundlage verfassen, dabei regelgerecht zitieren und wissenschaftlich stilsicher formulieren.” Heute werden wir wieder das Exposé verwenden, um an diesem Beispiel die eigene Schreibkompetenz zu verbessern.
-Dazu schauen sie sich bitte den Screencast in den Materialien von Frau Worth an.
+Dazu erarbeiten Sie sich bitte selbständig den Workshop [https://ilias.th-koeln.de/goto.php?target=cat_1590280&client_id=ILIAS_FH_Koeln](Wissenschaftliches Schreiben - Von der Themenfindung zum fertigen Text).
 ## Was sind die Ziele?
 
 - besseres Verständnis zu wissenschaftlichem Schreiben
