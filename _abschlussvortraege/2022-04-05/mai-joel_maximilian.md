@@ -25,10 +25,10 @@ Um die Forschungsfrage zu beantworten, werden die wesentlichen Schritte der Norm
 
 Es wurde festgestellt, dass die Erfüllungsrate der Akzeptanzkriterien maßgeblich mit der Größe der evaluierenden Stakeholder korreliert. Die enge Zusammenarbeit mit diesen Stakeholdern ist daher unabdingbar. Die Evaluierungen der ersten Gestaltungslösungen hat die Gestaltung maßgeblich beeinflusst. Das Endergebnis macht deutlich, dass das Gestalten eines Interaktiven Systems nach der DIN-EN-ISO 9241-210 die Zufriedenheit gewährleistet und somit ein wichtiger Teil der Entwicklung sozialer Netzwerke zum Austausch von Wissen und Erfahrungen ist.
 
-Die Entwickler von zukünftigen interaktiven Systemen, sollten sich mit der Zielgruppe befassen und sie in die Gestaltung mit einbeziehen, um die Systeme menschenzentrierter zu gestalten. Für die Weiterentwicklung des Datenschutzes sind weitere Forschungen im Zusammenspiel mit [Progressiven Web Apps (PWA) und der Peer to Peer (P2P) Technologie](https://github.com/Inf166/pwa-peer-to-peer-sharing-recipies) notwendig, denn sie würden, wenn sie mehr etabliert und mehr Funktionen bieten, eine noch bessere Alternative zu bisherigen Umsetzungen solcher Systeme darstellen.
+Die Entwickler von zukünftigen interaktiven Systemen, sollten sich mit der Zielgruppe befassen und sie in die Gestaltung mit einbeziehen, um die Systeme menschenzentrierter zu gestalten. Für die Weiterentwicklung des Datenschutzes sind weitere Forschungen im Zusammenspiel mit [Progressiven Web Apps (PWA) und der Peer to Peer (P2P) Technologie](https://github.com/Inf166/pwa-peer-to-peer-sharing-recipes) notwendig, denn sie würden, wenn sie mehr etabliert und mehr Funktionen bieten, eine noch bessere Alternative zu bisherigen Umsetzungen solcher Systeme darstellen.
 
 ## Material & weiterführende Infos
-- [Github Repository](https://github.com/Inf166/design-concept-sharing-recipies)
+- [Github Repository](https://github.com/Inf166/design-concept-sharing-recipes)
 
 Der Prototyp, für die individuelle Erfahrung des aktuellen Standes des Projekts, kann über die folgenden Links erreicht werden:
 - [Mobiler Prototyp](https://figma.fun/s3UhPh/view)
@@ -36,8 +36,8 @@ Der Prototyp, für die individuelle Erfahrung des aktuellen Standes des Projekts
 - [Desktop Prototyp](https://www.figma.com/proto/0X6qAEbIXbhXPiSl1BfNGV/Praxisprojekt?node-id=523%3A21650&scaling=contain&page-id=101%3A3057&starting-point-node-id=523%3A25263&hide-ui=1)
 
 Hier findet man noch andere Punkte, die während der Erarbeitung der Prototypen, interessant waren:
-- [Mögliche Technologien](https://github.com/Inf166/design-concept-sharing-recipies/wiki/M%C3%B6gliche-Technologien)
-- [Lessons Learned](https://github.com/Inf166/design-concept-sharing-recipies/wiki/Ideen-f%C3%BCr-die-Bachelorarbeit)
+- [Mögliche Technologien](https://github.com/Inf166/design-concept-sharing-recipes/wiki/M%C3%B6gliche-Technologien)
+- [Lessons Learned](https://github.com/Inf166/design-concept-sharing-recipes/wiki/Ideen-f%C3%BCr-die-Bachelorarbeit)
 
 ## Vorschläge für weitere Arbeiten im Themenfeld
 - Sofern technisch möglich, ist die Umsetzung eines ähnlichen Systems, auf Basis von Peer to Peer Kommunikation zwischen Client und Server als auch den anderen Endgeräten von Nutzern, ein geeignetes Folgeprojekt. Die sich daraus resultierenden Synchronisationsprobleme könnten mithilfe von Blockchain oder öffentlichen Frameworks für den lokalen Speicher lösen lassen. Die aktuellen Limitierungen des lokalen Speichers machen dieses Projekt jedoch zurzeit nur eingeschränkt möglich.
