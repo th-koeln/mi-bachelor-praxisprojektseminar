@@ -34,6 +34,5 @@ Diese Methoden werden innerhalb der Ausarbeitung mittels einer praktischen Anwen
 
 
 ## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
 - [Link zum Ergebnis der praktischen Arbeit](https://th-koeln.sciebo.de/s/fBWmT6FWLIWnfoT)
 - [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
