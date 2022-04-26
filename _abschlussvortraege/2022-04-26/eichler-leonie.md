@@ -2,12 +2,12 @@
 nachname: Eichler
 vorname: Leonie
 datum: 2020-04-19
-uhrzeit: 09-30
+uhrzeit: 08-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: fv
 thema: Automatisierte Oberflächentests für die S-Erleben-Website der Kreissparkasse Köln
 kooperationspartner: Oevermann Networks GmbH
-teaserimage: eichler-leonie-teaserimage.jpg
+teaserimage: eichler-leonie-teaserimage.png
 stichworte: Selenium, Test, Webanwendung
 quelle-bildrechte-teaser: Leonie Eichler
 hinweise:
