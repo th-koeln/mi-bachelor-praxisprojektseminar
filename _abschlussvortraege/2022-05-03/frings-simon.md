@@ -4,7 +4,7 @@ vorname: Simon
 datum: 2022-05-03
 uhrzeit: 08-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer:hk
+betreuer: hk
 thema: Konzeptionierung und Realisierung von Lehrvideos zur Einführung in die Nutzung eines Frameworks
 kooperationspartner: TH Köln
 teaserimage: frings-simon-teaserimage.jpg
