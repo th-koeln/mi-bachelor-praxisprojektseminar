@@ -2,7 +2,7 @@
 nachname: Löhmann
 vorname: Frederik
 datum: 2022-05-03
-uhrzeit: 9-00
+uhrzeit: 09-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: cn
 thema: Verwendung von Cross-Plattform Frameworks für die Web-Entwicklung
