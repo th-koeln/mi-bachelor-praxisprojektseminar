@@ -4,7 +4,7 @@ vorname: Emre
 datum: 2022-06-14
 uhrzeit: 09-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: mib
+betreuer: um
 thema: Der Aufbau von Langzeitmotivation in gamifizierten Sprachlern-Apps
 kooperationspartner: TH Köln
 teaserimage: bulut-emre-teaserimage.jpg
