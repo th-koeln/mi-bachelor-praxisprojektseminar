@@ -8,6 +8,7 @@ betreuer: hk
 thema: Raytracing im Produktionsrenderer (Methoden und Bottlenecks)
 kooperationspartner: TH Köln
 teaserimage: schenkelberg-thilo-teaserimage.png
+quelle-bildrechte-teaser: Thilo Schenkelberg
 stichworte: Rendering, Raytracing, Performance,
 hinweise:
 ---
