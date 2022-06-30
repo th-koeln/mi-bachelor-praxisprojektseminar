@@ -2,7 +2,7 @@
 nachname: Schenkelberg
 vorname: Thilo
 datum: 2022-07-05
-uhrzeit: 11-00
+uhrzeit: 10-30
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: hk
 thema: Raytracing im Produktionsrenderer (Methoden und Bottlenecks)
