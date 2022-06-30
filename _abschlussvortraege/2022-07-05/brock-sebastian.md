@@ -2,7 +2,7 @@
 nachname: Brock
 vorname: Sebastian
 datum: 2022-07-05
-uhrzeit: 11-30
+uhrzeit: 11-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: cn
 thema: PWAs in Situationen ohne Internetverbindung - Kann eine WebApp auch offline funktionieren?
