@@ -8,10 +8,8 @@ betreuer: gh
 thema: User Interface Designs und die Wirkung auf verschiedene User Gruppen
 kooperationspartner: TH Köln
 teaserimage: murat_hilal_teaserimage1.jpg
-stichworte: Frontend-Development, PWA, Offline
-quelle-bildrechte-teaser: Kamaji Ogino, Pexels.com
-hinweise:
-weiterfuehrende-themen: 
+hinweise: Im Sciebo Ordner befinden sich weitere Anhänge
+
 ---
 
 ## Abstract
