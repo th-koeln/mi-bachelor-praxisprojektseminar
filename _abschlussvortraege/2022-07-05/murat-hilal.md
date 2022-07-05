@@ -7,7 +7,7 @@ raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsent
 betreuer: gh
 thema: User Interface Designs und die Wirkung auf verschiedene User Gruppen
 kooperationspartner: TH Köln
-teaserimage: murat_hilal_teaserimage.jpg
+teaserimage: murat_hilal_teaserimage1.jpg
 stichworte: Frontend-Development, PWA, Offline
 quelle-bildrechte-teaser: Kamaji Ogino, Pexels.com
 hinweise:
