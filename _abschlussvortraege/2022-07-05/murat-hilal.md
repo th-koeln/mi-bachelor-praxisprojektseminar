@@ -8,6 +8,7 @@ betreuer: gh
 thema: User Interface Designs und die Wirkung auf verschiedene User Gruppen
 kooperationspartner: TH Köln
 teaserimage: murat_hilal_teaserimage1.jpg
+quelle-bildrechte-teaser: Hilal Murat
 hinweise: Im Sciebo Ordner befinden sich weitere Anhänge
 
 ---
