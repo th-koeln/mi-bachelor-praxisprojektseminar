@@ -24,4 +24,6 @@ Gibt es denn eine Noch effektivere Design Lösung, für ein besseres Nutzungsver
 
 
 ## Material & weiterführende Infos
-
+Unterlagen zum Projekt 
+Ergebnisse der Umfrage & Abschlussarbeit
+https://th-koeln.sciebo.de/f/683132517
