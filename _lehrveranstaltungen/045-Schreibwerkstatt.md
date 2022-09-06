@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma
 typ: workshop
 pflicht: false
-termine: 2021-11-02 10:00, 2022-04-12 10:00, 2022-04-19 10:00
+termine: 2022-10-25 10:00, 2022-11-01 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
