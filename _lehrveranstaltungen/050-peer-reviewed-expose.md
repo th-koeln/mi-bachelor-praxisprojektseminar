@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma, vs
 typ: workshop
 pflicht: false
-termine: 2021-11-16 10:00, 2022-04-26 10:00
+termine: 2022-11-08 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -36,7 +36,7 @@ Ein in LaTex erstelltes Exposé, welches durch zwei Kommilitonen einem Review un
 ## Was muss geliefert werden? 
 Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken. 
 
-[Dateiupload für die Exposés](https://ilias.th-koeln.de/goto.php?target=exc_2167982&client_id=ILIAS_FH_Koeln)
+[Dateiupload für die Exposés](https://ilias.th-koeln.de/goto.php?target=exc_2302300&client_id=ILIAS_FH_Koeln)
 
 
 Die Benamung sollte folgendem Muster entsprechen:
