@@ -7,7 +7,7 @@ raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsent
 betreuer: hk
 thema: Modellierung einer interaktiven zeitgemäßen Online-Shopping Erfahrung auf Basis der Unity-Engine
 kooperationspartner: TH Köln
-teaserimage: michael-mueller-teaserimage.jpg
+teaserimage: michael-mueller-teaserimage.png
 stichworte: unity game-engine, 3D-world-building, real time data stream, client-server architecture
 quelle-bildrechte-teaser: Michael Mueller
 hinweise:
