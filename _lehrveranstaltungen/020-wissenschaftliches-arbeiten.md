@@ -1,7 +1,7 @@
 ---
 titel: Workshop Wissenschaftliches Arbeiten
 kuerzel: kickoff
-verantwortlich: ma, vs
+verantwortlich: ma
 typ: workshop
 pflicht: false
 termine: 2022-10-11 10:00

@@ -1,7 +1,7 @@
 ---
 titel: Mediengestützte Präsentation & Livesession
 kuerzel: pre
-verantwortlich: ma, vs
+verantwortlich: ma
 typ: workshop
 pflicht: false
 termine: 2022-11-22 10:00

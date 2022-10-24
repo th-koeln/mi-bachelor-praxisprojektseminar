@@ -1,7 +1,7 @@
 ---
 titel: Vorstellung Peer reviewed Exposé
 kuerzel: pre
-verantwortlich: ma, vs
+verantwortlich: ma
 typ: workshop
 pflicht: false
 termine: 2022-11-08 10:00
