@@ -5,7 +5,7 @@ datum: 2022-11-08
 uhrzeit: 09-00
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: lk 
-thema: Agiles Projektmanagement : 
+thema: Agiles Projektmanagement 
 Anreicherungs- und Optimierungsmöglichkeiten der Aufwandsschätzmethode Planning Poker
 kooperationspartner: TH Köln
 teaserimage: karagoez-merve-teaserimage.jpg
