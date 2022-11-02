@@ -5,13 +5,13 @@ datum: 2022-11-08
 uhrzeit: 09-00
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: lk 
-thema: Agiles Projektmanagement – 
+thema: Agiles Projektmanagement : 
 Anreicherungs- und Optimierungsmöglichkeiten der Aufwandsschätzmethode Planning Poker
 kooperationspartner: TH Köln
 teaserimage: karagoez-merve-teaserimage.jpg
 stichworte: Agiles Projektmanagement, Aufwandsschätzung, Planning Poker
 quelle-bildrechte-teaser: https://unsplash.com/photos/Oalh2MojUuk - by Jason Goodman 
-weiterfuehrende-themen: Experteninterviews mit Product Ownern von agilen Teams führen, um zu identifizieren, ob die erarbeiteten Erweiterung von Planning Poker sinnvoll und realisierbar sind. | Durchführung einer Umfrage mit agilen Teams, um heruszufinden, ob die identifizierten Anreicherungen für Planning Poker, im Hinblick auf die unterschiedlichen Rollen im Team (Entwickler, Product Owner und Scrum Master) gewünscht werden und ebenfalls realisierbar sind.
+weiterfuehrende-themen: Experteninterviews mit Product Ownern von agilen Teams führen, um zu identifizieren, ob die erarbeiteten Erweiterung von Planning Poker sinnvoll und realisierbar sind. / Durchführung einer Umfrage mit agilen Teams, um heruszufinden, ob die identifizierten Anreicherungen für Planning Poker, im Hinblick auf die unterschiedlichen Rollen im Team (Entwickler, Product Owner und Scrum Master) gewünscht werden und ebenfalls realisierbar sind.
 ---
 
 ## Abstract
