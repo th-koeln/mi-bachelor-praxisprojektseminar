@@ -9,7 +9,7 @@ thema: Erarbeitung eines Peer-to-Peer-Konzeptes zur Speicherung und Bereitstellu
 kooperationspartner: TH Köln
 teaserimage: schiller-julian-teaserimage.jpg
 stichworte: IoT, Peer-to-Peer, verteilter Systeme
-quelle-bildrechte-teaser: Adobe Stock
+quelle-bildrechte-teaser: Julian Schiller
 hinweise:
 weiterfuehrende-themen: Nutzung von Peer-to-Peer-Technologien in Low Power Wide Area Networks (LPWA) | Vergleich von Hypercore und IPFS in Bezug auf die Tauglichkeit im Anwendungsfall:Speicherung, Verarbeitung und Bereitstellung von Sensordaten in der Edge
 ---
