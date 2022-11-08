@@ -1,10 +1,10 @@
 ---
 titel: Mediengestützte Präsentation & Livesession
 kuerzel: pre
-verantwortlich: ma, vs
+verantwortlich: ma
 typ: workshop
 pflicht: false
-termine: 2021-11-30 10:00, 2022-05-03 10:00
+termine: 2022-11-22 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -36,7 +36,7 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 ## Was muss geliefert werden?
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
-- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2167982&client_id=ILIAS_FH_Koeln) bis zum 02. Mai hochladen
+- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2302300&client_id=ILIAS_FH_Koeln) bis zum 21. November hochladen
 
 ## Ein paar Gedanken zur Präsentation
 

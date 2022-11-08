@@ -73,11 +73,12 @@ Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 10% aus der Bewertu
 ## Projektthemen gesucht?
 PROX ist ein Webportal, auf dem Studierende der TH Köln, lokale Unternehmen und Lehrende der TH Köln zusammengebracht werden. In PROX finden Sie Bachelor- und Masterarbeiten, aber auch Projekte aus den Studiengängen der TH-Köln, wie z.B. Praxis- und Informatikprojekte.
 <br><br>
-[https://prox.archi-lab.io/home](https://prox.archi-lab.io/home)
+[https://prox.innovation-hub.de/home](https://prox.innovation-hub.de/home)
+[https://moxd.io/open-theses/](https://moxd.io/open-theses/)
 
 <!-- ## Übergangsreglung
 Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails. -->
 
 ## Wer macht es?
 
-Verantwortlicher Dozent ist Prof. Christian Noss. Das Seminar wird federführend von Volker Schaefer und Markus Alterauge betreut.
+Verantwortlicher Dozent ist Prof. Christian Noss. Das Seminar wird federführend von Markus Alterauge betreut.

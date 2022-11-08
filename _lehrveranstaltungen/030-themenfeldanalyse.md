@@ -1,10 +1,10 @@
 ---
 titel: Vorstellung Themenfeldanalyse
 kuerzel: pre
-verantwortlich: ma, vs
+verantwortlich: ma
 typ: workshop
 pflicht: false
-termine: 2021-10-26 10:00, 2022-04-05 10:00
+termine: 2022-10-18 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -27,7 +27,7 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 ## Was muss vorbereitet werden?
 
-- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2167982&client_id=ILIAS_FH_Koeln) bis zum 04. April hochladen
+- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2302300&client_id=ILIAS_FH_Koeln) bis zum 17. Oktober hochladen
 - Kurzvortrag zum eigenen Themenfeld
 - 3-5 Fragen an das Plenum zum eigenen Thema
 
@@ -37,4 +37,4 @@ _Das Buch ist auch in der Bibliothek verfügbar._
 
 
 ## Was muss geliefert werden?
-- Themenfeldcluster als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2167982&client_id=ILIAS_FH_Koeln) bis zum 04. April hochladen
+- Themenfeldcluster als PDF im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2302300&client_id=ILIAS_FH_Koeln) bis zum 17. Oktober hochladen

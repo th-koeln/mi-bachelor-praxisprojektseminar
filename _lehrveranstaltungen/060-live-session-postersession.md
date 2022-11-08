@@ -1,7 +1,7 @@
 ---
 titel: Postersession/ Live-Session
 kuerzel: pre
-verantwortlich: ma, vs
+verantwortlich: ma
 typ: workshop
 pflicht: false
 termine: 2021-06-01 10:00

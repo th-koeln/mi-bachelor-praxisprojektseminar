@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: maw
 typ: workshop
 pflicht: false
-termine: 2021-11-02 10:00
+termine: 
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

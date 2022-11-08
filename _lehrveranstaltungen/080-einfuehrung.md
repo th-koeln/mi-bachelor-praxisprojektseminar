@@ -1,7 +1,7 @@
 ---
 titel: Einführungsveranstaltung WiSe 2020/21
 kuerzel: kickoff
-verantwortlich: ma, vs, cn
+verantwortlich: ma, cn
 typ: workshop
 pflicht: false
 termine: 2021-02-09 08:30

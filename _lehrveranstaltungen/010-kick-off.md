@@ -1,10 +1,10 @@
 ---
 titel: Kickoff
 kuerzel: kickoff
-verantwortlich: ma, vs
+verantwortlich: ma
 typ: workshop
 pflicht: false
-termine: 2022-02-01 08:30, 2022-07-05 09:00
+termine: 2022-10-04 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
