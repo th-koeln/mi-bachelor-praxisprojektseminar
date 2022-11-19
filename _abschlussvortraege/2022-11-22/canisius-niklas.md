@@ -15,18 +15,17 @@ weiterfuehrende-themen: Vergleich mit filament und ggf. Wechsel des Frameworks f
 ---
 
 ## Abstract
-
 Radiosonden sind Instrumente zur Messung meteorologischer bzw. aerologischer Daten in der Erdatmosphäre.
-Für die Verwaltung und Auswertung, von mehreren Bodenstationen und deren Radiosondenaufstiegen, wird eine webbasierte Software entwickelt.
-Ziel dieser Arbeit ist die Konzeption und Implementierung eines ersten lauffähigen, sowie produktiv nutzbaren Prototypen der Software.
-Außerdem werden zwei Hostingvarianten, Cloud based und On-Premises, umgesetzt.
+Für die Verwaltung und Auswertung von mehreren Bodenstationen sowie deren Radiosondenaufstiegen sollte eine webbasierte Software entwickelt werden.
+Ziel dieser Projektarbeit ist die Konzeption und Implementierung eines ersten lauffähigen und produktiv nutzbaren Prototypen der Software.
+Außerdem wurden zwei Hostingvarianten, Cloud based und On-Premises, umgesetzt.
 
 Im Rahmen dieser praktischen Arbeit wird evaluiert, welche Vor- und Nachteile der Einsatz eines Admin-Panel Frameworks, am konkreten Beispiel von Laravel Nova, bietet.
-Zusätzlich wird ein Vergleich zu ähnlichen Technologien, im methodischen Rahmen einer kurzen Nutzwertanalyse, gezogen.
+Zusätzlich wird ein Vergleich zu ähnlichen Technologien, im methodischen Rahmen einer kurzen Nutzwertanalyse, erstellt.
 
-Laravel Nova überzeugt durch stark gesteigerte Produktivität während der Implementierung.
+Im Ergebnis überzeugt Laravel Nova durch stark gesteigerte Produktivität während der Implementierung.
 In puncto Anpassbarkeit müssen dafür jedoch einige Einschränkungen in Kauf genommen werden.
-Der Verglich mit ähnlichen Frameworks zeigt, dass es möglicherweise besser geeignete Kandidaten für das Projekt gibt.
+Der Vergleich mit ähnlichen Frameworks zeigt, dass es möglicherweise besser geeignete Lösungen gibt.
 
 ## Material & weiterführende Infos
 - [Laravel](https://laravel.com/)
