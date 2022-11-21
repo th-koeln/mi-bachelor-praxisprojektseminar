@@ -7,7 +7,7 @@ raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsent
 betreuer: ck
 thema: Praktische Evaluation des Frameworks Laravel Nova am Beispiel einer Anwendung zur Verwaltung und Auswertung von Radiosondenaufstiegen
 kooperationspartner: KIWIS & BROWNIES
-teaserimage: canisius-niklas-teaserimage.png
+teaserimage: canisius-niklas-teaserimage.jpg
 stichworte: Full Stack Webentwicklung & Hosting, Frameworks, Laravel, Nova, Admin Panel
 quelle-bildrechte-teaser: Niklas Canisius; OpenStreetMap
 hinweise:
