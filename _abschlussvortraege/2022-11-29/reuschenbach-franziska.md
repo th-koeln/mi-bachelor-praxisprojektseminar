@@ -1,26 +1,39 @@
 ---
-nachname: Noss
-vorname: Christian
-datum: 2020-01-01
+nachname: Reuschenbach
+vorname: Franziska
+datum: 2022-11-29
 uhrzeit: 10-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: gh
-thema: Evaluation verschiedener Wireframing Techniken
+betreuer: hk
+thema: Hybride Animationsfilme - Erzeugung des 2D Animationsstils mit der 3D Entwicklungsumgebung Blender.
 kooperationspartner: TH Köln
-teaserimage: noss-christian-teaserimage.jpg
-stichworte: Frontend-Development, Design, UX/UI, Methoden
-quelle-bildrechte-teaser: Christian Noss
+teaserimage: reuschenbach-franziska-teaserimage.jpg
+stichworte: Blender, Animation, 2D
+quelle-bildrechte-teaser: https://www.sondershortfilm.com/ , 
+https://www.awn.com/news/miles-flails-through-web-swinging-101-new-spider-man-spider-verse-clip ,
+https://www.awn.com/news/miles-flails-through-web-swinging-101-new-spider-man-spider-verse-clip
 hinweise:
-weiterfuehrende-themen: Themenvorschlag 1 | Themenvorschlag 2
+weiterfuehrende-themen: Weitere Verfahren testen, um die Vorteile der Hybriden Animation zu nutzen und Animationen effektiver zu gestalten | Toon Shader mit anderen Entwicklungsumgebungen umsetzen, zum Beispiel Unity.
 ---
 
 ## Abstract
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. **Das Abstract wird mit bewertet.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Animationsfilme sind seit ihrem Ursprung bei den Zuschauern beliebt, große Produktionsunternehmen wie Disney erreichen mit 3D Animationsfilmen ein Millionenpublikum. Neben der 3D Animation ist die ursprüngliche 2D Animation heutzutage wieder beliebt, zwar werden die traditionellen Verfahren der Handzeichnungen selten verwendet, aber es lässt sich sagen, dass der zweidimensionale Animationsstil im Mainstream angekommen ist. 
+Wie zum Beispiel der 3D Kinofilm ,,Spider-Man: Into the Spider-Verse” wurde durch das Einbinden des 2D Animationsstils und Techniken zu einem lebendigen Comic. Auch dem erfolgreichen Kurzfilm ,,Sonder” gelang es, einen 2D Stil mit einer 
+3D Entwicklungsumgebung umzusetzen. Dadurch kann eine künstlerische Ausdruckskraft mit computerberechneter 3D Animationen erzeugt werden. 
+Die Vorteile der beiden Medien können vereint werden und das Kombinieren von 2D und 3D bezeichnet man als Hybride Animation.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Aufgrund der großen Bedeutung des visuellen Ergebnis ist eine Frage aufgetaucht -
+Wie lassen sich 2D Animationsstile mit der 3D Entwicklungsumgebung Blender erzeugen?. 
+
+Mit Hilfe von einem Cel Shader oder auch Toon Shader genannt, soll ein 2D Animationsstil erzeugt werden. Bei Blender wird nur mit der 3D Entwicklungsumgebung gearbeitet, weil Änderungen am Shader aufgrund des Echtzeit-Renderers sofort sichtbar sind. 
+
+Die Untersuchungen haben gezeigt, dass das Einfließen des 2D Animation Stils mit einer 3D Animation und Entwicklungsumgebung einen ansprechenden visuellen Stil erzeugen kann. 
+Auch wenn es schwierig ist, die Bildhaftigkeit von handgezeichneten Animationen zu imitieren, kann mit Hilfe von Shader und 3D Werkzeugen eine ansprechende Animation entstehen. 
+
 
 ## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-- [https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
-- [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
+Links zu den entstandenen Projekten.
+- [Projekt I.](https://youtu.be/Ju1dxRXN62g)
+- [Projekt II.](https://youtu.be/5ibwOu1g7xY)
+- [Projekt III.](https://th-koeln.sciebo.de/s/7O3zWGX3G2dvoZ9)
