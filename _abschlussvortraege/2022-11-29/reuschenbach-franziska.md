@@ -9,16 +9,14 @@ thema: Hybride Animationsfilme - Erzeugung des 2D Animationsstils mit der 3D Ent
 kooperationspartner: TH Köln
 teaserimage: reuschenbach-franziska-teaserimage.jpg
 stichworte: Blender, Animation, 2D
-quelle-bildrechte-teaser: https://www.sondershortfilm.com/ , 
-https://www.awn.com/news/miles-flails-through-web-swinging-101-new-spider-man-spider-verse-clip ,
-https://www.awn.com/news/miles-flails-through-web-swinging-101-new-spider-man-spider-verse-clip
+quelle-bildrechte-teaser: Franziska Reuschenbach
 hinweise:
 weiterfuehrende-themen: Weitere Verfahren testen, um die Vorteile der Hybriden Animation zu nutzen und Animationen effektiver zu gestalten | Toon Shader mit anderen Entwicklungsumgebungen umsetzen, zum Beispiel Unity.
 ---
 
 ## Abstract
 
-Animationsfilme sind seit ihrem Ursprung bei den Zuschauern beliebt, große Produktionsunternehmen wie Disney erreichen mit 3D Animationsfilmen ein Millionenpublikum. Neben der 3D Animation ist die ursprüngliche 2D Animation heutzutage wieder beliebt, zwar werden die traditionellen Verfahren der Handzeichnungen selten verwendet, aber es lässt sich sagen, dass der zweidimensionale Animationsstil im Mainstream angekommen ist. 
+Animationsfilme sind seit ihrem Ursprung bei den Zuschauern beliebt. Große Produktionsunternehmen, wie Disney erreichen mit 3D Animationsfilmen ein Millionenpublikum. Neben der 3D Animation ist die ursprüngliche 2D Animation heutzutage wieder beliebt, zwar werden die traditionellen Verfahren der Handzeichnungen selten verwendet, aber es lässt sich sagen, dass der zweidimensionale Animationsstil im Mainstream angekommen ist. 
 Wie zum Beispiel der 3D Kinofilm ,,Spider-Man: Into the Spider-Verse” wurde durch das Einbinden des 2D Animationsstils und Techniken zu einem lebendigen Comic. Auch dem erfolgreichen Kurzfilm ,,Sonder” gelang es, einen 2D Stil mit einer 
 3D Entwicklungsumgebung umzusetzen. Dadurch kann eine künstlerische Ausdruckskraft mit computerberechneter 3D Animationen erzeugt werden. 
 Die Vorteile der beiden Medien können vereint werden und das Kombinieren von 2D und 3D bezeichnet man als Hybride Animation.
