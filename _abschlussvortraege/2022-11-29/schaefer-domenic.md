@@ -1,11 +1,11 @@
 ---
 nachname: Schaefer
 vorname: Domenic
-datum: 2022-11-09
+datum: 2022-11-29
 uhrzeit: 11-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
-thema: Realtime Rendering im Vergleich zu Offline Rendering: Welches Verfahren eignet sich für welche Anwendungskontexte
+thema: Realtime Rendering im Vergleich zu Offline Rendering - Welches Verfahren eignet sich für welche Anwendungskontexte
 kooperationspartner: TH Köln
 teaserimage: schaefer-domenic-teaserimage.png
 stichworte: Rendering, Computergrafik, Videospiele, Filme
