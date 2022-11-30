@@ -12,7 +12,7 @@ stichworte: Mensch-Computer-Interaktion, Kollaboratives Design, Design Thinking,
 quelle-bildrechte-teaser: https://www.canva.com/photos/MADm5t2d85Q-ux-designer-hands-holding-empathize-and-prototype-words-on-sticky-notes-user-experience-design-process-concept-/
 hinweise:
 weiterfuehrende-themen: Erstellung einer neuen Gestaltungslösung auf Basis der Evaluationsergebnissen und neuen System- und Benutzeranforderungen.| Durchführung der neuen User Tests, um herauszufinden, ob die Funktionalität der überarbeiteten Gestaltungslösung zufriedenstellend ist und den Erwartungen der Nutzer entspricht.
-
+---
 
 ## Abstract
 
