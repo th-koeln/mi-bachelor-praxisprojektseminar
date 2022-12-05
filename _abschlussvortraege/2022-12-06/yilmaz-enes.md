@@ -2,7 +2,7 @@
 nachname: Yilmaz
 vorname: Enes
 datum: 2022-12-06
-uhrzeit: 12-00
+uhrzeit: 10-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Visual Effects in der Postproduction
