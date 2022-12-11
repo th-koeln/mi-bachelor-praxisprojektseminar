@@ -8,7 +8,7 @@ betreuer: hk
 thema: Der Einsatz von Level Design Patterns zur Optimierung der Player Experience im Kontext 2D Platformer
 kooperationspartner: TH Köln
 teaserimage: schweitzer-katrin-teaserimage.jpg
-stichworte: 2D Platformer, Level Design, Player Experience
+stichworte: 2D Platformer, Level Design, Player Experience, Level Design Patterns
 quelle-bildrechte-teaser: Ben Griffiths (https://unsplash.com/photos/P2BJH8VHs2k)
 hinweise:
 weiterfuehrende-themen: Durchführung einer Studie zur Beeinflussung der Player Experience durch die Anwendung von Level Design Patterns in 2D Platformern | Untersuchung des Einsatzes von Level Design Patterns in 3D Platformern oder anderen Videospielgenres
