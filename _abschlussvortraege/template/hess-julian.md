@@ -1,26 +1,23 @@
 ---
-nachname: Noss
-vorname: Christian
-datum: 2020-01-01
-uhrzeit: 10-30
+nachname: Hess
+vorname: Julian
+datum: 2022-12-20
+uhrzeit: 11-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: gh
-thema: Evaluation verschiedener Wireframing Techniken
+betreuer: mib
+thema: Richtlinien und Gestaltungselemente für die Erwachsenenbildung anhand einer barrierefreien E-Learning-Plattform
 kooperationspartner: TH Köln
-teaserimage: noss-christian-teaserimage.jpg
-stichworte: Frontend-Development, Design, UX/UI, Methoden
-quelle-bildrechte-teaser: Christian Noss
+teaserimage: hess-julian-teaserimage.jpg
+stichworte: Barrierefreiheit, Zugänglichkeit, E-Learning, UX 
+quelle-bildrechte-teaser: https://www.istockphoto.com/de/foto/barrierefreiheit-computer-icon-stock-foto-gm1319994839-406696969
 hinweise:
-weiterfuehrende-themen: Themenvorschlag 1 | Themenvorschlag 2
+weiterfuehrende-themen: Barrierefreies Corporate Design für Menschen mit Farbblindheit anhand einer Anwendung | Erstellung von barrierefreien Videos mit Untertitel/Audiodeskription/Gebärdensprache
 ---
 
 ## Abstract
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. **Das Abstract wird mit bewertet.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Ein barrierefreier Webauftritt ermöglicht allen Menschen den Zugriff auf Informationen, unabhängig von Herkunft, Sprache, verwendeter Technik oder sozialem Hintergrund. Ein Webauftritt gilt dann als barrierefrei, wenn sich sensorische Einschränkungen wie hören und sehen, motorische oder kognitive Einschränkungen nicht auf auf die Nutzung auswirken.
+Das Ziel der vorliegenden Ausarbeitung zum Praxisprojekt ist es, zu beantworten, wie sich eine E-Learning-Plattform mit größtmöglicher Zugänglichkeit für Menschen mit senorischen Einschränkungen gestalten lässt. Dazu wird folgende Forschungsfrage gestellt: Wie lässt sich eine Plattform für digitale Bildung gestalten, die eine größtmögliche Zugänglichkeit für Menschen mit sensorischen Einschränkungen bietet? 
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Um die Forschungsfrage zu beantworten, wurde der Prozess der menschzentrierten Gestaltung nach DIN EN ISO 9241-210 auf die Projektgröße adaptiert. Zunächst wurden im alle grundlegenden Eigenschaften, Hilfsmittel und Ziele von Menschen mit sensorischen Einschränkungen mittels Statistiken erläutert. Mittels verschiedener Richtlinien und Gesetze zur Zugänglichkeit wurde eine Liste von Anforderungen mit Elementen von E-Learning-Plattformen erstellt. Anhand der Analyse einer bestehenden Lösung mittels der ermittelten Anforderungen wurde das Maß an Zugänglichkeit geprüft und nicht barrierefreie Elemente mittels Anforderungskatalog neugestaltet. Dabei wurde festgestellt, das die Anforderungsermittlung signifikante Auswirkungen auf das Maß an Zugänglichkeit hat. Eineebenfalls grundlegende Bedeutung auf die Zugänglichkeit hat der Nutzungskontext als Grundlage für die Anford erungsermittlung. 
 
-## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-- [https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
-- [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
