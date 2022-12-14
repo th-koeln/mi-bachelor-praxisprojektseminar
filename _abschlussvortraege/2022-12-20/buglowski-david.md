@@ -7,7 +7,7 @@ raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsent
 betreuer: ck
 thema: Entwicklung einer Dynamic Link Library zur Steuerung eines File Update Prozesses
 kooperationspartner: TH Köln, Heimbach GmbH
-teaserimage: buglowski-david-teaserimage.jpg
+teaserimage: buglowski-david-teaserimage.png
 stichworte: Development, C#, Klassenbibliothek, DLL, .NET, CRM-System
 quelle-bildrechte-teaser: David Buglowski
 hinweise:
