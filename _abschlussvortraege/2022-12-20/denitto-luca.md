@@ -9,7 +9,7 @@ thema: Entwicklung eines barrierefreien Kanban-Boards
 kooperationspartner: TH Köln
 teaserimage: denitto-luca-teaserimage.jpg
 stichworte: Web-Development, Accessibility, Kanban, Vue.js, Trello, Barriere-Test, Evaluation
-quelle-bildrechte-teaser: Luca de Nitto, Hintergrundbild: https://unsplash.com/photos/tfNyTfJpKvc - von Lala Azizli
+quelle-bildrechte-teaser: Luca de Nitto, Hintergrundbild https://unsplash.com/photos/tfNyTfJpKvc - von Lala Azizli
 hinweise:
 weiterfuehrende-themen: Evaluation des in diesem Projekt entwickelten Prototyps durch blinde und sehbehinderte Menschen | Prüfen der populären Projektmanagement-Software Jira, insbesondere dort genutzter visueller Bedienelemente wie Roadmaps, die in Form verschiedenfarbiger Balken realisiert werden: Sind diese (und andere visuelle Bedienelemente in Jira) durch Screenreader problemlos ansteuerbar?
 ---
