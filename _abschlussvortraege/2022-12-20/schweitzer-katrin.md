@@ -2,7 +2,7 @@
 nachname: Schweitzer
 vorname: Katrin
 datum: 2022-12-20
-uhrzeit: 12-00
+uhrzeit: 09-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
 thema: Der Einsatz von Level Design Patterns zur Optimierung der Player Experience im Kontext 2D Platformer
