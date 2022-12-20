@@ -4,7 +4,7 @@ vorname: Katharina
 datum: 2022-12-20
 uhrzeit: 10-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: mib
+betreuer: mbl
 thema: Entwicklung einer App zur Unterstützung hörbehinderter Schüler*innen im Unterricht
 kooperationspartner: TH Köln
 teaserimage: mundt-katharina-teaserimage.png
