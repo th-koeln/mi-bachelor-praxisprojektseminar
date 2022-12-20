@@ -4,7 +4,7 @@ vorname: Julian
 datum: 2022-12-20
 uhrzeit: 11-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: mib
+betreuer: mbl
 thema: Richtlinien und Gestaltungselemente für die Erwachsenenbildung anhand einer barrierefreien E-Learning-Plattform
 kooperationspartner: TH Köln
 teaserimage: hess-julian-teaserimage.jpg
