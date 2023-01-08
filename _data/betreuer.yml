@@ -103,3 +103,9 @@ mi:
 all:
   name: alle Informatik Professoren
 
+ms:
+  name: Marc Schmidt
+
+dw:
+  name: Dennis Wilk
+
