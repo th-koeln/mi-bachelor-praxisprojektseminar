@@ -28,6 +28,5 @@ Das Ergebnis des Praxisprojekts ist eine Web Applikation die die wesentlichen Fu
 
 
 ## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
 - [Digital Prototyping Plattform](http://prototype.intia.de)
 - [Repo zum Praxisprojekt Seminar](https://github.com/cd-Roid/Praxisprojekt_2022)
