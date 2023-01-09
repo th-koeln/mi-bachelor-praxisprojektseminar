@@ -1,26 +1,29 @@
 ---
-nachname: Noss
-vorname: Christian
-datum: 2020-01-01
-uhrzeit: 10-30
+nachname: Coemez
+vorname: Fatmaguel
+datum: 2023-01-10
+uhrzeit: 12-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: gh
-thema: Evaluation verschiedener Wireframing Techniken
+betreuer: hk
+thema: Simulation und Darstellung der Social Media Kommunikation in Filmen und TV-Serien
 kooperationspartner: TH Köln
-teaserimage: noss-christian-teaserimage.jpg
-stichworte: Frontend-Development, Design, UX/UI, Methoden
-quelle-bildrechte-teaser: Christian Noss
-hinweise:
-weiterfuehrende-themen: Themenvorschlag 1 | Themenvorschlag 2
+teaserimage: coemez-fatmaguel.jpeg
+stichworte: Figma, Film, Serie, Methoden
+quelle-bildrechte-teaser: Fatmaguel Coemez
+
 ---
 
 ## Abstract
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. **Das Abstract wird mit bewertet.** Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Im Zuge der Digitalisierung kommt es immer mehr zum Gebrauch von mobilen oder stationären medialen Endgeräten, wie Smartphone, Computer, Tablets u. Ä. 
+Insofern verschmelzen in den aktuell produzierten Filmen und Serien die Darstellungsmöglichkeiten. Es werden immer häufiger Handy- oder Tablet-Displays aufgenommen, um diese Art der „neuen“ Kommunikation in die Medien zu integrieren.
+Allerdings gibt es auch Filmproduzenten, die verschiedene Darstellungsformen in Filmen oder Serien verwenden, jedoch lässt sich nicht jede Form effizient und günstig umsetzen.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+In dieser Arbeit über Social Media Kommunikation in Filmen und TV-Serien, liegt der Schwerpunkt auf den verschiedenen Arten und Techniken, die Filmmacher anwenden. An möglichen Film- und Serienausschnitten werden die Szenen, indem Social Media Kommunikation vorkommt, in Hinblick auf die angewandte Technik, das Design, die Darstellung der Textnachrichten, aber auch die Vor- und Nachteile der Methoden, analysiert.
+Des Weiteren wird ein kleines Experiment mit Figma durchgeführt, um zu schauen, inwiefern sich das Design-Tool für die Bearbeitung und Nachstellung einer Social Media Kommunikation eignet. Die Nachstellung wird dann in einem selbst gedrehten Kurzfilm platziert, indem die top drei Varianten vorgeführt werden.
 
-## Material & weiterführende Infos
-Falls Sie auf Materialien, z.B. ein Git-Repo verlinken wollen, dann nutzen Sie bitte diesen Abschnitt.
-- [https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
-- [Repo zum Praxisprojekt Seminar](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)
+Anhand des Experimentes wurde festgestellt, dass das Bearbeitungsprogramm Figma sich zwar für die Nachstellung von Chatverläufen eignet, jedoch Probleme beim Exportieren  nachweist, da ein Videoexport in Figma nicht möglich ist. 
+
+
+## Vorschläge für weitere Arbeiten im Themenfeld
+Nutzungskonzept für eine Anwendungsentwicklung entwickeln
