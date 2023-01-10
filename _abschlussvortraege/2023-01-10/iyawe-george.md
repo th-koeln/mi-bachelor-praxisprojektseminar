@@ -2,7 +2,7 @@
 nachname: Iyawe
 vorname: George Nosakhare
 datum: 2023-01-10
-uhrzeit: 10-30
+uhrzeit: 11-00
 raum:  https://th-koeln.zoom.us/j/86224491085#success (Passwort steht im Ilias) Präsentation
 betreuer: ck, ms, dw 
 thema:  Plattform zur kollaborativen Prototypisierung von technischen Lösungen
