@@ -15,6 +15,7 @@ info:
 
 ## Wie läuft die Veranstaltung ab?
 Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.
+[https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)](https://th-koeln.zoom.us/j/86224491085)
 
 Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen und die Anwesenheit protokollieren können.
 
