@@ -1,18 +1,23 @@
 ---
-titel: Abschlussvorträge
-kuerzel: abschlussvortraege
-verantwortlich: cn
+titel: Audit & Forum
+kuerzel: audit
+verantwortlich: ma, nk
 typ: vortrag
 pflicht: false
-termine: 
+termine: 2023-04-18 10:00, 2023-05-02 10:00, 2023-05-16 10:00, 2023-05-30 10:00, 2023-06-13 10:00, 2023-06-27 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 240
 info: 
 ---
 
+## 
+
 ## Wie läuft die Veranstaltung ab?
-Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.
+Das Audit wird vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.
+[https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)](https://th-koeln.zoom.us/j/86224491085)
+
+In dieser Veranstaltung geben Sie innerhalb von 5 Minuten ein kurzes Update über Ihren Bearbeitungsstand des Praxisprojekts. Dazu bitte eine paar Folien vorbereiten. Im Anschluss gibt es 5 - 10 Minuten Zeit für Fragen und Diskussion.
 
 Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen und die Anwesenheit protokollieren können.
 
@@ -23,9 +28,9 @@ Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisproj
 * sorgen Sie für möglichst guten Ton, z.B. via Headset
 * sorgen Sie für eine ruhige Umgebung
 * sorgen Sie für ein Kamerabild, da wir Sie zur Identifikation sehen müssen
-* halten Sie ein Foto von Ihrer Multica bereit
+
 
 ## Was muss ich als Zuhörer beachten?
-Wenn Sie den Raum betreten, achten Sie bitte darauf, dass Sie während der Präsentationszeit ihr Mikrofon gemutet haben. Es handelt sich um eine Prüfungssitation und wir möchten deshalb so viele Störgeräusche wie möglich vermeiden.
+Wenn Sie den Raum betreten, achten Sie bitte darauf, dass Sie während der Präsentationszeit ihr Mikrofon gemutet haben.
 
 Im Anschluss an die Präsentation gibt es eine Diskussionsrunde. In dieser können Sie das Mikrofon wieder entmuten, wenn Sie einen Wortbeitrag leisten möchten.

@@ -4,10 +4,10 @@ kuerzel: pre
 verantwortlich: ma
 typ: workshop
 pflicht: false
-termine: 2022-11-08 10:00
+termine: 2023-03-29 15:00, 2023-04-03 10:00, 2023-04-03 12:00, 2023-04-03 14:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 120
 info: 
 ---
 

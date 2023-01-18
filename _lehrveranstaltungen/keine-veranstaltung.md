@@ -4,7 +4,7 @@ kuerzel: none
 verantwortlich: cn, ma
 typ: other
 pflicht: false
-termine: 2022-11-15 10:00, 2022-12-13 10:00, 2022-12-27 10:00, 2023-01-03 10:00
+termine: 2023-04-11 10:00, 2023-05-23 10:00, 2023-07-04 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
