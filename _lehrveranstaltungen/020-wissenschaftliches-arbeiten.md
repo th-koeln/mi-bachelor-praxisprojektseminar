@@ -4,7 +4,7 @@ kuerzel: kickoff
 verantwortlich: ma
 typ: workshop
 pflicht: false
-termine: 2023-03-28 10:00
+termine: 2023-03-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
