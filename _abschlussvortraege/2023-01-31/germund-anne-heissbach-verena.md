@@ -5,7 +5,7 @@ datum: 2023-01-31
 uhrzeit: 09-00
 raum: https://th-koeln.zoom.us/j/86224491085
 betreuer: rg, um, sls
-thema: Konzeption eines gamifizierten digitalen Lernmoduls zum Thema Stoffkreisläufe in Ökosystemen am Beispiel von Aquaponik
+thema: Ausarbeitung der Grundlagen zur Entwicklung eines gamifizierten digitalen Lernmoduls zum Thema Aquaponik 
 kooperationspartner: Institut für Biologiedidaktik der Universität zu Köln, TH Köln
 teaserimage: germund-heissbach-image.jpg
 stichworte: User Research, Digitale Lehre, Medienkompetenz, Design Thinking, UX, MCI, Gamification, Aquaponik
