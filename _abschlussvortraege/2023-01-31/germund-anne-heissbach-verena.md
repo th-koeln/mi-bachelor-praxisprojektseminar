@@ -1,6 +1,6 @@
 ---
-nachname: Germund & Heissbach
-vorname: Anne & Verena
+nachname: Germund, Heissbach
+vorname: Anne, Verena
 datum: 2023-01-31
 uhrzeit: 09-00
 raum: [Zoom (Passwort steht im ILIAS)] (https://th-koeln.zoom.us/j/86224491085)
