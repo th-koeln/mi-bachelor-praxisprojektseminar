@@ -1,10 +1,10 @@
 ---
-nachname: Germund
-vorname: Anne
+nachname: Germund, Heissbach
+vorname: Anne, Verena
 datum: 2023-01-31
 uhrzeit: 09-00
 raum: [Zoom (Passwort steht im ILIAS)] (https://th-koeln.zoom.us/j/86224491085)
-betreuer: rg, um, sls
+betreuer: um
 thema: Konzeption eines gamifizierten digitalen Lernmoduls zum Thema Stoffkreisläufe in Ökosystemen am Beispiel von Aquaponik
 kooperationspartner: Institut für Biologiedidaktik der Universität zu Köln, TH Köln
 teaserimage: germund-heissbach-image.jpg
