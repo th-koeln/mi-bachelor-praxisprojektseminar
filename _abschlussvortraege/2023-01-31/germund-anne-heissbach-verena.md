@@ -1,6 +1,6 @@
 ---
-nachname: Germund, Heissbach
-vorname: Anne, Verena
+nachname:  und Verena Heissbach
+vorname: Anne Germund
 datum: 2023-01-31
 uhrzeit: 09-00
 raum: https://th-koeln.zoom.us/j/86224491085
@@ -10,7 +10,7 @@ kooperationspartner: Institut für Biologiedidaktik der Universität zu Köln, T
 teaserimage: germund-heissbach-image.jpg
 stichworte: User Research, Digitale Lehre, Medienkompetenz, Design Thinking, UX, MCI, Gamification, Aquaponik
 quelle-bildrechte-teaser: VectorMine und Dmytro über Adobe Stock
-weiterfuehrende-themen: Entwicklung des gamifiziertes Prototyps | Evaluation des Prototyps | Entwicklung eines Differenzierungskonzepts | Entwicklung von Designprinzipien für digitale Lernmodule | Vergleich von expliziter und impliziter Gamification | Integration von Gamification in den Design Thinking Prozess
+weiterfuehrende-themen: Entwicklung des gamifizierten Prototyps | Evaluation des Prototyps | Entwicklung eines Differenzierungskonzepts | Entwicklung von Designprinzipien für digitale Lernmodule | Vergleich von expliziter und impliziter Gamification | Integration von Gamification in den Design Thinking Prozess
 ---
 
 ## Abstract
