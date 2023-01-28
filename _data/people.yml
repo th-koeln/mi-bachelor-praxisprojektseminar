@@ -97,5 +97,8 @@ sls:
 rg:
   name: Prof. Dr. Raphaela Groten
 
+dg:
+  name: Prof. Dr. Daniel Gaida
+
 all:
   name: alle Informatik Professoren
