@@ -4,7 +4,7 @@ vorname: Arthur
 datum: 2023-01-31
 uhrzeit: 10-30
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
-betreuer: dg
+betreuer: dgaida
 thema: Messung von anonymen Nutzerinteraktionen auf einer Weboberfläche zur Ermittlung von subjektiven Eindrücken 
 kooperationspartner: Deskcenter AG
 teaserimage: arthur-tissen-image.jpg
