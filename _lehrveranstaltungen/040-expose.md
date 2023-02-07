@@ -1,7 +1,7 @@
 ---
 titel: Exposé schreiben
 kuerzel: pre
-verantwortlich: ma, na
+verantwortlich: ma, na, cn
 typ: workshop
 pflicht: false
 termine: 2023-03-28 15:00
