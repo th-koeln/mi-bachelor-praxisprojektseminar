@@ -6,24 +6,22 @@
 
 {% for entry in termine %}
 
-{% assign entry-data = entry | split: "|" %}
-{% assign termin = entry-data[0] %}
-{% assign termin-raum = entry-data[1] | lstrip %}
-{% assign anmeldung = entry-data[2] %}
+{% assign entry-data = entry | split: "|" %}
+{% assign termin = entry-data[0] %}
+{% assign termin-raum = entry-data[1] | lstrip %}
+{% assign anmeldung = entry-data[2] %}
 
 {% assign new_termin = termin | date: '%s' | minus: 3600 %}
 {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
-
 
 {% if termin-raum == "" %}
 {% include functions/resolve-urls.html target="raum" %}
 {% assign raum-url = url %}
 {% assign raum-name = name %}
-
 {% assign raum = "<a href='" | append: raum-url | append:"'>" | append: {{raum-name}} | append:"</a>" %}
 
 {% else %}
-{% assign raum = termin-raum %}
+{% assign raum = termin-raum %}
 {% endif %}
 
 <li>
