@@ -93,6 +93,15 @@ mi:
 
 um:
   name: Uwe Muesse
+  
+sls:
+  name: Simon Ludwig Schulte
+  
+rg:
+  name: Prof. Dr. Raphaela Groten
+
+dgaida:
+  name: Prof. Dr. Daniel Gaida
 
 all:
   name: alle Informatik Professoren

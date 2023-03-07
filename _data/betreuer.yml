@@ -1,4 +1,4 @@
-﻿vs:
+vs:
   name: Volker Schaefer
   email: volker.schaefer@th-koeln.de
 cn:
@@ -108,7 +108,15 @@ ms:
 
 dw:
   name: Dennis Wilk
+  
+sls:
+  name: Simon Ludwig Schulte
+  
+rg:
+  name: Prof. Dr. Raphaela Groten
 
 nk:
   name: Nathalie Kuhn
 
+dgaida:
+  name: Prof. Dr. Daniel Gaida
