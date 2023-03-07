@@ -1,4 +1,4 @@
-﻿vs:
+vs:
   name: Volker Schaefer
   email: volker.schaefer@th-koeln.de
 cn:
@@ -114,6 +114,9 @@ sls:
   
 rg:
   name: Prof. Dr. Raphaela Groten
+
+nk:
+  name: Nathalie Kuhn
 
 dgaida:
   name: Prof. Dr. Daniel Gaida

@@ -3,8 +3,8 @@ version: '3.8'
 services:
   jekyll:
     container_name: mi-bachelor-praxisprojektseminar
-    image: jekyll/jekyll:4.0
-    command: jekyll serve --watch --incremental
+    image: jekyll/jekyll:4.0.0
+    command: jekyll serve --watch --incremental --livereload
     ports:
       - 4000:4000
     volumes:

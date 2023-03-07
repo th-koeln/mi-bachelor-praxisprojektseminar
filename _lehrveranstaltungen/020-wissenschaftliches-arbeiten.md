@@ -1,21 +1,21 @@
 ---
 titel: Workshop Wissenschaftliches Arbeiten
 kuerzel: kickoff
-verantwortlich: ma
+verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2022-10-11 10:00
+termine: 2023-03-27 10:00|ZOOM
 empfohlene-voraussetzungen: 
 published: true
-dauer: 240
+dauer: 420
 info: 
 ---
 
 ## Worum geht es?
-Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von *Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten*.
+Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von *Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten*. Zudem geht es um wissenschaftliches Schreiben.
 
 ## Was sind die Ziele?
-- alle haben ein Grundverständnis zum wissenschaftlichen Arbeiten, auf dem sie ein wissenschaftliches Exposé verfassen können
+- alle haben ein Grundverständnis zum wissenschaftlichen Arbeiten und wissenschaftlichen Schreiben, auf dem sie ein wissenschaftliches Exposé verfassen können
 
 ## Was muss vorbereitet werden?
 * Das Buch *Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten* muss gelesen sein und Sie müssen in der Lage sein, über wesentliche Aussagen der einzelnen Kapitel kurz referieren zu können. 

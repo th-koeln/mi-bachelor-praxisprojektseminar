@@ -1,13 +1,13 @@
 ---
 titel: Vorstellung Themenfeldanalyse
 kuerzel: pre
-verantwortlich: ma
+verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2022-10-18 10:00
+termine: 2023-03-28 10:00|ZOOM
 empfohlene-voraussetzungen: 
 published: true
-dauer: 180
+dauer: 300
 info: 
 ---
 

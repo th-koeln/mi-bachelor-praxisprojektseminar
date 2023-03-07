@@ -1,13 +1,13 @@
 ---
 titel: Kickoff
 kuerzel: kickoff
-verantwortlich: ma
+verantwortlich: ma, nk‚
 typ: workshop
 pflicht: false
-termine: 2022-10-04 09:00, 2023-01-24 09:30
+termine: 2023-03-27 09:00|ZOOM
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 60
 info: 
 ---
 
