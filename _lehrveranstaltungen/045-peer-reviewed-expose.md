@@ -1,13 +1,13 @@
 ---
 titel: Vorstellung Peer reviewed Exposé
 kuerzel: pre
-verantwortlich: ma, na
+verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2023-04-03 10:00
+termine: 2023-04-03 10:00|ZOOM
 empfohlene-voraussetzungen: 
 published: true
-dauer: 360
+dauer: 420
 info: 
 ---
 

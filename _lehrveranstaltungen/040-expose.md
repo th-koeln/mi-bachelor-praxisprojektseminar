@@ -1,10 +1,10 @@
 ---
 titel: Exposé schreiben
 kuerzel: pre
-verantwortlich: ma, cn, nk
+verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2023-03-28 15:00|3.216
+termine: 2023-03-28 15:00|ZOOM
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120

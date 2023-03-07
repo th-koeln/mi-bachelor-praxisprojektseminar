@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2023-01-31 10:00, 2023-04-25 10:00, 2023-05-09 10:00, 2023-06-06 10:00, 2023-06-20 10:00
+termine: 2023-04-25 10:00|3.216, 2023-05-09 10:00|3.216, 2023-06-06 10:00|3.216, 2023-06-20 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -14,8 +14,7 @@ info:
 ## 
 
 ## Wie läuft die Veranstaltung ab?
-Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.
-[https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)](https://th-koeln.zoom.us/j/86224491085)
+Die Abschlussvorträge werden wieder vor Ort in Gummersbach stattfinden. 
 
 Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen und die Anwesenheit protokollieren können.
 
