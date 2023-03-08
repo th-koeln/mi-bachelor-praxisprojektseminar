@@ -81,4 +81,4 @@ Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gib
 
 ## Wer macht es?
 
-Verantwortlicher Dozent ist Prof. Christian Noss. Das Seminar wird federführend von Markus Alterauge betreut.
+Verantwortlicher Dozent ist Prof. Christian Noss. Das Seminar wird federführend von Markus Alterauge und Nathalie Kuhn betreut.
