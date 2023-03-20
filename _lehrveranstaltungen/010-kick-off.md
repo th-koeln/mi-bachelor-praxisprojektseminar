@@ -13,7 +13,7 @@ info:
 
 
 ## Wie läuft die Veranstaltung ab?
-Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.215 stattfinden.
+Die heutige Veranstaltung wird über Zoom stattfinden. Zoom Daten im Ilias. Diese Veranstaltung ist für diejenigen relevant, die beim ersten Kickoff am Ende des Wintersemesters nicht anwesend waren.
 
 ## Worum geht es?
 Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Wir machen einen kleinen Rundflug über Ihre Praxisprojekt Themen. Anschließend verteilen wir die Themen für die Zusammenfassungen des Buches „Die Gestaltung wissenschaftlicher Arbeiten” und geben Hilfestellung für die Vorbereitung des nächsten Seminartermins.
