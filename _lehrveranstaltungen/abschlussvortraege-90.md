@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2023-04-04 09:00|ZOOM
+termine: 
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120

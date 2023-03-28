@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2023-04-04 11:00|ZOOM
+termine: 2023-04-05 11:00|ZOOM
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360
