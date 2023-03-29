@@ -6,7 +6,7 @@ uhrzeit: 10-00
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: um
 thema: Gamification und Nudging in der Hochschullehre - Eine qualitative Studie zur Förderung der motivierten Nutzung und Leistungsbereitschaft in der ILU Lernumgebung am Beispiel der Social Computing Vertiefung
-teaserimage: 
+teaserimage: meriam-hachicha.jpeg
 stichworte: Empirische Forschung, Gamification, Nudging, Hochschullehre, Lernumgebung
 quelle-bildrechte-teaser: Nuthawut/Adobe Stock
 weiterfuehrende-themen: Entwicklung eines Gamification-Konzepts basierend auf den Ergebnissen der qualitativen Studie, Vergleichsstudie zu dem Einsatz von Gamification und Nudging in einer anderen Lernumgebung
