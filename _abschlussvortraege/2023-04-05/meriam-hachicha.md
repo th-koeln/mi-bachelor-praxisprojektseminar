@@ -5,7 +5,7 @@ datum: 2023-04-05
 uhrzeit: 10-00
 raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias)
 betreuer: um
-thema: Gamification und Nudging in der Hochschullehre: Eine qualitative Studie zur Förderung der motivierten Nutzung und Leistungsbereitschaft in der ILU Lernumgebung am Beispiel der Social Computing Vertiefung
+thema: Gamification und Nudging in der Hochschullehre - Eine qualitative Studie zur Förderung der motivierten Nutzung und Leistungsbereitschaft in der ILU Lernumgebung am Beispiel der Social Computing Vertiefung
 teaserimage: 
 stichworte: Empirische Forschung, Gamification, Nudging, Hochschullehre, Lernumgebung
 quelle-bildrechte-teaser: Nuthawut/Adobe Stock
