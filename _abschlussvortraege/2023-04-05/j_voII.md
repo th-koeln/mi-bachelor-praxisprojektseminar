@@ -2,7 +2,7 @@
 nachname: VoII
 vorname: J.
 datum: 2023-04-05
-uhrzeit: 10:30
+uhrzeit: 10-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: ck
 thema: Die Auswirkungen der COVID-19-Pandemie auf ein Präsenzstudium und digitale Lehre - Eine Literaturrecherche von bestehenden Lehr- und Kommunikationssystemen
@@ -16,7 +16,7 @@ quelle-bildrechte-teaser: https://www.freepik.com/terms_of_use
 Diese Ausarbeitung beschäftigt sich mit den Auswirkungen der Corona-Pandemie, wie sich das Studium und die Digitalisierung in der Lehre verändert hat und beeinflusst wurden.
 
 Der Digitalisierungsgrad an Hochschulen vor der Pandemie wird anhand der Systemlandschaft der Technischen Hochschule Köln des Campus Gummersbach beschrieben.
-Danach werden qualitativ vergleichbare Umfragen mit ausreichender Quantität während der COVID-19 Semester (SS20 und WS21/22) analysiert. Ziel war es herauszufinden, inwieweit die Studierenden, und gegebenenfalls der Lehrkörper, die jeweiligen Semester erfahren haben und welche Auswirkungen diese auf beide Parteien hatte. 
+Danach werden qualitativ vergleichbare Umfragen mit ausreichender Quantität während der COVID-19 Semester (SS20 und WS20/21) analysiert. Ziel war es herauszufinden, inwieweit die Studierenden, und gegebenenfalls der Lehrkörper, die jeweiligen Semester erfahren haben und welche Auswirkungen diese auf beide Parteien hatte. 
 
 Die Vor- und Nachteile eines rein digitalen Studiums werden anhand der Umfrageergebnisse erarbeitet. Daraus resultierend konnten vier Anforderungen für ein erfolgreiches digitales Studium abgeleitet werden.
 
