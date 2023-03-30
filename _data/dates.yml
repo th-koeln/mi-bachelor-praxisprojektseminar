@@ -11,15 +11,15 @@ week-1:
     name: Dienstag
 week-2:
   day-1:
-    datum: 2023-04-03
-    start: "10:00"
-    end: "17:00"
-    name: Montag
-  day-2:
     datum: 2023-04-04
     start: "10:00"
     end: "17:00"
     name: Dienstag
+  day-2:
+    datum: 2023-04-05
+    start: "10:00"
+    end: "17:00"
+    name: Mittwoch
 week-3:
   day-1:
     datum: 2023-04-11
