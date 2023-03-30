@@ -7,7 +7,7 @@ raum: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsenta
 betreuer: ck 
 thema: Gestaltung von Wohlbefinden - Eine Analyse von Positive Computing und Design Nudges für Nutzererlebnisse
 kooperationspartner: TH Köln
-teaserimage: 
+teaserimage: grimmeisen-david-teaserimage.jpeg
 stichworte: Positive Computing, Design Nudges, Entwurfsmuster, Dark Patterns, Computerethik, Soziotechnische Systeme, Wohlbefinden, Design
 hinweise:
 quelle-bildrechte-teaser: Dorian Peters, Rafael A. Calvo, Richard, M. Ryan, 2019
