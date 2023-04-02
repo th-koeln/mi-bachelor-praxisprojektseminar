@@ -5,8 +5,7 @@ datum: 2023-04-05
 uhrzeit: 09-30
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
 betreuer: hk
-thema: Die spezielle Bildsprache von Werbeclips in den Social Media –
-eine vergleichende Analyse klassischer TV Werbung und Social Media Advertising 
+thema: Die spezielle Bildsprache von Werbeclips in den Social Media – eine vergleichende Analyse klassischer TV Werbung und Social Media Advertising 
 kooperationspartner: TH Köln
 teaserimage: oeztuerk-merve-teaserimage.png
 stichworte: Social Media, Instagram, klassische TV-Werbung, Bildsprache, Werbeclips
