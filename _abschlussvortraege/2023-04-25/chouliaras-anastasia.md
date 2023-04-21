@@ -5,7 +5,7 @@ datum: 2023-04-25
 uhrzeit: 11-30
 raum:  3.216
 betreuer: il
-thema: Virtuelle Welten und ihre Einsatzgebiete":" Eine Analyse von Eigenschaften, Zwecken und Benutzerschnittstellen
+thema: Virtuelle Welten und ihre Einsatzgebiete - Eine Analyse von Eigenschaften, Zwecken und Benutzerschnittstellen
 kooperationspartner:
 teaserimage: chouliaras-anastasia-teaserimage.jpg
 stichworte: Virtuelle Welten, Metaverse, Benutzerschnittstellen
