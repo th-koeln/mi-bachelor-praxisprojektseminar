@@ -11,8 +11,7 @@ teaserimage: repke-kevin-teaserimage.jpg
 stichworte: Interaktiver Film, Interaktivität, Intermedialität, Filmproduktion, Spieleentwicklung
 quelle-bildrechte-teaser: Kevin Repke
 hinweise:
-weiterfuehrende-themen: Die Entwicklung der non-linearen Handlungsstruktur von interaktiven Filmen in
-Spielfilmlänge | Der interaktive Film als Kinoereignis | Die Entwicklung von interaktiven Serien
+weiterfuehrende-themen: Die Entwicklung der non-linearen Handlungsstruktur von interaktiven Filmen in Spielfilmlänge | Der interaktive Film als Kinoereignis | Die Entwicklung von interaktiven Serien
 ---
 
 ## Abstract
