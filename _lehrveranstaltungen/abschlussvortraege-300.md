@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2023-04-25 10:00|3.216, 2023-05-09 10:00|3.216, 2023-06-06 10:00|3.216, 2023-06-20 10:00|3.216
+termine: 2023-04-25 10:00|3.216, 2023-05-09 10:00|3.216, 2023-06-06 10:00|3.216, 2023-06-27 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
