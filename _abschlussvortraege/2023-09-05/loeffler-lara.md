@@ -1,27 +1,28 @@
 ---
-nachname: Salzmann
-vorname: Sven
-datum: 2020-04-21
-uhrzeit: 10-30
-raum: https://zoom.us/j/99463334433 (Zugangscode ist pps)
+nachname: Löffler
+vorname: Lara
+datum: 2023-05-09
+uhrzeit: 11-00
+raum: 3.216
 betreuer: hk
-thema: Color Correction & Color Grading Filmen und Serien
+thema: Storytelling in Influencer Werbung und TV Werbung im Vergleich
 kooperationspartner: TH Köln
-teaserimage: salzmann-sven-teaserimage.jpg
-stichworte: Color Grading, Color Correction, Filmproduktion, Postproduktion
+teaserimage: loeffler-lara-teaserimage.jpg
+stichworte: Storytelling, Instagram, Werbung
 hinweise:
 ---
 
 ## Abstract
 
-Das Ziel des Praxisprojekt ist es die Grundlagen von Farbkorrektur und Grading in Filmproduktionen zu verstehen und richtig anzuwenden. Außerdem soll herausgefunden werden ob mit Hilfe des erlernten Wissens ganze Farbgradings von Filmen oder Serien nachgestellt werden können. Hierzu wird sich folgende Forschungsfrage gestellt: Inwieweit lässt sich eine Filmszene nach detaillierter Analyse im Bezug auf ihre Farbgebung, mit gängigen Color Correction & Grading Techniken in Davinci Resolve nachstellen?
+Storytelling ist eine geeignete Art eine Geschichte zu erzählen. In kürzester Zeit werden die verschiedensten Emotionen ausgelöst. Dabei ist es wichtig dass diese Gute Geschichte hängenbleibt. Warum Storytelling? Die Werbeindustrie arbeitet mit diesem Mittel um ihre Produkte zielgerichtet zu bewerben. Die klassische TV Werbung erzählt eine Geschichte und versucht zu fesseln. Es wird ein Spannungsbogen aufgebaut der dramaturgisch gut konzipiert ist. Es gibt eine definierten Anfang, Mitte und Ende. Dies alles geschieht in durchschnittlich 27,7 Sekunden. Eine kurze aber Effektive Zeit um die verschiedensten Emotionen zu erregen. 
+Lange Zeit galt dies als ein effizientes Werkzeug um Produkte zu bewerben. Heute leben wir in der Zeit der Digitalisierung und dem ständigen Wandel. Prozesse verändern und verbessern sich. Dies gilt auch für die klassische TV Werbung. Neben dieser werden zunehmend Social Media Plattformen von Unternehmen für Werbemaßnahmen genutzt.
+Instagram zählt mit weltweit ca. 1,27 Milliarden aktiven Nutzern zu den bedeutendsten Social Media Plattformen.
+Storytelling auf Instagram ist eine andere Art Geschichten zu erzählen und dabei für Produkte zu werben. Creator Profile auf Instagram setzen die Art von Werbung anders um als die klassische TV Werbung. Influencer sind nahbar und der Nutzer Identifiziert sich oft mit ihnen.
 
-Zu Beginn des Praxisprojekts wird das theoretische Grundwissen und einige Abläufe in professionellen Filmproduktionen recherchiert. Daraufhin werden, mit dem neu erlerntem Wissen, einige Film und - Serienszenen betrachtet und analysiert. Auf Basis der Komplexität der Szenen und der Realisierbarkeit im Rahmen des Praxisprojekts werden zwei Szenen ausgesucht die sich zur Nachstellung gut eignen. Plan ist es diese zwei Szenen, möglichst ähnlich nach zudrehen und mit Hilfe der Ergebnisse der vorangegangenen Analyse und dem Wissen aus dem Theorieteil der Arbeit farblich identisch zu gestalten.
+Diese Arbeit beschäftigt sich mit der Frage: Wie unterscheidet sich Instagram Werbung von Influencern und herkömmlicher TV-Werbung in Bezug auf das Storytelling?
+Zur Beantwortung diese Frage wurde eine umfassende Literaturrecherche in den Themengebieten Marketing, Werbung, Storytelling, TV Werbung und Instagram durchgeführt. Diese beinhalten die Erläuterungen der grundlegenden Begrifflichkeiten. Neben den Grundlagen wurden die verschiedenen Werbearten sowie deren Umsetzung beschrieben. 
+Der anschließend daran durchgeführte Vergleich stellt die Werbeformate TV Werbung und Instagram Story im Kontext des Storytelling für Werbemaßnahmen eines bekannten Sportbekleidung-Unternehmen gegenüber und fasst diese zusammen.
 
-Beim Nachdreh der Szene gab es einige Dinge zu beachten wie z.B. die richtige Lichtgebung, das Videoformat sowie der Codec in dem gefilmt wurde. Mit Hilfe von verschiedenen Werkzeugen in Davinci Resolve, der Software die zur Bearbeitung benutzt wurde, war es möglich den Look der ausgewählten Szenen zu identifizieren. Durch die Merkmale die bei diesem Prozess herausgefiltert wurden, war es letztendlich möglich die zwei ausgewählten Szenen ziemlich ähnlich nachzustellen. Es gab ein paar Abweichungen wie z.B. gegebene Lichtverhältnisse die nicht beeinflussbar waren oder auch die Tatsache die Umgebungen in der Szene nicht eins zu eins abbilden zu können. Jedoch sind diese für das Endergebnis nicht deutlich relevant. 
-
-Die einleitende Forschungsfrage kann somit beantwortet werden. Es ist möglich mit Hilfe von gewissen Grundkenntnissen und einer analytischen Vorgehensweise einen gewünschten Look eines Films oder einer Serie nachzustellen. 
+Die Ergebnisse dieser Arbeit können als Grundlage für weitere Forschungen verwendet werden. Dabei könnte untersucht werden ob sich die Ergebnisse auf andere Unternehmen der Sportbekleidungsindustrie oder gar andere Branchen projizieren lassen. Ferner könnte durch die Hinzunahme detaillierter Produktspezifika und dessen Abverkaufs- und Umsatzzahlen ermittelt werden, für welche Produktkategorien sich welche Form des Storytelling wirtschaftlich eignet.
 
 
-## Material & weiterführende Infos
-- [Sciebo mit den Ergebnissen des Praxisprojekts](https://th-koeln.sciebo.de/s/2lKZXV930JDV47s)
