@@ -9,7 +9,7 @@ thema: Storytelling in Influencer Werbung und TV Werbung im Vergleich
 kooperationspartner: TH Köln
 teaserimage: loeffler-lara-teaserimage.jpg
 stichworte: Storytelling, Instagram, Werbung
-hinweise:
+quelle-bildrechte-teaser: Lara Löffler
 ---
 
 ## Abstract
