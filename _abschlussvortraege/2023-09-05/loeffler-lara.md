@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: hk
 thema: Storytelling in Influencer Werbung und TV Werbung im Vergleich
 kooperationspartner: TH Köln
-teaserimage: loeffler-lara-teaserimage.jpg
+teaserimage: loeffler-lara-teaserimage.JPG
 stichworte: Storytelling, Instagram, Werbung
 quelle-bildrechte-teaser: Lara Löffler
 ---
