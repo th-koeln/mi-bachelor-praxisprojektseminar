@@ -71,10 +71,12 @@ Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 10% aus der Bewertu
 **Tipps zum Seminarvortrag und nach welchen Kriterien bewertet wird, können auf dieser [Mindmap](https://www.mindmeister.com/de/687253542?t=KF0iiQdLn3) nachgelesen werden.**
 
 ## Projektthemen gesucht?
-PROX ist ein Webportal, auf dem Studierende der TH Köln, lokale Unternehmen und Lehrende der TH Köln zusammengebracht werden. In PROX finden Sie Bachelor- und Masterarbeiten, aber auch Projekte aus den Studiengängen der TH-Köln, wie z.B. Praxis- und Informatikprojekte.
-<br><br>
-[https://prox.innovation-hub.de/home](https://prox.innovation-hub.de/home)
-[https://moxd.io/open-theses/](https://moxd.io/open-theses/)
+Sie suchen noch nach Ideen und Inspiration für mögliche Arbeiten? Hier finden Sie die [Praxisprojektthemen der letzten Jahre](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/alle-abschlussvortraege/). Dort gibt es unter jedem Thema auch immer Vorschläge für die Fortführung des Themas. Sehr inspirierend sind auch die [Themen und Projekte des Prototype Fund](https://prototypefund.de/projects/).
+
+Hier ein paar Einstiegspunkte für neue Themen von Kolleg:innen und Unternehmen:
+- [Project Exchange TH Köln](https://prox.innovation-hub.de/home)
+- [Projektthemen vom moxd Lab](https://moxd.io/open-theses/)
+- [Projektthemen von Christian Noss](https://cnoss.github.io/thesis/)
 
 <!-- ## Übergangsreglung
 Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails. -->
