@@ -68,8 +68,8 @@ navigation:
   - url: abschlussvortraege/
     name: Abschlussvorträge
 
-  - url: faq/
-    name: FAQ
+  - url: niveaustufen/
+    name: Bewertung
 
   - url: https://ilias.th-koeln.de/goto.php?target=crs_1169587&client_id=ILIAS_FH_Koeln
     name: Ilias
