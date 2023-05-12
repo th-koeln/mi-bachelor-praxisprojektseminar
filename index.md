@@ -66,9 +66,8 @@ Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jed
 Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenum teilgenommen haben.
 
 ## Bewertung
-Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 10% aus der Bewertung des Abstracts, zu 20% aus der Bewertung des Seminarvortrags und zu 70% aus der Bewertung der Projektarbeit gebildet. Alle Teile müssen mit mindestens 4,0 bewertet sein. Die Projektarbeit wird von Ihrem Betreuer bewertet. Das Abstract, der Seminarvortrag einschließlich der anschließenden Fragerunde wird von Christian Noss, in Absprache mit Ihrem Betreuer bewertet.
+Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 30% aus der Bewertung des Seminarvortrags, des Fachgesprächs und der Teaserseite und zu 70% aus der Bewertung der Projektarbeit gebildet. Hier finden Sie weitere [Infos zur Bewertung](niveaustufen/).
 
-**Tipps zum Seminarvortrag und nach welchen Kriterien bewertet wird, können auf dieser [Mindmap](https://www.mindmeister.com/de/687253542?t=KF0iiQdLn3) nachgelesen werden.**
 
 ## Projektthemen gesucht?
 Sie suchen noch nach Ideen und Inspiration für mögliche Arbeiten? Hier finden Sie die [Praxisprojektthemen der letzten Jahre](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/alle-abschlussvortraege/). Dort gibt es unter jedem Thema auch immer Vorschläge für die Fortführung des Themas. Sehr inspirierend sind auch die [Themen und Projekte des Prototype Fund](https://prototypefund.de/projects/).
@@ -76,7 +75,9 @@ Sie suchen noch nach Ideen und Inspiration für mögliche Arbeiten? Hier finden 
 Hier ein paar Einstiegspunkte für neue Themen von Kolleg:innen und Unternehmen:
 - [Project Exchange TH Köln](https://prox.innovation-hub.de/home)
 - [Projektthemen vom moxd Lab](https://moxd.io/open-theses/)
+- [Projektthemen von Irma Lindt](https://blogs.gm.fh-koeln.de/lindt/themen)
 - [Projektthemen von Christian Noss](https://cnoss.github.io/thesis/)
+- [Projektthemen von Alex Dobrynin](https://www.gm.fh-koeln.de/~dobrynin/me/abschlussarbeiten)
 
 <!-- ## Übergangsreglung
 Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gibt aber Teilnehmer, die schon im letzten Semester das Seminar besucht haben. Hier gibt es einige Übergangsreglungen. Schauen Sie dazu bitte in des FAQs nach, verwenden das Forum im {{ilias}} oder sprechen Sie uns dazu im Seminar. Bitte schreiben Sie **keine** E-Mails. -->
