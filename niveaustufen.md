@@ -6,9 +6,9 @@ titel: Niveaustufen, Deliverables & Tipps
 Die Gesamtnote des Praxisprojekts setzt sich wie folgt zusammen:
 
 - 70% Projektarbeit, die von Ihrem Fachbetreuer bewertet wird
-- 30% Seminarvortrag, die anschließende Fragerunde und die Teaserseite, die von Christian Noss in Absprache mit Ihrem Fachbetreuer bewertet wird
+- 30% Seminarvortrag, die anschließende Fragerunde und die Teaserseite, die von Christian Noss in Absprache mit Ihrem/ Ihrer Fachbetreuer:in bewertet wird
 
-Die Bewertungskritieren der Projektarbeit müssen Sie mit Ihrem Fachbetreuer besprechen. Für die Bewertung von Vortrag, Fragerunde und Teaserseite bilden die folgenden Niveaustufen die Bewertungsgrundlage.
+Die Bewertungskritieren der Projektarbeit müssen Sie mit Ihrem/ Ihrer Fachbetreuer:in besprechen. Für die Bewertung von Vortrag, Fragerunde und Teaserseite bilden die folgenden Niveaustufen die Bewertungsgrundlage.
 
 ------
 
