@@ -10,7 +10,7 @@ kooperationspartner: Able Management Services GmbH
 teaserimage: ABLE_ECM-Grafik.png
 stichworte: treesearch, Baum, Suche, Vue js, Nuxt js, Vuetify, Element plus, Able Group, Web-Apps
 quelle-bildrechte-teaser: Able Group
-weiterfuehrende-themen: Microservices | Nutzung von Stages und CI/CD Pipelines | Azure
+weiterfuehrende-themen: Microservices innnerhalb eines externen Systems | Nutzung von Stages und CI/CD Pipelines | Azure Nuzung
 ---
 
 ## Abstract
@@ -22,6 +22,6 @@ Entwicklung einer Such-App mit Baumdarstellung für Akten und Dokumente im Dokum
  Das Projekt ist eine Nuxt3 Anwendung basiert auf dem externen ECM-System d.velop dokuments, wo ein gewisse Styleguide respektiert werden musste. Das ganze wurde auf Azure mit serverlosen Function Apps bereitgestellt und mit Hilfe von GitHub Actions und CI/CD-Pipelines entwickelt.
 
  ## Weitere Ressourcen:
-•	https://www.able-group.de
-•	https://www.d-velop.de/software/dokumentenmanagement
+-	https://www.able-group.de
+-	https://www.d-velop.de/software/dokumentenmanagement
 
