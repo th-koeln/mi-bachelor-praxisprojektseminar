@@ -4,7 +4,7 @@ vorname: Lara
 datum: 2023-06-06
 uhrzeit: 10-30
 raum:  Raum 3.216
-betreuer: Prof. Dr. Daniel Gaida
+betreuer: dgaida
 thema: Revolution des Webdesigns - Eine Untersuchung und Vergleich von GAN-Methoden zur Generierung von Layouts in der künstlichen Intelligenz
 kooperationspartner: Possehl Analytics GmbH
 teaserimage: engeln-lara-teaserimage.jpg
