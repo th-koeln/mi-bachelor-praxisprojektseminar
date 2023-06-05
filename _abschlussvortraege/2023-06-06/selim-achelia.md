@@ -10,7 +10,7 @@ kooperationspartner: TH Köln
 teaserimage: selim-achelia-teaserimage.png
 stichworte: Blockchain, Medieninformatik, Dapps, NFTs, IoT, Smart Contracts, Ethereum
 quelle-bildrechte-teaser: SHUTTERSTOCK
-weiterfuehrende-themen: Wie kann man Deepfakes anhand Kenntnisse in audiovisuellen Medien, künstlicher Intelligenz und Blockchain unterscheiden? | Dezentralisierte soziale Medien: Wie kann Blockchain die heutigen sozialen Medien verändern – z.B. Steemit
+weiterfuehrende-themen: Wie kann man Deepfakes anhand Kenntnisse in audiovisuellen Medien, künstlicher Intelligenz und Blockchain unterscheiden? | Dezentralisierte soziale Medien - Wie kann Blockchain die heutigen sozialen Medien verändern – z.B. Steemit
 ---
 
 ## Abstract
