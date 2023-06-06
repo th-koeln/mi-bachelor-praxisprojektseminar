@@ -25,7 +25,7 @@ In diesem Seminar wird die Frage behandelt, ob Blockchain und Medieninformatik z
 
 
 ## Weitere Ressourcen:
-•	https://bitcoin.org/bitcoin.pdf
-•	https://www.finanzfluss.de/geldanlage/was-sind-nfts/
-•	https://steemit.com/ 
-•	https://barisozcan.com/web-3-0/ (mit Untertitel/Übersetzung)
+-	https://bitcoin.org/bitcoin.pdf
+-	https://www.finanzfluss.de/geldanlage/was-sind-nfts/
+-	https://steemit.com/ 
+-	https://barisozcan.com/web-3-0/ (mit Untertitel/Übersetzung)
