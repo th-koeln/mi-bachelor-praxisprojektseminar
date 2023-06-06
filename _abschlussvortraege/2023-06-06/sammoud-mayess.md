@@ -21,7 +21,7 @@ Entwicklung einer Such-App mit Baumdarstellung für Akten und Dokumente im Dokum
  
  Das Projekt ist eine Nuxt3 Anwendung basiert auf dem externen ECM-System d.velop dokuments, wo ein gewisse Styleguide respektiert werden musste. Das ganze wurde auf Azure mit serverlosen Function Apps bereitgestellt und mit Hilfe von GitHub Actions und CI/CD-Pipelines entwickelt.
 
- ## Weitere Ressourcen:
-•	https://www.able-group.de
-•	https://www.d-velop.de/software/dokumentenmanagement
+## Weitere Ressourcen:
+-	https://www.able-group.de
+-	https://www.d-velop.de/software/dokumentenmanagement
 
