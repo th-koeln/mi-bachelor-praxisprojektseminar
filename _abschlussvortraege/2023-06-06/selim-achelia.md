@@ -4,7 +4,7 @@ vorname: Achelia
 datum: 2023-06-06
 uhrzeit: 09-30
 raum:  3.216
-betreuer: Prof. Dr. Stefan Eckstein
+betreuer: se
 thema: Das Potenzial der Blockchain-Technologie in der Medieninformatik
 kooperationspartner: TH Köln
 teaserimage: selim-achelia-teaserimage.png
