@@ -1,23 +1,21 @@
 ---
-nachname: Hess
-vorname: Julian
-datum: 2022-12-20
-uhrzeit: 11-30
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: mbl
-thema: Richtlinien und Gestaltungselemente für die Erwachsenenbildung anhand einer barrierefreien E-Learning-Plattform
+nachname: Bulut
+vorname: Esranur
+datum: 2023-06-27
+uhrzeit: 10-00
+raum:  Raum 3.216
+betreuer: hk
+thema: Der Einsatz von Gestaltungselementen im Filmvorspann
 kooperationspartner: TH Köln
-teaserimage: hess-julian-teaserimage.jpg
-stichworte: Barrierefreiheit, Zugänglichkeit, E-Learning, UX 
-quelle-bildrechte-teaser: https://www.istockphoto.com/de/foto/barrierefreiheit-computer-icon-stock-foto-gm1319994839-406696969
-hinweise:
-weiterfuehrende-themen: Barrierefreies Corporate Design für Menschen mit Farbblindheit anhand einer Anwendung | Erstellung von barrierefreien Videos mit Untertitel/Audiodeskription/Gebärdensprache
+teaserimage: bulut-esranur-teaserimage.jpg
+stichworte: Filmvorspann, Gestaltungselemente, Filmvorspanndesign, Hollywood-Filme
+quelle-bildrechte-teaser: YouTube
+weiterfuehrende-themen: In dieser Arbeit wurden nur Filmvorspanne im Hollywood-Kino analysiert, Filmvorspanne im europäischen Kino und im Welt Kino können ebenfalls als Thema untersucht werden. Obwohl technische Effekte in dieser Arbeit erwähnt wurden, wurden Software und technische Aspekte nicht im Detail analysiert. Dieses Thema kann jedoch anhand von aktuellen Beispielen vertieft und analysiert werden. Der Filmvorspann kann auch im Kontext von Fernsehserien, Fernsehinhalten, Dokumentationen, Zeichentrickfilmen oder Spielen analysiert oder statt des Filmvorspanns kann auch nur den Abspann untersucht werden. Die aufgeführten Themen können als Leitfaden für diejenigen dienen, die weitere Nachforschungen zu diesem Thema durchführen möchten.
 ---
 
 ## Abstract
 
-Ein barrierefreier Webauftritt ermöglicht allen Menschen den Zugriff auf Informationen, unabhängig von Herkunft, Sprache, verwendeter Technik oder sozialem Hintergrund. Ein Webauftritt gilt dann als barrierefrei, wenn sich sensorische Einschränkungen wie hören und sehen, motorische oder kognitive Einschränkungen nicht auf auf die Nutzung auswirken.
-Das Ziel der vorliegenden Ausarbeitung zum Praxisprojekt ist es, zu beantworten, wie sich eine E-Learning-Plattform mit größtmöglicher Zugänglichkeit für Menschen mit senorischen Einschränkungen gestalten lässt. Dazu wird folgende Forschungsfrage gestellt: Wie lässt sich eine Plattform für digitale Bildung gestalten, die eine größtmögliche Zugänglichkeit für Menschen mit sensorischen Einschränkungen bietet? 
-
-Um die Forschungsfrage zu beantworten, wurde der Prozess der menschzentrierten Gestaltung nach DIN EN ISO 9241-210 auf die Projektgröße adaptiert. Zunächst wurden im alle grundlegenden Eigenschaften, Hilfsmittel und Ziele von Menschen mit sensorischen Einschränkungen mittels Statistiken erläutert. Mittels verschiedener Richtlinien und Gesetze zur Zugänglichkeit wurde eine Liste von Anforderungen mit Elementen von E-Learning-Plattformen erstellt. Anhand der Analyse einer bestehenden Lösung mittels der ermittelten Anforderungen wurde das Maß an Zugänglichkeit geprüft und nicht barrierefreie Elemente mittels Anforderungskatalog neugestaltet. Dabei wurde festgestellt, das die Anforderungsermittlung signifikante Auswirkungen auf das Maß an Zugänglichkeit hat. Eineebenfalls grundlegende Bedeutung auf die Zugänglichkeit hat der Nutzungskontext als Grundlage für die Anford erungsermittlung. 
+Der Filmvorspann ist der erste Teil eines Films, der das Publikum erreicht, um ihre Erwartungen zu beeinflussen und auf die Atmosphäre des Films vorzubereiten. Obwohl der Filmvorspann bei seiner ersten Verwendung mit dem Zweck entstanden ist, diejenigen vorzustellen, die zum Film beigetragen haben, hat er sich im Laufe der Zeit zu einem Designbereich entwickelt. Die fortschreitende Technologie nimmt immer mehr einen größeren Platz im Leben ein. So hat sie sich auch auf die Gestaltung von Filmvorspännen ausgewirkt und zu erheblichen Fortschritten in diesem Bereich geführt. Diese positiven Entwicklungen haben den Filmvorspann zu einem festen Bestandteil des Kinos gemacht. Bei der Betrachtung der heutigen Filmvorspännen werden neue Methoden wie beispielsweise die Positionierung des Filmvorspanns, die Verzerrung typografischer Formen und die Einbeziehung von Animationen in den Filmvorspann verwendet. 
+In diesem Sinne werden zu Beginn der Arbeit die Funktion des Filmvorspanns und seine Positionierung im Film untersucht. Anschließend wird die Geschichte des Filmvorspanns erörtert, um die Entwicklung in diesem Bereich aufzuzeigen. Durch die Untersuchung dieser historischen Epochen sollen Antworten auf die Entwicklung des Filmvorspanns von Hollywood-Filmen im Hinblick auf die Technik und auf die Produktionsbedingungen gefunden werden. 
+Darüber hinaus die Verwendung von Typografie, Bildern, Farben, Musik und Motion Graphics als Gestaltungselemente im Filmvorspann, werden anhand von Beispielen analysiert. Auf der Grundlage dieser Analysen werden drei Filmvorspännen mit unterschiedlichen Filmgenres untersucht und ihre Unterschiede oder Gemeinsamkeiten in Bezug auf die Gestaltungselemente erforscht. Mit der qualitativen Forschungsmethode werden die drei Filmvorspännen untersucht und die folgende Hauptforschungsfrage „Was macht einen erfolgreichen Filmvorspann aus und spiegeln die im Filmvorspann verwendeten Gestaltungselemente den Inhalt des Films wider und werden sie dem Filmgenre entsprechend eingesetzt?“ beantwortet. 
 
