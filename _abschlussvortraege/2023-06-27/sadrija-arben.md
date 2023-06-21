@@ -7,7 +7,7 @@ raum:  Raum 3.216
 betreuer: cn, vs
 thema: Analyse der mobilen ”apomap“ Driver App für die Zustellung von Medikamenten als Vorbereitung für die Neugestaltung des User Interfaces
 kooperationspartner: apomap GmbH
-teaserimage: sadrija-arben-teaserimage.png
+teaserimage: sadrija-arben-teaserimage.jpeg
 stichworte: Apotheke, Delivery, Design, UX/UI
 quelle-bildrechte-teaser: Sadrija Arben 
 weiterfuehrende-themen: Neugestaltung des User Interfaces der apomap Driver App auf Basis der Analyse | Optimierung des Auslieferungsprozesses der Medikamente unter der Benutzung der apomap Driver App | Steigerung der User Experience unter Nutzung der apomap Driver App | Steigerung der User Ecperience der apomap Driver App durch Einbringung von Elementen der Gamification | Steigt die Zufriedenheit der Zustellung unter der Benutzung der apomap Driver App? | Steigt die Qualität des Versandes unter der Benutzung der apomap Software?
