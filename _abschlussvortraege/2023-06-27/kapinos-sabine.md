@@ -9,7 +9,7 @@ thema: Konzeption eines von Dritt- und Viertklässlern selbstgesteuert durchgef�
 kooperationspartner: GGS Hülsenbusch
 teaserimage: kapinos-sabine.jpeg
 stichworte: Film, persönliche und soziale Kompetenz, Schule, Digitalisierung, Medienkompetenz 
-
+---
 ## Abstract
 
 Die vorliegende Arbeit beschäftigt sich mit der Konzeption eines von Dritt- und Viertklässlern selbstgesteuert durchgeführten, ergebnisoffenen Grundschulfilmprojekts. Das Hauptaugenmerk liegt dabei auf der Nutzung der Potentiale des Filmemachens für die Förderung persönlicher und sozialer Kompetenzen von Grundschülern.
