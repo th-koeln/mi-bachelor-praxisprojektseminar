@@ -2,7 +2,7 @@
 nachname: Wolf
 vorname: Domenic David
 datum: 2023-06-27
-uhrzeit: 11-30
+uhrzeit: 11-00
 raum:  Raum 3.216
 betreuer: dgaida
 thema: Optimierungspotentiale und Entwicklung von Embedded Machine Learning Modellen zur Spracherkennung
