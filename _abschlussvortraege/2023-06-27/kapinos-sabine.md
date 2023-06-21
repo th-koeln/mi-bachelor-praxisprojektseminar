@@ -7,7 +7,7 @@ raum:  3.216
 betreuer: hk
 thema: Konzeption eines von Dritt- und Viertklässlern selbstgesteuert durchgeführten, ergebnisoffenen Grundschulfilmprojekts
 kooperationspartner: GGS Hülsenbusch
-teaserimage: kapinos-sabine.jpeg
+teaserimage: kapinos-sabine.jpg
 <<<<<<< HEAD
 stichworte: Film, persönliche und soziale Kompetenz, Schule, Digitalisierung, Medienkompetenz
 quelle-bildrechte-teaser: Sabine Kapinos, Einverständnis der Erziehungsberechtigten liegt vor
