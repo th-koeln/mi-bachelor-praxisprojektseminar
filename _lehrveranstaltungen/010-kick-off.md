@@ -1,7 +1,7 @@
 ---
 titel: Kickoff
 kuerzel: kickoff
-verantwortlich: ma, nk‚
+verantwortlich: ma, nk
 typ: workshop
 pflicht: false
 termine: 2023-07-04 11:00 | 3.216
