@@ -7,7 +7,7 @@ raum:  Raum 3.216
 betreuer: mg
 thema: Bewertung der technischen Realisierung eines Virtual Reality Handschuhs mit haptischem Feedback
 kooperationspartner: TH Köln
-teaserimage: burgdorf-jens.jpg
+teaserimage: burgdorf-jens.png
 stichworte: VR, Virtual Reality, Immersion, Haptisches Feedback 
 quelle-bildrechte-teaser: Jens Burgdorf
 hinweise:
