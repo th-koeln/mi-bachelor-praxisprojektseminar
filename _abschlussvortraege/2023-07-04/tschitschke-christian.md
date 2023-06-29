@@ -7,7 +7,7 @@ raum:  Raum 3.216
 betreuer: hk
 thema: Der fotorealistische Grad von 3D-Renderings - Einflussfaktoren und deren Bedeutung
 kooperationspartner: TH Köln
-teaserimage: tschitschke-christian.png
+teaserimage: tschitschke-christian.jpg
 stichworte: 3D-Modellierung, Blender, Fotorealismus 
 quelle-bildrechte-teaser: Christian Tschitschke
 hinweise:
