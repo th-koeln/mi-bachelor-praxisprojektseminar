@@ -3,7 +3,7 @@ nachname: Chan
 vorname: Ching Ying
 datum: 2023-07-04
 uhrzeit: 10-00
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
+raum:  Raum 3.216
 betreuer: Prof. Dr. Gerhard Hartmann
 thema: Analysis of web accessibility of the media news websites in Germany, the United Kingdom, and the United States
 kooperationspartner: TH Köln
