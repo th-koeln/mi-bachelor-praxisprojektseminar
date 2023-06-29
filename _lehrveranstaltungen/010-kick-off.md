@@ -13,7 +13,7 @@ info:
 
 
 ## Wie läuft die Veranstaltung ab?
-Die heutige Veranstaltung wird findet vor Ort im Raum 3.216 statt. Diese Veranstaltung ist für diejenigen relevant, die am Praxisprojekt im Wintersemester 2023/2024 teilnehmen wollen.
+Die heutige Veranstaltung findet vor Ort im Raum 3.216 statt. Diese Veranstaltung ist für diejenigen relevant, die am Praxisprojekt im Wintersemester 2023/2024 teilnehmen wollen.
 
 ## Worum geht es?
 Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Wir machen einen kleinen Rundflug über Ihre Praxisprojekt Themen. Anschließend verteilen wir die Themen für die Zusammenfassungen des Buches „Die Gestaltung wissenschaftlicher Arbeiten” und geben Hilfestellung für die Vorbereitung des nächsten Seminartermins.
