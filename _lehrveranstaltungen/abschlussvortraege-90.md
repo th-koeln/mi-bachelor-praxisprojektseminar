@@ -7,7 +7,7 @@ pflicht: false
 termine: 2023-07-04 09:00 | 3.216
 empfohlene-voraussetzungen:
 published: true
-dauer: 90
+dauer: 120
 info: 
 ---
 
