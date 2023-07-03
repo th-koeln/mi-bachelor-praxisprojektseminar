@@ -4,7 +4,7 @@ vorname: Ching Ying
 datum: 2023-07-04
 uhrzeit: 10-00
 raum: 3.216
-betreuer: Prof. Dr. Gerhard Hartmann
+betreuer: gh
 thema: Analysis of web accessibility of the media news websites in Germany, the United Kingdom, and the United States
 kooperationspartner: TH Köln
 teaserimage: chan-chingying-teaserimage.png
