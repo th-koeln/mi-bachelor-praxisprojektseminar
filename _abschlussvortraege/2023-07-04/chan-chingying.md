@@ -9,13 +9,9 @@ thema: Analysis of web accessibility of the media news websites in Germany, the 
 kooperationspartner: TH Köln
 teaserimage: chan-chingying-teaserimage.png
 stichworte: Web-Development, Accessibility, UX-Design, Visual-Impairment
-quelle-bildrechte-teaser: bearbeitet von www.pixelplex.io/wp-content/uploads/2021/01/how-do-blind-people-use-the-internet-main-1600.jpg
-hinweise:
-weiterfuehrende-themen: - Compare the digital inclusion efforts of news apps on various mobile devices to identify best practices and areas for improvement.
-
-- Explore the interaction between different web browsers and assistive technologies, such as screen readers and voice recognition software, and propose modifications to coding practices to enhance accessibility.
-
-- Examine the effectiveness of accessibility guidelines and standards, such as WCAG and BITV, on the development of accessible websites, and propose enhancements to address new challenges faced by users with impairments.
+quelle-bildrechte-teaser: bearbeitet von https://pixelplex.io/wp-content/uploads/2021/01/how-do-blind-people-use-the-internet-main-1600.jpg
+hinweise: 
+weiterfuehrende-themen: - Compare the digital inclusion efforts of news apps on various mobile devices to identify best practices and areas for improvement. - Explore the interaction between different web browsers and assistive technologies, such as screen readers and voice recognition software, and propose modifications to coding practices to enhance accessibility. - Examine the effectiveness of accessibility guidelines and standards, such as WCAG and BITV, on the development of accessible websites, and propose enhancements to address new challenges faced by users with impairments.
 
 ---
 
