@@ -8,6 +8,7 @@ betreuer: bb
 thema: Fachkräftemangel in der IT und Low Code als Chance
 kooperationspartner: Act-IT GmBh
 teaserimage: rosenfeld-jan-teaserimage.jpg
+quelle-bildrechte-teaser: Jan Rosenfeld
 stichworte: Low Code, Oracle DB, APEX 
 ---
 
