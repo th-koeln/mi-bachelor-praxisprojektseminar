@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2023-04-05 11:00|ZOOM
+termine: 2023-10-18 11:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360
@@ -36,7 +36,7 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 ## Was muss geliefert werden?
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
-- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2449483&client_id=ILIAS_FH_Koeln) bis zum 04. April hochladen
+- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2509827&client_id=ILIAS_FH_Koeln) bis zum 04. April hochladen
 
 ## Ein paar Gedanken zur Präsentation
 
