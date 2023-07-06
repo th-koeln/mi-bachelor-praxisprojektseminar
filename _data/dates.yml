@@ -1,106 +1,112 @@
 week-1:
   day-1:
-    datum: 2023-03-27
-    start: "10:00"
-    end: "17:00"
-    name: Montag
-  day-2:
-    datum: 2023-03-28
+    datum: 2023-10-10
     start: "10:00"
     end: "17:00"
     name: Dienstag
+  day-2:
+    datum: 2023-10-11
+    start: "10:00"
+    end: "17:00"
+    name: Mittwoch
 week-2:
   day-1:
-    datum: 2023-04-04
+    datum: 2023-10-17
     start: "10:00"
     end: "17:00"
     name: Dienstag
   day-2:
-    datum: 2023-04-05
+    datum: 2023-10-18
     start: "10:00"
     end: "17:00"
     name: Mittwoch
 week-3:
   day-1:
-    datum: 2023-04-11
+    datum: 2023-10-24
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-4:
   day-1:
-    datum: 2023-04-18
+    datum: 2023-10-31
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-5:
   day-1:
-    datum: 2023-04-25
+    datum: 2023-11-07
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-6:
   day-1:
-    datum: 2023-05-02
+    datum: 2023-11-14
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-7:
   day-1:
-    datum: 2023-05-09
+    datum: 2023-11-21
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-8:
   day-1:
-    datum: 2023-05-16
+    datum: 2023-11-28
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-9:
   day-1:
-    datum: 2023-05-23
+    datum: 2023-12-05
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-10:
   day-1:
-    datum: 2023-05-30
+    datum: 2023-12-12
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-11:
   day-1:
-    datum: 2023-06-06
+    datum: 2023-12-19
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-12:
   day-1:
-    datum: 2023-06-13
+    datum: 2023-12-26
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-13:
   day-1:
-    datum: 2023-06-20
+    datum: 2024-01-02
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-14:
   day-1:
-    datum: 2023-06-27
+    datum: 2024-01-09
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-15:
   day-1:
-    datum: 2023-07-04
+    datum: 2024-01-16
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-16:
   day-1:
-    datum: 2023-07-11
+    datum: 2024-01-23
+    start: "10:00"
+    end: "17:00"
+    name: Dienstag
+week-17:
+  day-1:
+    datum: 2024-01-30
     start: "10:00"
     end: "17:00"
     name: Dienstag
