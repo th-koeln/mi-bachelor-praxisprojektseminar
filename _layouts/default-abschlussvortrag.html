@@ -9,6 +9,8 @@
     <![endif]-->
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
   <meta property="og:title" content="Praxisprojekt Abschlussvortrag «{{page.thema}}» von {{page.vorname}} {{page.nachname}} // {{ page.datum | date: '%d. %B %Y' }}, {{ page.uhrzeit | replace: "-", ":" }} Uhr" />
+  <meta property="twitter:title" content="Praxisprojekt Abschlussvortrag «{{page.thema}}» von {{page.vorname}} {{page.nachname}} // {{ page.datum | date: '%d. %B %Y' }}, {{ page.uhrzeit | replace: "-", ":" }} Uhr" />
+
   <meta property="og:description" content="{{page.excerpt | strip_html | truncate:160}}" />
   <meta property="og:url" content="{{site.url}}{{ site.baseurl }}{{page.url}}" />
 
@@ -16,6 +18,8 @@
   {% assign teaserPathSize = teaserPath.size|minus:1 %}
   {% assign newTeaserPath = teaserPath|slice: 0, teaserPathSize | join: "/" %}
   <meta property="og:image" content="{{site.url}}{{ site.baseurl }}{{newTeaserPath}}/{{page.teaserimage}}" />
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta property="twitter:image" content="{{site.url}}{{ site.baseurl }}{{newTeaserPath}}/{{page.teaserimage}}" />
   <meta name="description" content="{{page.excerpt | strip_html | truncate:160}}">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
