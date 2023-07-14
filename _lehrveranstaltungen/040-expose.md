@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2023-10-11 15:00|3.216
+termine: 2023-10-11 15:00|3.215
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
