@@ -37,14 +37,13 @@
         {% assign veranstaltungenHeute = veranstaltungenHeute | push: veranstaltung %}
         {% endif %}
         {% endfor %}
-
         {% for veranstaltung in veranstaltungenHeute %}
 
           {% assign termine = veranstaltung.termine | split: "," %}
           {% assign default-data = veranstaltung.raum | split: "|" %}
           {% assign default-raum = default-data[0] %}
           
-          <div class="column">
+          
             {% include /functions/resolve-types.html typ=veranstaltung.typ %}
 
             <a href="{{site.baseurl}}{{veranstaltung.url}}">
@@ -83,7 +82,7 @@
                 {% endif %}
               </div>
             </a>
-          </div>
+          
         {% endfor %}
       </div>
     </div>
