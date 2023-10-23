@@ -24,3 +24,9 @@ Noch größer ist das Problem für Menschen, die sich aufgrund von Entfernung, M
 Als möglichen Lösungsansatz haben wir ein Konzept für einen hybriden Raum entwickelt, der einzelne Module an verschiedenen geografischen Standorten über digitale Kanäle miteinander verbindet. Eine Plattform, die es Freunden oder Familienmitgliedern ermöglicht, indirekt zu kommunizieren und ihre lokalen, privaten und physischen Umgebungen durch digitale Kommunikation über große Entfernungen zu verbinden.
 
 Dieses Konzept wurde in einem Prototyp umgesetzt, der eine niedrigschwellige Kommunikation in Form von Licht, Video und Audio ermöglicht.
+
+## Material
+
+[Github Repository](https://github.com/robertkellermann/pps2023)
+
+[Demo](http://imagebot.cc)
