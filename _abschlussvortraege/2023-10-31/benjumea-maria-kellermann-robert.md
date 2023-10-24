@@ -7,7 +7,7 @@ raum:  3.216
 betreuer: mb, vds
 thema: "Vermittlung von Präsenz und Emotionen durch eine greifbare Schnittstelle: Überbrückung der physischen Lücke in der Fernkommunikation"
 kooperationspartner: TH Köln
-teaserimage: benjumea-maria-kellermann-robert-teaserimage.png
+teaserimage: benjumea-maria-kellermann-robert-teaserimage.jpg
 stichworte: Kommunikation, Remote-Kommunikation, IoT, Design 
 quelle-bildrechte-teaser: Illustration von María Paula Benjumea Cañón
 weiterfuehrende-themen: "Integration mit bestehenden Technologien, Untersuchen weiterer Möglichkeiten zur Einbindung von Sensorik und haptischem Feedback, Tiefgehende Studien zur emotionalen Wirkung der greifbaren Schnittstelle, Bewertung der Risiken und Chancen in Bezug auf Datenschutz und Datensicherheit, Entwicklung einer Schnittstelle für Menschen mit einer Sehbehinderung"
