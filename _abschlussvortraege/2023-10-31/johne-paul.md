@@ -4,7 +4,7 @@ vorname: Paul
 datum: 2023-10-31
 uhrzeit: 11-30
 raum:  3.216
-betreuer: wk | Fabian Friederichs
+betreuer: wk, ff
 thema: Entwicklung eines plattformunabhängigen Echtzeit-Renderers mit der Vulkan API in C++
 kooperationspartner: Technische Hochschule Köln
 teaserimage: johne-paul-teaserimage.png
