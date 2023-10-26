@@ -20,7 +20,7 @@
   {% assign teaserPathSize = teaserPath.size|minus:1 %}
   {% assign newTeaserPath = teaserPath|slice: 0, teaserPathSize | join: "/" %}
   <meta property="og:image" content="{{site.url}}{{ site.baseurl }}{{newTeaserPath}}/{{page.teaserimage}}" />
-  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:image" content="{{site.url}}{{ site.baseurl }}{{newTeaserPath}}/{{page.teaserimage}}" />
   <meta name="description" content="{{page.excerpt | strip_html | truncate:160}}">
 
