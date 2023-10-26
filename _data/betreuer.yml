@@ -1,6 +1,7 @@
 vs:
   name: Volker Schaefer
   email: volker.schaefer@th-koeln.de
+
 cn:
   name: Christian Noss
   email: christian.noss@th-koeln.de
@@ -24,6 +25,7 @@ ck:
 gh:
   name: Prof. Dr. Gerhard Hartmann
   anrede: Gerhard
+
 hk:
   name: Prof. Hans Kornacher
   anrede: Hans
@@ -35,6 +37,7 @@ mw:
 me:
   name: Prof. Dr. Martin Eisemann
   anrede: Martin
+
 fv:
   name: Prof. Dr. Frank Victor
   
@@ -126,6 +129,7 @@ dgaida:
 
 hvn:
   name: Prof. Dr. Hoai Viet Nguyen
+
 mg:
   name: Matthias Groß
   email: matthias.gross2@th-koeln.de
@@ -137,3 +141,6 @@ il:
 vds:
   name: Vimal Darius Seetohul
   email: vimal_darius.seetohul@th-koeln.de
+
+ff:
+  name: Fabian Friederichs
