@@ -10,7 +10,10 @@ kooperationspartner: TH Köln
 teaserimage: strumpf-kimberly-teaserimage.png
 stichworte: Möbilitätsverwaltung, Prozessoptimierung, Lean Six Sigma, Six Sigma, Erasmus+, Erasmus Without Paper (EWP), Projektmanagement
 quelle-bildrechte-teaser: Kimberly Strumpf
-weiterfuehrende-themen: Usability im Bereich Mobilitätsverwaltung in Mobility-Online, Geeignete Metriken zur Messung von digitalen Mobilitätsprozessen innerhalb verschiedener Softwareanwendungen, Relevante Ziel- und Kundendefinitionen im Kontext internationaler Erasmus+ Mobilitäten an der TH Köln
+weiterfuehrende-themen: |
+  - Usability im Bereich Mobilitätsverwaltung in Mobility-Online
+  - Geeignete Metriken zur Messung von digitalen Mobilitätsprozessen innerhalb verschiedener Softwareanwendungen
+  - Relevante Ziel- und Kundendefinitionen im Kontext internationaler Erasmus+ Mobilitäten an der TH Köln
 ---
 
 ## Abstract
@@ -24,4 +27,4 @@ Dabei konnten vor allem grundlegende Probleme identifiziert werden, die zusammen
 Als weitergehende Forschung wird daher empfohlen, vor allem die Ziel- und Kundendefinition zu betrachten und relevante Metriken zur Messung der Prozessperformance einzuführen um eine effiziente und datengestützte Prozessoptimierung mit LSS zu ermöglichen. Dadurch wird ermöglicht eine Eingrenzung der Prozessoptimierung auf die relevantesten Ziele und Bedürfnisse vorzunehmen und die größten Probleme eines Prozesses innerhalb der Mobilitätsverwaltung aufzuzeigen. 
 
 ## Material & weiterführende Info
-Login Mobility-Online: https://www.th-koeln.de/thkoeln/LoginServlet
+[Login Mobility-Online](https://www.th-koeln.de/thkoeln/LoginServlet)
