@@ -21,5 +21,5 @@ Die Entwicklung neuer lernfähiger Technologien wie ChatGPT oder WolframAlpha re
 
 ## Material & weiterführende Info
 
-Stable Diffusion Web-UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
-Experiment-Ergebnisse: https://th-koeln.sciebo.de/f/794185475
+- Stable Diffusion Web-UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- Experiment-Ergebnisse: https://th-koeln.sciebo.de/s/eypxyL56jQHwr20
