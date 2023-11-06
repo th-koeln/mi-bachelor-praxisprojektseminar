@@ -16,7 +16,7 @@ info:
 ## Wie läuft die Veranstaltung ab?
 Die Abschlussvorträge werden wieder vor Ort in Gummersbach in Raum 3.216 stattfinden. 
 
-Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Anwesenheit protokollieren können.
+Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen an, damit wir die Anwesenheit protokollieren können.
 
 ## Was muss ich als Vortragender beachten?
 * seien Sie rechtzeitig da, um ihr Setup vorzubereiten
