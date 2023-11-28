@@ -12,6 +12,7 @@ teaserimage: koese-burak-teaserimage.jpg
 stichworte: Digitales Storytelling, Informatik, Bildung, Lernspiel
 quelle-bildrechte-teaser: Burak Köse und OpenAI(Dalle2)
 weiterfuehrende-themen:  Welche Rolle spielt digitales Storytelling in der Förderung von Teamarbeit | Langzeitstudie und Nutzungsanalyse des
+---
 
 ## Abstract
 
