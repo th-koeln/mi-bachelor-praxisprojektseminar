@@ -2,7 +2,7 @@
 nachname: Pottrick
 vorname: Nicolas
 datum: 2023-12-05
-uhrzeit: 11-30
+uhrzeit: 11-00
 raum:  3.216
 betreuer: hk
 thema: Die Implikation von größeren Drehorten durch die Nutzung von speziellen Filmaufnahme- und Schnitttechniken
