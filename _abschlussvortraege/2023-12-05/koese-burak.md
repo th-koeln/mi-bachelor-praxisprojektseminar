@@ -5,8 +5,7 @@ datum: 2023-12-05
 uhrzeit: 10-00
 raum: 3.126
 betreuer: hk
-thema: Wie effektiv ist digitales Storytelling in der Informatiklehre? Ein Spiel als Lehrmittel(Konzeption, Umsetzung und
-Auswirkungen)
+thema: Wie effektiv ist digitales Storytelling in der Informatiklehre? Ein Spiel als Lehrmittel(Konzeption, Umsetzung und Auswirkungen)
 kooperationspartner: TH Köln
 teaserimage: koese-burak-teaserimage.jpg
 stichworte: Digitales Storytelling, Informatik, Bildung, Lernspiel
