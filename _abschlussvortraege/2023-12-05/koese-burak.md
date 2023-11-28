@@ -3,7 +3,7 @@ nachname: Köse
 vorname: Burak
 datum: 2023-12-05
 uhrzeit: 10-00
-raum: 3.126
+raum: 3.216
 betreuer: hk
 thema: Wie effektiv ist digitales Storytelling in der Informatiklehre? Ein Spiel als Lehrmittel(Konzeption, Umsetzung und Auswirkungen)
 kooperationspartner: TH Köln
