@@ -9,7 +9,7 @@ thema: Entwicklung einer dynamischen Applikation für Digital Signage mithilfe d
 kooperationspartner: Newroom Media GmbH
 teaserimage: becker-christian-teaserimage.jpg
 stichworte: Unreal Engine, Digital Signage, 3D-Rendering, Werbeindustrie, Automobilindustrie
-quelle-bildrechte-teaser: Christian Becker
+quelle-bildrechte-teaser: Christian Becker, Newroom Media GmbH
 weiterfuehrende-themen: Die Vertiefung der Renderingpipeline der Unreal Engine im Bereich der fotorealistischen Darstellung von Fahrzeugen und städtischen Umgebungen | Die Erweiterung der Anpassung der Umgebung, um verschiedene Szenarien realitätsgetreu darzustellen
 ---
 
