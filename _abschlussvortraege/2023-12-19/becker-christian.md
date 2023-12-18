@@ -26,4 +26,5 @@ Dabei ist die Nutzung des Chaosvehicle-Moduls in der Unreal Engine, das die Simu
 
 ## Material & weiterführende Infos
 
--
+- [Mehr Infos über Digital Signage](https://digitalsignagekompass.de/lexikon-2/)
+- [Informationen über Blueprints](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/)
