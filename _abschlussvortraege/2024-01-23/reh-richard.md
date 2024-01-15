@@ -8,8 +8,8 @@ betreuer: cn
 thema: Optimale Wahl von Navigation-Pattern auf mobilen Webseiten
 kooperationspartner: TH Köln
 teaserimage: reh-richard-teaserimage.png
+stichworte: Web, Navigation, UI, UX
 quelle-bildrechte-teaser: Richard Reh
-stichworte: Web, Navigation, UI, UX 
 hinweise:
 weiterfuehrende-themen: Navigation-Pattern im Kontext von AR | Verwendung von KI zum analysieren und anzeigen von personalisierten Benutzerpräferenzen in einer Navigation | Eye-Tracking als alternative Bedienungsart für Navigation-Pattern als Beitrag zur Barrierefreiheit | Entwicklung einer beispielhaften Leitfaden-Webseite mit implementierten Navigation-Pattern und Erläuterung der besten Implementierungsansätze für Entwickler | Recherche weiterer Einflussfaktoren für die Wahl von Navigation-Pattern.
 ---
