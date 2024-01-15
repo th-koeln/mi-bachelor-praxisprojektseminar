@@ -2,7 +2,7 @@
 nachname: Reh
 vorname: Richard
 datum: 2024-01-23
-uhrzeit: 9-00
+uhrzeit: 9-30
 raum:  3.216
 betreuer: cn
 thema: Optimale Wahl von Navigation-Pattern auf mobilen Webseiten
