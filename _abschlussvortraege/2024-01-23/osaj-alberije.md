@@ -18,11 +18,11 @@ Wie nehmen Studierende die Geschlechterdiversität in IT-Studiengängen an der T
 
 Ein besonderer Fokus dieser Untersuchung liegt auf der Unterrepräsentation von Studentinnen in IT-Studiengängen. Trotz vielfältiger Bemühungen bleibt der Frauenanteil gering, was sowohl akademische als auch berufliche Auswirkungen nach sich zieht.
 
-Die Analyse konzentriert sich auf verschiedene Ursachen für die niedrige Frauenquote. Dazu gehören gesellschaftliche Stereotype, die die Informatik als männerdominierten Bereich kennzeichnen, sowie der Mangel an sichtbaren weiblichen Vorbildern in der IT-Branche. In diesem Zusammenhang werden auch spezifische Herausforderungen und Unterstützungsangebote der TH Köln untersucht, um ein umfassendes Verständnis der Geschlechterdynamik in IT-Studiengängen zu entwickeln.
+Die Analyse konzentriert sich auf verschiedene Ursachen für die niedrige Frauenquote. Dazu gehören gesellschaftliche Stereotype, die die Informatik als männerdominierten Bereich kennzeichnen, sowie der Mangel an sichtbaren weiblichen Vorbildern in der IT-Branche. In diesem Zusammenhang werden auch spezifische Unterstützungsangebote der TH Köln untersucht, um einen umfassenden Überblick über die Geschlechterdynamik in IT-Studiengängen zu entwickeln.
 
-Die Hauptziele dieser Arbeit sind, ein tieferes Verständnis für die bestehenden Geschlechterverhältnisse zu schaffen und spezifische Herausforderungen zu identifizieren. Des Weiteren werden bestehende Konzepte zur Förderung der Geschlechtervielfalt mit den im Rahmen der Projektarbeit gewonnenen Daten verglichen, um deren Effektivität zu bewerten.
+Demnach bestehen die Hauptziele dieser Arbeit darin, zum einen ein tieferes Verständnis für die bestehenden Geschlechterverhältnisse zu schaffen und zum anderen spezifische Herausforderungen zu identifizieren. Des Weiteren werden bereits bestehende Konzepte zur Förderung der Geschlechtervielfalt mit den im Rahmen der Projektarbeit gewonnenen Daten verglichen, um deren Effektivität zu bewerten.
 
-Für die Datenerhebung wurden sowohl qualitative als auch quantitative Methoden angewandt. Hierzu zählen aktuelle Statistiken der Studierenden, um das Ausmaß der Geschlechterunterschiede zu messen, sowie Online-Befragungen von Studierenden, die darauf abzielen, persönliche Erfahrungen und Perspektiven zu sammeln. Die Ergebnisse dieser Befragungen und Analysen wurden anschließend mit bestehender Literatur und Forschung abgeglichen, um ein tieferes Verständnis der Thematik zu erlangen und um die Validität und Relevanz der Erkenntnisse zu bestätigen.
+Für die Datenerhebung wurden sowohl qualitative als auch quantitative Methoden angewandt. Hierzu zählen aktuelle Statistiken der Studierenden, um das Ausmaß der Geschlechterunterschiede zu messen, sowie Online-Befragungen von Studierenden, die darauf abzielen, persönliche Erfahrungen und Perspektiven zu sammeln. Die Ergebnisse dieser Befragungen und Analysen wurden anschließend mit bestehender Literatur und Forschung abgeglichen, um einen tieferen Einblick in die Thematik zu erlangen und um die Validität sowie die Relevanz der Erkenntnisse zu bestätigen.
 
 ## Material:
 
@@ -36,8 +36,8 @@ Analyse zu Informatik – Studiengang für Frauen oft nicht interessant genug (I
 
 ## Weiterfuehrende-Themen:
 
-1 Erforschung, wie andere Hochschulen oder Länder Geschlechterdiversität in IT-Studiengängen fördern, um Best Practices zu identifizieren
+Erforschung, wie andere Hochschulen oder Länder Geschlechterdiversität in IT-Studiengängen fördern, um Best Practices zu identifizieren
 
-2 Vertiefung der Forschung zu Mentoring-Programmen für Studentinnen in IT-Studiengängen und/oder Analyse des Einflusses von Mentoring auf Studienerfolg und Karriereentwicklung von Studentinnen
+Vertiefung der Forschung zu Mentoring-Programmen für Studentinnen in IT-Studiengängen und/oder Analyse des Einflusses von Mentoring auf Studienerfolg und Karriereentwicklung von Studentinnen
 
-3 Untersuchung der Auswirkungen weiblicher Vorbilder in der IT auf Studentinnen in Bezug auf deren Wahrnehmung und Motivation
+Untersuchung der Auswirkungen weiblicher Vorbilder in der IT auf Studentinnen in Bezug auf deren Wahrnehmung und Motivation
