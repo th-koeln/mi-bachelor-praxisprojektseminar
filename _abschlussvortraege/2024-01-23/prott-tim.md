@@ -7,7 +7,7 @@ raum:  3.216
 betreuer: hs
 thema: 3D-Scan von Abschnitten der römischen Eifelwasserleitung mittels Structure from Motion Verfahren / image based modeling
 kooperationspartner: TH Köln, Landesamt für Bodendenkmalschutz
-teaserimage: prott-tim-teaserimage.png
+teaserimage: prott-tim-teaserimage.jpg
 stichworte: Photogrammetrie,3D-Scan,Image based modeling,Agisoft Metashape,Structure from Motion(SfM)
 quelle-bildrechte-teaser: Tim Prott
 hinweise: 
