@@ -4,7 +4,7 @@ vorname: Tim
 datum: 2024-01-23
 uhrzeit: 10-00
 raum:  3.216
-betreuer: hstl
+betreuer: hs
 thema: 3D-Scan von Abschnitten der römischen Eifelwasserleitung mittels Structure from Motion Verfahren / image based modeling
 kooperationspartner: TH Köln, Landesamt für Bodendenkmalschutz
 teaserimage: prott-tim-teaserimage.png
