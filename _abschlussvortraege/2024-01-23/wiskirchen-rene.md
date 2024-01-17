@@ -11,7 +11,7 @@ teaserimage: wiskirchen-rene-teaserimage.jpg
 stichworte: ChatGPT, KI, Integration, Hochschule
 quelle-bildrechte-teaser: Modifiziert übernommen von https://www.uas7.org/sites/default/files/styles/mood_desktop/public/2020-03/K%C3%B6ln-Mood1.jpg?itok=kAz-bjJP
 hinweise:
-weiterfuehrende-themen: Integration von ChatGPT in den Hochschulkontext | Fehler von KIs | Limitationen von ChatGPT | Nutzung der Akteure der Hochschule von ChatGPT | Neuronale Netze | Chancen und Risiken von ChatGPT | Interviews mit Lehrenden & Wissenschaftliche Mitarbeitern
+weiterfuehrende-themen: Fehler von KIs | Limitationen von ChatGPT | Nutzung der Akteure der Hochschule von ChatGPT | Neuronale Netze | Chancen und Risiken von ChatGPT | Konzepte zur Integration von ChatGPT an Hochschulen | Erstellung einer KI mit Einbunden verschiedener KIs
 ---
 
 ## Abstract
@@ -32,12 +32,12 @@ Das angestrebte Ziel des Praxisprojektes ist, eine Integration von ChatGPT in de
   - https://ai.hawk.de/login.php
   - https://ai.lab.hm.edu/login.php
 
-- **Chanchen und Risiken Integration ChatGPT:**
+**Chanchen und Risiken Integration ChatGPT:**
   - https://www.institut-bildung-coaching.de/wissen/chat-gpt-der-schule-risiko-oder-chance
   - https://dergipark.org.tr/en/download/article-file/3307311
 
-- **Neuronale Netze:**
+**Neuronale Netze:**
   - https://link.springer.com/article/10.1007/s11277-017-5224-x
 
-- **Prompts:**
+**Prompts:**
   - https://arxiv.org/pdf/2302.11382.pdf
