@@ -4,7 +4,7 @@ vorname: Alberije
 datum: 2024-01-23
 uhrzeit: 11-30
 raum:  3.216
-betreuer: mib
+betreuer: mbl
 thema: Gender Diversity in IT-Studiengängen - Eine Untersuchung der Geschlechterunterschiede in IT-Studiengängen der TH Köln 
 kooperationspartner: TH Köln
 teaserimage: osaj-alberije-teaserimage.jpg
