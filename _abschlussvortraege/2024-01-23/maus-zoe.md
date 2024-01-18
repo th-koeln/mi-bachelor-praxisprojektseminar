@@ -11,7 +11,7 @@ teaserimage: maus-zoe-teaserimage.jpg
 stichworte: Bildung, Integration, Mensch-Computer-Interaktion, E-Learning 
 quelle-bildrechte-teaser: https://www.freepik.com 
 hinweise: 
-weiterfuehrende-themen: Durchführen der zweiten & dritten HCD-Tätigkeiten: Gestaltungslösungen entwickeln und evaluieren | Zielgruppenbefragungen an den BKs durchführen |empirische Untersuchung zur Wirksamkeit der Implementierungsempfehlungen für Onlinekurse | Realisierbarkeit mit unterschiedlichen LMS-anbietern (zb.Moodle) testen und analysieren 
+weiterfuehrende-themen: Durchführen der zweiten und dritten HCD-Tätigkeiten - Gestaltungslösungen entwickeln und evaluieren | Zielgruppenbefragungen an den BKs durchführen | empirische Untersuchung zur Wirksamkeit der Implementierungsempfehlungen für Onlinekurse | Realisierbarkeit mit unterschiedlichen LMS-anbietern (z.B. Moodle) testen und analysieren 
 ---
 
 ## Abstract
