@@ -35,7 +35,7 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 
 ## Wie funktioniert das Seminar?
 
-Das Seminar besteht aus mehreren Workshops und Veranstaltungen die überwiegend online statt finden. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen. 
+Das Seminar besteht aus mehreren Workshops und Veranstaltungen die überwiegend online statt finden. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen.
 
 Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. Was genau vorbereitet werden muss, steht auf der jeweiligen Seite zu dem Workshop.
 
@@ -46,16 +46,16 @@ Folgende Bausteine enthält das Praxisprojekt Seminar:
 Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „Wissenschaftliches Arbeiten” auf Basis der Arbeit von [Matthias Karmasin und Rainer Ribing: Die Gestaltung wissenschaftlicher Arbeiten](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT020256732)
 
 ### [Themenfeldanalyse](lehrveranstaltungen/030-themenfeldanalyse/)
-Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session. 
+Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderationswand-Session.
 
 ### [Exposé](lehrveranstaltungen/040-expose/) und [Peer Review](lehrveranstaltungen/045-peer-reviewed-expose/)
-Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde. 
+Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde.
 
 ### [Schreibwerkstatt/Schreibberatung](https://ilias.th-koeln.de/goto.php?target=cat_1590280&client_id=ILIAS_FH_Koeln)
 Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
 
 ### [Mediengestützte Präsentation](lehrveranstaltungen/055-mediengestuetzte-prasentation/)
-Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit. 
+Vorstellung und Review einer mediengestützten Präsentation für einen Ausschnitt der Arbeit.
 
 <!--
 ### [Postersession/ Live-Session](lehrveranstaltungen/070-live-session-postersession/) (Findet dieses Semester nicht statt)
@@ -84,4 +84,4 @@ Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gib
 
 ## Wer macht es?
 
-Verantwortlicher Dozent ist Prof. Christian Noss. Das Seminar wird federführend von Markus Alterauge und Nathalie Kuhn betreut.
+Verantwortlicher Dozent ist Prof. Dr. Hoai Viet Nguyen. Das Seminar wird federführend von Markus Alterauge und Nathalie Kuhn betreut.
