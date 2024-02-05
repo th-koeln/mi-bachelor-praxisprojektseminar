@@ -10,11 +10,11 @@ mi-wiki-pruefung:
   name: Medieninformatik Wiki
   url: http://www.medieninformatik.fh-koeln.de/w/
 
-ilias:
+ilu:
   name: ILU
   url: https://ilu.th-koeln.de/goto.php?target=crs_276966&client_id=thkilu
 
-ilias-pruefung:
+ilu-pruefung:
   name: ILU
   url: https://ilu.th-koeln.de/goto.php?target=crs_276966&client_id=thkilu
 
