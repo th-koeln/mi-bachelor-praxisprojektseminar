@@ -40,11 +40,11 @@ Der Anfang eines Exposés, welches in Hausarbeit fertig gestellt wird.
 Die Benamung sollte folgendem Muster entsprechen:
 > NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR.pdf
 
-Am Beispiel eines Exposés von Christian Noss(Autor) im Sommersemester 2023:
-> noss-christian-pp-ss-2023.pdf
+Am Beispiel eines Exposés von Viet Nguyen(Autor) im Sommersemester 2024:
+> nguyen-viet-pp-ss-2024.pdf
 
-Am Beispiel eines Exposés von Christian Noss(Autor) im Wintersemester 2022/23:
-> noss-christian-pp-ws-2022-2023.pdf
+Am Beispiel eines Exposés von Viet Nguyen(Autor) im Wintersemester 2023/24:
+> nguyen-viet-pp-ws-2023-2024.pdf
 
 
 
