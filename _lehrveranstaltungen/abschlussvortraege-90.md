@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: hvn
 typ: vortrag
 pflicht: false
-termine: 
+termine: 2024-07-16 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
