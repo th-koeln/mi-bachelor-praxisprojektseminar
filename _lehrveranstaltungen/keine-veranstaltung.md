@@ -1,7 +1,7 @@
 ---
 titel: keine Veranstaltung
 kuerzel: none
-verantwortlich: cn, ma
+verantwortlich: ma, nk
 typ: other
 pflicht: false
 termine: 2024-05-14 10:00, 2024-07-23 10:00, 2024-07-30 10:00
