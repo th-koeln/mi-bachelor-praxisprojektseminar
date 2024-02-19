@@ -82,31 +82,31 @@ week-12:
     name: Dienstag
 week-13:
   day-1:
-    datum: 2024-01-02
+    datum: 2024-07-09
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-14:
   day-1:
-    datum: 2024-07-09
+    datum: 2024-07-16
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-15:
   day-1:
-    datum: 2024-07-16
+    datum: 2024-07-23
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-16:
   day-1:
-    datum: 2024-07-23
+    datum: 2024-07-30
     start: "10:00"
     end: "17:00"
     name: Dienstag
 week-17:
   day-1:
-    datum: 2024-07-30
+    datum: 2024-08-06
     start: "10:00"
     end: "17:00"
     name: Dienstag
