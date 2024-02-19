@@ -1,7 +1,7 @@
 ---
 titel: Abschlussvorträge & Forum
 kuerzel: abschlussvortraege
-verantwortlich: cn
+verantwortlich: hvn
 typ: vortrag
 pflicht: false
 termine: 2024-05-07 10:00|3.216, 2024-05-21 10:00|3.216, 2024-06-04 10:00|3.216, 2024-06-18 10:00|3.216, 2024-07-02 10:00|3.216
