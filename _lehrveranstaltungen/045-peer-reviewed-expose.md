@@ -37,16 +37,16 @@ Ein in LaTex erstelltes Exposé.
 ## Was muss geliefert werden? 
 Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken. 
 
-[Dateiupload für die Exposés](https://ilias.th-koeln.de/goto.php?target=exc_2509827&client_id=ILIAS_FH_Koeln)
+[Dateiupload für die Exposés](https://ilu.th-koeln.de/goto.php?target=exc_311245&client_id=thkilu)
 
 
 Die Benamung sollte folgendem Muster entsprechen:
 > NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR-KUERZELREVIEWER.pdf
 
-Am Beispiel eines Exposés von Christian Noss(Autor) und Volker Schaefer(Reviewer) im Sommersemester 2023:
+Am Beispiel eines Exposés von Christian Noss(Autor) und Volker Schaefer(Reviewer) im Sommersemester 2024:
 > noss-christian-pp-ss-2023-vschaefer.pdf
 
-Am Beispiel eines Exposés von Christian Noss(Autor) und Markus Alterauge(Reviewer) im Wintersemester 2022/23:
+Am Beispiel eines Exposés von Christian Noss(Autor) und Markus Alterauge(Reviewer) im Wintersemester 2024/25:
 > noss-christian-pp-ws-2022-2023-malterauge.pdf
 
 
