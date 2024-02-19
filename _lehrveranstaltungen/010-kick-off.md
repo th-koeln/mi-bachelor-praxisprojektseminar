@@ -4,7 +4,7 @@ kuerzel: kickoff
 verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2024-04-15 09:00|3.216, 2024-07-16 10:00|3.216
+termine: 2024-04-16 09:00|3.216, 2024-07-16 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
@@ -16,7 +16,7 @@ info:
 Die heutige Veranstaltung findet vor Ort im Raum 3.216 statt. Diese Veranstaltung ist für Medieninformatik Studierende relevant, die am Praxisprojekt im Sommersemester 2024 teilnehmen wollen.
 
 ## Worum geht es?
-Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Wir machen einen kleinen Rundflug über Ihre Praxisprojekt Themen. Anschließend geben wir Hilfestellung für die Vorbereitung des nächsten Seminartermins. (Der Termin am 15.04 ist der Kickoff für alle, die nicht am 30.01. dabei waren. Diese Veranstaltung wird kompakter gesteltet.)
+Heute wird erläutert, wie das Seminar funktioniert, welche Termine es gibt und wie bewertet wird. Wir machen einen kleinen Rundflug über Ihre Praxisprojekt Themen. Anschließend geben wir Hilfestellung für die Vorbereitung des nächsten Seminartermins. (Der Termin am 16.04 ist der Kickoff für alle, die nicht am 30.01. dabei waren. Diese Veranstaltung wird kompakter gesteltet.)
 
 ## Was sind die Ziele?
 - alle verstehen wie die Veranstaltung funktioniert
