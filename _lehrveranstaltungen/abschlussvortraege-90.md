@@ -1,7 +1,7 @@
 ---
 titel: Abschlussvorträge
 kuerzel: abschlussvortraege
-verantwortlich: cn
+verantwortlich: hvn
 typ: vortrag
 pflicht: false
 termine: 
