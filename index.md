@@ -35,7 +35,7 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 
 ## Wie funktioniert das Seminar?
 
-Das Seminar besteht aus mehreren Workshops und Veranstaltungen die überwiegend online statt finden. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen.
+Das Seminar besteht aus mehreren Workshops und Veranstaltungen die vor Ort statt finden. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen.
 
 Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. Was genau vorbereitet werden muss, steht auf der jeweiligen Seite zu dem Workshop.
 
@@ -61,7 +61,7 @@ Vorstellung und Review einer mediengestützten Präsentation für einen Ausschni
 ### [Postersession/ Live-Session](lehrveranstaltungen/070-live-session-postersession/) (Findet dieses Semester nicht statt)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.-->
 
-Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im ILU hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
+Der erste Workshop zum wissenschaftlichen Arbeiten ist kein Pflichttermin. (Die Workshops sollen euch helfen die wissenschaftlichen Standards für eure Abschlussarbeiten zu erlernen.) Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im ILU hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
 
 Zum Bestehen des Moduls müssen Sie alle Artefakte im ILU hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenum teilgenommen haben.
 
