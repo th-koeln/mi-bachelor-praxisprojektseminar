@@ -7,7 +7,7 @@ raum:  3.215
 betreuer: sk
 thema: Single Sign-On Automation
 kooperationspartner: TH Köln
-teaserimage: maiworm-linda-teaserimage.png
+teaserimage: maiworm-linda-teaserimage.jpg
 stichworte: Single Sign-On, Authentifizierung, Autorisierung, Web Automation, Web Security, Shepherd
 quelle-bildrechte-teaser: Linda Maiworm
 hinweise:
