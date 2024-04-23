@@ -24,6 +24,4 @@ Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen an, damit wir die
 * halten Sie ein Foto von Ihrer Multica bereit
 
 ## Was muss ich als Zuhörer beachten?
-Wenn Sie den Raum betreten, achten Sie bitte darauf, dass Sie während der Präsentationszeit ihr Mikrofon gemutet haben. Es handelt sich um eine Prüfungssitation und wir möchten deshalb so viele Störgeräusche wie möglich vermeiden.
-
-Im Anschluss an die Präsentation gibt es eine Diskussionsrunde. In dieser können Sie das Mikrofon wieder entmuten, wenn Sie einen Wortbeitrag leisten möchten.
+Achten Sie bitte darauf, dass Sie während der Präsentationszeit leise sind. Es handelt sich um eine Prüfungssitation und wir möchten deshalb so viele Störgeräusche wie möglich vermeiden.
