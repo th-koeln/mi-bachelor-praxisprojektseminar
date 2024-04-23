@@ -12,11 +12,9 @@ info:
 ---
 
 ## Wie läuft die Veranstaltung ab?
-Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.
+Die Abschlussvorträge werden wieder vor Ort in Gummersbach stattfinden.
 
-Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen und die Anwesenheit protokollieren können.
-
-Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
+Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen an, damit wir die Anwesenheit protokollieren können.
 
 ## Was muss ich als Vortragender beachten?
 * sorgen Sie für eine gute Internetverbindung
