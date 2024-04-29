@@ -2,11 +2,10 @@
 nachname: Seibt
 vorname: Collin
 datum: 2024-05-07
-uhrzeit: 10:30uhr
-raum:  3.215
+uhrzeit: 10-30
+raum:  3.216
 betreuer: nk
-thema: Mit welchen Methoden erhöhen Instagram und TikTok die
-Bildschirmzeit ihrer Nutzer?
+thema: Mit welchen Methoden erhöhen Instagram und TikTok die Bildschirmzeit ihrer Nutzer?
 kooperationspartner: TH Köln
 teaserimage: seibt-collin-teaserimage.jpg
 stichworte: Bildschrimzeit, Social-Media, Instagram, TikTok, Psychologie
