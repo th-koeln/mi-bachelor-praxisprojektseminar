@@ -10,8 +10,6 @@ kooperationspartner: TH Köln
 teaserimage: moujtahid-abdelbasset-teaserimage.jpg
 stichworte: Data Science, Medizin, Data Analysis 
 quelle-bildrechte-teaser: Ale Rechte vorbehalten
-hinweise: 
-weiterfuehrende-themen: Untersuchung der Wirksamkeit komplexerer Algorithmen wie SVM oder Gradient-Boosting | Untersuchung des Einflusses Demografischer Faktoren auf HKE | Analyse der Rolle der genetischen Veranlagung | Untersuchung des potenziellen Einsatzes tragbarer Geräte und Technologien zur Gesundheitsüberwachung 
 ---
 
 ## Abstract
