@@ -15,7 +15,9 @@ quelle-bildrechte-teaser: Ale Rechte vorbehalten
 ## Abstract
 Wie können wir präzise Prognosemodelle zur Bewertung des Herz-Kreislauf-Erkrankungsrisikos einer Person basierend auf ihren Lebensgewohnheiten entwickeln und implementieren, um gezielte Interventionen zur Risikoreduzierung zu ermöglichen? 
 
-Dieses Forschungsprojekt untersucht Lösungskonzepte zur Vorhersage von Herz-Kreislauf-Erkrankungsrisiken, bewertet die Genauigkeit verschiedener maschineller Lernmodelle, analysiert die Auswirkungen der Hyperparameteroptimierung auf die Modellleistung und untersucht, wie persönliche Merkmale zur Verbesserung der Vorhersage des Risikos für Herz-Kreislauf-Erkrankungen genutzt werden können. Durch die Identifizierung entscheidender Faktoren und die Schaffung eines soliden Rahmenwerks für die Früherkennung von Risiken strebt diese Studie die Förderung personalisierter Gesundheitsmaßnahmen an, um die Belastung durch Herz-Kreislauf-Erkrankungen zu verringern.
+Dieses Forschungsprojekt untersucht Lösungskonzepte zur Vorhersage von Herz-Kreislauf-Erkrankungsrisiken, bewertet die Genauigkeit verschiedener maschineller Lernmodelle, analysiert die Auswirkungen der Hyperparameteroptimierung auf die Modellleistung und untersucht, wie persönliche Merkmale zur Verbesserung der Vorhersage des Risikos für Herz-Kreislauf-Erkrankungen genutzt werden können. 
+
+Durch die Identifizierung entscheidender Faktoren und die Schaffung eines soliden Rahmenwerks für die Früherkennung von Risiken strebt diese Arbeit die Förderung personalisierter Gesundheitsmaßnahmen an, um die Belastung durch Herz-Kreislauf-Erkrankungen zu verringern.
 
 ## Materialien
 Da die Codedateien zu groß für GitHub sind, wird der Code via PyCharm geteilt:
