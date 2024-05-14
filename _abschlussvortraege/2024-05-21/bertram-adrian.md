@@ -8,8 +8,7 @@ betreuer: hvn
 thema: Ist die Inanspruchnahme von Content Delivery Networks in Deutschland rechtmäßig?
 teaserimage: bertram-adrian-teaserimage.png
 stichworte: Content Delivery Network, Datenschutz, DSGVO, europäisches Recht
-quelle-bildrechte-teaser: https://www.pexels.com/photo/ethernet-cables-plugged-on-a-server-rack-1054397/
-https://www.pexels.com/photo/lady-justice-and-a-gavel-60771
+quelle-bildrechte-teaser: https://www.pexels.com/photo/ethernet-cables-plugged-on-a-server-rack-1054397/ https://www.pexels.com/photo/lady-justice-and-a-gavel-60771
 ---
 
 
