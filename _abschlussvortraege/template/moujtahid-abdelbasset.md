@@ -21,3 +21,8 @@ Wie können wir präzise Prognosemodelle zur Bewertung des Herz-Kreislauf-Erkran
 Da die Codedateien zu groß für GitHub sind, wird der Code via PyCharm geteilt:
 https://code-with-me.global.jetbrains.com/D2x1xs7ILRkeXcdhYqjr6w#p=PY&fp=6360E743FAB70F05F050567F47F9D8A9BBAF7A0BDDBC170E224F5B8EF0534A5D&newUi=true
 
+## Weiterführende Themen
+* Untersuchung der Wirksamkeit komplexerer Algorithmen wie SVM oder Gradient-Boosting 
+* Untersuchung des Einflusses demografischer Faktoren auf Herz-Kreislauf-Erkrankungen 
+* Analyse der Rolle der genetischen Veranlagung  
+* Untersuchung des potenziellen Einsatzes tragbarer Geräte und Technologien zur Gesundheitsüberwachung 
