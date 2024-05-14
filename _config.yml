@@ -71,8 +71,8 @@ navigation:
   - url: niveaustufen/
     name: Bewertung
 
-  - url: https://ilias.th-koeln.de/goto.php?target=crs_1169587&client_id=ILIAS_FH_Koeln
-    name: Ilias
+  - url: https://ilu.th-koeln.de/goto.php?target=crs_276966&client_id=thkilu
+    name: ILU
 
   - url: https://github.com/th-koeln/mi-bachelor-praxisprojektseminar
     name: Repo

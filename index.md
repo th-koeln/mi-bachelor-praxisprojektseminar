@@ -3,17 +3,17 @@ layout: home
 titel: Über das Modul
 ---
 
-{% include functions/resolve-urls.html target="lias-pruefung" %}
-{% assign ilias-pruefung = link %}
+{% include functions/resolve-urls.html target="ilu-pruefung" %}
+{% assign ilu-pruefung = link %}
 
-{% include functions/resolve-urls.html target="ilias" %}
-{% assign ilias = link %}
+{% include functions/resolve-urls.html target="ilu" %}
+{% assign ilu = link %}
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Praxisprojekt Seminar. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Das Seminar zum Praxisprojekt wird in jedem Semester für alle Studierende, die an einem Praxisprojekt arbeiten, angeboten.
 
 <!--Die **Einführungsveranstaltung** für das Wintersemester 2020/2021 findet am **04. August um 08:30 Uhr** statt. Im Anschluss, ab 10:00 Uhr, gibt es Praxisprojekt Abschlusspräsentationen.
 
-Wir treffen uns in diesem [Zoom Raum](https://us02web.zoom.us/j/89896269940) (Zugangscode steht im Ilias).-->
+Wir treffen uns in diesem [Zoom Raum](https://us02web.zoom.us/j/89896269940) (Zugangscode steht im ILU).-->
 
 
 <!-- Am **28.01.2020** findet in **Raum 3.216** die erste Veranstaltung statt, welche für das kommende Semester relevant ist.
@@ -35,7 +35,7 @@ Mit dem Seminar sollen die folgenden Lernziele erreicht werden:
 
 ## Wie funktioniert das Seminar?
 
-Das Seminar besteht aus mehreren Workshops und Veranstaltungen die überwiegend online statt finden. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen.
+Das Seminar besteht aus mehreren Workshops und Veranstaltungen die vor Ort statt finden. Die Termine entnehmen Sie bitte dem [Zeitplan](timetable). Hier werden wir uns mit Fragestellungen rund um wissenschaftliches Arbeiten und die Vorstellung Ihres Arbeitsstandes befassen.
 
 Zu jedem Workshop müssen Sie einen Teil in eigenständiger Arbeit vorbereiten. Was genau vorbereitet werden muss, steht auf der jeweiligen Seite zu dem Workshop.
 
@@ -51,7 +51,7 @@ Vorstellung und Abgrenzung des eigenen Themenfeldes in einer Metaplan/Moderation
 ### [Exposé](lehrveranstaltungen/040-expose/) und [Peer Review](lehrveranstaltungen/045-peer-reviewed-expose/)
 Anwendung der Erkenntnisse aus dem Workshop „Wissenschaftliches Arbeiten” auf die Exposés der einzelnen Teilnehmer. Hierzu müssen die Teilnehmer ein Exposé einreichen, das von zwei Kommilitonen Peer-reviewed wurde.
 
-### [Schreibwerkstatt/Schreibberatung](https://ilias.th-koeln.de/goto.php?target=cat_1590280&client_id=ILIAS_FH_Koeln)
+### [Schreibwerkstatt/Schreibberatung](https://ilu.th-koeln.de/ilias.php?ref_id=76404&cmd=render&cmdClass=ilrepositorygui&cmdNode=xp&baseClass=ilRepositoryGUI)
 Workshop zum verbessern der Schreibkompetenz im Bereich des wissenschaftlichen Schreibens anhand des Exposés.
 
 ### [Mediengestützte Präsentation](lehrveranstaltungen/055-mediengestuetzte-prasentation/)
@@ -61,9 +61,9 @@ Vorstellung und Review einer mediengestützten Präsentation für einen Ausschni
 ### [Postersession/ Live-Session](lehrveranstaltungen/070-live-session-postersession/) (Findet dieses Semester nicht statt)
 Session in der ein wesentlicher Aspekt der Arbeit mit möglichst tiefer Durchdringung vorgestellt wird.-->
 
-Der erste Workshop zum wissenschaftlichen Arbeiten ist ein Pflichttermin. Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im Ilias hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
+Der erste Workshop zum wissenschaftlichen Arbeiten ist kein Pflichttermin. (Die Workshops sollen euch helfen die wissenschaftlichen Standards für eure Abschlussarbeiten zu erlernen.) Zu jedem Workshop soll zudem ein Artefakt erstellt werden, welches im ILU hochgeladen werden soll. Die Artefakte werden wir reviewen und Feedback dazu geben.  
 
-Zum Bestehen des Moduls müssen Sie alle Artefakte im Ilias hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenum teilgenommen haben.
+Zum Bestehen des Moduls müssen Sie alle Artefakte im ILU hochladen und an mindestens vier Abschlussvorträgen aktiv im Plenum teilgenommen haben.
 
 ## Bewertung
 Die Modulnote für das Praxisprojekt (inkl. Seminar) wird zu 30% aus der Bewertung des Seminarvortrags, des Fachgesprächs und der Teaserseite und zu 70% aus der Bewertung der Projektarbeit gebildet. Hier finden Sie weitere [Infos zur Bewertung](niveaustufen/).

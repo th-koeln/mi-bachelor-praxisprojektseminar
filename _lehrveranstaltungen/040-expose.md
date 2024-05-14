@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2023-10-11 15:00|3.215
+termine: 2024-04-17 15:00|3.215
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -26,7 +26,7 @@ Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.216 und später 
 
 ## Material
 * [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
-* [LaTex Vorlage](https://ilias.th-koeln.de/goto.php?target=file_1355498_download&client_id=ILIAS_FH_Koeln)
+* [LaTex Vorlage](https://ilu.th-koeln.de/ilias.php?ref_id=301166&cmd=showSummary&cmdClass=ilinfoscreengui&cmdNode=xp:o4:f5&baseClass=ilRepositoryGUI)
 * [LaTex Tutorial](https://www.latex-tutorial.com)
 
 ## Was muss vorbereitet werden?
@@ -40,11 +40,11 @@ Der Anfang eines Exposés, welches in Hausarbeit fertig gestellt wird.
 Die Benamung sollte folgendem Muster entsprechen:
 > NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR.pdf
 
-Am Beispiel eines Exposés von Christian Noss(Autor) im Sommersemester 2023:
-> noss-christian-pp-ss-2023.pdf
+Am Beispiel eines Exposés von Viet Nguyen(Autor) im Sommersemester 2024:
+> nguyen-viet-pp-ss-2024.pdf
 
-Am Beispiel eines Exposés von Christian Noss(Autor) im Wintersemester 2022/23:
-> noss-christian-pp-ws-2022-2023.pdf
+Am Beispiel eines Exposés von Viet Nguyen(Autor) im Wintersemester 2023/24:
+> nguyen-viet-pp-ws-2023-2024.pdf
 
 
 

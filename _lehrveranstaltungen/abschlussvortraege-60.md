@@ -1,10 +1,10 @@
 ---
 titel: Abschlussvorträge
 kuerzel: abschlussvortraege
-verantwortlich: cn
+verantwortlich: hvn
 typ: vortrag
 pflicht: false
-termine: 2023-10-18 10:00|3.215
+termine: 2024-04-24 10:00|3.215
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
@@ -12,20 +12,13 @@ info:
 ---
 
 ## Wie läuft die Veranstaltung ab?
-Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.
+Die Abschlussvorträge werden wieder vor Ort in Gummersbach stattfinden.
 
-Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen und die Anwesenheit protokollieren können.
-
-Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
+Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen an, damit wir die Anwesenheit protokollieren können.
 
 ## Was muss ich als Vortragender beachten?
-* sorgen Sie für eine gute Internetverbindung
-* sorgen Sie für möglichst guten Ton, z.B. via Headset
-* sorgen Sie für eine ruhige Umgebung
-* sorgen Sie für ein Kamerabild, da wir Sie zur Identifikation sehen müssen
-* halten Sie ein Foto von Ihrer Multica bereit
+* seien Sie rechtzeitig da, um ihr Setup vorzubereiten
+* halten Sie Ihre Multica bereit
 
 ## Was muss ich als Zuhörer beachten?
-Wenn Sie den Raum betreten, achten Sie bitte darauf, dass Sie während der Präsentationszeit ihr Mikrofon gemutet haben. Es handelt sich um eine Prüfungssitation und wir möchten deshalb so viele Störgeräusche wie möglich vermeiden.
-
-Im Anschluss an die Präsentation gibt es eine Diskussionsrunde. In dieser können Sie das Mikrofon wieder entmuten, wenn Sie einen Wortbeitrag leisten möchten.
+Achten Sie bitte darauf, dass Sie während der Präsentationszeit leise sind. Es handelt sich um eine Prüfungssitation und wir möchten deshalb so viele Störgeräusche wie möglich vermeiden.
