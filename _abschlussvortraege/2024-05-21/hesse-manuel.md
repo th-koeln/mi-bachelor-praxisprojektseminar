@@ -7,7 +7,7 @@ raum:  3.216
 betreuer: mb, vds
 thema: Synchronisierte Motorfader-Kommunikation 
 kooperationspartner: TH Köln
-teaserimage: hesse-manuel-teaserimage.jpg
+teaserimage: hesse-manuel-teaserimage.jpeg
 stichworte: IOT, physische Kommunikation, MQTT, Motorfader, ESP32
 quelle-bildrechte-teaser: Mit Bing Designer erstellt
 weiterfuehrende-themen: Entwicklung und Evaluierung eines erweiterten Synchronisierten Motorfaders | Sicherheitsanalyse des Kommunikationsprotokolls (z. B. MQTT) zur Identifizierung potenzieller Schwachstellen und Entwicklung von Sicherheitsmaßnahmen
