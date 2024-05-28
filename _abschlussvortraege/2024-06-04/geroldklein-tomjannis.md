@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: hk
 thema: Ermittlung eines Nutzerprofiles von Studierenden mit Interesse an einem Auslandssemester
 kooperationspartner: TH Köln
-teaserimage: geroldklein-tomjannis-teaserimage.jpg
+teaserimage: geroldklein-tomjannis-teaserimage.jpeg
 stichworte: Auslandsaufenthalt, Auslandssemester, Internationale Angelegenheiten,  
 quelle-bildrechte-teaser: Mit Microsoft Image Creator erstellt
 ---
