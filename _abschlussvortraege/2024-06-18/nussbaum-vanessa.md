@@ -4,7 +4,7 @@ vorname: Vanessa
 datum: 2024-06-18
 uhrzeit: 10-00
 raum: 3.216 
-betreuer: Prof. Dr. Holger Günther
+betreuer: hg
 thema: Ist-Analyse der Informationsweiterleitung zur Nutzung von Microsoft Apps im Unternehmen ABLE Management Services (AMS)
 kooperationspartner: ABLE Management Services (AMS)
 teaserimage: nussbaum-vanessa-teaserimage.jpg
