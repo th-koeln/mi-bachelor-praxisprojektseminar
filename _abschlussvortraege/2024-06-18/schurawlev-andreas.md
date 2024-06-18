@@ -2,7 +2,7 @@
 nachname: Schurawlev
 vorname: Andreas
 datum: 2024-06-18
-uhrzeit: 09:30
+uhrzeit: 09-30
 raum:  3.216 
 betreuer: mb
 thema: "Entwicklung eines Systems zur Steuerung eines Auto-Radios außerhalb eines Fahrzeugs: Untersuchung und Ersatz des Canbus-Adapters"
