@@ -68,6 +68,9 @@ navigation:
   - url: abschlussvortraege/
     name: Abschlussvorträge
 
+  - url: alle-abschlussvortraege/
+    name: Übersicht Abschlussvorträge    
+
   - url: niveaustufen/
     name: Bewertung
 
