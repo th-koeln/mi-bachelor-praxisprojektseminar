@@ -4,7 +4,7 @@ vorname: Lennard
 datum: 2024-07-02
 uhrzeit: 11-00
 raum: 3.216 
-betreuer: sb
+betreuer: hk
 thema: Visualisierung landwirtschaftlicher Sensordaten mittels Augmented Reality
 kooperationspartner: TH Köln
 teaserimage: haering-lennard-teaserimage.jpg
