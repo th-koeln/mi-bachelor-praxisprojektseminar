@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: hvn
 typ: vortrag
 pflicht: false
-termine: 2024-07-16 11:00
+termine: 2024-07-16 10:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -12,11 +12,7 @@ info:
 ---
 
 ## Wie läuft die Veranstaltung ab?
-Die Abschlussvorträge werden vorerst nicht in Gummersbach vor Ort, sondern online über die Software Zoom stattfinden.
-
-Wenn Sie den Raum betreten, geben Sie bitte Vor- und Nachnamen als Usernamen an, damit wir die Personen in dem Raum zuordnen und die Anwesenheit protokollieren können.
-
-Beachten Sie zudem bitte die Hinweise [auf dieser Seite](/mi-bachelor-praxisprojektseminar/hinweise-onlinesessions).
+Die Abschlussvorträge werden vor Ort in Gummersbach im Raum 3.216 stattfinden.
 
 ## Was muss ich als Vortragender beachten?
 * sorgen Sie für eine gute Internetverbindung
