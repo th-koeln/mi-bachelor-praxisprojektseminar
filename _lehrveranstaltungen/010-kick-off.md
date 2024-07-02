@@ -4,10 +4,10 @@ kuerzel: kickoff
 verantwortlich: ma, nk
 typ: workshop
 pflicht: false
-termine: 2024-04-16 09:00|3.216, 2024-07-16 10:00|3.216
+termine: 2024-04-16 09:00|3.216, 2024-07-16 09:00|3.216
 empfohlene-voraussetzungen: 
 published: true
-dauer: 60
+dauer: 90
 info: 
 ---
 
