@@ -1,5 +1,4 @@
 ---
-
 nachname: Fuhrmann
 vorname: Lisa Marie
 datum: 2024-07-16
@@ -12,6 +11,7 @@ teaserimage: fuhrmann-lisa-teaserimage.jpg
 stichworte: Barrierefreiheit, Webentwicklung, alternative Steuerungsmethoden, Inklusives Design, Usability, UX-Design
 hinweise: Foto von [Elizabeth Woolner](https://unsplash.com/de/@elizabeth_woolner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/de/fotos/ein-laptop-sitzt-auf-einem-holzschreibtisch-u-LL8sy0ORs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 weiterfuehrende-themen: Erweiterung der barrierefreien Website-Navigation mit Künstlicher Intelligenz (KI) | Benutzerzentrierte Evaluierung von alternativen Eingabemethoden | Integration von Virtual Reality (VR) zur Verbesserung der Barrierefreiheit | Automatisierte Barrierefreiheits-Tests für Webseiten
+---
 
 ## Abstract
 
