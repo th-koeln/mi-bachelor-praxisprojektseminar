@@ -4,7 +4,7 @@ vorname: Alessa
 datum: 2024-07-16
 uhrzeit: 12-00
 raum:  R 3.216
-betreuer: Prof. Hans Kornacher
+betreuer: hk
 thema: Auswirkung der Gestaltung des Protagonisten auf die Immersion in Videospielen
 kooperationspartner: TH Köln
 teaserimage: vonscheidt-alessa-teaserimage.jpg
