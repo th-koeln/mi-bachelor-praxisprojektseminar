@@ -34,4 +34,5 @@ Teilnehmer hosten die Abschlussvorträge. Mehr dazu heute im KickOff oder in ein
 * [Ordnung zur Sicherung guter wissenschaftlicher Praxis der Technischen Hochschule Köln](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/endfassung_02_2020.pdf)
 * [LaTex Vorlage](https://ilias.th-koeln.de/goto.php?target=file_1355498_download&client_id=ILIAS_FH_Koeln)
 * [LaTex Tutorial](https://www.latex-tutorial.com)
+* [Folien Einführungsveranstaltung für das WS24/25](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar/blob/master/material/mi-praxisrojekt-einfuehrung.pdf)
 
