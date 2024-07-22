@@ -25,7 +25,7 @@ layout: default-reduced
       <img src="../{{thema.id}}/../{{thema.teaserimage}}" loading="lazy" class="mi-card__image">
       <figcaption class="mi-card__info">
         <h2 class="mi-card__headline">{{thema.thema}}</h2>
-        <p class="mi-card__teasertext">{{thema.vorname}} {{thema.nachname}}, {{thema.datum | date: '%Y' }}</p>
+        <p class="mi-card__teasertext">{{thema.vorname}} {{thema.nachname}}, {{thema.datum | date: "%d %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}, {{thema.uhrzeit | replace: "-", ":"}} Uhr</p>
       </figcaption>        
     </figure>
     </a>
