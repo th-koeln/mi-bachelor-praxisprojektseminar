@@ -1,18 +1,16 @@
 ---
 titel: Vorstellung Themenfeldanalyse
 kuerzel: pre
-verantwortlich: ma, nk
+verantwortlich: mib
 typ: workshop
 pflicht: false
-termine: 2024-04-17 10:00|3.215
+termine: 2024-10-08 10:00|3.215
 empfohlene-voraussetzungen: 
 published: true
-dauer: 300
-info: 
+dauer: 240
+info:
 ---
-
 Das heutige Programm besteht aus der Vorstellung der Themenfeldanalyse, inkl. Diskussion.
-
 
 ## Worum geht es?
 
@@ -32,9 +30,10 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 - 3-5 Fragen an das Plenum zum eigenen Thema
 
 ### Material
-- Esselborn-Krumbiegel, Helga: Von der Idee zum Text, Kapitel 5, Paderbron 2008, S. 35-49 \- [Download (Passwort geschützt)](../../material/von-der-idee-zur-fragestellung.pdf)  
-_Das Buch ist auch in der Bibliothek verfügbar._
 
+- Esselborn-Krumbiegel, Helga: Von der Idee zum Text, Kapitel 5, Paderbron 2008, S. 35-49 \- [Download (Passwort geschützt)](../../material/von-der-idee-zur-fragestellung.pdf)
+  _Das Buch ist auch in der Bibliothek verfügbar._
 
 ## Was muss geliefert werden?
+
 - Themenfeldcluster als PDF im [Ilias](https://ilu.th-koeln.de/goto.php?target=exc_311245&client_id=thkilu) bis zum 15. April hochladen

@@ -4,7 +4,6 @@
 {% assign endtime = 17 %}
 {% assign difftime = endtime | minus: starttime %}
 {% for week in site.data.dates %} {% assign week-count = week-count | plus: 1 %}
-
 <div class="timetable">
   <h2 class="title is-2" id="week-{{week-count}}"><span class="tag is-info">Woche {{week-count}}</span></h2>
   {% for days in week %} {% assign check = days["day-1"].datum | strip_newlines %} {% if check != "" %} {% assign
@@ -18,10 +17,21 @@
   <hr> {% endcomment %}
 
   <!--div class="columns"-->
-  {% assign day1 = days["day-1"] %} {% include /timetable-day.html day=day1 starttime=starttime difftime=difftime
-  time-correction=time-correction %} {% assign check = days["day-2"].datum | strip_newlines %} {% if check != "" %} {%
-  assign day2 = days["day-2"]
-  %} {% include /timetable-day.html day=day2 starttime=starttime difftime=difftime time-correction=time-correction %}
+  {% assign day1 = days["day-1"] %} 
+  {% include /timetable-day.html day=day1 starttime=starttime difftime=difftime time-correction=time-correction %} 
+  {% assign check = days["day-2"].datum | strip_newlines %} 
+  {% if check != "" %} 
+    {% assign day2 = days["day-2"] %} 
+    {% include /timetable-day.html day=day2 starttime=starttime difftime=difftime time-correction=time-correction %}
+  {% endif %}
+  {% assign check = days["day-3"].datum | strip_newlines %} 
+  {% if check != "" %} 
+    {% assign day3 = days["day-3"] %} 
+    {% include /timetable-day.html day=day3 starttime=starttime difftime=difftime time-correction=time-correction %}
+  {% endif %}
+  {% if check != "" %} 
+    {% assign day4 = days["day-4"] %} 
+    {% include /timetable-day.html day=day4 starttime=starttime difftime=difftime time-correction=time-correction %}
   {% endif %}
   <!--/div-->
 
