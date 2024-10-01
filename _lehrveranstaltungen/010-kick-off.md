@@ -4,7 +4,7 @@ kuerzel: kickoff
 verantwortlich: hvn
 typ: workshop
 pflicht: false
-termine: 2024-10-07 10:00|3.215, 2025-01-28 10:00|3.216
+termine: 2024-10-07 10:00|3.216, 2025-01-28 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60

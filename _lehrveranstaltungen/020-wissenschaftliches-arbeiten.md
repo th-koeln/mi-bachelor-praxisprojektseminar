@@ -4,7 +4,7 @@ kuerzel: kickoff
 verantwortlich: mib
 typ: workshop
 pflicht: false
-termine: 2024-10-07 11:00|3.215
+termine: 2024-10-07 11:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
