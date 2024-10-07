@@ -25,15 +25,9 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 ## Was muss vorbereitet werden?
 
-- Themenfeldanalyse des eigenen Themas als Mindmap, Cluster oder Concept Map. Bitte **KEINE** Präsentation vorbereiten und als PDF im [Ilias](https://ilu.th-koeln.de/goto.php?target=exc_311245&client_id=thkilu) bis zum 16. April hochladen
-- Kurzvortrag zum eigenen Themenfeld
-- 3-5 Fragen an das Plenum zum eigenen Thema
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
 
-### Material
-
-- Esselborn-Krumbiegel, Helga: Von der Idee zum Text, Kapitel 5, Paderbron 2008, S. 35-49 \- [Download (Passwort geschützt)](../../material/von-der-idee-zur-fragestellung.pdf)
-  _Das Buch ist auch in der Bibliothek verfügbar._
 
 ## Was muss geliefert werden?
 
-- Themenfeldcluster als PDF im [Ilias](https://ilu.th-koeln.de/goto.php?target=exc_311245&client_id=thkilu) bis zum 15. April hochladen
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
