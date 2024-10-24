@@ -34,20 +34,8 @@ Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.216 und später 
 
 ## Was muss vorbereitet werden?
 
-Es muss sich mit LaTex beschäftigt werden. Jede/r sollte ein Dokument vorbereitet haben, in der sie oder er das Exposé schreiben kann.
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
 
 ## Was muss geliefert werden?
 
-Der Anfang eines Exposés, welches in Hausarbeit fertig gestellt wird.
-
-Die Benamung sollte folgendem Muster entsprechen:
-
-> NACHNAMEAUTOR-VORNAMEAUTOR-pp-SEMSTERKUERZEL-SEMESTERJAHR.pdf
-
-Am Beispiel eines Exposés von Viet Nguyen(Autor) im Sommersemester 2024:
-
-> nguyen-viet-pp-ss-2024.pdf
-
-Am Beispiel eines Exposés von Viet Nguyen(Autor) im Wintersemester 2023/24:
-
-> nguyen-viet-pp-ws-2023-2024.pdf
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
