@@ -22,11 +22,11 @@ Das Tool AltText.ai macht sich Image Captioning zunutze, um Alternativtexte für
 
 ## Material & weiterführende Infos
 
-- [AltText.ai](https://alttext.ai)
-- [W3C Web Accessibility Initiative | Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
-- [WebAIM | web accessibility in mind](https://webaim.org/techniques/alttext/)
+- [AltText.ai](https://alttext.ai/)
+- [W3C Web Accessibility Initiative - Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
+- [WebAIM - web accessibility in mind](https://webaim.org/techniques/alttext/)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/images.html#alt)
-- [University Of South Carolina | Digital Accessibility](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/)
+- [University Of South Carolina - Digital Accessibility](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/)
 
 ## Weiterführende Themen
 
