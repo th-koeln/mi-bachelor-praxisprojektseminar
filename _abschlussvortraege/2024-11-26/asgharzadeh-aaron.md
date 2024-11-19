@@ -22,7 +22,7 @@ Das Tool AltText.ai macht sich Image Captioning zunutze, um Alternativtexte für
 
 ## Material & weiterführende Infos
 
-- [AltText.ai](https://alttext.ai/)
+- [AltText.ai](https://alttext.ai)
 - [W3C Web Accessibility Initiative | Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
 - [WebAIM | web accessibility in mind](https://webaim.org/techniques/alttext/)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/images.html#alt)
