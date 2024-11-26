@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: hvn
 thema: Entwicklung und Implementierung eines spielerischen Lernsystems für GitHub
 kooperationspartner: TH Köln
-teaserimage: martinez-anouk-teaserimage.jpg
+teaserimage: martinez-anouk-teaserimage.png
 stichworte: Informatik, Bildung, Lernspiel, Gamification, Storytelling
 quelle-bildrechte-teaser: Anouk Martinez
 ---
