@@ -26,4 +26,4 @@ Die Projektdokumentation mit Ergebnissen der Studie im Anhang und ein Walkthroug
 
 ## Weiterführende Themen
 - Weitere Studien zu Presence unter Berücksichtigung anderer Faktoren, z.B. Einbindung von Audio oder haptischem Feedback.
-- Einfluss von realistischen vs. abstrahierten virtuellen Umgebungen auf die Immersion - da in diesem Projekt nur mit Videos aus der realen Welt gearbeitet wurde, könnte es interessant sein, ebenfalls die Wirkung von Fantasiewelten auf Immersion/Presence zu erforschen.
+- Einfluss von realistischen vs. abstrahierten virtuellen Umgebungen auf die Immersion - da in diesem Projekt nur mit Videos aus der realen Welt gearbeitet wurde, könnte es interessant sein, ebenfalls die Wirkung von Fantasiewelten auf Immersion/Presence zu untersuchen.
