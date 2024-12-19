@@ -1,6 +1,6 @@
 ---
-nachname: Strebinger und Penner
-vorname: Paul und Justin
+nachname: Paul Strebinger
+vorname: Justin Penner,
 datum: 2025-01-14
 uhrzeit: 11-00
 raum: 3.216 
@@ -9,7 +9,7 @@ thema: Browsererweiterung zur automatisierten Erkennung von Accessibility-Proble
 kooperationspartner: TH Köln
 teaserimage: strebinger-paul-penner-justin-teaserimage.webp
 stichworte: Chrome Extension, Accessibility, Barrierefreiheit, Accesstra, Web, European Accessibility Act, BITV, WCAG
-quelle-bildrechte-teaser: Bild von Freepic (https://www.freepik.com/free-photo/group-people-working-together-office_7071607.htm#fromView=keyword&page=1&position=0&uuid=e4149cb3-3711-4599-9254-628a6ac1a8df)
+quelle-bildrechte-teaser: Bild von Freepic
 ---
 
 ## Abstract
