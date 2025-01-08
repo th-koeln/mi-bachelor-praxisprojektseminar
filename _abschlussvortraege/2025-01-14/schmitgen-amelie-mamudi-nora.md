@@ -7,7 +7,7 @@ raum:  3.216
 betreuer: hk
 thema: Der Einfluss der audiovisuellen Postproduktion auf die Zuschauerwahrnehmung im Reality-TV
 kooperationspartner: TH Köln
-teaserimage: Schmitgen-Mamudi-Teaserimage.jpg
+teaserimage: Schmitgen-Mamudi-Teaserimage.JPG
 stichworte: Postproduktion, Reality-TV, Inszenierung, Zuschauerwahrnehmung 
 quelle-bildrechte-teaser: https://www.freepik.com/free-photo/video-editor-content-creator-filming-tutorial-about-professionally-editing-footage_172749994.htm#fromView=image_search&page=1&position=0&uuid=8254bd0c-da23-4cd1-9f24-f76a58b32988
 
