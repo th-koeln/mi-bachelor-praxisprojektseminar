@@ -38,5 +38,3 @@ https://drive.google.com/drive/folders/1katLP6ecC2bwjYMPgyRsPtVGdX-5kIDD?usp=sha
 * Untersuchung der Auswirkungen verschiedener Animationsprinzipien aufeinander
 * Untersuchung der Wirkung des Programms auf Nutzer/innen
 * Untersuchung verschiedener Animationsprinzipien in anderen Medien
-
-
