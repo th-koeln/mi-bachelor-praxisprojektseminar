@@ -5,7 +5,7 @@ datum: 2025-01-28
 uhrzeit: 10-30
 raum: 3.216 
 betreuer: moe
-thema: Konzeption einer mobilen Transaktionsplattform für Famillienunternehmen und Mittelstand zur Unterstützung der Nachfolgesuche
+thema: Konzeption einer mobilen Transaktionsplattform für Familienunternehmen und Mittelstand zur Unterstützung der Nachfolgesuche
 kooperationspartner: KPMG AG Wirtschaftsprüfungsgesellschaft & KPMG IT Service GmbH
 teaserimage: nguyen-huyentrang-teaserimage.png
 stichworte: Familienunternehmen, Mittelstand, Transaktionsplattform, Nachfolgesuche, Smartphone, Privatsphäre, Zwei-Faktor-Authentisierung, AusweisApp, Geschäftsmodell, Business Model Canvas, Mensch-Computer-Interaktion
@@ -39,5 +39,5 @@ Dieses Projekt bietet Medieninformatiker:innen die Gelegenheit, ihre Kenntnisse 
 * Entwicklung einer Anwendung mit Integration der Online-Ausweisfunktion mit dem Software Development Kit (SDK) der AusweisApp
 * Untersuchung von Sicherheitskonzepten zur Minderung von Cyberangriffen auf Transaktionsplattformen
 * Entwicklung und Prüfung von Start-up-Ideen mit dem Business Model Canvas
-* Analyse der Herausforderungen und Erfolgsfaktoren bei der digitalen Transformation von Nachfolgeprozessen in Famillienunternehmen oder mittelständischen Unternehmen
+* Analyse der Herausforderungen und Erfolgsfaktoren bei der digitalen Transformation von Nachfolgeprozessen in Familienunternehmen oder mittelständischen Unternehmen
 * Untersuchung der User Experience auf mobilen Transaktionsplattformen und deren Einfluss auf die Akzeptanz neuer Technologien in der Nachfolgeplanung
