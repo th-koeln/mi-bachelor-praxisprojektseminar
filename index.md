@@ -84,4 +84,4 @@ Mit dem Sommersemester 2019 wurden ein paar neue Spielregeln eingeführt, es gib
 
 ## Wer macht es?
 
-Verantwortlicher Dozent ist Prof. Dr. Hoai Viet Nguyen. Das Seminar wird federführend von Markus Alterauge und Nathalie Kuhn betreut.
+Verantwortlicher Dozent ist Prof. Dr. Hoai Viet Nguyen. Die Seminare werden von Frau Prof. Dr. Mirjam Blümm geleitet. 
