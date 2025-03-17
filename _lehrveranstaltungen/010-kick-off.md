@@ -4,7 +4,7 @@ kuerzel: kickoff
 verantwortlich: hvn
 typ: workshop
 pflicht: false
-termine: 2024-10-07 10:00|3.216, 2025-01-28 10:00|3.216
+termine: 2025-04-02 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
@@ -12,7 +12,7 @@ info:
 ---
 ## Wie läuft die Veranstaltung ab?
 
-Die heutige Veranstaltung findet vor Ort im Raum 3.216 statt. Diese Veranstaltung ist für Medieninformatik Studierende relevant, die am Praxisprojekt im Sommersemester 2024 teilnehmen wollen.
+Die heutige Veranstaltung findet vor Ort im Raum 3.216 statt. Diese Veranstaltung ist für Medieninformatik Studierende relevant, die am Praxisprojekt im Sommersemester 2025 teilnehmen wollen.
 
 ## Worum geht es?
 

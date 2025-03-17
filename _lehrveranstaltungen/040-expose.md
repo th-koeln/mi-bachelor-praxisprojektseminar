@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: mib
 typ: workshop
 pflicht: false
-termine: 2024-10-08 14:00|3.216
+termine: 2024-04-16 14:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
