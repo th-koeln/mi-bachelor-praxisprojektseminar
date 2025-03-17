@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: mib
 typ: workshop
 pflicht: false
-termine: 2024-04-16 10:00|3.216
+termine: 2025-04-16 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 240
@@ -26,7 +26,6 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 ## Was muss vorbereitet werden?
 
 Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
-
 
 ## Was muss geliefert werden?
 
