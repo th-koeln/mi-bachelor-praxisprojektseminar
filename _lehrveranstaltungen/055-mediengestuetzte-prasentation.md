@@ -7,7 +7,7 @@ pflicht: false
 termine: 2025-04-30 12:00|3.215
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 180
 info:
 ---
 ## Worum geht es?
