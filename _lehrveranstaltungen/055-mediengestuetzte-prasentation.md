@@ -1,7 +1,7 @@
 ---
 titel: Mediengestützte Präsentation & Livesession
 kuerzel: pre
-verantwortlich: mib
+verantwortlich: hvn
 typ: workshop
 pflicht: false
 termine: 2025-04-30 12:00|3.215

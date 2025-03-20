@@ -4,10 +4,10 @@ kuerzel: pre
 verantwortlich: mib
 typ: workshop
 pflicht: false
-termine: 2025-04-16 14:00|3.216
+termine: 2025-04-16 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 180
 info:
 ---
 ## Worum geht es?

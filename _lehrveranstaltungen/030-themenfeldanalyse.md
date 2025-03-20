@@ -4,10 +4,10 @@ kuerzel: pre
 verantwortlich: mib
 typ: workshop
 pflicht: false
-termine: 2025-04-16 10:00|3.216
+termine: 2025-04-09 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
-dauer: 240
+dauer: 180
 info:
 ---
 Das heutige Programm besteht aus der Vorstellung der Themenfeldanalyse, inkl. Diskussion.

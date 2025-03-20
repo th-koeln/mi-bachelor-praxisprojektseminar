@@ -4,10 +4,10 @@ kuerzel: kickoff
 verantwortlich: mib
 typ: workshop
 pflicht: false
-termine: 2025-04-09 10:00|3.216
+termine: 2025-04-01 10:30|3.216
 empfohlene-voraussetzungen: 
 published: true
-dauer: 300
+dauer: 150
 info:
 ---
 ## Worum geht es?
