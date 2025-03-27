@@ -1,6 +1,6 @@
 ---
 titel: Workshop Wissenschaftliches Arbeiten
-kuerzel: wiss
+kuerzel: pre
 verantwortlich: mib
 typ: workshop
 pflicht: false
