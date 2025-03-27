@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: hvn
 typ: workshop
 pflicht: false
-termine: 2025-04-30 12:00|3.215
+termine: 2025-04-28 12:00|3.215
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

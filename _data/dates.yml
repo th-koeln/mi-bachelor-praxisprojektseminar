@@ -24,10 +24,10 @@ week-4:
     name: Mittwoch
 week-5:
   day-1:
-    datum: 2025-04-30
+    datum: 2025-04-28
     start: "10:00"
     end: "17:00"
-    name: Mittwoch
+    name: Montag
 week-6:
   day-1:
     datum: 2025-05-07
