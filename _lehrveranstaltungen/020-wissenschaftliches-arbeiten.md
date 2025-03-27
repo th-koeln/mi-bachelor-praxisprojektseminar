@@ -1,6 +1,6 @@
 ---
 titel: Workshop Wissenschaftliches Arbeiten
-kuerzel: kickoff
+kuerzel: wiss
 verantwortlich: mib
 typ: workshop
 pflicht: false
