@@ -14,17 +14,15 @@ info:
 
 Das Exposé ist eine tolle Sache! Hiermit richten Sie sich und Ihre Arbeit aus, haben eine wunderbare Diskussionsgrundlage für Gespräche mit Betreuer und anderen Interessierten und vor allem: Sie können mit diesem übersichlichen kleinen Dokument schon mal wissenschaftliches Schreiben üben.
 
-Heute wird Ihnen Zeit gegeben das Exposé zu schreiben. Der Anfang soll gemacht und in Hausarbeit fertig gestellt werden. Voraussetzung zum Schreiben des Exposés ist LaTex.
-
 ## Was sind die Ziele?
 
 - Grundlagen des wissenschaftlichen Arbeitens anwenden
 - Erste Erfahrung mit LaTex sammeln
 - kurzen Fachdiskurs zu ausgewählten Punkten anregen
 
-## Wie läuft die Veranstaltung ab?
+<!-- ## Wie läuft die Veranstaltung ab?
 
-Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.216 und später in 3.217/3.218 stattfinden.
+Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.216 und später in 3.217/3.218 stattfinden. -->
 
 ## Material
 
@@ -34,8 +32,8 @@ Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.216 und später 
 
 ## Was muss vorbereitet werden?
 
-Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=560305)
 
 ## Was muss geliefert werden?
 
-Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=560305)
