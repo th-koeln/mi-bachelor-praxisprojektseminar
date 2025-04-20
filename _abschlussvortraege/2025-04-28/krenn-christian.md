@@ -2,7 +2,7 @@
 nachname: Krenn
 vorname: Christian
 datum: 2025-04-28
-uhrzeit: 11-30
+uhrzeit: 11-00
 raum: 3.216 
 betreuer: hvn
 thema: Entwicklung, prototypische Implementierung und Evaluation einer serverseitigen Trackingstrategie am Anwendungsfall der Agenturwebsite der elancer-team GmbH
