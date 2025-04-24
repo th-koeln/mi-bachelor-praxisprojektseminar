@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: hvn
 thema: Entwicklung, prototypische Implementierung und Evaluation einer serverseitigen Trackingstrategie am Anwendungsfall der Agenturwebsite der elancer-team GmbH
 kooperationspartner: TH Köln
-teaserimage: krenn-christian-teaserimage.webp
+teaserimage: krenn-christian-teaserimage.png
 stichworte: Server Side Tracking, Tracking Prevention, Online Marketing, Trackingstrategie, Clientseitiges Tracking, Datenschutz (DSGVO), Tracking-Technologien, Ad-Blocker
 quelle-bildrechte-teaser: Eigene Gestaltung; Illustrationen von Freepik
 ---
