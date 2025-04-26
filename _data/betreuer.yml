@@ -13,15 +13,15 @@ moe:
 
 pb:
   name: Paul Bagiu
-  
+
 kf:
   name: Prof. Dr. Kristian Fischer
-  
+
 ck:
   name: Prof. Dr. Christian Kohls
   email: christian.kohls@th-koeln.de
   anrede: Christian
-  
+
 gh:
   name: Prof. Dr. Gerhard Hartmann
   anrede: Gerhard
@@ -40,43 +40,43 @@ me:
 
 fv:
   name: Prof. Dr. Frank Victor
-  
+
 lk:
   name: Prof. Dr. Lutz Köhler
-  
+
 mb:
   name: Prof. Dr. Matthias Böhmer
   anrede: Matthias
-  
+
 ab:
   name: Prof. Dr. Arno Bitzer
-  
+
 bb:
   name: Prof. Dr. Birgit Bertelsmeier
-  
+
 hfw:
   name: Prof. Dr. Heide Faeskorn-Woyke
-  
+
 sk:
   name: Prof. Dr. Stefan Karsch
   anrede: Stefan
 
 hls:
   name: Prof. Dr. Hans L. Stahl
-  
+
 wk:
   name: Prof. Dr. Wolfgang Konen
   anrede: Wolfgang
-  
+
 hg:
   name: Prof. Dr. Holger Günther
-  
+
 db:
   name: Dipl.-Inform. (FH) Dennis Buderus
-  
-bn: 
+
+bn:
   name: Prof. Dr. Boris Naujoks
-  
+
 rm:
   name: Prof. Dr. Roman Majewski
 
@@ -99,10 +99,10 @@ um:
 
 hs:
   name: Prof. Dr. Horst Stenzel
-  
+
 mi:
   name: Prof. Dr. Martin Eisemann, Prof. Dr. Kristian Fischer, Prof. Dr. Gerhard Hartmann, Prof. Dr. Christian Kohls, Prof. Hans Kornacher, Prof. Christian Noss, Prof. Dr. Mario Winter
-  
+
 all:
   name: alle Informatik Professoren
 
@@ -117,7 +117,7 @@ se:
 
 sls:
   name: Simon Ludwig Schulte
-  
+
 rg:
   name: Prof. Dr. Raphaela Groten
 
@@ -148,6 +148,10 @@ ff:
 ad:
   name: Alexander Dobrynin
   email: alexander.dobrynin@th-koeln.de
+
 mz:
    name: Prof. Dr. Matthias Zapp
    email: matthias.zapp@th-koeln.de
+
+abert:
+  name: Anja Bertels
