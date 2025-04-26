@@ -5,7 +5,7 @@ datum: 2025-04-28
 uhrzeit: 10-30
 raum:  3.216
 betreuer: cn
-thema: Innovative Bildkonzepte für die Medieninformatik: Visualisierung mit Künstlicher Intelligenz,  zur gezielten Ansprache zukünftiger Studierender
+thema: "Innovative Bildkonzepte für die Medieninformatik: Visualisierung mit Künstlicher Intelligenz,  zur gezielten Ansprache zukünftiger Studierender"
 kooperationspartner: TH Köln
 teaserimage: niemczyk-ermira-teaserimage.jpg
 stichworte: Künstliche Intelligenz, Visuelle Kommunikation, Medieninformatik, Text-to-Image
