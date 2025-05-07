@@ -2,7 +2,7 @@
 nachname: Myrcik
 vorname: Daniel
 datum: 2025-05-14
-uhrzeit: 12-00
+uhrzeit: 11-30
 raum: 3.216
 betreuer: hk
 thema: „Experimentelle Untersuchung von 360°-Videoaufnahmen im Hochschulkontext am Beispiel der Insta360 Pro 2“
