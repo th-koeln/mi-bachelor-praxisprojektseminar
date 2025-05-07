@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: um
 thema: Eventkultur am Campus Gummersbach
 kooperationspartner: TH Köln
-teaserimage: moujtahid-abdelbasset-teaserimage.jpg
+teaserimage: schadwinkel-meliha-teaserimage.jpg
 stichworte: Events, Campusleben, Empirische Forschung
 quelle-bildrechte-teaser: Erstellt mit ChatGPT
 ---
