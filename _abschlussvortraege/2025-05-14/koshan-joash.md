@@ -5,7 +5,7 @@ datum: 2025-05-14
 uhrzeit: 10-00
 raum: 3.216 
 betreuer: hk
-thema: Wie beeinflusst die Filmusik die Wahrnehmung der Zuschauer während des Films
+thema: Wie beeinflusst die Filmmusik die Wahrnehmung der Zuschauer während des Films
 kooperationspartner: TH Köln
 teaserimage: koshan-joash.png
 stichworte: Filmmusik, Komposition, Gestaltung
