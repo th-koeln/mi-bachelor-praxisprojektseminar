@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: hk
 thema: „Experimentelle Untersuchung von 360°-Videoaufnahmen im Hochschulkontext am Beispiel der Insta360 Pro 2“
 kooperationspartner: TH Köln
-teaserimage: myrcik-daniel-teaserimage.png
+teaserimage: myrcik-daniel.png
 stichworte: Kameratechnik, 360 Grad, Videovorstellung, Insta360, Audiovisuelles Medienprojekt
 quelle-bildrechte-teaser: Generiert mit ChatGPT
 ---
