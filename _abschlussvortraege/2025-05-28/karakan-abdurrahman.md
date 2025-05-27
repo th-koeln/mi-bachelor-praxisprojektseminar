@@ -1,8 +1,8 @@
 ---
-nachname: Karakan
-vorname: Abdurrahman
+nachname: Karakan Abdurrahman,
+vorname: Yasha Müller
 datum: 2025-05-28
-uhrzeit: 12-00
+uhrzeit: 10-30
 raum: 3.216 
 betreuer: nk
 thema: Konzeption einer Plattform zur Vermittlung von Testpersonen mit Behinderung Usability Tests
@@ -11,14 +11,13 @@ teaserimage: karakan-abdurrahman.jpeg
 stichworte: Accessibility, Userbility-Testing, UX-Design
 quelle-bildrechte-teaser: Alle Rechte vorbehalten.
 ---
-
 ## Abstract
 
 Durch das Inkrafttreten des Barrierefreiheitsstärkungsgesetz (BFSG) am 25. Juni 2025 wird die Barrierefreiheit bei der Entwicklung digitaler Systeme immer wichtiger. Um die Bedürfnisse von Menschen mit Behinderung zu gewährleisten, müssen diese ebenfalls bei den Usabilty Testings miteinbezogen werden. Ein häufiges Problem hierbei ist, dass die Unternehmen zwar gewillt sind, diese umzusetzen, sich das Auffinden entsprechender Testpersonen jedoch oftmals schwierig gestaltet.
 
-Das Ziel des Projekts ist es, Nutzer\*innenbedürfnisse für eine Plattform zu ermitteln, die die Vermittlung von Testpersonen mit Behinderung für Usability Tests vereinfacht. 
+Das Ziel des Projekts ist es, Nutzer\*innenbedürfnisse für eine Plattform zu ermitteln, die die Vermittlung von Testpersonen mit Behinderung für Usability Tests vereinfacht.
 
-### Vorgehensweise 
+### Vorgehensweise
 
 Das Projekt gliedert sich in zwei Teilprojekte:
 
