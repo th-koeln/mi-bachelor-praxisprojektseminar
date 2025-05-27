@@ -1,5 +1,5 @@
 ---
-nachname: Karakan Abdurrahman,
+nachname: Karakan Abdurrahman
 vorname: Yasha Müller
 datum: 2025-05-28
 uhrzeit: 10-30
