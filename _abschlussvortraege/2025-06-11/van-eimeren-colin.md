@@ -5,7 +5,7 @@ datum: 2025-06-11
 uhrzeit: 11-00
 raum: 3.216
 betreuer: hk
-thema: „Von der Leinwand zum Controller: Eine Analyse von Videospielen als Filmadaptionen“
+thema: „Von der Leinwand zum Controller - Eine Analyse von Videospielen als Filmadaptionen“
 kooperationspartner: TH Köln
 teaserimage: van-eimeren-colin-teaserimage.jpg
 stichworte: Videospieladaptionen, Immersion, Spielerzentriertes Design, Playability, Game Design, Kriterienbasierte Bewertung
