@@ -1,29 +1,28 @@
 ---
-nachname: Amir Khanian
-vorname: Losik
-datum: 2025-06-11
-uhrzeit: 11-30
+nachname: Vuco
+vorname: Paula
+datum: 2025-06-25
+uhrzeit: 10-30
 raum: 3.216 
 betreuer: hk
-thema: Visuelles Storytelling in Werbespots – Konzeption und gestalterische Umsetzung anhand eines selbstkonzipierten Werbespots
+thema: Die Darstellung von Einsamkeit - Eine gestalterische Untersuchung bildsprachlicher Mittel
 kooperationspartner: TH Köln
-teaserimage: Amir-Khanian-Losik-teaserimage.png
-stichworte: Visuelles Storytelling, Werbespot, Gestaltungsmittel,  Zielgruppe, emotionale Ansprache
+teaserimage: vuco-paula-teaserimage.png
+stichworte: Einsamkeit, Bildsprache, Filmästhetik, Gestaltungsmittel, emotionale Wirkung 
 quelle-bildrechte-teaser: erstellt mit Chat GPT
 ---
 
 ## Abstract
-Wie kann ein Werbespot in wenigen Sekunden Aufmerksamkeit erzeugen, Emotionen hervorrufen und gleichzeitig die Markenbotschaft so vermitteln, dass sie langfristig im Gedächtnis bleibt? Die Antwort: durch visuelles Storytelling. Dabei werden Bilder, Farben, Symbole und andere visuelle Elemente gezielt eingesetzt, um Inhalte nicht nur verständlich, sondern auch emotional wirkungsvoll zu vermitteln. 
+Das Praxisprojekt beschäftigt sich mit der filmischen Darstellung von Einsamkeit und untersucht, wie sich emotionale Zustände allein durch visuelle Mittel vermitteln lassen. Im Mittelpunkt stehen dabei gestalterische Komponenten wie Kameraeinstellungen, Licht, Farbe, Bildkomposition, Montage und Ton. Schauspiel und Dialoge werden bewusst ausgeklammert, um den Fokus auf die visuelle Umsetzung zu legen.
 
-Dieses Praxisprojekt untersucht, wie visuelles Storytelling eingesetzt werden kann, um die Botschaft einer Marke emotional und überzeugend zu präsentieren. Anhand eines eigens entwickelten Konzepts für einen Coca-Cola Werbespot werden zentrale Gestaltungsmittel wie Einstellungsgrößen, Lichtgestaltung, Farbgestaltung und Typografie gezielt verwendet, um Werte wie Freude, Gemeinschaft und kulturelle Vielfalt sichtbar zu machen und eine stärkere Verbindung zur Zielgruppe aufzubauen. 
+Ausgehend von einer Analyse ausgewählter Filmszenen, unter anderem aus Filmen wie Lost in Translation, Her und Blade Runner 2049, sowie auf Basis einschlägiger Fachliteratur wurde ein Kriterienkatalog entwickelt. Dieser fasst typische Gestaltungsmuster zur Darstellung von Isolation und innerer Leere zusammen. Dieser diente als Grundlage für die Entwicklung eigener filmischer Szenen, in denen die visuellen Mittel gezielt eingesetzt wurden, um Einsamkeit erfahrbar zu machen.
 
-Die Arbeit verbindet theoretische Grundlagen mit einem kreativen Werbekonzept und zeigt, wie Gestaltungselemente auf unterschiedliche Zielgruppen abgestimmt werden können. Ein besonderer Fokus liegt auf der Darstellung kultureller Vielfalt. Sie ist ein Bestandteil der internationalen Markenidentität von Coca-Cola.
+In der Arbeit werden theoretische Erkenntnisse mit einer praktischen, gestalterischen Umsetzung kombiniert. So wird gezeigt, wie visuelle Elemente emotional wirksam eingesetzt werden können auch mit einfachen Mitteln und in reduzierten Szenarien. Die Ergebnisse machen deutlich, dass sich emotionale Inhalte im Film nicht über Sprache, sondern ebenso präzise und aussagekräftig über Bildräume, Lichtverhältnisse und Kompositionsprinzipien vermitteln lassen.
 
-Ein zentrales Ergebnis ist ein Mockup Video, das veranschaulicht, wie die theoretisch erarbeiteten Techniken in einem Werbespot praktisch angewendet werden können. Der Werbespot verwendet einen Einstieg, emotionale Szenen und eine Aufforderung, um die Botschaft der Marke in kurzer Zeit effektiv und schnell zu präsentieren.
 
 
 ## Weiterführende Themen
-* Erweiterung der Techniken des visuellen Storytellings
-* Entwicklung eines Social Media Werbespots mit Fokus auf visuelles Storytelling
-* Analyse der Wirkung visueller Gestaltungsmittel auf verschiedene Altersgruppen in der Werbung
+* Entwicklung eines Filters, der Isolation in Videos darstellt
+* Filmische Gestaltung von Einsamkeit in Games
+* Visualisierung von Einsamkeit in Instagram-Reels oder TikTok-Videos
 
