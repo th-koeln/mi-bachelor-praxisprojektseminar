@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: hk
 thema: Die Darstellung von Einsamkeit - Eine gestalterische Untersuchung bildsprachlicher Mittel
 kooperationspartner: TH Köln
-teaserimage: vuco-paula-teaserimage.png
+teaserimage: vuco-paula-teaserimage.jpg
 stichworte: Einsamkeit, Bildsprache, Filmästhetik, Gestaltungsmittel, emotionale Wirkung 
 quelle-bildrechte-teaser: erstellt mit Chat GPT
 ---
