@@ -9,7 +9,8 @@ thema: Inklusive Webentwicklung - Nachhaltig und barrierefrei
 kooperationspartner: Vorwärts Spoho 98 e.V.
 teaserimage: neufeld-nicole-teaserimage.jpg
 stichworte: Webentwicklung, Design, UX/UI, Website, Barrierefreiheit
-hinweise:
+Bildrechte: Verwendet mit Genehmigung von Lea Wippermann (https://vorwaertsspoho.de/)
+
 ---
 
 ## Abstract
