@@ -1,8 +1,8 @@
 ---
 nachname: Notzon
 vorname: Jonas
-datum: 2025-06-25
-uhrzeit: 12-00
+datum: 2025-07-09
+uhrzeit: 13-30
 raum: 3.216 
 betreuer: hk
 thema: Wie kann mit Methoden des modernen Sounddesigns eine Szene verändert werden?
