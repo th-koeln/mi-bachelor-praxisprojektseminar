@@ -2,7 +2,7 @@
 nachname: Sancak
 vorname: Büsra
 datum: 2025-07-09
-uhrzeit: 13-30
+uhrzeit: 13-00
 raum:  3.216
 betreuer: hk
 thema: Welchen verschiedenen filmische Techniken werden in Serien eingesetzt, um Emotionen
