@@ -1,23 +1,35 @@
 ---
-nachname: Hess
-vorname: Julian
-datum: 2022-12-20
-uhrzeit: 11-30
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: mbl
-thema: Richtlinien und Gestaltungselemente für die Erwachsenenbildung anhand einer barrierefreien E-Learning-Plattform
-kooperationspartner: TH Köln
-teaserimage: hess-julian-teaserimage.jpg
-stichworte: Barrierefreiheit, Zugänglichkeit, E-Learning, UX 
-quelle-bildrechte-teaser: https://www.istockphoto.com/de/foto/barrierefreiheit-computer-icon-stock-foto-gm1319994839-406696969
+nachname: Bernhardt
+vorname: Cherilyn
+datum: 2025-07-09
+uhrzeit: 15-30
+raum: 3.216 
+betreuer: um
+thema: Nutzerbindung durch Treuepunkte-Apps im Lebensmittelsektor - Der Einfluss von Gamification, Personalisierung und Datenverarbeitung
+teaserimage: bernhardt-cherilyn-teaserimage.jpg
+stichworte: Treupunktsapps, Kundenbindung, Gamification, Nuterfreundlichkeit, Datenverarbeitung, Personalisierung, Lebensmittelsektor 
+quelle-bildrechte-teaser: Erstellt mir Leonardo.Ai
 hinweise:
-weiterfuehrende-themen: Barrierefreies Corporate Design für Menschen mit Farbblindheit anhand einer Anwendung | Erstellung von barrierefreien Videos mit Untertitel/Audiodeskription/Gebärdensprache
+weiterfuehrende-themen: Gestaltung einer nutzerfreundlichen UI/UX | Best Practices für Mobile UX im Lebensmittelsektor | Aufbau eines effektiven und verständlichen Treuepunktsystems | Barrierefreies Design für wenig technikaffine Zielgruppen | Ethische Nutzung von Kundendaten (Datenschutz, DSGVO) | Designanalyse von UI-/UX-Standards unterschiedlicher Unternhemen
 ---
 
 ## Abstract
+Fast alle kennen sie, viele nutzen sie täglich beim Lebensmitteleinkauf. Treuepunkte-Apps sind längst ein fester Bestandteil unseres Konsumalltags geworden. Händlerspezifische Bonusprogramme wie Lidl Plus, Rewe Bonus oder die Kaufland Card sind kaum noch wegzudenken. Sie versprechen Rabatte, Coupons und Sonderangebote für treue Kund:innen.
 
-Ein barrierefreier Webauftritt ermöglicht allen Menschen den Zugriff auf Informationen, unabhängig von Herkunft, Sprache, verwendeter Technik oder sozialem Hintergrund. Ein Webauftritt gilt dann als barrierefrei, wenn sich sensorische Einschränkungen wie hören und sehen, motorische oder kognitive Einschränkungen nicht auf auf die Nutzung auswirken.
-Das Ziel der vorliegenden Ausarbeitung zum Praxisprojekt ist es, zu beantworten, wie sich eine E-Learning-Plattform mit größtmöglicher Zugänglichkeit für Menschen mit senorischen Einschränkungen gestalten lässt. Dazu wird folgende Forschungsfrage gestellt: Wie lässt sich eine Plattform für digitale Bildung gestalten, die eine größtmögliche Zugänglichkeit für Menschen mit sensorischen Einschränkungen bietet? 
+Doch wie beeinflussen die Gestaltung und die verwendeten Technologien in Treuepunkte-Apps (z. B. Gamification, Personalisierung, Datenanalyse) das Nutzer:innen-Engagement und die Kundenbindung im Supermarktsektor? Und welche Unternehmen bieten eine bessere Nutzer:innenerfahrung, die dazu motiviert, die App regelmäßig weiterzuverwenden?
 
-Um die Forschungsfrage zu beantworten, wurde der Prozess der menschzentrierten Gestaltung nach DIN EN ISO 9241-210 auf die Projektgröße adaptiert. Zunächst wurden im alle grundlegenden Eigenschaften, Hilfsmittel und Ziele von Menschen mit sensorischen Einschränkungen mittels Statistiken erläutert. Mittels verschiedener Richtlinien und Gesetze zur Zugänglichkeit wurde eine Liste von Anforderungen mit Elementen von E-Learning-Plattformen erstellt. Anhand der Analyse einer bestehenden Lösung mittels der ermittelten Anforderungen wurde das Maß an Zugänglichkeit geprüft und nicht barrierefreie Elemente mittels Anforderungskatalog neugestaltet. Dabei wurde festgestellt, das die Anforderungsermittlung signifikante Auswirkungen auf das Maß an Zugänglichkeit hat. Eineebenfalls grundlegende Bedeutung auf die Zugänglichkeit hat der Nutzungskontext als Grundlage für die Anford erungsermittlung. 
+Mit diesen Fragen habe ich mich in meinem Praxisprojekt befasst, da Treuepunkteprogramme derzeit ein weit verbreitetes Instrument im Lebensmitteleinzelhandel sind. Für Konsument:innen spielt häufig der finanzielle Anreiz eine große Rolle bei der Nutzung solcher Apps, aber dies ist nicht der einzige Grund für die Nutzung. Auch die Nutzer:innenerfahrung ist entscheidend. Ein einfaches, verständliches und transparentes Treueprogramm mit einem klaren Mehrwert ist für viele Konsument:innen besonders wichtig.
+
+In meinem Projekt untersuche ich daher, inwiefern Gamification, Personalisierung und Datenverarbeitung das Nutzer:innen-Engagement sowie die Kundenbindung beeinflussen.
+
+Zur Beantwortung dieser Fragen wurden drei weit verbreitete Treuepunkte-Apps aus dem Supermarktsektor analysiert und anhand definierter Vergleichskriterien bewertet. Ergänzend dazu wurden qualitative Interviews mit Konsument:innen verschiedener Nutzer:innengruppen geführt.
+
+Dieser Vortrag richtet sich an Studierende der Medieninformatik und UX-Forschung sowie an alle, die sich für digitale Marketingstrategien und App-Design interessieren. Die vorgestellten Erkenntnisse bieten konkrete Ansatzpunkte für Unternehmen im Einzelhandel, App-Entwickler:innen sowie Forschende im Bereich Konsumverhalten.
+
+Die Ergebnisse dieser Arbeit sollen dazu beitragen, Treuepunkteprogramme weiterzuentwickeln und nicht nur, um Händler:innen beim Aufbau einer nachhaltigen Kundenbindung zu unterstützen, sondern auch, um Konsument:innen einen echten Mehrwert bei der Nutzung solcher Apps zukünftig bieten zu können.
+
+## Material & weiterführende Infos
+- [Interview Transkripte](https://th-koeln.sciebo.de/s/XPGqJYEPIply8bm)
+
+
 
