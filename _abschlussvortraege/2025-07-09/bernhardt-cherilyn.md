@@ -2,7 +2,7 @@
 nachname: Bernhardt
 vorname: Cherilyn
 datum: 2025-07-09
-uhrzeit: 15-30
+uhrzeit: 11-00
 raum: 3.216 
 betreuer: um
 thema: Nutzerbindung durch Treuepunkte-Apps im Lebensmittelsektor - Der Einfluss von Gamification, Personalisierung und Datenverarbeitung
