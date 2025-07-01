@@ -3,7 +3,7 @@ nachname: Sancak
 vorname: Büsra
 datum: 2025-07-09
 uhrzeit: 13-00
-raum:  3.216
+raum: 3.216
 betreuer: hk
 thema: Welchen verschiedenen filmische Techniken werden in Serien eingesetzt, um Emotionen
 bei Zuschauer zu wecken?
@@ -27,4 +27,4 @@ Die Motivation für diese Arbeit ergibt sich aus einem persönlichen Interesse. 
 * Vergleich filmischer Techniken in Serien vs. Kinofilmen
 * Unterschiede in der Emotionalisierung zwischen westlichen und asiatischen Serien
 * Analyse von Fan-Reaktionen auf emotionale Szenen
-
+---
