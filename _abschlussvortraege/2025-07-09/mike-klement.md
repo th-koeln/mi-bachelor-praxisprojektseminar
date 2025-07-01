@@ -2,7 +2,7 @@
 nachname: Klement
 vorname: Mike
 datum: 2025-07-09
-uhrzeit: 15-00
+uhrzeit: 12-00
 raum: 3.216 
 betreuer: hk
 thema: Anforderungen für eine audioreaktive visuelle Projektion auf Basis von Musikvisualisierungen
