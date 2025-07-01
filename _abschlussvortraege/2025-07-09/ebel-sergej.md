@@ -2,7 +2,7 @@
 nachname: Ebel
 vorname: Sergej
 datum: 2025-07-09
-uhrzeit: 16-00
+uhrzeit: 11-30
 raum: 3.216 
 betreuer: hvn
 thema: Wie können digitale Tools zur Unterstützung am physischen Spieltisch genutzt werden, um die Handhabung von Dungeon-Crawl-Karten in Pen-&-Paper-Rollenspielen zu verbessern?
