@@ -2,7 +2,7 @@
 nachname: Klement
 vorname: Mike
 datum: 2025-07-09
-uhrzeit: 12-00
+uhrzeit: 12-30
 raum: 3.216 
 betreuer: hk
 thema: Anforderungen für eine audioreaktive visuelle Projektion auf Basis von Musikvisualisierungen
@@ -11,8 +11,8 @@ stichworte:  Audioreaktive Visualisierung,Synchronität,Wirkung von Farben,Selbs
 quelle-bildrechte-teaser: Mike Klement erstellt mit Touchdesigner
 hinweise:
 ---
-
 ## Abstract
+
 Das Projekt untersucht die Gestaltung und Wirkung von audioreaktiver Musikvisualisierung auf Basis eines Selbstexperiments. Ziel ist es, herauszufinden, wie komplex und umsetzbar dieser Vorgang ist. Dabei werden visuelle Reaktionen auf Musik in Echtzeit erzeugt und welche Parameter wie Farbe, Bewegung, Synchronität und Geschwindigkeit zur immersiven Wirkung getestet werden.
 
 Das Experiment beginnt mit einer theoretischen Auseinandersetzung mit audiovisueller Wahrnehmung und dem Stand der Technik im Bereich Musikvisualisierung. Darauf aufbauend wird eine geeignete Software identifiziert. Die Wahl des Programms fiel dabei auf Touchdesigner, was für viele als Branchenstandart bezeichnet wird, da dieses Tool eine visuelle, modulare Arbeitsweise und Echtzeitfähigkeit bietet. Im praktischen Teil werden mehrere Visualiserungsvaraianten erstellt, die sich in Intensität, Tempo und Bild-Ton-Kohärenz unterscheiden und mit verschiedenen Musikstücken angewendet werden.
@@ -24,10 +24,8 @@ Die Ergebnisse zeigen, dass die Synchronität zwischen akustischem und visuellem
 Das Projekt verdeutlicht das Potenzial eines gestalterischen Selbstexperiments für eine medienpraktische Forschung. Durch die Kombination aus kreativer Entwicklung und reflektierender Evaluation konnte ein systematischer Erkenntnisgewinnung über die Wirkung audioreaktiver Gestaltung erzielt werden. Zudem ist es interessant die technische Umsetzung zu verstehen und auszuführen. Die Methodik ist auch für weiterführende Arbeiten im Bereich der Medienkunst und Echtzeitvisualisierung übertragbar.
 
 ## Weiterführende Themen
+
 * Audioreaktive Visuals für Live-Performances und VJing
-* Projection Mapping auf bewegte Objekte mit Musikreaktion 
+* Projection Mapping auf bewegte Objekte mit Musikreaktion
 * Immersive Rauminstallationen mit 360°-Projektionen
 * Psychophysiologische Wirkung audiovisueller Reize
-
-
-
