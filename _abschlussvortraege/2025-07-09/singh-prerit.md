@@ -1,26 +1,31 @@
 ---
-nachname: Notzon
-vorname: Jonas
+nachname: Singh
+vorname: Prerit
 datum: 2025-07-09
-uhrzeit: 10-30
+uhrzeit: 12:30-13:00
 raum: 3.216 
-betreuer: hk
-thema: Wie kann mit Methoden des modernen Sounddesigns eine Szene verändert werden?
+betreuer: mbl
+thema: Handelsdaten im Überblick (Analyse der Im- und Exporte zwischen USA, China und Deutschland im Zeitraum 2017–2022)
 kooperationspartner: TH Köln
-teaserimage: notzon-jonas-teaserimage.png
-stichworte: Sounddesign, Klänge, Töne, Methoden, gestaltunf, kreuzmodale Eigenschaften, Klangobjekte
-quelle-bildrechte-teaser: erstellt mit Chat GPT
+teaserimage: singh-prerit.jpg
+stichworte: Internationale Handelsdaten, Datenbereinigung und -analyse, Handelskrieg, Corona-Pandemie
+quelle-bildrechte-teaser: WITS-Trade Cloud Visualisation Tool
 ---
 ## Abstract
 
-Im Sounddesign werden Methoden angewandt, die das Publikum in eine andere Welt entführen sollen. Methoden, um dies zu erreichen können im Menschen verankerte Assoziationen nutzen, mit denen einzelne Klänge eine Szene verändern können oder einzel-ne Objekte in einer Szene werden nur durch Klänge in der Vorstellung des Publikums geformt oder abgerundet.
-Moderne Methoden des Sounddesigns nutzen teilweise die Psyche der Menschen oder Erfahrungen, die seit der Geburt kulturell geprägt wurden oder im Laufe des Lebens im Gedächtnis angehäuft werden. Dies kann Bilder unterstützen in ihrer Aussage, sie widerlegen oder sogar ganz ersetzen, wenn die gezeigte Geschichte durch das Audio selbst genug beschrieben wird, damit das Publikum es sich vorstellen kann.
-Andere Sinne, die keine Töne direkt aufnehmen können wie das Hören, können durch gezieltes Sounddesign trotzdem angesprochen werden durch Assoziation von Ton­eigenschaften mit wahrgenommenen Sinneseindrücken.
-Diese Methoden sind aus fachlicher Literatur zusammengetragen und werden in Versuchen angewendet, um mögliche Umsetzungen auszuprobieren. Filme, die diese Methoden anwenden, werden ebenfalls betrachtet.
-Am Ende soll diese Arbeit ein Verständnis über die Umsetzung der Methoden geben, die im modernen Sounddesign benutzt werden und erklären, wie diese eingesetzt werden, um die gewünschte Auswirkung zu haben. Sounddesign hängt stark vom Publikum und dessen Erfahrungen ab, darum ist es nahezu unmöglich ein universelles Sounddesign zu nutzen und mit denselben Klängen immer das gleiche Resultat zu erhalten. Diese Probleme werden in dem Praxisprojekt angesprochen und bearbeitet.
+Daten über Im- und Exporte bestimmen heute zentrale politische und wirtschaftliche Debatten – doch wie lassen sich die riesigen Datenmengen zu internationalen Handelsströmen so aufbereiten, dass sie wirklich verständlich werden? In diesem Praxisprojekt aus der Medieninformatik wird gezeigt, wie mit modernen Methoden der Datenaufbereitung und -visualisierung komplexe Wirtschaftsdaten zugänglich gemacht werden können.
+
+Am Beispiel der Handelsbeziehungen zwischen den USA, China und Deutschland im Zeitraum 2017–2022 wird nachvollziehbar, wie Rohdaten aus der weltweit anerkannten WITS-Datenbank systematisch bereinigt, kategorisiert und durch gezielte Visualisierungen nutzbar gemacht werden. Im Mittelpunkt steht dabei nicht nur die reine Datenanalyse, sondern vor allem die Frage, wie die Aufbereitung und Darstellung der Zahlen entscheidend zur Erkenntnis beiträgt – gerade für ein Publikum ohne spezielle Vorkenntnisse.Das Projekt gibt einen Einblick in die Herausforderungen und Lösungen beim Umgang mit großen, heterogenen Datensätzen und erklärt, wie methodische Entscheidungen und Tools der Medieninformatik das Verständnis für wirtschaftliche Trends und globale Zusammenhänge fördern. Es wird deutlich, wie sich Handelsmuster – beeinflusst von Handelskonflikten, Covid-19-Pandemie und wirtschaftlichen Schocks.
+
+Die Teaserseite richtet sich an alle, die mehr über datengetriebene Analyse internationaler Beziehungen, die Methoden der Medieninformatik und die Bedeutung der Datenaufbereitung für wissenschaftliche Arbeit erfahren möchten – und lädt dazu ein, die Weltwirtschaft durch die Linse der Daten neu zu entdecken.
+
+
+## Material & weiterführende Infos
+- [Rohdaten](https://th-koeln.sciebo.de/s/5H9Gk2yBP7V02cM)
+
 
 ## Weiterführende Themen
 
-* Wie können Emotionen beeinflusst werden durch Sounddesign
-* Welchen Einfluss haben Emotionen auf die Wahrnehmung einer Szene
-* Platzierung von Klangobjekten im Dreidimensionalen Raum
+* Indien als viertes Land einzubeziehen, um die trilaterale Perspektive zu einer quadrilateralen Vergleichsstudie auszubauen. 
+* detailliertere Analyse auf Produktebene, etwa in Schlüsselindustrien wie Elektrotechnik oder Maschinenbau.
+* Engere Zusammenarbeit zwischen Medieninformatiker:innen und Wirtschaftswissenschaftler:innen
