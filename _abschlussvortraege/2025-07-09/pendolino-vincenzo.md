@@ -2,7 +2,7 @@
 nachname: Pendolino
 vorname: Vincenzo
 datum: 2025-07-09
-uhrzeit: 11-00
+uhrzeit: 10-00
 raum: 3.216 
 betreuer: fn
 thema: Entwicklung einer Anwendung zur Simulation von Augenkrankheiten
