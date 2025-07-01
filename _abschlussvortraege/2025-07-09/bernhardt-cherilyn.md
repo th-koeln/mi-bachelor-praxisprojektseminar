@@ -7,10 +7,9 @@ raum: 3.216
 betreuer: um
 thema: Nutzerbindung durch Treuepunkte-Apps im Lebensmittelsektor - Der Einfluss von Gamification, Personalisierung und Datenverarbeitung
 teaserimage: bernhardt-cherilyn-teaserimage.jpg
-stichworte: Treupunktsapps, Kundenbindung, Gamification, Nuterfreundlichkeit, Datenverarbeitung, Personalisierung, Lebensmittelsektor 
+stichworte: Treupunktsapps, Kundenbindung, Gamification, Nutzerfreundlichkeit, Datenverarbeitung, Personalisierung, Lebensmittelsektor 
 quelle-bildrechte-teaser: Erstellt mir Leonardo.Ai
 hinweise:
-weiterfuehrende-themen: Gestaltung einer nutzerfreundlichen UI/UX | Best Practices für Mobile UX im Lebensmittelsektor | Aufbau eines effektiven und verständlichen Treuepunktsystems | Barrierefreies Design für wenig technikaffine Zielgruppen | Ethische Nutzung von Kundendaten (Datenschutz, DSGVO) | Designanalyse von UI-/UX-Standards unterschiedlicher Unternhemen
 ---
 
 ## Abstract
@@ -30,6 +29,13 @@ Die Ergebnisse dieser Arbeit sollen dazu beitragen, Treuepunkteprogramme weiterz
 
 ## Material & weiterführende Infos
 - [Interview Transkripte](https://th-koeln.sciebo.de/s/XPGqJYEPIply8bm)
+
+## Weiterführende Themen
+* Gestaltung einer nutzerfreundlichen UI/UX
+* Best Practices für Mobile UX im Lebensmittelsektor
+* Aufbau eines effektiven und verständlichen Treuepunktsystems
+* Barrierefreies Design für wenig technikaffine Zielgruppen
+* Ethische Nutzung von Kundendaten (Datenschutz, DSGVO)
 
 
 
