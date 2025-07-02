@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: hvn
 typ: vortrag
 pflicht: false
-termine: 2025-04-28 10:00|3.216
+termine: 2025-07-11 10:00|Zoom
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
