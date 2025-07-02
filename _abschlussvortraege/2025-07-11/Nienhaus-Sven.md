@@ -13,7 +13,7 @@ quelle-bildrechte-teaser: Unsplash - https://unsplash.com/de/fotos/ein-raum-mit-
 ---
 ## Abstract
 
-DOb Automatisierung in der Produktion, KI-gestützte Diagnostik im Gesundheitswesen oder digitale Assistenzsysteme in der Verwaltung – Künstliche Intelligenz verändert bereits heute die Arbeitswelt. Doch welche langfristigen Folgen ergeben sich daraus für den deutschen Arbeitsmarkt?
+Ob Automatisierung in der Produktion, KI-gestützte Diagnostik im Gesundheitswesen oder digitale Assistenzsysteme in der Verwaltung – Künstliche Intelligenz verändert bereits heute die Arbeitswelt. Doch welche langfristigen Folgen ergeben sich daraus für den deutschen Arbeitsmarkt?
 
 Dieses Praxisprojekt untersucht, wie sich Berufsbilder, Tätigkeitsprofile und Beschäftigungsstrukturen durch den Einsatz von KI-Technologien bis zum Jahr 2035 entwickeln könnten. Im Fokus steht die Frage, welche Branchen besonders stark betroffen sind und in welchen Bereichen neue Arbeitsfelder entstehen. Auf Basis umfangreicher Literaturanalysen werden zentrale Trends identifiziert, strukturiert ausgewertet und mit aktuellen Prognosen verknüpft.
 
