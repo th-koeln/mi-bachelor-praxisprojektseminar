@@ -3,11 +3,12 @@ nachname: Lenneper
 vorname: Annika
 datum: 2025-07-11
 uhrzeit: 12-30
-raum:  https://th-koeln.zoom-x.de/j/5903825859 Online-Präsentation
+raum:  Zoom
 betreuer: Stefan Bente
 thema: Der Assistenzplaner - Digitales Dienstplan-Management für die Persönliche Assistenz
 kooperationspartner: TH Köln
 teaserimage: lenneper-annika-teaserimage.jpg
+quelle-bildrechte-teaser: Eigene Darstellung
 stichworte: Leben mit Behinderung, Persönliche Assistenz, Requirements Engineering, Menschzentrierte Softwareentwicklung, App-Entwicklung 
 ---
 
@@ -20,9 +21,9 @@ Hier setzt das Projekt „Assistenzplaner“ an: Es verfolgt das Ziel, ein digit
 Der Vortrag gibt Einblick in die spezifischen Herausforderungen der Dienstplanung in der Persönlichen Assistenz und stellt den Weg von der Anforderungsanalyse über modellgestützte Entwurfstechniken bis hin zur prototypischen Umsetzung mit Flutter vor. Anhand des Assistenzplaners wird gezeigt, wie sich daraus schrittweise ein praxisnahes technisches System entwickeln lässt.
 
 ## Materialien
-Kölner Zentrum für selbstbestimmtes Leben: https://ksl-koeln.de/de/assistenz
-Dokumentation "Aufstand der Betreuten": https://www.youtube.com/watch?v=eHUGD5TyMsE
-Product Pitch: https://der-assistenzplaner.de/
+* Kölner Zentrum für selbstbestimmtes Leben: https://ksl-koeln.de/de/assistenz
+* Dokumentation "Aufstand der Betreuten": https://www.youtube.com/watch?v=eHUGD5TyMsE
+* Product Pitch: https://der-assistenzplaner.de/
 
 ## Weiterführende Themen
 * Entwicklung eines barrierefreien und nutzungsfreundlichen UI-Designs
