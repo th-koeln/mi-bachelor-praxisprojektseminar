@@ -7,7 +7,7 @@ raum: Zoom
 betreuer: hk
 thema: Visuelle und interaktive Vermittlung von Lebensmittelwissen für Kinder
 kooperationspartner: TH Köln
-teaserimage: dedy-christian-teaserimage.jpg
+teaserimage: dedy-christian.jpg
 stichworte: lernen, interaktiv, visuell, wissensvermittlung, lebensmittel, lebensmittelverschwendung, Visual Storytelling, nachhaltigkeit, spielerisches lernen, selbstgesteuertes lernen, gamification, zielgruppengerechte visualisierung
 quelle-bildrechte-teaser: Christian Dedy
 ---
