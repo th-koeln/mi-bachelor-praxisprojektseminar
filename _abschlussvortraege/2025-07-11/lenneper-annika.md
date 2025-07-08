@@ -7,7 +7,7 @@ raum:  Zoom
 betreuer: Stefan Bente
 thema: Der Assistenzplaner - Digitales Dienstplan-Management für die Persönliche Assistenz
 kooperationspartner: TH Köln
-teaserimage: lenneper-annika-teaserimage.jpg
+teaserimage: lenneper-annika-teaserimage.png
 quelle-bildrechte-teaser: Annika Lenneper
 stichworte: Leben mit Behinderung, Persönliche Assistenz, Requirements Engineering, Menschzentrierte Softwareentwicklung, App-Entwicklung 
 ---
