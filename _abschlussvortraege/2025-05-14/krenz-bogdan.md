@@ -5,7 +5,7 @@ datum: 2025-05-14
 uhrzeit: 11-00
 raum: 3.217
 betreuer: hvn
-thema: Schnittstellenmigration: Umgang mit Versionierung von Softwaresystemen
+thema: "Schnittstellenmigration: Umgang mit Versionierung von Softwaresystemen"
 kooperationspartner: S-Com, TH Köln
 teaserimage: krenz-bogdan.png
 stichworte: Softwaremigration, Codeanalyse, Halstead, McCabe, Schnittstellenversionierung

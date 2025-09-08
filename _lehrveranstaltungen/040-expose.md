@@ -1,10 +1,10 @@
 ---
 titel: Exposé schreiben
 kuerzel: pre
-verantwortlich: mib
+verantwortlich: mu, lb
 typ: workshop
 pflicht: false
-termine: 2025-04-16 10:00|3.216
+termine: 2025-10-21 10:30|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -27,7 +27,9 @@ Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.216 und später 
 ## Material
 
 * [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
+
 <!-- * [LaTex Vorlage](https://ilu.th-koeln.de/ilias.php?ref_id=301166&cmd=showSummary&cmdClass=ilinfoscreengui&cmdNode=xp:o4:f5&baseClass=ilRepositoryGUI) -->
+
 * [LaTex Tutorial](https://www.latex-tutorial.com)
 
 ## Was muss vorbereitet werden?

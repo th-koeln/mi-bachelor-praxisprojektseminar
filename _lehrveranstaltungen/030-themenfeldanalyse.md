@@ -1,10 +1,10 @@
 ---
 titel: Vorstellung Themenfeldanalyse
 kuerzel: pre
-verantwortlich: mib
+verantwortlich: mu, lb
 typ: workshop
 pflicht: false
-termine: 2025-04-09 10:00|3.216
+termine: 2025-10-14 10:30|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
