@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: cn
 thema: Konzeption und Entwicklung eines interaktiven (Visualisierungs-)Systems für Exploded Views im Web
 teaserimage: kellner-maximilian-teaserimage.jpg
-stichworte: Three.js, Animation, Interaktion, Web, npm-paket, Frontend-Development, UI/UX,
+stichworte: Three.js, Animation, Interaktion, Web, npm-paket, Frontend-Development, UI/UX, 3D, Exploded View
 quelle-bildrechte-teaser: Maximilian Kellner, aufgenommen in der Anwendung
 ---
 
