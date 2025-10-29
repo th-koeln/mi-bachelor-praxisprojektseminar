@@ -18,7 +18,8 @@ Eine mögliche Alternative für interaktive und immersive Erfahrungen sind dreid
 
 
 ## Materialien
-Das Github Repository des Projekts: https://github.com/MaximilianKellner/exploded-views-web-praxis-projekt
+- Das Github Repository des Projekts: https://github.com/MaximilianKellner/exploded-views-web-praxis-projekt
+- [Live Demo](https://exploded-views-kellner.de-fender.it/)
 
 ## Weiterführende Themen
 * Entwicklung einer Benutzeroberfläche zur Konfiguration von Exploded views
