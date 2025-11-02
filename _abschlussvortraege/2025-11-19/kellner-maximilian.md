@@ -18,11 +18,12 @@ Eine mögliche Alternative für interaktive und immersive Erfahrungen sind dreid
 
 
 ## Materialien
-- Das Github Repository des Projekts: https://github.com/MaximilianKellner/exploded-views-web-praxis-projekt
+- [Das Github Repository](https://github.com/MaximilianKellner/exploded-views-web-praxis-projekt)
 - [Live Demo](https://exploded-views-kellner.de-fender.it/)
 - [Ausarbeitung (PDF)](https://github.com/MaximilianKellner/exploded-views-web-praxis-projekt/blob/main/Konzeption-und-Entwicklung-eines-interaktiven-Visualisierungs-Systems-f%C3%BCr-Exploded-Views-im-Web-Maximilian-Kellner.pdf)
+
 ## Weiterführende Themen
 * Entwicklung einer Benutzeroberfläche zur Konfiguration von Exploded views
 * Entwicklung eines Algorithmus, der automatisch Exploded Views aus 3D-Modellen generiert
 * Integration von Augmented Reality (AR) zur Darstellung der Exploded Views in realen Umgebungen
-* Komprimierung und Performance-Optimierung auf Basis von Draco oder anderen Technologien
+* Komprimierung und Performance-Optimierung auf Basis von Draco Geometry Compression
