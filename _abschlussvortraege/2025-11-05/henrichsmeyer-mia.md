@@ -2,7 +2,7 @@
 nachname: Henrichsmeyer
 vorname: Mia
 datum: 2025-11-05
-uhrzeit: 10-00
+uhrzeit: 10-30
 raum: 3.216 
 betreuer: vs
 thema: Prototypische Umsetzung eines Webplayers für motorisch eingeschränkte Nutzer*innen im Kontext digitaler Barrierefreiheit
