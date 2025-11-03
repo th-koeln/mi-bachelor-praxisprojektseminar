@@ -2,7 +2,7 @@
 nachname: Kellner
 vorname: Maximilian
 datum: 2025-11-19
-uhrzeit: 10:30
+uhrzeit: 10-30
 raum: 3.216 
 betreuer: cn
 thema: Konzeption und Entwicklung eines interaktiven (Visualisierungs-)Systems für Exploded Views im Web
