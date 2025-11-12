@@ -1,26 +1,23 @@
 ---
-nachname: Jungilligens
-vorname: Meike
+nachname: Köppen
+vorname: Mauricio
 datum: 2025-11-19
-uhrzeit: 11-00
+uhrzeit: 11-30
 raum: 3.216 
 betreuer: cn
-thema: Barrierefreiheit in Frontend-Frameworks - Eine systematische Evaluierung anhand der WCAG 2.1 Standards am Beispiel von Vuetify
-teaserimage: jungilligens-meike-teaserimage.jpg
-stichworte: Accessibility, Vuetify, Frameworks, WCAG, Komponenten
-quelle-bildrechte-teaser: Meike Jungilligens, Vuetify
+thema: KI-Helfer in Screendesign; An welchen Stellen des Double Diamond Modells man KI effektiv anwenden kann
+teaserimage: koeppen-mauricio-teaserimage.jpg
+stichworte: KI, Screendesign, Designprozessmodell
+quelle-bildrechte-teaser: Mauricio Köppen
 ---
 
 ## Abstract
 
-Die Barrierefreiheit digitaler Anwendungen gewinnt in Deutschland und der Europäischen Union durch gesetzliche Regelungen wie das Barrierefreiheitsstärkungsgesetz (BFSG) sowie internationale Standards wie die Web Content Accessibility Guidelines (WCAG) zunehmend an Bedeutung. In der Forschung mangelt es jedoch, trotz der Verbreitung von komponentenbasierter Frontend-Entwicklung als Paradigma, an empirischen Untersuchungen der Barrierefreiheit in ebensolchen Frameworks und Bibliotheken. 
+Künstliche Intelligenz spielt in der Gesellschaft eine immer größere Rolle, sowohl in der Industrie als auch im privaten Gebrauch. Auch für das Design entstehen immer mehr KI-getriebene Hilfsmittel. Dennoch wurde der Nutzen dieser im Hinblick auf die Lehre noch kaum untersucht. Zusätzlich ist es noch unklar an welchen Stellen des Designprozesses es sinnvol ist KI-Helfer zu benutzen. 
 
-Diese Arbeit untersucht, inwiefern Barrierefreiheit in den verfügbaren Komponenten im Framework Vuetify umgesetzt ist und leitet daraus konkrete Empfehlungen für Entwickler ab. Die Evaluation basiert auf automatisch, manuell und mit dem Screenreader NVDA durchgeführten Tests. Die Prüfkriterien basieren auf den WCAG 2.1, dem aktuellen Standard für die Umsetzung und Bewertung von Barrierefreiheit. Die Ergebnisse zeigen vorallem Defizite in den Kontrastwerten, teilweise bei der Sichtbarkeit von Fokusindikatoren sowie bei der korrekten Verwendung von Rollen und Beziehungen zwischen Komponententeilen auf. Nur eine der getesteten Komponenten erfüllte alle der definierten Kriterien. Die Arbeitsergebnisse tragen dazu bei, eine Forschungslücke im Bereich der digitalen Barrierefreiheit zu schließen und bieten außerdem praxisorientierte Hinweise zur erfolgreichen Bewältigung der Anforderungen an eine barrierefreie Website. 
-
-## Materialien
-- [GitHub-Repo](https://github.com/mjung2605/pp2025-barrierefreiheit-vuetify) mit den Ergebnissen
+Dieses Werk untersucht an welchen Stellen des Designprozesses KI-Helfer effektiv sind und dies anhand des Double-Diamond-Modells. Dabei wird Screendesign Projekt aus dem Wintersemester 22/23 ausgearbeitet mit der Hilfe von KI-Tools und dem Double-Diamond-Modell. Der neue Arbeitsprozess wird anschließend mit dem des alten Projektes vergliechen. Die Ergebnisse dieses Vergleichs zeigen das der Nutzen der KI-Tools sehr phasenabhängig sind, wobei der meiste Nutzen in der Lieferphase und der wenigste in der Entwicklungsphase liegt. Dazu trugen die Anforderungen bei, welche den Lehrprozess bei der Nutzung der KI-Tools sicherstellten. Die Erkenntnisse dieses Projektes tragen dazu bei, die Forschungslücke im Aspekt, KI in der Lehre, anzunähern und bieten ein Beispiel anhand eines anerkannten Designprozessmodells. 
 
 ## Weiterführende Themen
-* Vergleich zweier komponentenbasierter Frameworks hinsichtlich ihrer Barrierefreiheit
-* Optimierung der Screenreader-Kompatibilität ausgewählter Vuetify-Komponenten 
-* Untersuchung barrierefreier Farbkombinationen für Komponenten im Material Design 
+* Didaktische Integration von KI-Tools in die Lehre
+* Der Einfluss von KI-Tools auf den Kreativen Prozess
+* Untersuchung eines hybriden Designprozesses zwischen Mensch und KI 
