@@ -14,6 +14,7 @@ quelle-bildrechte-teaser: Erstellt mit Canva AI
 ## Abstract
 
 > Inwiefern können KI-gestützte Erklärungen mit zusätzlichen Übersetzungen den Zugang zu komplexen Verwaltungsdokumenten für Zuwanderer/Migranten verbessern?
+
 ###
 Diese Fragestellung steht im Zentrum des Projekts Settle, einer Web-Anwendung, die komplexe Amtstexte und behördliche Dokumente für Menschen mit eingeschränkten Deutschkenntnissen und Migrationshintergrund zugänglich macht.
 
@@ -27,8 +28,8 @@ Der Vortrag richtet sich an Studierende der Medieninformatik, UX-Design, Webentw
 
 
 ## Materialien
-Das Repository des Projekts: https://github.com/miahenri/praxisprojekt-sose25
-Link zum Prototypen: https://yasabi04.github.io/praxisprojekt-ss-2025/Prototyp/frontend/html/
+Das Repository des Projekts: https://github.com/Yasabi04/praxisprojekt-ss-2025 <br>
+Link zum Prototypen: https://yasabi04.github.io/praxisprojekt-ss-2025/Prototyp/frontend/html/ <br>
 Link zur README: https://yasabi04.github.io/praxisprojekt-ss-2025
 
 ## Weiterführende Themen
