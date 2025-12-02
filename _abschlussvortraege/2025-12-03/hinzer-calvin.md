@@ -7,8 +7,8 @@ raum: 3.216
 betreuer: cn
 thema: Konzeption und Entwicklung eines dreidimensionalen Lageplans als Web Anwendung für Information und Orientierung am Campus Gummersbach.
 kooperationspartner: TH Köln
-teaserimage: hinzer-calvin-teaserimage.jpg
-stichworte: Digital Twin, Webanwendung, Orientierung, Campus Gummersbach, Interaktive Karte, Frontend-Entwicklung, Benutzerfreundlichkeit, Immersiv
+teaserimage: hinzer-calvin-teaserimage.png
+stichworte: Digital Twin, Webanwendung, Orientierung, Campus Gummersbach, Interaktive, Frontend-Entwicklung, Usability, Immersiv
 quelle-bildrechte-teaser: Calvin Hinzer
 ---
 
@@ -19,7 +19,7 @@ quelle-bildrechte-teaser: Calvin Hinzer
 Studierende im ersten Semester und welche die ein Auslandssemester absolvieren, fällt die Orientierung an Hochschulen und Universitäten nicht immer leicht. Der Campus Gummersbach der Technischen Hochschule Köln verfügt als solche über mehrere Gebäude und Räume, welche nicht immer eindeutig gekennzeichnet sind. 
 Ebenfalls gibt es keine zentrale Anlaufstelle die über sämtliche Verstaltungen außerhalb der Vorlesung informiert. 
 
-Es existieren zwar Angebote, um Studenten die Orientierung am Campus zu erleichtern, diese sind aber meistens unzureichend oder nicht bekannt. Im Hochschul-Planungs-System (HoPS) [1] der TH Köln sind Informationen nur oberflächlich zu finden. In der 26-Seitigen Erstsemester Broschüre [2] ist nur eine Seite dem Campus gewidmet, wo dieser nur grob kategorisiert ist. Gebäudepläne sind oft veraltet und existieren verschiedenen Versionen. [3]
+Es existieren zwar Angebote, um Studenten die Orientierung am Campus zu erleichtern, diese sind aber meistens unzureichend oder nicht bekannt. Im Hochschul-Planungs-System (HoPS) der TH Köln sind Informationen nur oberflächlich zu finden. In der 26-Seitigen Erstsemester Broschüre  ist nur eine Seite dem Campus gewidmet, wo dieser nur grob kategorisiert ist. Gebäudepläne sind oft veraltet und existieren verschiedenen Versionen. 
 
 Das Ziel ist es, den Campus Gummersbach, in  digitaler Form darzustellen. Hierbei soll es Benutzern möglich sein, nach Räumen und Gebäudearten zu filtern. Das System soll dabei helfen den Campus besser kennen zu lernen. Neben den regulären Vorlesungen, sollen auch externe Veranstaltungen und Angebote dargestellt werden. Die Ziele werden folgendermaßen definiert:
 
@@ -33,10 +33,4 @@ Das Ziel ist es, den Campus Gummersbach, in  digitaler Form darzustellen. Hierbe
 - [Präsentation](calvinhinzer.de/pp-slides)
 - [Repository](https://github.com/calvinhnzr/praxis-projekt)
 
-
-## Quellen
-
-- [1] HoPS | HochschulPlanungsSystem der TH Köln. (n.d.). HoPS | HochschulPlanungsSystem der TH Köln. Abgerufen am October 31, 2022, von https://fhpwww.gm.fh-koeln.de/hops/modules/roomequipment/room.php?room=0215
-- [2] TH Köln | Informationen für Erstsemester | Fakultät für Informatik und Ingenieurwissenschaften der TH Köln. Abgerufen am October 31, 2022, von https://www.th-koeln.de/mam/downloads/deutsch/hochschule/fakultaeten/informatik_und_ingenieurwissenschaften/erstsemesterbroschure_gesamt_august_2021.pdf
-- [3] https://www.th-koeln.de/hochschule/standorte_3914.php
 
