@@ -14,6 +14,9 @@ avatar: https://www.medieninformatik.th-koeln.de/img/mi-box-100.png
 # Where are we?
 timezone: Europe/Berlin
 
+# Show future dated content
+future: true
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://th-koeln.github.io/
