@@ -30,7 +30,7 @@ Das Ziel ist es, den Campus Gummersbach, in  digitaler Form darzustellen. Hierbe
 
 ## Weiterführende Links
 
-- [Präsentation](calvinhinzer.de/pp-slides)
-- [Repository](https://github.com/calvinhnzr/praxis-projekt)
+- [Präsentation](https://www.calvinhinzer.de/slides/pp/)
+
 
 
