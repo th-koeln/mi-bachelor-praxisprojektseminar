@@ -1,31 +1,32 @@
 ---
-nachname: Jungjohann
-vorname: Caroline
+nachname: Sabetnia
+vorname: Mohammadamin 
 datum: 2026-01-21
-uhrzeit: 10-00
+uhrzeit: 11-00
 raum: 3.216
-betreuer: fn
-thema: Wie erleben Spieler in aktuellen Free-To-Play MMORPGs enthaltene Dark Game Design Patterns?
+betreuer: hk
+thema: Claims in Werbung - Kurze Worte, starke Wirkung
 kooperationspartner: TH Köln
-teaserimage: jungjohann-caroline-teaserseite.png
-stichworte: Dark Game Design Pattern, Künstliche Intelligenz, Gaming, Textanalyse
-quelle-bildrechte-teaser: Caroline Jungjohann, ChatGPT
+teaserimage: sabetnia-mohammadamin-teaserimage.png
+stichworte: Claim, Markenidentität, Kreativität, Einfachheit, Wiedererkennung
+quelle-bildrechte-teaser: Mohammadamin Sabetnia, ChatGPT
 ---
 
 ## Abstract
 
-Wahrscheinlich jeder Gamer kennt es. Manipulative Praktiken die den Spielspaß vermindern. Man soll mehr Zeit ins Spiel investieren, als man möchte, und vor allem: mehr Geld. Solche manipulativen Vorgehensweisen in Bezug auf Videospiele werden "Dark Game Design Pattern" genannt. Sie lassen sich in die Kategorien „Zeit“, „Geld“ und „Soziales Kapital“ einteilen, je nach dem welche Ressource der Spieler ausgibt oder nutzt, wenn das Dark Game Design Pattern Erfolg mit der Täuschung hat.
+Diese Arbeit beschäftigt sich mit der Bedeutung von Claims in der Werbung und untersucht, wie kurze sprachliche Aussagen die Wahrnehmung von Marken beeinflussen. 
+Dabei wird betrachtet, wie Claims dazu beitragen können, dass Marken länger im Gedächtnis bleiben, Vertrauen aufbauen und Motivation zum Kauf erzeugen. 
 
-Aktuelle Quellen äußern dazu Bedenken in Bezug auf Sucht, übermäßige finanzielle Ausgaben, und andere Faktoren wie zum Beispiel Einschränkungen in der Autonomieentwicklung. Dennoch ist ihre Verwendung und die damit verbundenen Monetarisierungs-Methoden in den vergangenen Jahren angestiegen. Besonders sogenannte Free-To-Play Spiele bieten einen leichten Zugang und erreichen somit eine hohe Anzahl an Spielern.
-Meine persönliche Motivation zu dem Thema sind Diskussionen und verschiedene Standpunkte von anderen Spielern. Obwohl die Verwendung von Dark Game Design Pattern größtenteils bekannt ist, haben sie dennoch Erfolg. Ich habe mitbekommen, wie die Meinungen darüber stark auseinandergehen.
+Claims fassen die zentrale Botschaft eines Produkts oder einer Marke zusammen und sollen Aufmerksamkeit wecken, Emotionen ansprechen und eine langfristige Wiedererkennung ermöglichen. Gleichzeitig wird hinterfragt, ob alle Marken Claims nutzen, ob deren Einsatz notwendig ist und wodurch sich ein guter Claim auszeichnet.
 
-Deshalb behandelt diese Ausarbeitung die Frage, wie Spieler Dark Game Design Pattern in Free-to-Play MMORPGs erleben. Dazu wurden Rezensionen des MMORPGs "Throne and Liberty" von der Plattform Steam durch ein LLM analysiert und auf Vorkommen von bestimmten Dark Game Design Pattern untersucht. Zudem wurde versucht, die Genauigkeit des LLM darzustellen, um zu analysieren, ob LLMs für so eine Art der Textanalyse mit speziellem Kontext geeignet sind.
+Im theoretischen Teil der Arbeit werden grundlegende Konzepte der Werbe- und Konsumentenpsychologie analysiert, um sprachliche und emotionale Faktoren erfolgreicher Claims zu untersuchen. Dabei werden Aspekte wie Wiedererkennung, Zielgruppenansprache und der Einsatz von Claims in unterschiedlichen Medien betrachtet. 
+Der praktische Teil des Projekts zeigt beispielhaft, wie Claims kreativ entwickelt und in kurzen Werbespots umgesetzt werden können. 
 
-## Material & Weiterführende Themen
-* Ausbau des explorativen Ansatzes mit einem alternativen LLM
-* Analyse von Rezensionen durch ein anderes Analysewerkzeug
-* Analyse von Rezensionen auf andere Dark Game Design Pattern
+Ziel der Arbeit ist es, ein grundlegendes Verständnis für die Wirkung von Claims zu vermitteln und ihre Rolle innerhalb der Werbung und des Marketings aufzuzeigen sowie zu erklären, warum manche Marken bewusst auf Claims setzen.
 
-[Repository zum Projekt](https://github.com/cjungjoh/Steam_Review-V2)
+## Weiterführende Themen
+* Claims in verschiedenen Medien
+* Zukunft von Claims in der Werbung
+* Internationale und kulturelle Aspekte
 
 
