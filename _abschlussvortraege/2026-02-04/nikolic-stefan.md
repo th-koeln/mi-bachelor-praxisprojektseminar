@@ -2,7 +2,7 @@
 nachname: Nikolic
 vorname: Stefan
 datum: 2026-02-04
-uhrzeit: 11-30
+uhrzeit: 11-00
 raum:  3.216
 betreuer: cn
 thema: "Übersetzungsautomation im Digital Asset Managment: NMT-Integration für IPTC-Metadaten"
