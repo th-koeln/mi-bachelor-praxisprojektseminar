@@ -5,13 +5,13 @@ datum: 2026-02-04
 uhrzeit: 11-30
 raum: 3.216
 betreuer: mb
-thema: *
+thema: tbd
 kooperationspartner: TH Köln
 teaserimage: engel-timo-teaserimage.jpg
-stichworte: 
-quelle-bildrechte-teaser: 
-hinweise:
-weiterfuehrende-themen: 
+stichworte: tbd
+quelle-bildrechte-teaser: tbd
+hinweise: tbd
+weiterfuehrende-themen: tbd
 ---
 
 ## Abstract
