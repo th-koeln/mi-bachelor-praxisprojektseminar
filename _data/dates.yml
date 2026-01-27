@@ -70,3 +70,8 @@ week-12:
     start: "10:00"
     end: "17:00"
     name: Mittwoch
+  day-2:
+    datum: 2026-02-05
+    start: "10:00"
+    end: "17:00"
+    name: Donnerstag
