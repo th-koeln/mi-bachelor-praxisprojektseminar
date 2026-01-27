@@ -1,26 +1,26 @@
 ---
-nachname: Ziegler
-vorname: Yasmin
+nachname: Göcen
+vorname: Rojin
 datum: 2026-01-21
-uhrzeit: 10-30
-raum: 3.216
-betreuer: Prof. Dr. Mirjam Blümm
-thema: Gamification und ADHS – Eine Untersuchung der Wirkung verschiedener Gamification-Elemente auf die Routinebildung bei Personen mit ADHS
+uhrzeit: 11-30
+raum: 3.217
+betreuer: hk
+thema: Angst und Spannumg in Horrorfilem - Wie Filmemacher Angst erzeugen
 kooperationspartner: TH Köln
-teaserimage: ziegler-yasmin-teaserimage.jpg
-stichworte: Gamification, Neurodivergenz, Routine-Apps, Motivation, User Experience, Barrierefreiheit
+teaserimage: goecen-rojin-teaserbild.jpg
+stichworte: Horrorfilme, Angst, Spannung, Kino
 quelle-bildrechte-teaser: Generiert mit Canva.ai
 ---
 
 ## Abstract
 
-Die Etablierung und nachhaltige Aufrechterhaltung von Routinen im Alltag stellt für Personen mit Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) oft eine Herausforderung dar. Hierbei sind neu angegangene Aufgaben und Routinen häufig aufregend, Schwierigkeiten mit der langfristigen Motivation und Selbstorganisation führen allerdings dann dazu, dass keine Routine aufgebaut werden kann. Systeme, die der Unterstützung dienen sollen, funktionieren deshalb anfangs oft gut, verlieren jedoch nach und nach an Wirkung.
+Angst und Spannung zählen zu den stärksten emotionalen Wirkungen des Horrorkinos. Horrorfilme ermöglichen es dem Publikum, intensive Angsterfahrungen in einem sicheren Rahmen zu erleben. Gerade das Zusammenspiel aus Unsicherheit, Erwartung und gleichzeitiger Faszination macht das Genre besonders wirkungsvoll. Dennoch ist häufig nicht eindeutig nachvollziehbar, warum bestimmte Szenen eine starke Angstreaktion auslösen, während andere weniger effektiv sind. Dieses Praxisprojekt untersucht daher, wie Horrorfilme durch den gezielten Einsatz filmischer Mittel Angst und Spannung erzeugen und inwiefern sich diese Wirkmechanismen praktisch umsetzen lassen.
 
-Digitale Anwendungen, die Gamification-Elemente implementieren, nutzen spielerische Mechaniken zur Förderung von Motivation und Engagement. Trotz der zunehmenden Verbreitung von Gamification, ist bislang unzureichend erforscht, welche konkreten Gamification-Elemente von Menschen mit ADHS als unterstützend wahrgenommen werden und welche Faktoren ihre langfristige Wirksamkeit, und damit die Aufrechterhaltung von Routinen, beeinflussen.
+Die Arbeit verbindet theoretische Grundlagen mit Filmanalyse und eigener gestalterischer Praxis. Im theoretischen Teil werden psychologische Aspekte von Angst sowie zentrale filmische Gestaltungsmittel des Horrorgenres betrachtet. Darauf aufbauend wird ein Kriterienkatalog entwickelt, der die Wirkung visueller und auditiver Mittel systematisch erfasst. Dieser dient sowohl als Analyseinstrument für bestehende Filme als auch als Orientierung für die eigene praktische Umsetzung.
 
-Ziel ist es, anhand bestehender Routine-Apps zu untersuchen, wie verschiedene Gamification-Elemente von Personen mit diagnostizierter ADHS wahrgenommen werden und inwiefern diese Elemente Routinen im Alltag unterstützen. Dabei liegt der Fokus insbesondere auf der User Experience der Nutzer:innen hinsichtlich kurzfristiger Motivation, langfristiger Nutzung sowie möglicher negativer Auswirkungen auf die Routinebildung. 
+Im analytischen Teil werden exemplarisch Jaws (1975) von Steven Spielberg und The Blair Witch Project (1999) von Daniel Myrick und Eduardo Sánchez untersucht. Die beiden Filme repräsentieren unterschiedliche Strategien der Angsterzeugung.  Jaws arbeitet mit einem klassischen Spannungsaufbau, bei dem die Bedrohung lange unsichtbar bleibt und durch musikalische Leitmotive sowie subjektive Kameraperspektiven angekündigt wird. Angst entsteht hier vor allem durch Erwartung und zeitliche Verzögerung.
+The Blair Witch Project hingegen verfolgt einen minimalistischen Ansatz. Durch subjektive Handkamera, Verzicht auf Filmmusik und das konsequente Offenlassen narrativer Auflösung wird Angst primär über Ungewissheit, Kontrollverlust und eingeschränkte Wahrnehmung erzeugt. Der Vergleich zeigt, dass Angst weniger durch explizite Darstellung entsteht als durch die bewusste Steuerung von Information und Wahrnehmung.
 
-## Weiterführende Themen
-* Analyse des Einflusses von Design auf die Wirksamkeit von Gamification-Elementen bei Menschen mit ADHS
-* Analyse der Wirksamkeit von Gamification-Elementen im Kontext von Neurodivergenz (z.B. Autismus)
-* Analyse der Wirksamkeit von Gamification-Elementen in unterschiedlichen Lebensbereichen von Menschen mit ADHS (z. B. Haushalt, Arbeit)
+Der praktische Teil des Projekts überträgt diese Erkenntnisse in eigene filmische Kurzszenen. Eine Szene konzentriert sich auf „Bedrohung in der Dunkelheit“ und nutzt subjektive Kameraführung und stark reduzierte Lichtverhältnisse, um Angst durch Ungewissheit zu erzeugen. Eine zweite Szene setzt auf einen plötzlichen Schockmoment, der durch eine längere Phase visueller und akustischer Ruhe vorbereitet wird.
+
+Insgesamt verdeutlicht die Arbeit, dass Angst im Horrorfilm nicht aus einzelnen Effekten resultiert, sondern aus dem Zusammenspiel filmischer Mittel. Erwartung, Ungewissheit, Nähe und Kontrollverlust erweisen sich als zentrale Mechanismen der Angsterzeugung. Der entwickelte Kriterienkatalog bietet dabei eine hilfreiche Grundlage für Analyse und Praxis und zeigt den Mehrwert einer reflektierten Verbindung von Theorie und gestalterischer Umsetzung.
