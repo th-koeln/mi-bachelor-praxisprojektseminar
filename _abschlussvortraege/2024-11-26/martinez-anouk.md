@@ -24,7 +24,7 @@ Mehr Details zu der Motivation, den Umfrageergebnissen und den verwendeten Techn
 
 ## Material & weiterführende Infos
 
-- [Repository](https://github.com/AnoukMartinez/mi-bachelor-praxisprojektseminar)
+- [Repository](https://github.com/AnoukMartinez/martinez-pp-ss-2024/)
 - [Komplette Ergebnisse der Umfrage](https://github.com/AnoukMartinez/martinez-pp-ss-2024/blob/main/project_report/Abschlussarbeit.tex.pdf) (Befinden sich im Anhang)
 - [Projektbericht](https://github.com/AnoukMartinez/martinez-pp-ss-2024/tree/main/project_report)
 - [Deploytes System](http://139.6.56.117:5173/) (**Hinweis hierzu**: Der Server ist nur temporär für die Dauer des Projektvortrages gestartet, und kann nur von der VPN der TH Köln erreicht werden. Das System kann allerdings auch mit Hilfe des Codes im Repository lokal gestartet werden.)
