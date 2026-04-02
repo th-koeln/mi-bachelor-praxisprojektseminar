@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: hvn
 typ: vortrag
 pflicht: false
-termine:
+termine:  2026-05-06 10:00|3.216, 2026-05-20 10:00|3.216, 2026-06-03 10:00|3.216, 2026-06-17 10:00|3.216, 2026-07-01 10:00|3.216, 2026-07-15 10:00|3.216, 2026-07-29 10:00|3.216
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -16,14 +16,9 @@ Die Abschlussvorträge werden vor Ort in Gummersbach im Raum 3.216 stattfinden.
 
 ## Was muss ich als Vortragender beachten?
 
-* sorgen Sie für eine gute Internetverbindung
-* sorgen Sie für möglichst guten Ton, z.B. via Headset
-* sorgen Sie für eine ruhige Umgebung
-* sorgen Sie für ein Kamerabild, da wir Sie zur Identifikation sehen müssen
-* halten Sie ein Foto von Ihrer Multica bereit
+* seien Sie rechtzeitig da, um ihr Setup vorzubereiten
+* halten Sie Ihre Multica bereit
 
 ## Was muss ich als Zuhörer beachten?
 
-Wenn Sie den Raum betreten, achten Sie bitte darauf, dass Sie während der Präsentationszeit ihr Mikrofon gemutet haben. Es handelt sich um eine Prüfungssitation und wir möchten deshalb so viele Störgeräusche wie möglich vermeiden.
-
-Im Anschluss an die Präsentation gibt es eine Diskussionsrunde. In dieser können Sie das Mikrofon wieder entmuten, wenn Sie einen Wortbeitrag leisten möchten.
+Achten Sie bitte darauf, dass Sie während der Präsentationszeit leise sind. Es handelt sich um eine Prüfungssitation und wir möchten deshalb so viele Störgeräusche wie möglich vermeiden.

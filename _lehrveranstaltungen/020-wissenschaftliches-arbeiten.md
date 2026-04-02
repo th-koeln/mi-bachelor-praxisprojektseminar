@@ -1,10 +1,10 @@
 ---
 titel: Workshop Wissenschaftliches Arbeiten
 kuerzel: pre
-verantwortlich: mu, lb
+verantwortlich: mu, rt
 typ: workshop
 pflicht: false
-termine: 2025-10-07 10:30|3.216
+termine: 2026-04-20 10:30|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150

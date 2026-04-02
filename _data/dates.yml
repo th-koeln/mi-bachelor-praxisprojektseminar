@@ -1,77 +1,71 @@
 week-1:
   day-1:
-    datum: 2025-10-07
+    datum: 2026-04-20 # Kickoff und wiss. Arbeiten
     start: "10:00"
     end: "17:00"
-    name: Dienstag
+    name: Montag
 week-2:
   day-1:
-    datum: 2025-10-14
+    datum: 20206-04-27 # Themenfeldanalyse
     start: "10:00"
     end: "17:00"
-    name: Dienstag
+    name: Montag
 week-3:
   day-1:
-    datum: 2025-10-21
+    datum: 2026-05-04 # Expose schreiben
     start: "10:00"
     end: "17:00"
-    name: Dienstag
+    name: Montag
+  day-2:
+    datum: 2026-05-06 # Vorträge
+    start: "10:00"
+    end: "17:00"
+    name: Mittwoch
 week-4:
   day-1:
-    datum: 2025-10-28
+    datum: 2026-05-11 # Peer Review Expose
     start: "10:00"
     end: "17:00"
-    name: Dienstag
+    name: Montag
 week-5:
   day-1:
-    datum: 2025-11-04
+    datum: 2026-05-18 # Mediengestützte Präsentation
     start: "10:00"
     end: "17:00"
-    name: Dienstag
+    name: Montag
+  day-2:
+    datum: 2026-05-20 # Vorträge
+    start: "10:00"
+    end: "17:00"
+    name: Mittwoch
+  
 week-6:
   day-1:
-    datum: 2025-11-05
+    datum: 2026-06-03 # Vorträge
     start: "10:00"
     end: "17:00"
     name: Mittwoch
 week-7:
   day-1:
-    datum: 2025-11-19
+    datum: 2026-06-17 # Vorträge
     start: "10:00"
     end: "17:00"
     name: Mittwoch
 week-8:
   day-1:
-    datum: 2025-12-03
+    datum: 2026-07-01 # Vorträge
     start: "10:00"
     end: "17:00"
     name: Mittwoch
 week-9:
   day-1:
-    datum: 2025-12-17
+    datum: 2026-07-15 # Vorträge
     start: "10:00"
     end: "17:00"
-    name: Mittwoch
+    name: Mittwoch # Vorträge
 week-10:
   day-1:
-    datum: 2026-01-07
+    datum: 2026-07-29 # Vorträge
     start: "10:00"
     end: "17:00"
     name: Mittwoch
-week-11:
-  day-1:
-    datum: 2026-01-21
-    start: "10:00"
-    end: "17:00"
-    name: Mittwoch
-week-12:
-  day-1:
-    datum: 2026-02-04
-    start: "10:00"
-    end: "17:00"
-    name: Mittwoch
-  day-2:
-    datum: 2026-02-05
-    start: "10:00"
-    end: "17:00"
-    name: Donnerstag

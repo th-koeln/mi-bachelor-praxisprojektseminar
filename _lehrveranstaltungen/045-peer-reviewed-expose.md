@@ -1,10 +1,10 @@
 ---
 titel: Vorstellung Peer reviewed Exposé
 kuerzel: pre
-verantwortlich: mu, lb
+verantwortlich: mu, rt
 typ: workshop
 pflicht: false
-termine: 2025-10-28 10:30|3.216
+termine: 2026-05-11 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
