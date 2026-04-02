@@ -12,11 +12,11 @@ mi-wiki-pruefung:
 
 ilu:
   name: ILU
-  url: https://ilu.th-koeln.de/goto.php?target=crs_276966&client_id=thkilu
+  url: https://ilu.th-koeln.de/goto.php/crs/762746
 
 ilu-pruefung:
   name: ILU
-  url: https://ilu.th-koeln.de/goto.php?target=crs_276966&client_id=thkilu
+  url: https://ilu.th-koeln.de/goto.php/crs/762746
 
 raum:
   name: https://th-koeln.zoom.us/j/86224491085 (Passwort steht im ILU)
