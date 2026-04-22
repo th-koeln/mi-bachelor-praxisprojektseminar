@@ -77,7 +77,7 @@ navigation:
   - url: niveaustufen/
     name: Bewertung
 
-  - url: https://ilu.th-koeln.de/goto.php?target=crs_276966&client_id=thkilu
+  - url: https://ilu.th-koeln.de/goto.php/crs/762746
     name: ILU
 
   - url: https://github.com/th-koeln/mi-bachelor-praxisprojektseminar
