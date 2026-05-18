@@ -6,15 +6,15 @@ uhrzeit: 10-30
 raum: 3.216
 betreuer: mb
 thema: Konzeption und prototypische Gestaltung eines digitalen bildgestützten Fragebogens zur Erfassung subjektiver Einschränkungen kognitiver Fähigkeiten und Aktivitäten des täglichen Lebens (Pic-ADL)
-kooperationspartner: TH Köln, Uniklink Köln
+kooperationspartner: TH Köln, Universitätsklinikum Köln
 teaserimage: swann-john-teaserimage.jpg
 stichworte: WCAG, Barrierefreiheit, UX/UI, Demenzfrüherkennung
-quelle-bildrechte-teaser: John Swann, Uniklink Köln
+quelle-bildrechte-teaser: John Swann, Universitätsklinikum Köln
 ---
 
 ## Abstract
 
-Die frühzeitige Erfassung subjektiver Einschränkungen in Kognition und Aktivitäten des täglichen Lebens spielt eine wichtige Rolle im Kontext neurologischer Diagnostik und möglicher Demenzscreenings. Der an der Uniklinik Köln entwickelte Picture-based Assessment of Subjective Impairments in Cognition and Activities of Daily Living (Pic-ADL) liegt bislang in papierbasierter Form vor. Dadurch entstehen manuelle Arbeitsschritte bei Dokumentation, Übertragung und Auswertung der erhobenen Daten. Gleichzeitig zeigen aktuelle Forschungsarbeiten, dass insbesondere ältere sowie potenziell kognitiv eingeschränkte Nutzer:innen besondere Anforderungen an digitale Systeme und deren Interaktionsgestaltung stellen.
+Die frühzeitige Erfassung subjektiver Einschränkungen in Kognition und Aktivitäten des täglichen Lebens spielt eine wichtige Rolle im Kontext neurologischer Diagnostik und möglicher Demenzscreenings. Der am Universitätsklinikum Köln entwickelte Picture-based Assessment of Subjective Impairments in Cognition and Activities of Daily Living (Pic-ADL) liegt bislang in papierbasierter Form vor. Dadurch entstehen manuelle Arbeitsschritte bei Dokumentation, Übertragung und Auswertung der erhobenen Daten. Gleichzeitig zeigen aktuelle Forschungsarbeiten, dass insbesondere ältere sowie potenziell kognitiv eingeschränkte Nutzer:innen besondere Anforderungen an digitale Systeme und deren Interaktionsgestaltung stellen.
 
 Im Rahmen dieses Praxisprojekts wird die Konzeption und prototypische Gestaltung eines digitalen, bildgestützten Fragebogensystems für den Pic-ADL untersucht. Ausgangspunkt der Arbeit ist dabei nicht ausschließlich die technische Umsetzung eines bestehenden Fragebogens, sondern insbesondere die Frage, wie ein solches System verständlich, barrierearm und nutzerzentriert gestaltet werden kann. Der Fokus der Ausarbeitung liegt in der Gestaltung einer möglichst klaren und nachvollziehbaren Nutzerinteraktion im medizinischen Kontext.
 
