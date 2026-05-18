@@ -1,35 +1,27 @@
 ---
-nachname: Anhalt
-vorname: Julius
-datum: 2026-02-05
+nachname: Swann
+vorname: John
+datum: 2026-05-20
 uhrzeit: 10-30
 raum: 3.216
-betreuer: fn
-thema: Eine Virtual Reality Simulation für das Auseinander- und Zusammensetzen einer Walther P99
-kooperationspartner: TH Köln
-teaserimage: anhalt-julius-teaserimage.jpg
-stichworte: Virtual Reality, Waffenhandhabung, Simulation
-quelle-bildrechte-teaser: eigene Aufnahme
+betreuer: mb
+thema: Konzeption und prototypische Gestaltung eines digitalen bildgestützten Fragebogens zur Erfassung subjektiver Einschränkungen kognitiver Fähigkeiten und Aktivitäten des täglichen Lebens (Pic-ADL)
+kooperationspartner: TH Köln, Uniklink Köln
+teaserimage: swann-john-teaserimage.jpg
+stichworte: WCAG, Barrierefreiheit, UX/UI, Demenzfrüherkennung
+quelle-bildrechte-teaser: John Swann, Uniklink Köln
 ---
 
 ## Abstract
 
-Der sichere Umgang mit Schusswaffen erfordert präzise Handgriffe, klar definierte Abläufe und ein hohes Maß an Verantwortung. Insbesondere das Auseinander- und Zusammensetzen der Dienstpistole Walther P99 ist ein sicherheitskritischer Bestandteil der Ausbildung von Polizeianwärter:innen. Dieses Training ist jedoch mit erheblichem organisatorischem, materiellem und zeitlichem Aufwand verbunden.
+Die frühzeitige Erfassung subjektiver Einschränkungen in Kognition und Aktivitäten des täglichen Lebens spielt eine wichtige Rolle im Kontext neurologischer Diagnostik und möglicher Demenzscreenings. Der an der Uniklinik Köln entwickelte Picture-based Assessment of Subjective Impairments in Cognition and Activities of Daily Living (Pic-ADL) liegt bislang in papierbasierter Form vor. Dadurch entstehen manuelle Arbeitsschritte bei Dokumentation, Übertragung und Auswertung der erhobenen Daten. Gleichzeitig zeigen aktuelle Forschungsarbeiten, dass insbesondere ältere sowie potenziell kognitiv eingeschränkte Nutzer:innen besondere Anforderungen an digitale Systeme und deren Interaktionsgestaltung stellen.
 
-Das Praxisprojekt untersucht, inwiefern eine Virtual-Reality-Anwendung diesen Ausbildungsprozess sinnvoll ergänzen kann. Ziel ist es nicht, das reale Training zu ersetzen, sondern eine VR-gestützte Lernumgebung zu schaffen, in der Abläufe gefahrlos, ortsunabhängig und wiederholbar eingeübt werden können. Im Zentrum steht dabei die realistische Simulation der mechanischen Zusammenhänge sowie eine logisch geführte Reihenfolge beim Zerlegen und Zusammensetzen der Waffe.
+Im Rahmen dieses Praxisprojekts wird die Konzeption und prototypische Gestaltung eines digitalen, bildgestützten Fragebogensystems für den Pic-ADL untersucht. Ausgangspunkt der Arbeit ist dabei nicht ausschließlich die technische Umsetzung eines bestehenden Fragebogens, sondern insbesondere die Frage, wie ein solches System verständlich, barrierearm und nutzerzentriert gestaltet werden kann. Der Fokus der Ausarbeitung liegt in der Gestaltung einer möglichst klaren und nachvollziehbaren Nutzerinteraktion im medizinischen Kontext.
 
-Die entwickelte Anwendung wurde mit der Unity Engine unter Einsatz des XR Interaction Toolkits umgesetzt. Alle wesentlichen Waffenteile sind als eigenständige, greifbare Objekte modelliert und können nur unter korrekten Bedingungen montiert oder entfernt werden. Snap-Mechanismen, zustandsabhängige Greifbarkeit sowie eine zweihändige Entriegelungslogik für Verschluss und Magazin sorgen für eine nachvollziehbare und realitätsnahe Interaktion. Ein besonderer Fokus lag auf der Umsetzung spezifischer Handposen und der kontrollierten Steuerung von Physik, Kollisionen und Objektzuständen im VR-Kontext.
+Die Arbeit orientiert sich an einem Human-Centered-Design-Ansatz, bei dem die Bedürfnisse der späteren Nutzer:innen sowie der klinische Nutzungskontext in den Entwicklungsprozess einbezogen wurden. Zur strukturierten Ausarbeitung des Konzepts wurden verschiedene Methoden aus dem Bereich Human-Computer Interaction eingesetzt, darunter Stakeholderanalysen, Personas, Nutzungsszenarien sowie Userflows und Wireframes. Auf dieser Grundlage entstand ein visueller Prototyp, der im fachlichen Austausch mit den beteiligten Stakeholdern iterativ weiterentwickelt wurde.
 
-Der Vortrag gibt Einblicke in die konzeptionellen Überlegungen, die technische Umsetzung und die Herausforderungen bei der Kombination von Unity-Physik, XR-Interaktionen und mechanischer Logik. Darüber hinaus werden gewonnene Erkenntnisse diskutiert und mögliche Weiterentwicklungen aufgezeigt, etwa im Bereich Gamification, didaktischer Unterstützung oder ergonomischer Optimierung.
-
-Das Projekt richtet sich an alle, die sich für Virtual Reality als Lernmedium, interaktive Simulationen oder sicherheitskritische Trainingsanwendungen interessieren – und bietet zugleich einen praxisnahen Einblick in die Entwicklung komplexer VR-Systeme. 
-
-## Materialien
-* Demo-Video:   https://th-koeln.sciebo.de/s/UK8xWGJFPkqD2aw
-* GitHub-Repo:  https://github.com/janhalt-git/PP_SS25_Anhalt
+Im Verlauf des Projekts wurde deutlich, dass insbesondere eine verständliche Nutzerführung, reduzierte Interface-Komplexität sowie eine klare visuelle Gestaltung wichtige Faktoren für digitale Gesundheitsanwendungen darstellen. Der Fokus der Arbeit lag daher nicht ausschließlich auf der technischen Digitalisierung des bestehenden Fragebogens, sondern insbesondere auf der Entwicklung eines möglichst verständlichen, barrierearmen und nutzerzentrierten Interaktionskonzepts für den medizinischen Nutzungskontext. Das Projekt schafft damit eine konzeptionelle und gestalterische Grundlage für die zukünftige technische Implementierung und Evaluation eines digitalen Pic-ADL-Systems im klinischen Nutzungskontext.
 
 ## Weiterführende Themen
-* Gamification-Ansätze in VR-Trainingssimulationen (Zeit-, Fehler- oder Bewertungssysteme)
-* Didaktische Assistenzsysteme und Tutorials für VR-Lernumgebungen
-* Erweiterung der Simulation um weitere Waffenfunktionen, Handposen usw.
-* Übertragbarkeit des Konzepts auf andere sicherheitskritische oder technische Trainingsszenarien
+* Zwischen Papier und Digitalisierung, wie verändern mobile Systeme bestehende Prozesse der Datenerfassung im Gesundheitswesen?
+* Wie flexibel müssen digitale Gesundheitsanwendungen für unterschiedliche Nutzergruppen gestaltet sein?
