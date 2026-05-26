@@ -1,9 +1,9 @@
 ---
-nachname:Gielen Pereira
-vorname:Sebastian
-datum:2026-06-03
+nachname: Gielen Pereira
+vorname: Sebastian
+datum: 2026-06-03
 uhrzeit: 11-30
-raum:3.216
+raum: 3.216
 betreuer: doena
 thema: Konzeption und Gestaltung eines Systems zur Evaluierung von Lernfortschritt bei der Implementierung der IntraAct-Methode zum Lesen und Rechtschreiben Lernen in Schulen.
 kooperationspartner: TH Köln, IntInt GmbH
