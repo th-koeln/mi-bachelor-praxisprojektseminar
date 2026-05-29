@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: doena
 thema: Konzeption und Gestaltung eines Systems zur Evaluierung von Lernfortschritt bei der Implementierung der IntraAct-Methode zum Lesen und Rechtschreiben Lernen in Schulen.
 kooperationspartner: TH Köln, IntInt GmbH
-teaserimage: gielen_pereira-sebastian-teaserimage.jpg
+teaserimage: gielen_pereira-sebastian-teaserimage.png
 stichworte: Menschenzentrierte Systemgestaltung, Lernfortschrittsevaluierung, Lesen und Rechtschreiben Lernen nach dem IntraAct-Konzept
 quelle-bildrechte-teaser: IntInt GmbH
 ---
