@@ -5,9 +5,9 @@ datum: 2026-06-03
 uhrzeit: 12-00
 raum: 3.216
 betreuer: hk
-thema: Die Konzeption und Produktion eines Imagefilms über den Tischtennisclub (TTC) Bärbroich: Ist der Imagefilm ein geeigneter Ersatz analoger Printmedien wie Flyer bzw. Visitenkarten im digitalen Zeitalter und inwiefern können Sportvereine davon profitieren?
+thema: Die Konzeption und Produktion eines Imagefilms über den Tischtennisclub (TTC) Bärbroich - Ist der Imagefilm ein geeigneter Ersatz analoger Printmedien wie Flyer bzw. Visitenkarten im digitalen Zeitalter und inwiefern können Sportvereine davon profitieren?
 kooperationspartner: TH Köln 
-teaserimage:
+teaserimage: zellmann-alexander-teaserimage.jpg
 stichworte: Imagefilm, Konzeption, Pre-Produktion, Produktion, Postproduktion, Distribution
 quelle-bildrechte-teaser: Alexander Zellmann, Webseite TTC Bärbroich
 ---
