@@ -10,6 +10,7 @@ kooperationspartner: Th Köln
 teaserimage: gashi-adonisa-teaserimage.jpg
 stichworte: Datenerhebung, DSGVO/PIPA, Corona-Tracking-Systeme, Datenakzeptanz, Gesellschaft
 Bildrechte: Teaserbild erstellt mit Canva
+quelle-bildrechte-teaser: Adonisa Gashi, Selbst erstellt mit Canva (eigene Gestaltung)
 ---
 
 ## Abstract
