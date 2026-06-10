@@ -1,23 +1,31 @@
 ---
-nachname: Hess
-vorname: Julian
-datum: 2022-12-20
+nachname: Foth
+vorname: Jennifer
+datum: 2026-06-17
 uhrzeit: 11-30
-raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) Präsentation
-betreuer: mbl
-thema: Richtlinien und Gestaltungselemente für die Erwachsenenbildung anhand einer barrierefreien E-Learning-Plattform
+raum:  3.216
+betreuer: um, ek
+thema: Future Skills in der Medieninformatik - Curriculare Verankerung und Entwicklung eines Chatbots zur Reflexion individueller Kompetenzentwicklung
 kooperationspartner: TH Köln
-teaserimage: hess-julian-teaserimage.jpg
-stichworte: Barrierefreiheit, Zugänglichkeit, E-Learning, UX 
-quelle-bildrechte-teaser: https://www.istockphoto.com/de/foto/barrierefreiheit-computer-icon-stock-foto-gm1319994839-406696969
+teaserimage: foth-jennifer-teaserimage.jpg
+stichworte: Future Skills, E-Learning, KI, Chatbot 
+quelle-bildrechte-teaser: Teaserbild erstellt mit ChatGPT
 hinweise:
-weiterfuehrende-themen: Barrierefreies Corporate Design für Menschen mit Farbblindheit anhand einer Anwendung | Erstellung von barrierefreien Videos mit Untertitel/Audiodeskription/Gebärdensprache
 ---
 
 ## Abstract
 
-Ein barrierefreier Webauftritt ermöglicht allen Menschen den Zugriff auf Informationen, unabhängig von Herkunft, Sprache, verwendeter Technik oder sozialem Hintergrund. Ein Webauftritt gilt dann als barrierefrei, wenn sich sensorische Einschränkungen wie hören und sehen, motorische oder kognitive Einschränkungen nicht auf auf die Nutzung auswirken.
-Das Ziel der vorliegenden Ausarbeitung zum Praxisprojekt ist es, zu beantworten, wie sich eine E-Learning-Plattform mit größtmöglicher Zugänglichkeit für Menschen mit senorischen Einschränkungen gestalten lässt. Dazu wird folgende Forschungsfrage gestellt: Wie lässt sich eine Plattform für digitale Bildung gestalten, die eine größtmögliche Zugänglichkeit für Menschen mit sensorischen Einschränkungen bietet? 
+Im Zuge digitaler Transformationsprozesse gewinnen Future Skills im Hochschulkontext zunehmend an Bedeutung. Studierende sollen nicht nur fachliches Wissen erwerben, sondern auch Fähigkeiten entwickeln, die sie im Umgang mit digitalen Technologien, Problemstellungen, Zusammenarbeit und gesellschaftlichen Veränderungen unterstützen. Gerade im Studiengang Medieninformatik ist die Auseinandersetzung mit diesen Kompetenzen relevant, da hier technische, gestalterische und soziale Perspektiven miteinander verbunden werden.
 
-Um die Forschungsfrage zu beantworten, wurde der Prozess der menschzentrierten Gestaltung nach DIN EN ISO 9241-210 auf die Projektgröße adaptiert. Zunächst wurden im alle grundlegenden Eigenschaften, Hilfsmittel und Ziele von Menschen mit sensorischen Einschränkungen mittels Statistiken erläutert. Mittels verschiedener Richtlinien und Gesetze zur Zugänglichkeit wurde eine Liste von Anforderungen mit Elementen von E-Learning-Plattformen erstellt. Anhand der Analyse einer bestehenden Lösung mittels der ermittelten Anforderungen wurde das Maß an Zugänglichkeit geprüft und nicht barrierefreie Elemente mittels Anforderungskatalog neugestaltet. Dabei wurde festgestellt, das die Anforderungsermittlung signifikante Auswirkungen auf das Maß an Zugänglichkeit hat. Eineebenfalls grundlegende Bedeutung auf die Zugänglichkeit hat der Nutzungskontext als Grundlage für die Anford erungsermittlung. 
+Dieses Praxisprojekt beschäftigt sich mit der Konzeption und Erprobung eines Chatbots zur Reflexion individueller Kompetenzentwicklung im Themenbereich Future Skills. Ziel ist die Entwicklung eines dialogbasierten Systems, das Studierende im Modul Einführung in die Informatik bei einer reflektierten Selbsteinschätzung unterstützt. Der Chatbot soll dabei nicht als klassisches Prüfungssystem fungieren, sondern als niedrigschwelliger Reflexionspartner, der durch einfache und konkrete Fragen zur Auseinandersetzung mit eigenen Stärken, Unsicherheiten und Entwicklungsfeldern anregt.
 
+Als inhaltliche Grundlage dient das Future-Skills-Framework des Stifterverbandes. Der Chatbot führt die Nutzenden durch verschiedene Kompetenzbereiche, unter anderem grundlegende, transformative, gemeinschaftsorientierte, digitale und technologische Zukunftskompetenzen. Die Gesprächsführung ist so angelegt, dass Studierende eigene Erfahrungen aus dem Studium einordnen können. Im Rahmen des Projekts wurde der Chatbot von Studierenden des zweiten Semesters erprobt, die das Modul bereits absolviert haben.
+
+## Weiterführende Themen
+* Ausweitung des Chatbots auf weitere Module im Studiengang Medieninformatik.
+* Personalisierung der Fragen je nach Studienfortschritt.
+* Vergleich zwischen Chatbot-Reflexion und klassischem Fragebogen.
+* Analyse der Antwortqualität bei offenen Reflexionsfragen.
+
+## Weiterführendes Material
+- [Future Skills Framework](https://www.stifterverband.org/future-skills/framework)
