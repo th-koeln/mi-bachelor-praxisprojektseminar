@@ -7,7 +7,7 @@ raum:
 betreuer: mbl
 thema: Wie wirken sich textuelle und visuelle Gestaltungsmittel auf das Nutzerverhalten auf Webseiten aus, und wie können die daraus gewonnenen Erkenntnisse genutzt werden, um eine Best-Practice-Guide zur Entwicklung nutzerfreundlicher Websites zu erstellen?
 kooperationspartner: TH Köln
-teaserimage: altunok-cansel-teaserimage.jpg
+teaserimage: altunok-cansel-teaserimage.png
 stichworte: UX/UI Design, Websiten
 quelle-bildrechte-teaser: generiert mit ChatGBT
 weiterfuehrende-themen: Barrierefreiheit im Webdesign/ Mobile First vs. Desktop Design/ Conversation Optimierung
