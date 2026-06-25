@@ -4,7 +4,7 @@ vorname: Tolga
 datum: 2026-07-01
 uhrzeit: 10-30
 raum: 3.216
-betreuer: Prof. Dr. Florian Niebling
+betreuer: fn
 thema: Nebel in Videospielen
 kooperationspartner: TH Köln
 teaserimage: akkus-tolga-teaserimage.png
