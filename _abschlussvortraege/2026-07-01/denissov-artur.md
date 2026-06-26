@@ -9,6 +9,7 @@ thema: Screenlife als Erweiterung der klassischen Filmsprache - Analyse und prak
 kooperationspartner: TH Köln
 teaserimage: denissov-arthur-teaserimage.jpg
 stichworte: Screenlife, Filmsprache, Hybridfilm, Charakterisierung, Interface Design, Storyboard, Postproduktion
+quelle-bildrechte-teaser: Artur Denissov, Kurzfilm "False Perception"
 ---
 
 ## Abstract
