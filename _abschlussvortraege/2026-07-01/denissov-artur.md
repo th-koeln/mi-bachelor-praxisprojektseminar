@@ -2,7 +2,7 @@
 nachname: Denissov
 vorname: Arthur
 datum: 2026-07-01
-uhrzeit: 12-00
+uhrzeit: 11-00
 raum: 3.216
 betreuer: hk
 thema: Screenlife als Erweiterung der klassischen Filmsprache - Analyse und praktische Umsetzung im hybriden Kurzfilm "False Perception"
