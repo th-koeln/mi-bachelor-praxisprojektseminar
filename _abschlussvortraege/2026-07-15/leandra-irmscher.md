@@ -5,8 +5,7 @@ datum: 2026-07-15
 uhrzeit: 11-00
 raum: 3.216 
 betreuer: Uwe Müsse
-thema: Ursachen der Unterrepräsentation von
-Frauen in MINT-Studiengängen 
+thema: Ursachen der Unterrepräsentation von Frauen in MINT Studiengängen 
 kooperationspartner: TH Köln
 
 ---
