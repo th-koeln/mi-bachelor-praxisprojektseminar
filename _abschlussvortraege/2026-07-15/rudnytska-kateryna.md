@@ -7,7 +7,7 @@ raum: 3.216
 betreuer: hk
 thema: Redesign einer digitalen Lernplattform zur Lebensmittelwertschätzung – Ein didaktisch fundiertes UI/UX-Konzept für Kinder der Klassenstufen 3–6
 kooperationspartner: TH Köln
-teaserimage: rudnytska-kateryna-teaserimage.jpg
+teaserimage: rudnytska-kateryna-teaserimage.png
 stichworte: UI/UX-Design, Digitale Lernumgebung, Design-System, Gamification, Kindgerechte Gestaltung
 quelle-bildrechte-teaser: Eigene Darstellung (Figma-Prototyp)
 hinweise:
