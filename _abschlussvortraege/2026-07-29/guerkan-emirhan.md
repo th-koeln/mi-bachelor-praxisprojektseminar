@@ -9,7 +9,7 @@ thema: Entwicklung eines Add-ins für die Erstellung von Diagrammen in Word Onli
 kooperationspartner: TH Köln
 teaserimage: guerkan-emirhan-teaserimage.png
 stichworte: Word Online Add-in, Office.js API, ApexCharts.js, Diagrammerstellung, Diagrammverwaltung
-Bildrechte: Screenshot - Word Online © Microsoft | Add-in - Emirhan Gürkan
+quelle-bildrechte-teaser: Screenshot - Word Online © Microsoft | Add-in - Emirhan Gürkan
 ---
 
 ## Abstract
