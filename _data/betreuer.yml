@@ -125,9 +125,6 @@ sls:
 rg:
   name: Prof. Dr. Raphaela Groten
 
-nk:
-  name: Nathalie Kuhn
-
 dgaida:
   name: Prof. Dr. Daniel Gaida
 
@@ -166,3 +163,16 @@ doena:
 fn:
   name: Prof. Dr. Florian Niebling
   email: florian.niebling@th-koeln.de
+
+ia:
+  name: Prof. Dr. Ilhan Aslan
+  email: ilhan.aslan@th-koeln.de
+
+ek:
+  name: Prof. Dr. Elisabeth Kaliva
+  email: elisabeth.kaliva@th-koeln.de
+
+uvh:
+  name: Prof. Dr. Uwe van Heesch
+  email: uwe.van_heesch@th-koeln.de
+  
