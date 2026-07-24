@@ -2,7 +2,7 @@
 nachname: Khemiri
 vorname: Karim
 datum: 2026-07-29
-uhrzeit: 10:30
+uhrzeit: 10-30
 raum:  3.216
 betreuer: fn
 thema: Mesh Shader Frustum Zellen für Echtzeit Ray-Marching Partikelsystem
