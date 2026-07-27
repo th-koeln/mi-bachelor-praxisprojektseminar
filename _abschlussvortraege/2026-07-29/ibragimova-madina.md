@@ -2,7 +2,7 @@
 nachname: Ibragimova
 vorname: Madina
 datum: 2026-07-29
-uhrzeit: 11-30
+uhrzeit: 11-00
 raum: 3.216
 betreuer: Miriam Blümm
 thema: Gamification as a Strategy for Reviving Endangered Languages
