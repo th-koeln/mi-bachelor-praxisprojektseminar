@@ -2,7 +2,7 @@
 nachname: Stein
 vorname: Anna
 datum: 2026-07-29
-uhrzeit: 12-30
+uhrzeit: 10-00
 raum:  3.216
 betreuer: cn
 thema: Potenziale von CSS-Layouttechnologien im Responsive Webdesign
