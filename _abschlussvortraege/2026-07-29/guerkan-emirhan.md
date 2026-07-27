@@ -2,7 +2,7 @@
 nachname: Gürkan
 vorname: Emirhan
 datum: 2026-07-29
-uhrzeit: 12-00
+uhrzeit: 11-30
 raum: 3.216
 betreuer: vs
 thema: Entwicklung eines Add-ins für die Erstellung von Diagrammen in Word Online durch Untersuchung des Nutzungskontextes und der technischen Möglichkeiten der Office.js API
