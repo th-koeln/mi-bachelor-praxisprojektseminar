@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: mu, rt
 typ: workshop
 pflicht: false
-termine: 2026-05-11 10:00|3.216
+termine: 2026-10-23 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180

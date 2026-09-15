@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: mu, rt
 typ: workshop
 pflicht: false
-termine: 2026-04-27 10:00|3.216
+termine: 2026-10-09 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -25,8 +25,8 @@ Das Themenfeld der Abschlussarbeit ist für einige sehr schnell gefunden, andere
 
 ## Was muss vorbereitet werden?
 
-Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/goto.php/crs/869321)
 
 ## Was muss geliefert werden?
 
-Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=472729)
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/goto.php/crs/869321)

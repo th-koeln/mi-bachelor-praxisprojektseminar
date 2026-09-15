@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: mu, rt
 typ: workshop
 pflicht: false
-termine: 2026-05-18 10:00|3.216
+termine: 2026-10-30 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -36,7 +36,7 @@ Die Abschlusspräsentation erfolgt im Wesentlichen mediengestützt. In 99 von 10
 
 - Präsentation oder Abbild von Whiteboard o.Ä. als PDF im Ilias hochladen
 - Falls Live Session: Movie von Livesession im Ilias hochladen
-- [Zum Dateiupload im Ilias](https://ilias.th-koeln.de/goto.php?target=exc_2509827&client_id=ILIAS_FH_Koeln) bis zum 04. April hochladen
+- [Zum Dateiupload im Ilias](https://ilu.th-koeln.de/goto.php/crs/869321)
 
 ## Ein paar Gedanken zur Präsentation
 

@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: mu, rt
 typ: workshop
 pflicht: false
-termine: 2026-05-04 10:00|3.216
+termine: 2026-10-16 10:00|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
@@ -34,8 +34,8 @@ Die heutige Veranstaltung wird vor Ort in Gummersbach im Raum 3.216 und später 
 
 ## Was muss vorbereitet werden?
 
-Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=560305)
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/goto.php/crs/869321)
 
 ## Was muss geliefert werden?
 
-Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=560305)
+Weitere Informationen finden Sie im [ILU](https://ilu.th-koeln.de/goto.php/crs/869321)

@@ -4,7 +4,7 @@ kuerzel: abschlussvortraege
 verantwortlich: hvn
 typ: vortrag
 pflicht: false
-termine:  2026-05-06 10:00|3.216, 2026-05-20 10:00|3.216, 2026-06-03 10:00|3.216, 2026-06-17 10:00|3.216, 2026-07-01 10:00|3.216, 2026-07-15 10:00|3.216, 2026-07-29 10:00|3.216
+termine:  2026-10-07 10:00|3.217, 2026-10-21 10:00|3.217, 2026-11-04 10:00|3.217, 2026-11-18 10:00|3.217, 2026-12-02 10:00|3.217, 2026-12-16 10:00|3.217, 2027-01-06 10:00|3.217, 2027-01-20 10:00|3.217, 2027-02-03 10:00|3.217
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -12,7 +12,7 @@ info:
 ---
 ## Wie läuft die Veranstaltung ab?
 
-Die Abschlussvorträge werden vor Ort in Gummersbach im Raum 3.216 stattfinden.
+Die Abschlussvorträge werden vor Ort in Gummersbach im Raum 3.217 stattfinden.
 
 ## Was muss ich als Vortragender beachten?
 

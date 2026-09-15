@@ -4,7 +4,7 @@ kuerzel: pre
 verantwortlich: mu, rt
 typ: workshop
 pflicht: false
-termine: 2026-04-20 10:30|3.216
+termine: 2026-10-02 10:30|3.216
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
@@ -29,7 +29,7 @@ Workshop zur Erarbeitung eines gemeinsamen Wissensstandes rund um das Thema „W
 
 ## Welches Artefakt muss abgegeben werden?
 
-- keins
+- TBA
 
 ## Workshopaufaufgabe
 
