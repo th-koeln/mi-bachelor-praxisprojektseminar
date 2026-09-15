@@ -9,7 +9,7 @@ week-2:
     datum: 2026-10-07 # Vorträge
     start: "10:00"
     end: "12:00"
-    name: Freitag
+    name: Mittwoch
   day-2:
     datum: 2026-10-09 # Themenfeldanalyse
     start: "10:00"
@@ -20,13 +20,13 @@ week-3:
     datum: 2026-10-16 # Expose schreiben
     start: "10:00"
     end: "14:00"
-    name: Mittwoch
+    name: Freitag
 week-4:
   day-1:
     datum: 2026-10-21 # Vorträge
     start: "10:00"
     end: "12:00"
-    name: Freitag
+    name: Mittwoch
   day-2:
     datum: 2026-10-23 # Peer Review Expose
     start: "10:00"
@@ -37,7 +37,7 @@ week-5:
     datum: 2026-10-30 # Mediengestützte Präsentation
     start: "10:00"
     end: "14:00"
-    name: Montag
+    name: Freitag
 week-6:
   day-1:
     datum: 2026-11-04 # Vorträge
