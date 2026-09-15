@@ -31,7 +31,7 @@ Die heutige Veranstaltung wird vor Ort in Gummersbach stattfinden.
 ## Material
 
 * [Tipps zum Exposé](/mi-bachelor-praxisprojektseminar/tipps-zum-expose/)
-* [LaTex Vorlage](https://ilias.th-koeln.de/goto.php?target=file_1355498_download&client_id=ILIAS_FH_Koeln)
+* [LaTex Vorlage](https://www.th-koeln.de/mam/downloads/deutsch/studium/rundumsstudium/organisation/latex-vorlagenpaket_fuer_wissenschaftliche_abschlussarbeiten.zip)
 * [LaTex Tutorial](https://www.latex-tutorial.com)
 
 ## Was muss vorbereitet werden?
@@ -42,7 +42,7 @@ Ein in LaTex erstelltes Exposé.
 
 Ein Exposé inklusive Annotationen als PDF von jedem Reviewer. Dieses wird vom Autor des Exposés im Ilias hochgeladen. Den Namen des Reviewers bitte auf der ersten Seite als Annotation vermerken.
 
-[Dateiupload für die Exposés](https://ilu.th-koeln.de/goto.php?target=exc_311245&client_id=thkilu)
+[Dateiupload für die Exposés](https://ilu.th-koeln.de/goto.php/crs/869321)
 
 Die Benamung sollte folgendem Muster entsprechen:
 
