@@ -111,6 +111,7 @@ defaults:
       type: abschlussvortraege
     values:
       layout: abschlussvortrag
+      mi-website: false
   -
     scope:
       path: ""

@@ -10,6 +10,7 @@ kooperationspartner: TH Köln
 teaserimage: moujtahid-abdelbasset-teaserimage.jpg
 stichworte: Data Science, Medizin, Data Analysis 
 quelle-bildrechte-teaser: Ale Rechte vorbehalten
+mi-website: false
 ---
 
 ## Abstract
