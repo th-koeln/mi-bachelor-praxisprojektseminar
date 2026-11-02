@@ -10,6 +10,7 @@ kooperationspartner: TH Köln, SRC Bonn
 teaserimage: klein-paula-teaserimage.jpeg
 stichworte: LoRa, LPWAN, IoT, Funktechnologien
 quelle-bildrechte-teaser: Paula Klein, Perplexity AI
+mi-website: true
 ---
 
 ## Abstract
