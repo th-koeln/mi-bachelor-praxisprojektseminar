@@ -9,7 +9,7 @@ thema: Konzeption einer datenflussorientierten, digitalen Signalverarbeitungsapp
 kooperationspartner: TH Köln
 teaserimage: dahm-nils-teaserimage.jpg
 stichworte: Nachrichtentechnik, Digitale Signalverarbeitung, Dataflow, Softwarearchitektur
-quelle-bildrechte-teaser: Selbst erzeugt
+quelle-bildrechte-teaser: Nils Dahm, Selbst erzeugt
 ---
 
 ## Abstract
@@ -27,7 +27,8 @@ Zur Beantwortung war eine umfassende Grundlagenrecherche notwendig. Neben Litera
 
 ## Weiterführende Themen
 
-* Evaluation der Zugänglichkeit und des Cognitive Load, z.B. im Vergleich zu GNU Radio Companion
-* Evaluation der fachlichen Korrektheit, z.B. mittels Experteninterviews
-* Übertragung des Konzeptes 
+* Realisierung eines Prototyps auf Basis des hier ausgearbeiteten Konzeptes 
+* Evaluation der Zugänglichkeit bzw. des Cognitive Load
+* Evaluation der fachlichen Korrektheit
+* Dekodierung eines digitalen Signalformats 
 
