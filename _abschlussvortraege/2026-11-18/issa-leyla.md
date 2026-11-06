@@ -9,7 +9,7 @@ thema: Wie werden Stereotype in deutscher Fernsehwerbung vermittelt? - Ein Vergl
 kooperationspartner: TH Köln
 teaserimage: issa-leyla-teaserimage.jpg
 stichworte: Werbung, Stereotype, Inklusion, Forschung
-quelle-bildrechte-teaser: magnific
+quelle-bildrechte-teaser: mit Gemini erstellt
 ---
 
 ## Abstract
