@@ -7,7 +7,7 @@ raum:  3.101
 betreuer: mu
 thema: Leitmittel in Video Spielen
 kooperationspartner: TH Köln
-teaserimage: schlegel-robin-teaserimage.jpg
+teaserimage: schlegel-robin-teaser.png
 stichworte: Wayfinding, Game-Design, Softwarearchitektur
 quelle-bildrechte-teaser: Videospiel Journey(2012)
 ---
