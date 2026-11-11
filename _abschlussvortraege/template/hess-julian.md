@@ -12,6 +12,7 @@ stichworte: Barrierefreiheit, Zugänglichkeit, E-Learning, UX
 quelle-bildrechte-teaser: https://www.istockphoto.com/de/foto/barrierefreiheit-computer-icon-stock-foto-gm1319994839-406696969
 hinweise:
 weiterfuehrende-themen: Barrierefreies Corporate Design für Menschen mit Farbblindheit anhand einer Anwendung | Erstellung von barrierefreien Videos mit Untertitel/Audiodeskription/Gebärdensprache
+mi-website: false
 ---
 
 ## Abstract

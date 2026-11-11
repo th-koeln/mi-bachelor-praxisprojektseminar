@@ -1,0 +1,94 @@
+---
+layout: null
+permalink: praxisprojekte.json
+---
+{%- comment -%}
+  Praxisprojekte im Schema v1 (th-koeln.de/mi/abschlussarbeiten/schema/v1),
+  Datenquelle für den mi-project-proxy. Optionale Felder entfallen, wenn sie leer sind.
+{%- endcomment -%}
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- comment -%} Jekyll 3 (GitHub Pages) führt Collection-Dateien nicht in site.static_files. {%- endcomment -%}
+{%- assign collection = site.collections | where: "label", "abschlussvortraege" | first -%}
+{%- assign works = "" | split: "" -%}
+{%- assign sorted = site.abschlussvortraege | sort: "datum" | reverse -%}
+{%- for item in sorted -%}
+  {%- unless item.path contains "/template/" -%}
+    {%- comment -%} Nur freigegebene Projekte (mi-website: true) mit Autor:in, vorhandenem Teaserbild und Bildrechten veröffentlichen. {%- endcomment -%}
+    {%- assign firstname = item.vorname | strip -%}
+    {%- assign lastname = item.nachname | strip -%}
+    {%- assign copyright = item.quelle-bildrechte-teaser | default: item.Bildrechte | strip -%}
+    {%- assign teaser_source = item.relative_path | split: "/" | pop | join: "/" | append: "/" | append: item.teaserimage -%}
+    {%- assign teaser_files = collection.files | where: "path", teaser_source -%}
+    {%- if item.mi-website == true and firstname != "" and lastname != "" and copyright != "" and teaser_files.size > 0 -%}
+      {%- assign works = works | push: item -%}
+    {%- endif -%}
+  {%- endunless -%}
+{%- endfor -%}
+{
+  "generated": {{ site.time | date_to_xmlschema | jsonify }},
+  "schema": "https://th-koeln.de/mi/abschlussarbeiten/schema/v1",
+  "count": {{ works | size }},
+  "works": [
+{%- for item in works %}
+{%- assign date = item.datum | date: "%Y-%m-%d" -%}
+{%- assign id = item.url | remove_first: "/abschlussvortraege/" | replace: "/", "-" | split: "-" | join: "-" -%}
+{%- assign dir = item.url | split: "/" | pop | join: "/" -%}
+{%- assign detail_url = item.url | absolute_url | replace: ".io//", ".io/" -%}
+
+{%- assign names = "" | split: "" -%}
+{%- assign codes = item.betreuer | split: "," -%}
+{%- for code in codes -%}
+  {%- assign clean = code | strip -%}
+  {%- assign name = site.data.betreuer[clean].name | default: site.data.people[clean].name | default: clean -%}
+  {%- assign names = names | push: name -%}
+{%- endfor -%}
+{%- assign second_supervisor = names | shift | join: ", " -%}
+
+{%- assign keywords = "" | split: "" -%}
+{%- assign raw_keywords = item.stichworte | split: "," -%}
+{%- for keyword in raw_keywords -%}
+  {%- assign clean = keyword | strip -%}
+  {%- unless clean == "" or keywords contains clean -%}
+    {%- assign keywords = keywords | push: clean -%}
+  {%- endunless -%}
+{%- endfor -%}
+
+{%- assign teaser_path = dir | append: "/" | append: item.teaserimage -%}
+{%- assign copyright = item.quelle-bildrechte-teaser | default: item.Bildrechte | strip -%}
+{%- assign partner = item.kooperationspartner | strip -%}
+
+{%- assign abstract = item.content | strip_html | strip -%}
+{%- assign heading = abstract | slice: 0, 8 -%}
+{%- if heading == "Abstract" -%}
+  {%- assign abstract = abstract | remove_first: "Abstract" | strip -%}
+{%- endif -%}
+{%- assign abstract = abstract | replace: "&lt;", "<" | replace: "&gt;", ">" | replace: "&quot;", '"' | replace: "&amp;", "&" %}
+    {
+      "id": {{ id | jsonify }},
+      "title": {{ item.thema | strip | jsonify }},
+      "type": "Praxisprojekt",
+      "date": {{ date | jsonify }},
+      "status": {% if date > today %}"in-progress"{% else %}"finished"{% endif %},
+      "visibility": "published",
+      "firstname": {{ item.vorname | strip | jsonify }},
+      "lastname": {{ item.nachname | strip | jsonify }},
+      "first_supervisor": {{ names | first | jsonify }},
+      {%- if second_supervisor != "" %}
+      "second_supervisor": {{ second_supervisor | jsonify }},
+      {%- endif -%}
+      "teaser_image_url": {{ teaser_path | absolute_url | replace: ".io//", ".io/" | jsonify }},
+      "teaser_image_copyright": {{ copyright | jsonify }},
+      {%- if keywords.size > 0 %}
+      "keywords": {{ keywords | jsonify }},
+      {%- endif -%}
+      {%- if partner != "" %}
+      "cooperation_partner": {{ partner | jsonify }},
+      {%- endif -%}
+      {%- if abstract != "" %}
+      "abstract": {{ abstract | jsonify }},
+      {%- endif %}
+      "detail_url": {{ detail_url | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+  ]
+}
