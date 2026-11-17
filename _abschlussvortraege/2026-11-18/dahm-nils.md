@@ -1,6 +1,6 @@
 ---
 nachname: Dahm
-vorname: Nis
+vorname: Nils
 datum: 2026-11-18
 uhrzeit: 11-30
 raum:  3.101
