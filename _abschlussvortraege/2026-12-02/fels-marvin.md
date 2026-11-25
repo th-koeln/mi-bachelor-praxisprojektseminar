@@ -3,7 +3,7 @@ nachname: Fels
 vorname: Marvin
 datum: 2026-12-02
 uhrzeit: 10:30 Uhr
-raum:  3.101
+raum:  3.217
 betreuer: hk
 thema: Umsetzung der Feuerwehrfahrzeugausstattung in 3D als vertikaler Prototyp zur realitätsnahen und modularen Darstellung
 kooperationspartner: TH Köln
